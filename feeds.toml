@@ -1,4 +1,4 @@
-[yes24]
+[ticket]
 title = "예스24 티켓"
 url = "http://ticket.yes24.com/New/Notice/NoticeMain.aspx"
 entrySelector = " tbody tr:not(:first-child)"
@@ -7,7 +7,7 @@ linkSelector = "td:nth-child(2) > a"
 contentSelector = "td:nth-child(3)"
 waitUntil = "networkidle"
 
-[yes24_m]
+[ticket_m]
 title = "예스24 티켓 모바일"
 url = "http://m.ticket.yes24.com/Notice/List.aspx?type=1"
 entrySelector = "#BoardList > li"
