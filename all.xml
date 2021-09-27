@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-27T03:16:54.608Z</updated>
+    <updated>2021-09-27T04:20:08.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제16회 부산국제매직페스티벌 매직위크 1차 티켓 오픈안내 (예스24 티켓)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11174</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11174"/>
+        <updated>2021-09-27T04:19:54.339Z</updated>
+        <content type="html"><![CDATA[2021.09.29(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페스티벌 나다 2021 티켓오픈안내 (예스24 티켓)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11173</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11173"/>
+        <updated>2021-09-27T04:19:54.339Z</updated>
+        <content type="html"><![CDATA[2021.10.05(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11172</id>
@@ -131,17 +145,18 @@
         <content type="html"><![CDATA[2021.09.17(금) 16:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 〈장수상회〉 - 대구 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11154</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11154"/>
-        <updated>2021-09-25T18:59:42.304Z</updated>
-        <content type="html"><![CDATA[2021.09.24(금) 12:00]]></content>
+        <title type="html"><![CDATA[제16회 부산국제매직페스티벌 매직위크 1차 티켓 오픈안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11174&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11174&amp;order=1"/>
+        <updated>2021-09-27T04:20:06.949Z</updated>
+        <content type="html"><![CDATA[2021-09-29(수) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시스템 점검으로 인한 서비스 일시 중지 안내(9/19) (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11153</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11153"/>
-        <updated>2021-09-25T18:59:42.305Z</updated>
+        <title type="html"><![CDATA[페스티벌 나다 2021 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11173&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11173&amp;order=1"/>
+        <updated>2021-09-27T04:20:06.950Z</updated>
+        <content type="html"><![CDATA[2021-10-05(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 1차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -197,20 +212,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11165&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11165&amp;order=1"/>
         <updated>2021-09-27T02:33:14.195Z</updated>
-        <content type="html"><![CDATA[2021-09-29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [허길동전] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11164&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11164&amp;order=1"/>
-        <updated>2021-09-27T02:33:14.196Z</updated>
-        <content type="html"><![CDATA[2021-09-29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [우리들의 사랑] 1차 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11163&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11163&amp;order=1"/>
-        <updated>2021-09-27T02:33:14.200Z</updated>
         <content type="html"><![CDATA[2021-09-29(수) 14:00]]></content>
     </entry>
 </feed>
