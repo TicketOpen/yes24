@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-28T04:20:41.916Z</updated>
+    <updated>2021-09-28T05:14:13.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11177</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11177"/>
+        <updated>2021-09-28T05:14:03.904Z</updated>
+        <content type="html"><![CDATA[2021.10.01(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11176</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11158"/>
         <updated>2021-09-25T19:02:24.383Z</updated>
         <content type="html"><![CDATA[2021.09.23(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [보도지침] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11157</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11157"/>
-        <updated>2021-09-25T19:02:24.385Z</updated>
-        <content type="html"><![CDATA[2021.09.28(화) 14:00]]></content>
     </entry>
 </feed>

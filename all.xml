@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-28T04:20:41.961Z</updated>
+    <updated>2021-09-28T05:14:13.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내 (예스24 티켓)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11177</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11177"/>
+        <updated>2021-09-28T05:14:03.904Z</updated>
+        <content type="html"><![CDATA[2021.10.01(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매 (예스24 티켓)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11176</id>
@@ -138,11 +145,11 @@
         <content type="html"><![CDATA[2021.09.23(목) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 [보도지침] 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11157</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11157"/>
-        <updated>2021-09-25T18:59:42.300Z</updated>
-        <content type="html"><![CDATA[2021.09.28(화) 14:00]]></content>
+        <title type="html"><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11177&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11177&amp;order=1"/>
+        <updated>2021-09-28T05:14:12.793Z</updated>
+        <content type="html"><![CDATA[2021-10-01(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9와 숫자들 GREEN & RED CONCERT 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11168&amp;order=1"/>
         <updated>2021-09-27T02:33:14.190Z</updated>
         <content type="html"><![CDATA[2021-09-28(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [풍월주] 3차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11167&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11167&amp;order=1"/>
-        <updated>2021-09-27T02:33:14.192Z</updated>
-        <content type="html"><![CDATA[2021-09-28(화) 15:00]]></content>
     </entry>
 </feed>
