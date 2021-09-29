@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-28T23:15:38.870Z</updated>
+    <updated>2021-09-29T00:48:54.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RE:SPES ANDONG 2021×롤링홀 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11178</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11178"/>
+        <updated>2021-09-29T00:48:44.211Z</updated>
+        <content type="html"><![CDATA[2021.10.06(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11177</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11159"/>
         <updated>2021-09-25T19:02:24.382Z</updated>
         <content type="html"><![CDATA[2021.09.30(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 연극 [올모스트 메인] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11158</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11158"/>
-        <updated>2021-09-25T19:02:24.383Z</updated>
-        <content type="html"><![CDATA[2021.09.23(목) 14:00]]></content>
     </entry>
 </feed>
