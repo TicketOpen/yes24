@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-29T04:20:31.612Z</updated>
+    <updated>2021-09-29T05:14:49.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11179&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11179&amp;order=1"/>
+        <updated>2021-09-29T05:14:48.709Z</updated>
+        <content type="html"><![CDATA[2021-10-06(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RE:SPES ANDONG 2021×롤링홀 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11178&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11170&amp;order=1"/>
         <updated>2021-09-27T02:33:14.186Z</updated>
         <content type="html"><![CDATA[2021-09-29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [여행] - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11169&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11169&amp;order=1"/>
-        <updated>2021-09-27T02:33:14.187Z</updated>
-        <content type="html"><![CDATA[2021-09-27(월) 10:00]]></content>
     </entry>
 </feed>
