@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-30T05:14:33.250Z</updated>
+    <updated>2021-09-30T06:18:43.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 3차 티켓 오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11183</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11183"/>
+        <updated>2021-09-30T06:18:33.590Z</updated>
+        <content type="html"><![CDATA[2021.10.05(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 4차 티켓 오픈! (Musical Hadestown) 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11182</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11163</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11163"/>
         <updated>2021-09-25T19:02:24.375Z</updated>
-        <content type="html"><![CDATA[2021.09.29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [바람이 불어오는 곳] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11162</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11162"/>
-        <updated>2021-09-25T19:02:24.376Z</updated>
         <content type="html"><![CDATA[2021.09.29(수) 14:00]]></content>
     </entry>
 </feed>

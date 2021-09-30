@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-30T05:14:33.246Z</updated>
+    <updated>2021-09-30T06:18:43.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 3차 티켓 오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11183&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11183&amp;order=1"/>
+        <updated>2021-09-30T06:18:42.930Z</updated>
+        <content type="html"><![CDATA[2021-10-05(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 4차 티켓 오픈! (Musical Hadestown) 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11182&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11173&amp;order=1"/>
         <updated>2021-09-27T04:20:06.950Z</updated>
         <content type="html"><![CDATA[2021-10-05(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11172&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11172&amp;order=1"/>
-        <updated>2021-09-27T02:33:14.183Z</updated>
-        <content type="html"><![CDATA[2021-09-28(화) 16:00]]></content>
     </entry>
 </feed>
