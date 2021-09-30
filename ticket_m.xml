@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-30T04:19:55.790Z</updated>
+    <updated>2021-09-30T05:14:33.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 4차 티켓 오픈! (Musical Hadestown) 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11182&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11182&amp;order=1"/>
+        <updated>2021-09-30T05:14:32.532Z</updated>
+        <content type="html"><![CDATA[2021-10-08(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [브라더스 까라마조프] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11181&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11181&amp;order=1"/>
+        <updated>2021-09-30T05:14:32.533Z</updated>
+        <content type="html"><![CDATA[2021-10-05(화) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WONHO CONCERT〈WE ARE YOUNG〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11180&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11180&amp;order=1"/>
+        <updated>2021-09-30T05:14:32.535Z</updated>
+        <content type="html"><![CDATA[2021-10-19(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11179&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11172&amp;order=1"/>
         <updated>2021-09-27T02:33:14.183Z</updated>
         <content type="html"><![CDATA[2021-09-28(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제8회 해운대재즈페스티벌 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11171&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11171&amp;order=1"/>
-        <updated>2021-09-27T02:33:14.185Z</updated>
-        <content type="html"><![CDATA[2021-09-28(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 세종 체임버시리즈 Ⅲ - 신창용 김동현 듀오 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11170&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11170&amp;order=1"/>
-        <updated>2021-09-27T02:33:14.186Z</updated>
-        <content type="html"><![CDATA[2021-09-29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [여행] - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11169&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11169&amp;order=1"/>
-        <updated>2021-09-30T00:55:25.093Z</updated>
-        <content type="html"><![CDATA[2021-09-27(월) 10:00]]></content>
     </entry>
 </feed>
