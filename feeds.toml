@@ -2,7 +2,7 @@
 title = "예스24 티켓"
 url = "http://ticket.yes24.com/New/Notice/NoticeMain.aspx"
 entrySelector = "tbody tr:not(:first-child)"
-titleSelector = "a > em"
+titleSelector = "td:nth-child(2)"
 linkSelector = "td:nth-child(2) > a"
 contentSelector = "td:nth-child(3)"
 waitUntil = "networkidle"
