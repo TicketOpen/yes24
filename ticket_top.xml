@@ -4,7 +4,7 @@
         <title>예스24 티켓 ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 14:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 15:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,22 +30,6 @@
             <pubDate>Fri, 01 Oct 2021 03:28:50 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.06(수) 14:00]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202109/20210923/20210923-39997.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11177&amp;Gcode=009_208_001</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11177&amp;Gcode=009_208_001</guid>
-            <pubDate>Fri, 01 Oct 2021 03:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01(금) 20:00]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202109/20210930/20210930-40291.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [천변카바레] 티켓 오픈 안내]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11175&amp;Gcode=009_208_001</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11175&amp;Gcode=009_208_001</guid>
-            <pubDate>Fri, 01 Oct 2021 03:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01(금) 14:00]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202109/20210930/20210930-40306.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
     </channel>
 </rss>
