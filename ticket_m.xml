@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-01T07:15:33.691Z</updated>
+    <updated>2021-10-01T08:18:30.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [블랙메리포핀스] 앵콜 1차 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[유니버설발레단 [호두까기인형] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11186&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11186&amp;order=1"/>
+        <updated>2021-10-01T08:18:29.753Z</updated>
+        <content type="html"><![CDATA[2021-10-07(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [블랙메리포핀스] 1차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11185&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11185&amp;order=1"/>
         <updated>2021-10-01T05:01:33.852Z</updated>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11176&amp;order=1"/>
         <updated>2021-09-28T00:51:46.585Z</updated>
         <content type="html"><![CDATA[2021-09-29(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [천변카바레] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11175&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11175&amp;order=1"/>
-        <updated>2021-09-27T08:18:34.746Z</updated>
-        <content type="html"><![CDATA[2021-10-01(금) 14:00]]></content>
     </entry>
 </feed>
