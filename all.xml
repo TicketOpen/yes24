@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 02:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 03:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11179</guid>
             <pubDate>Wed, 29 Sep 2021 05:14:20 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.06(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[RE:SPES ANDONG 2021×롤링홀 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11178</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11178</guid>
+            <pubDate>Mon, 04 Oct 2021 03:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -139,13 +146,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11167</guid>
             <pubDate>Sat, 25 Sep 2021 18:59:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.28(화) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [일의 기쁨과 슬픔] 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11166</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11166</guid>
-            <pubDate>Sat, 25 Sep 2021 18:59:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [V 에버 애프터] 3차 티켓 오픈안내 (예스24 티켓 ─ 하이라이트)]]></title>
@@ -228,18 +228,18 @@
             <content:encoded><![CDATA[2021-10-06(수) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[RE:SPES ANDONG 2021×롤링홀 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11178&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11178&amp;order=1</guid>
+            <pubDate>Mon, 04 Oct 2021 03:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-07(목) 20:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11177&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11177&amp;order=1</guid>
             <pubDate>Fri, 01 Oct 2021 15:16:24 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-01(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[9와 숫자들 GREEN & RED CONCERT 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11176&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11176&amp;order=1</guid>
-            <pubDate>Fri, 01 Oct 2021 15:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021-09-29(수) 12:00]]></content:encoded>
         </item>
     </channel>
 </rss>
