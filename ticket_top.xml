@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>예스24 티켓 ─ 하이라이트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 08:18:58 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 [V 에버 애프터] 3차 티켓 오픈안내]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11183&amp;Gcode=009_208_001</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11183&amp;Gcode=009_208_001</guid>
-            <pubDate>Fri, 01 Oct 2021 03:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.05(화) 15:00]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202108/20210812/20210812-39879.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [브라더스 까라마조프] 티켓 오픈 안내]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11181&amp;Gcode=009_208_001</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11181&amp;Gcode=009_208_001</guid>
-            <pubDate>Fri, 01 Oct 2021 03:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.05(화) 16:00]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211002/20211002-40315.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 3차 티켓오픈 안내]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11179&amp;Gcode=009_208_001</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11179&amp;Gcode=009_208_001</guid>
-            <pubDate>Fri, 01 Oct 2021 03:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06(수) 14:00]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202109/20210923/20210923-39997.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
+    <title>예스24 티켓 ─ 하이라이트</title>
+    <updated>2021-10-04T09:15:59.324Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+</feed>
