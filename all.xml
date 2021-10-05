@@ -4,9 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 00:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 01:59:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선셋시네마 파크콘서트 일정 연기 및 티켓 관련 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11187</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11187</guid>
+            <pubDate>Tue, 05 Oct 2021 01:59:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[유니버설발레단 [호두까기인형] 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11186</link>
@@ -141,19 +147,12 @@
             <content:encoded><![CDATA[2021.09.28(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [풍월주] 3차 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11167</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11167</guid>
-            <pubDate>Sat, 25 Sep 2021 18:59:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.28(화) 15:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [블랙메리포핀스] 1차 티켓 오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11185&amp;Gcode=009_208_001</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11185&amp;Gcode=009_208_001</guid>
             <pubDate>Tue, 05 Oct 2021 00:51:01 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.05(화) 14:00]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/BoardNotice/202110/20211001/20211001-cc6d6426-4bff-4068-95fe-a611705a698d.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211002/20211002-40323.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [V 에버 애프터] 3차 티켓 오픈안내 (예스24 티켓 ─ 하이라이트)]]></title>
@@ -178,6 +177,12 @@
             <pubDate>Mon, 04 Oct 2021 10:17:23 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.06(수) 14:00]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202109/20210923/20210923-39997.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[선셋시네마 파크콘서트 일정 연기 및 티켓 관련 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11187&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11187&amp;order=1</guid>
+            <pubDate>Tue, 05 Oct 2021 01:59:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[유니버설발레단 [호두까기인형] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -241,13 +246,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11178&amp;order=1</guid>
             <pubDate>Mon, 04 Oct 2021 03:16:43 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-07(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11177&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11177&amp;order=1</guid>
-            <pubDate>Fri, 01 Oct 2021 15:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-01(금) 20:00]]></content:encoded>
         </item>
     </channel>
 </rss>

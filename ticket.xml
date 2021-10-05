@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-05T00:51:09.062Z</updated>
+    <updated>2021-10-05T01:59:57.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선셋시네마 파크콘서트 일정 연기 및 티켓 관련 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11187</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11187"/>
+        <updated>2021-10-05T01:59:40.495Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유니버설발레단 [호두까기인형] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11186</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11168"/>
         <updated>2021-09-25T19:02:24.368Z</updated>
         <content type="html"><![CDATA[2021.09.28(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [풍월주] 3차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11167</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11167"/>
-        <updated>2021-09-25T19:02:24.370Z</updated>
-        <content type="html"><![CDATA[2021.09.28(화) 15:00]]></content>
     </entry>
 </feed>

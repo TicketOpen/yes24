@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-05T00:51:09.156Z</updated>
+    <updated>2021-10-05T01:59:57.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선셋시네마 파크콘서트 일정 연기 및 티켓 관련 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11187&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11187&amp;order=1"/>
+        <updated>2021-10-05T01:59:56.972Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유니버설발레단 [호두까기인형] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11186&amp;order=1</id>
@@ -67,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11178&amp;order=1"/>
         <updated>2021-10-04T03:16:43.471Z</updated>
         <content type="html"><![CDATA[2021-10-07(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11177&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11177&amp;order=1"/>
-        <updated>2021-10-01T15:16:24.173Z</updated>
-        <content type="html"><![CDATA[2021-10-01(금) 20:00]]></content>
     </entry>
 </feed>
