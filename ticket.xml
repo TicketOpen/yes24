@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-05T01:59:57.670Z</updated>
+    <updated>2021-10-05T02:33:19.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11188</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11188"/>
+        <updated>2021-10-05T02:32:55.718Z</updated>
+        <content type="html"><![CDATA[2021.10.08(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선셋시네마 파크콘서트 일정 연기 및 티켓 관련 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11187</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11169"/>
         <updated>2021-09-25T19:02:24.367Z</updated>
         <content type="html"><![CDATA[2021.09.27(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [시카고]  - 천안 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11168</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11168"/>
-        <updated>2021-09-25T19:02:24.368Z</updated>
-        <content type="html"><![CDATA[2021.09.28(화) 14:00]]></content>
     </entry>
 </feed>
