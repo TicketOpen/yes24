@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-05T03:16:29.892Z</updated>
+    <updated>2021-10-05T04:20:40.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제16회 부산국제매직페스티벌 매직위크 2차 티켓 오픈]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11190</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11190"/>
+        <updated>2021-10-05T04:20:23.577Z</updated>
+        <content type="html"><![CDATA[2021.10.08(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빈 필하모닉 ＆ 리카르도 무티 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11189</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11189"/>
+        <updated>2021-10-05T04:20:23.577Z</updated>
+        <content type="html"><![CDATA[2021.10.06(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11188</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11171"/>
         <updated>2021-09-25T19:02:24.364Z</updated>
         <content type="html"><![CDATA[2021.09.28(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 세종 체임버시리즈 Ⅲ - 신창용 김동현 듀오 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11170</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11170"/>
-        <updated>2021-09-25T19:02:24.366Z</updated>
-        <content type="html"><![CDATA[2021.09.29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [여행] - 대구 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11169</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11169"/>
-        <updated>2021-09-25T19:02:24.367Z</updated>
-        <content type="html"><![CDATA[2021.09.27(월) 10:00]]></content>
     </entry>
 </feed>

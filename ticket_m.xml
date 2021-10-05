@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-05T03:16:29.576Z</updated>
+    <updated>2021-10-05T04:20:40.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제16회 부산국제매직페스티벌 매직위크 2차 티켓 오픈]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11190&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11190&amp;order=1"/>
+        <updated>2021-10-05T04:20:39.356Z</updated>
+        <content type="html"><![CDATA[2021-10-08(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빈 필하모닉 ＆ 리카르도 무티 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11189&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11189&amp;order=1"/>
+        <updated>2021-10-05T04:20:39.358Z</updated>
+        <content type="html"><![CDATA[2021-10-06(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11188&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11181&amp;order=1"/>
         <updated>2021-10-01T15:16:24.170Z</updated>
         <content type="html"><![CDATA[2021-10-05(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WONHO CONCERT〈WE ARE YOUNG〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11180&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11180&amp;order=1"/>
-        <updated>2021-10-01T15:16:24.171Z</updated>
-        <content type="html"><![CDATA[2021-10-19(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11179&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11179&amp;order=1"/>
-        <updated>2021-10-01T15:16:24.172Z</updated>
-        <content type="html"><![CDATA[2021-10-06(수) 14:00]]></content>
     </entry>
 </feed>
