@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-05T06:18:43.711Z</updated>
+    <updated>2021-10-05T07:15:49.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사우스클럽 X 이정권 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11193&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11193&amp;order=1"/>
+        <updated>2021-10-05T07:15:49.014Z</updated>
+        <content type="html"><![CDATA[2021-10-08(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 80회 을숙도명품콘서트 [코로나 극복을 위한 미래의 희망] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11192&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11192&amp;order=1"/>
         <updated>2021-10-05T05:14:15.596Z</updated>
         <content type="html"><![CDATA[2021-10-06(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <인사이드> 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11191&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11191&amp;order=1"/>
+        <updated>2021-10-05T07:15:49.019Z</updated>
+        <content type="html"><![CDATA[2021-10-08(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제16회 부산국제매직페스티벌 매직위크 2차 티켓 오픈]]></title>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11184&amp;order=1"/>
         <updated>2021-10-01T15:16:24.164Z</updated>
         <content type="html"><![CDATA[2021-10-08(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 3차 티켓 오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11183&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11183&amp;order=1"/>
-        <updated>2021-10-01T15:16:24.167Z</updated>
-        <content type="html"><![CDATA[2021-10-05(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 4차 티켓 오픈! (Musical Hadestown) 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11182&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11182&amp;order=1"/>
-        <updated>2021-10-01T15:16:24.169Z</updated>
-        <content type="html"><![CDATA[2021-10-08(금) 14:00]]></content>
     </entry>
 </feed>
