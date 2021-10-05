@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-05T04:20:40.081Z</updated>
+    <updated>2021-10-05T05:14:16.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제 80회 을숙도명품콘서트 [코로나 극복을 위한 미래의 희망] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11192&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11192&amp;order=1"/>
+        <updated>2021-10-05T05:14:15.596Z</updated>
+        <content type="html"><![CDATA[2021-10-06(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제16회 부산국제매직페스티벌 매직위크 2차 티켓 오픈]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11190&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11182&amp;order=1"/>
         <updated>2021-10-01T15:16:24.169Z</updated>
         <content type="html"><![CDATA[2021-10-08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [브라더스 까라마조프] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11181&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11181&amp;order=1"/>
-        <updated>2021-10-01T15:16:24.170Z</updated>
-        <content type="html"><![CDATA[2021-10-05(화) 16:00]]></content>
     </entry>
 </feed>
