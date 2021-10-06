@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-06T04:19:47.139Z</updated>
+    <updated>2021-10-06T05:15:06.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [카포네 트릴로지] 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11195&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11195&amp;order=1"/>
+        <updated>2021-10-06T05:15:05.478Z</updated>
+        <content type="html"><![CDATA[2021-10-12(화) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [시카고] - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11194&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11194&amp;order=1"/>
+        <updated>2021-10-06T05:15:05.479Z</updated>
+        <content type="html"><![CDATA[2021-10-13(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사우스클럽 X 이정권 콘서트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11193&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11186&amp;order=1"/>
         <updated>2021-10-01T15:16:24.158Z</updated>
         <content type="html"><![CDATA[2021-10-07(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [블랙메리포핀스] 1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11185&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11185&amp;order=1"/>
-        <updated>2021-10-01T15:16:24.161Z</updated>
-        <content type="html"><![CDATA[2021-10-05(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정세운 팬미팅〈레쓰꽁 럭키!〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11184&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11184&amp;order=1"/>
-        <updated>2021-10-01T15:16:24.164Z</updated>
-        <content type="html"><![CDATA[2021-10-08(금) 20:00]]></content>
     </entry>
 </feed>
