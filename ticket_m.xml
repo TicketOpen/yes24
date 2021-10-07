@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-07T07:16:50.969Z</updated>
+    <updated>2021-10-07T08:18:52.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [소품 호텔] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11203&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11203&amp;order=1"/>
+        <updated>2021-10-07T08:18:51.912Z</updated>
+        <content type="html"><![CDATA[2021-10-12(화) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [친정엄마와 2박3일] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11202&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11202&amp;order=1"/>
+        <updated>2021-10-07T08:18:51.912Z</updated>
+        <content type="html"><![CDATA[2021-10-13(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [더 라스트맨] 리딩공연 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11201&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11201&amp;order=1"/>
+        <updated>2021-10-07T08:18:51.915Z</updated>
+        <content type="html"><![CDATA[2021-10-08(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성남 〈일상으로의초대〉- 샘김,윤딴딴,선우정아,죠지.... 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11200&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11200&amp;order=1"/>
+        <updated>2021-10-07T08:18:51.915Z</updated>
+        <content type="html"><![CDATA[2021-10-12(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [풍월주] 마지막 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11199&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11193&amp;order=1"/>
         <updated>2021-10-05T07:15:49.014Z</updated>
         <content type="html"><![CDATA[2021-10-08(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 80회 을숙도명품콘서트 [코로나 극복을 위한 미래의 희망] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11192&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11192&amp;order=1"/>
-        <updated>2021-10-05T05:14:15.596Z</updated>
-        <content type="html"><![CDATA[2021-10-06(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <인사이드> 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11191&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11191&amp;order=1"/>
-        <updated>2021-10-05T07:15:49.019Z</updated>
-        <content type="html"><![CDATA[2021-10-08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제16회 부산국제매직페스티벌 매직위크 2차 티켓 오픈]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11190&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11190&amp;order=1"/>
-        <updated>2021-10-05T04:20:39.356Z</updated>
-        <content type="html"><![CDATA[2021-10-08(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈 필하모닉 ＆ 리카르도 무티 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11189&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11189&amp;order=1"/>
-        <updated>2021-10-05T04:20:39.358Z</updated>
-        <content type="html"><![CDATA[2021-10-06(수) 14:00]]></content>
     </entry>
 </feed>
