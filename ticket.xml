@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-06T23:15:57.096Z</updated>
+    <updated>2021-10-07T00:53:34.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제13회 부산월드필하모닉오케스트라 The Classic 아시아의창(窓) 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11198</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11198"/>
+        <updated>2021-10-07T00:53:19.601Z</updated>
+        <content type="html"><![CDATA[2021.10.08(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“ENCORE” The French Musical Concert (부산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11197</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11197"/>
+        <updated>2021-10-07T00:53:19.612Z</updated>
+        <content type="html"><![CDATA[2021.10.07(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내 (10/8, 10/9, 10/10, 10/17, 10/18)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11196</id>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11179"/>
         <updated>2021-09-29T05:14:20.176Z</updated>
         <content type="html"><![CDATA[2021.10.06(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RE:SPES ANDONG 2021×롤링홀 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11178</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11178"/>
-        <updated>2021-10-04T03:16:24.236Z</updated>
-        <content type="html"><![CDATA[2021.10.07(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11177</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11177"/>
-        <updated>2021-09-28T05:14:03.904Z</updated>
-        <content type="html"><![CDATA[2021.10.01(금) 20:00]]></content>
     </entry>
 </feed>
