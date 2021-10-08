@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-08T03:16:48.754Z</updated>
+    <updated>2021-10-08T04:20:12.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족 뮤지컬 [봄날의 곰] 11월 티켓 오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11205</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11205"/>
+        <updated>2021-10-08T04:19:53.194Z</updated>
+        <content type="html"><![CDATA[2021.10.14(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 마지막 티켓오픈]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11204</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11204"/>
+        <updated>2021-10-08T04:19:53.194Z</updated>
+        <content type="html"><![CDATA[2021.10.12(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [소품 호텔] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11203</id>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11186"/>
         <updated>2021-10-01T08:17:59.852Z</updated>
         <content type="html"><![CDATA[2021.10.07(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [블랙메리포핀스] 1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11185</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11185"/>
-        <updated>2021-10-01T05:01:15.524Z</updated>
-        <content type="html"><![CDATA[2021.10.05(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매정세운 팬미팅〈레쓰꽁 럭키!〉티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11184</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11184"/>
-        <updated>2021-10-01T05:01:15.527Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.10.06(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

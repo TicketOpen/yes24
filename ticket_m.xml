@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-08T03:16:48.751Z</updated>
+    <updated>2021-10-08T04:20:12.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족 뮤지컬 [봄날의 곰] 11월 티켓 오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11205&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11205&amp;order=1"/>
+        <updated>2021-10-08T04:20:11.671Z</updated>
+        <content type="html"><![CDATA[2021-10-14(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 마지막 티켓오픈]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11204&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11204&amp;order=1"/>
+        <updated>2021-10-08T04:20:11.674Z</updated>
+        <content type="html"><![CDATA[2021-10-12(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [소품 호텔] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11203&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11195&amp;order=1"/>
         <updated>2021-10-06T05:15:05.478Z</updated>
         <content type="html"><![CDATA[2021-10-12(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [시카고] - 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11194&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11194&amp;order=1"/>
-        <updated>2021-10-06T05:15:05.479Z</updated>
-        <content type="html"><![CDATA[2021-10-13(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사우스클럽 X 이정권 콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11193&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11193&amp;order=1"/>
-        <updated>2021-10-05T07:15:49.014Z</updated>
-        <content type="html"><![CDATA[2021-10-08(금) 15:00]]></content>
     </entry>
 </feed>
