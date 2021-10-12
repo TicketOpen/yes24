@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-12T05:14:14.606Z</updated>
+    <updated>2021-10-12T06:18:34.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 노래인생 60년 기념 이미자 음악회 취소안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11216</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11216"/>
+        <updated>2021-10-12T06:18:14.021Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문태국 ＆ 임동혁 듀오 리사이틀 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11215</id>
@@ -18,6 +24,20 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11213"/>
         <updated>2021-10-12T03:16:30.288Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] - 전주 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11212</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11212"/>
+        <updated>2021-10-12T06:18:14.025Z</updated>
+        <content type="html"><![CDATA[2021.10.14(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] - 대전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11211</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11211"/>
+        <updated>2021-10-12T06:18:14.025Z</updated>
+        <content type="html"><![CDATA[2021.10.14(목) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매유미 연말 콘서트 〈Let's just live today〉티켓오픈안내]]></title>
@@ -122,26 +142,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11196</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11196"/>
         <updated>2021-10-06T09:16:38.815Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [카포네 트릴로지] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11195</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11195"/>
-        <updated>2021-10-06T05:14:37.788Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [시카고] - 부산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11194</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11194"/>
-        <updated>2021-10-06T05:14:37.788Z</updated>
-        <content type="html"><![CDATA[2021.10.13(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사우스클럽 X 이정권 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11193</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11193"/>
-        <updated>2021-10-05T07:15:30.814Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 15:00]]></content>
     </entry>
 </feed>
