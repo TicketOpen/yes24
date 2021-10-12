@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 04:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 05:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,6 +27,20 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11210</guid>
             <pubDate>Tue, 12 Oct 2021 00:55:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15(금) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 4차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11209</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11209</guid>
+            <pubDate>Tue, 12 Oct 2021 05:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매2021 적재 전국투어 ‘서로의 서로’ 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11208</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11208</guid>
+            <pubDate>Tue, 12 Oct 2021 05:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“ENCORE” The French Musical Concert (대구) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈.. (예스24 티켓)]]></title>
@@ -133,20 +147,6 @@
             <content:encoded><![CDATA[2021.10.08(금) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제 80회 을숙도명품콘서트 [코로나 극복을 위한 미래의 희망] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11192</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11192</guid>
-            <pubDate>Tue, 05 Oct 2021 05:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06(수) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 <인사이드> 2차 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11191</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11191</guid>
-            <pubDate>Tue, 05 Oct 2021 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08(금) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [이토록 보통의] 마지막 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11204&amp;Gcode=009_208_001</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11204&amp;Gcode=009_208_001</guid>
@@ -208,6 +208,20 @@
             <content:encoded><![CDATA[2021-10-15(금) 17:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 4차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11209&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11209&amp;order=1</guid>
+            <pubDate>Tue, 12 Oct 2021 05:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-19(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 적재 전국투어 ‘서로의 서로’ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11208&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11208&amp;order=1</guid>
+            <pubDate>Tue, 12 Oct 2021 05:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-14(목) 20:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[“ENCORE” The French Musical Concert (대구) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11207&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11207&amp;order=1</guid>
@@ -241,20 +255,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11203&amp;order=1</guid>
             <pubDate>Thu, 07 Oct 2021 08:18:51 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-12(화) 13:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [친정엄마와 2박3일] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11202&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11202&amp;order=1</guid>
-            <pubDate>Thu, 07 Oct 2021 08:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-13(수) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [더 라스트맨] 리딩공연 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11201&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11201&amp;order=1</guid>
-            <pubDate>Thu, 07 Oct 2021 08:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-08(금) 14:00]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-12T04:20:24.139Z</updated>
+    <updated>2021-10-12T05:14:14.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11210"/>
         <updated>2021-10-12T00:55:26.438Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 4차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11209</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11209"/>
+        <updated>2021-10-12T05:13:58.046Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2021 적재 전국투어 ‘서로의 서로’ 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11208</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11208"/>
+        <updated>2021-10-12T05:13:58.046Z</updated>
+        <content type="html"><![CDATA[2021.10.14(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“ENCORE” The French Musical Concert (대구) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈..]]></title>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11193"/>
         <updated>2021-10-05T07:15:30.814Z</updated>
         <content type="html"><![CDATA[2021.10.08(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 80회 을숙도명품콘서트 [코로나 극복을 위한 미래의 희망] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11192</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11192"/>
-        <updated>2021-10-05T05:13:57.155Z</updated>
-        <content type="html"><![CDATA[2021.10.06(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <인사이드> 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11191</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11191"/>
-        <updated>2021-10-05T07:15:30.820Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 14:00]]></content>
     </entry>
 </feed>
