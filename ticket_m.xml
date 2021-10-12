@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-11T23:15:55.758Z</updated>
+    <updated>2021-10-12T00:55:46.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유미 연말 콘서트 〈Let's just live today〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11210&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11210&amp;order=1"/>
+        <updated>2021-10-12T00:55:45.548Z</updated>
+        <content type="html"><![CDATA[2021-10-15(금) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“ENCORE” The French Musical Concert (대구) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11207&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11199&amp;order=1"/>
         <updated>2021-10-07T05:14:42.828Z</updated>
         <content type="html"><![CDATA[2021-10-12(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제13회 부산월드필하모닉오케스트라 The Classic 아시아의창(窓) 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11198&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11198&amp;order=1"/>
-        <updated>2021-10-07T00:53:33.649Z</updated>
-        <content type="html"><![CDATA[2021-10-08(금) 11:00]]></content>
     </entry>
 </feed>
