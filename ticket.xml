@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-12T08:19:08.113Z</updated>
+    <updated>2021-10-12T09:15:12.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주은행 시스템 작업에 따른 결제 서비스 중단 안내(10/23, 10/24)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11217</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11217"/>
+        <updated>2021-10-12T09:14:55.608Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 노래인생 60년 기념 이미자 음악회 취소안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11216</id>
@@ -136,11 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11197"/>
         <updated>2021-10-07T00:53:19.612Z</updated>
         <content type="html"><![CDATA[2021.10.07(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내 (10/8, 10/9, 10/10, 10/17, 10/18)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11196</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11196"/>
-        <updated>2021-10-06T09:16:38.815Z</updated>
     </entry>
 </feed>
