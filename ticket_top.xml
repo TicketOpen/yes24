@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
-    <title>예스24 티켓 ─ 하이라이트</title>
-    <updated>2021-10-12T23:15:37.186Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>예스24 티켓 ─ 하이라이트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 13 Oct 2021 00:52:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 적재 전국투어 ‘서로의 서로’ 티켓오픈안내]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11208&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11208&amp;Gcode=009_208_001</guid>
+            <pubDate>Wed, 13 Oct 2021 00:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 20:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/BoardNotice/202110/20211012/20211012-fd78060c-0526-4606-a311-1b7dac3d4ac5.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 [친정엄마와 2박3일] 티켓오픈 안내]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11202&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11202&amp;Gcode=009_208_001</guid>
+            <pubDate>Wed, 13 Oct 2021 00:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13(수) 10:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211012/20211012-40418.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [시카고] - 부산 티켓오픈안내]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11194&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11194&amp;Gcode=009_208_001</guid>
+            <pubDate>Wed, 13 Oct 2021 00:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13(수) 14:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211012/20211012-40417.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[WONHO CONCERT〈WE ARE YOUNG〉티켓오픈안내]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11180&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11180&amp;Gcode=009_208_001</guid>
+            <pubDate>Wed, 13 Oct 2021 00:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13(수) 20:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211007/20211007-40293.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+    </channel>
+</rss>

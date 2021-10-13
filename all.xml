@@ -1,214 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/yes24/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-10-12T23:15:37.190Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[제주은행 시스템 작업에 따른 결제 서비스 중단 안내(10/23, 10/24) (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11217</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11217"/>
-        <updated>2021-10-12T09:14:55.608Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 노래인생 60년 기념 이미자 음악회 취소안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11216</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11216"/>
-        <updated>2021-10-12T06:18:14.021Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문태국 ＆ 임동혁 듀오 리사이틀 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11215</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11215"/>
-        <updated>2021-10-12T03:16:30.283Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕? 손호영〈Hello? SHY〉- 부산 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11213</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11213"/>
-        <updated>2021-10-12T03:16:30.288Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] - 전주 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11212</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11212"/>
-        <updated>2021-10-12T06:18:14.025Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] - 대전 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11211</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11211"/>
-        <updated>2021-10-12T06:18:14.025Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매유미 연말 콘서트 〈Let's just live today〉티켓오픈안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11210</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11210"/>
-        <updated>2021-10-12T00:55:26.438Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 4차 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11209</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11209"/>
-        <updated>2021-10-12T05:13:58.046Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2021 적재 전국투어 ‘서로의 서로’ 티켓오픈안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11208</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11208"/>
-        <updated>2021-10-12T05:13:58.046Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“ENCORE” The French Musical Concert (대구) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈.. (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11207</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11207"/>
-        <updated>2021-10-08T06:18:34.442Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“ENCORE” The French Musical Concert (울산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈.. (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11206</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11206"/>
-        <updated>2021-10-08T06:18:34.443Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족 뮤지컬 [봄날의 곰] 11월 티켓 오픈안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11205</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11205"/>
-        <updated>2021-10-08T04:19:53.194Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11204</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11204"/>
-        <updated>2021-10-08T04:19:53.194Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [소품 호텔] 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11203</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11203"/>
-        <updated>2021-10-07T08:18:34.876Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [친정엄마와 2박3일] 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11202</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11202"/>
-        <updated>2021-10-07T08:18:34.876Z</updated>
-        <content type="html"><![CDATA[2021.10.13(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [더 라스트맨] 리딩공연 티켓 오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11201</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11201"/>
-        <updated>2021-10-07T08:18:34.884Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 〈일상으로의초대〉- 샘김,윤딴딴,선우정아,죠지.... 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11200</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11200"/>
-        <updated>2021-10-07T08:18:34.884Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [풍월주] 마지막 티켓 오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11199</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11199"/>
-        <updated>2021-10-07T05:14:25.738Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제13회 부산월드필하모닉오케스트라 The Classic 아시아의창(窓) 부산 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11198</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11198"/>
-        <updated>2021-10-07T00:53:19.601Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“ENCORE” The French Musical Concert (부산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈.. (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11197</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11197"/>
-        <updated>2021-10-07T00:53:19.612Z</updated>
-        <content type="html"><![CDATA[2021.10.07(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 노래인생 60년 기념 이미자 음악회 취소안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11216&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11216&amp;order=1"/>
-        <updated>2021-10-12T06:18:33.637Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문태국 ＆ 임동혁 듀오 리사이틀 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11215&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11215&amp;order=1"/>
-        <updated>2021-10-12T03:16:48.344Z</updated>
-        <content type="html"><![CDATA[2021-10-12(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕? 손호영〈Hello? SHY〉- 부산 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11213&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11213&amp;order=1"/>
-        <updated>2021-10-12T03:16:48.344Z</updated>
-        <content type="html"><![CDATA[2021-10-15(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] - 전주 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11212&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11212&amp;order=1"/>
-        <updated>2021-10-12T06:18:33.647Z</updated>
-        <content type="html"><![CDATA[2021-10-14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] - 대전 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11211&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11211&amp;order=1"/>
-        <updated>2021-10-12T06:18:33.647Z</updated>
-        <content type="html"><![CDATA[2021-10-14(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유미 연말 콘서트 〈Let's just live today〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11210&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11210&amp;order=1"/>
-        <updated>2021-10-12T00:55:45.548Z</updated>
-        <content type="html"><![CDATA[2021-10-15(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 4차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11209&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11209&amp;order=1"/>
-        <updated>2021-10-12T05:14:13.964Z</updated>
-        <content type="html"><![CDATA[2021-10-19(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 적재 전국투어 ‘서로의 서로’ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11208&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11208&amp;order=1"/>
-        <updated>2021-10-12T05:14:13.965Z</updated>
-        <content type="html"><![CDATA[2021-10-14(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“ENCORE” The French Musical Concert (대구) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11207&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11207&amp;order=1"/>
-        <updated>2021-10-08T06:18:53.367Z</updated>
-        <content type="html"><![CDATA[2021-10-15(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“ENCORE” The French Musical Concert (울산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11206&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11206&amp;order=1"/>
-        <updated>2021-10-08T06:18:53.368Z</updated>
-        <content type="html"><![CDATA[2021-10-14(목) 11:00]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 13 Oct 2021 00:52:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주은행 시스템 작업에 따른 결제 서비스 중단 안내(10/23, 10/24) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11217</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11217</guid>
+            <pubDate>Tue, 12 Oct 2021 09:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[울산] 노래인생 60년 기념 이미자 음악회 취소안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11216</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11216</guid>
+            <pubDate>Tue, 12 Oct 2021 06:18:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[문태국 ＆ 임동혁 듀오 리사이틀 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11215</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11215</guid>
+            <pubDate>Tue, 12 Oct 2021 03:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12(화) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안녕? 손호영〈Hello? SHY〉- 부산 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11213</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11213</guid>
+            <pubDate>Tue, 12 Oct 2021 03:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [엑스칼리버] - 전주 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11212</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11212</guid>
+            <pubDate>Tue, 12 Oct 2021 06:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [엑스칼리버] - 대전 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11211</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11211</guid>
+            <pubDate>Tue, 12 Oct 2021 06:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매유미 연말 콘서트 〈Let's just live today〉티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11210</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11210</guid>
+            <pubDate>Tue, 12 Oct 2021 00:55:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 4차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11209</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11209</guid>
+            <pubDate>Tue, 12 Oct 2021 05:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매2021 적재 전국투어 ‘서로의 서로’ 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11208</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11208</guid>
+            <pubDate>Tue, 12 Oct 2021 05:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“ENCORE” The French Musical Concert (대구) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈.. (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11207</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11207</guid>
+            <pubDate>Fri, 08 Oct 2021 06:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“ENCORE” The French Musical Concert (울산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈.. (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11206</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11206</guid>
+            <pubDate>Fri, 08 Oct 2021 06:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족 뮤지컬 [봄날의 곰] 11월 티켓 오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11205</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11205</guid>
+            <pubDate>Fri, 08 Oct 2021 04:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [이토록 보통의] 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11204</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11204</guid>
+            <pubDate>Fri, 08 Oct 2021 04:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12(화) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 [소품 호텔] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11203</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11203</guid>
+            <pubDate>Thu, 07 Oct 2021 08:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12(화) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 [친정엄마와 2박3일] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11202</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11202</guid>
+            <pubDate>Thu, 07 Oct 2021 08:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13(수) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [더 라스트맨] 리딩공연 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11201</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11201</guid>
+            <pubDate>Thu, 07 Oct 2021 08:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성남 〈일상으로의초대〉- 샘김,윤딴딴,선우정아,죠지.... 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11200</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11200</guid>
+            <pubDate>Thu, 07 Oct 2021 08:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [풍월주] 마지막 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11199</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11199</guid>
+            <pubDate>Thu, 07 Oct 2021 05:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12(화) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제13회 부산월드필하모닉오케스트라 The Classic 아시아의창(窓) 부산 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11198</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11198</guid>
+            <pubDate>Thu, 07 Oct 2021 00:53:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08(금) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“ENCORE” The French Musical Concert (부산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈.. (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11197</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11197</guid>
+            <pubDate>Thu, 07 Oct 2021 00:53:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07(목) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 적재 전국투어 ‘서로의 서로’ 티켓오픈안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11208&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11208&amp;Gcode=009_208_001</guid>
+            <pubDate>Wed, 13 Oct 2021 00:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 20:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/BoardNotice/202110/20211012/20211012-fd78060c-0526-4606-a311-1b7dac3d4ac5.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 [친정엄마와 2박3일] 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11202&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11202&amp;Gcode=009_208_001</guid>
+            <pubDate>Wed, 13 Oct 2021 00:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13(수) 10:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211012/20211012-40418.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [시카고] - 부산 티켓오픈안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11194&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11194&amp;Gcode=009_208_001</guid>
+            <pubDate>Wed, 13 Oct 2021 00:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13(수) 14:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211012/20211012-40417.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[WONHO CONCERT〈WE ARE YOUNG〉티켓오픈안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11180&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11180&amp;Gcode=009_208_001</guid>
+            <pubDate>Wed, 13 Oct 2021 00:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13(수) 20:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211007/20211007-40293.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[울산] 노래인생 60년 기념 이미자 음악회 취소안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11216&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11216&amp;order=1</guid>
+            <pubDate>Tue, 12 Oct 2021 06:18:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[문태국 ＆ 임동혁 듀오 리사이틀 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11215&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11215&amp;order=1</guid>
+            <pubDate>Tue, 12 Oct 2021 03:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-12(화) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안녕? 손호영〈Hello? SHY〉- 부산 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11213&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11213&amp;order=1</guid>
+            <pubDate>Tue, 12 Oct 2021 03:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-15(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [엑스칼리버] - 전주 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11212&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11212&amp;order=1</guid>
+            <pubDate>Tue, 12 Oct 2021 06:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-14(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [엑스칼리버] - 대전 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11211&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11211&amp;order=1</guid>
+            <pubDate>Tue, 12 Oct 2021 06:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-14(목) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유미 연말 콘서트 〈Let's just live today〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11210&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11210&amp;order=1</guid>
+            <pubDate>Tue, 12 Oct 2021 00:55:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-15(금) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 4차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11209&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11209&amp;order=1</guid>
+            <pubDate>Tue, 12 Oct 2021 05:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-19(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 적재 전국투어 ‘서로의 서로’ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11208&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11208&amp;order=1</guid>
+            <pubDate>Tue, 12 Oct 2021 05:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-14(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“ENCORE” The French Musical Concert (대구) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11207&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11207&amp;order=1</guid>
+            <pubDate>Fri, 08 Oct 2021 06:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-15(금) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“ENCORE” The French Musical Concert (울산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11206&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11206&amp;order=1</guid>
+            <pubDate>Fri, 08 Oct 2021 06:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-14(목) 11:00]]></content:encoded>
+        </item>
+    </channel>
+</rss>
