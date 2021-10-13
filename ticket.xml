@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-13T02:05:23.785Z</updated>
+    <updated>2021-10-13T03:17:09.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세종문화회관] 네트워크 작업으로 인한 실시간 연동 판매 서비스 중단안내(10/21)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11220</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11220"/>
+        <updated>2021-10-13T03:16:44.365Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성증권 시스템 작업에 따른 결제 서비스 중단 안내(10/17)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11219</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11219"/>
+        <updated>2021-10-13T03:16:44.365Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제주은행 시스템 작업에 따른 결제 서비스 중단 안내(10/23, 10/24)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11217</id>
@@ -128,19 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11199"/>
         <updated>2021-10-07T05:14:25.738Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제13회 부산월드필하모닉오케스트라 The Classic 아시아의창(窓) 부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11198</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11198"/>
-        <updated>2021-10-07T00:53:19.601Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“ENCORE” The French Musical Concert (부산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11197</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11197"/>
-        <updated>2021-10-07T00:53:19.612Z</updated>
-        <content type="html"><![CDATA[2021.10.07(목) 11:00]]></content>
     </entry>
 </feed>
