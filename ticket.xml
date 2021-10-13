@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-13T04:20:09.545Z</updated>
+    <updated>2021-10-13T05:14:48.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -16,6 +16,13 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11219</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11219"/>
         <updated>2021-10-13T03:16:44.365Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최현우 〈더 브레인 THE BRAIN〉 블록버스터급 멘탈매직쇼 첫 티켓오픈!]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11218</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11218"/>
+        <updated>2021-10-13T05:14:28.030Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제주은행 시스템 작업에 따른 결제 서비스 중단 안내(10/23, 10/24)]]></title>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11200"/>
         <updated>2021-10-07T08:18:34.884Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [풍월주] 마지막 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11199</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11199"/>
-        <updated>2021-10-07T05:14:25.738Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 15:00]]></content>
     </entry>
 </feed>
