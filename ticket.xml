@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-14T00:50:35.158Z</updated>
+    <updated>2021-10-14T02:01:41.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [미인] 3차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11221</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11221"/>
+        <updated>2021-10-14T02:01:23.156Z</updated>
+        <content type="html"><![CDATA[2021.10.18(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세종문화회관] 네트워크 작업으로 인한 실시간 연동 판매 서비스 중단안내(10/21)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11220</id>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11201"/>
         <updated>2021-10-07T08:18:34.884Z</updated>
         <content type="html"><![CDATA[2021.10.08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 〈일상으로의초대〉- 샘김,윤딴딴,선우정아,죠지.... 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11200</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11200"/>
-        <updated>2021-10-07T08:18:34.884Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 20:00]]></content>
     </entry>
 </feed>
