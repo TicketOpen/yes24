@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 23:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 00:50:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,22 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11200</guid>
             <pubDate>Thu, 07 Oct 2021 08:18:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.12(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [엑스칼리버] - 전주 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11212&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11212&amp;Gcode=009_208_001</guid>
+            <pubDate>Thu, 14 Oct 2021 00:50:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 14:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/BoardNotice/202110/20211012/20211012-8491f05f-c5a3-40ef-8d6b-51f5e45b53f5.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [엑스칼리버] - 대전 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11211&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11211&amp;Gcode=009_208_001</guid>
+            <pubDate>Thu, 14 Oct 2021 00:50:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 15:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/BoardNotice/202110/20211012/20211012-722839f9-bb4b-4cc0-b1e9-0c5c281c13dc.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2021 적재 전국투어 ＇서로의 서로＇- 서울 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
