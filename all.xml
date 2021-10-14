@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 07:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 08:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 [V 에버 애프터] 4차 티켓 오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11223</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11223</guid>
+            <pubDate>Thu, 14 Oct 2021 08:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19(화) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강남심포니오케스트라 제139회 클래식품격콘서트 [Falling in fall 가을에 빠지다] 티켓오픈 안.. (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11222</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11222</guid>
+            <pubDate>Thu, 14 Oct 2021 08:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18(월) 10:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 [미인] 3차 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11221</link>
@@ -130,20 +144,6 @@
             <content:encoded><![CDATA[2021.10.12(화) 13:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 [친정엄마와 2박3일] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11202</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11202</guid>
-            <pubDate>Thu, 07 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.13(수) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [더 라스트맨] 리딩공연 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11201</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11201</guid>
-            <pubDate>Thu, 07 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08(금) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [엑스칼리버] - 전주 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11212&amp;Gcode=009_208_001</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11212&amp;Gcode=009_208_001</guid>
@@ -174,6 +174,20 @@
             <pubDate>Wed, 13 Oct 2021 00:52:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.19(화) 20:00]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211007/20211007-40293.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [V 에버 애프터] 4차 티켓 오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11223&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11223&amp;order=1</guid>
+            <pubDate>Thu, 14 Oct 2021 08:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-19(화) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강남심포니오케스트라 제139회 클래식품격콘서트 [Falling in fall 가을에 빠지다] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11222&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11222&amp;order=1</guid>
+            <pubDate>Thu, 14 Oct 2021 08:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-18(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [미인] 3차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -229,20 +243,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11210&amp;order=1</guid>
             <pubDate>Tue, 12 Oct 2021 00:55:45 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-15(금) 17:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 4차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11209&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11209&amp;order=1</guid>
-            <pubDate>Tue, 12 Oct 2021 05:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-19(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 적재 전국투어 ＇서로의 서로＇- 서울 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11208&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11208&amp;order=1</guid>
-            <pubDate>Tue, 12 Oct 2021 05:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-14(목) 20:00]]></content:encoded>
         </item>
     </channel>
 </rss>

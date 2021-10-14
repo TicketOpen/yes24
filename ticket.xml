@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-14T07:16:03.805Z</updated>
+    <updated>2021-10-14T08:20:12.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 4차 티켓 오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11223</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11223"/>
+        <updated>2021-10-14T08:19:56.668Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강남심포니오케스트라 제139회 클래식품격콘서트 [Falling in fall 가을에 빠지다] 티켓오픈 안..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11222</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11222"/>
+        <updated>2021-10-14T08:19:56.669Z</updated>
+        <content type="html"><![CDATA[2021.10.18(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [미인] 3차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11221</id>
@@ -126,19 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11203"/>
         <updated>2021-10-07T08:18:34.876Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [친정엄마와 2박3일] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11202</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11202"/>
-        <updated>2021-10-07T08:18:34.876Z</updated>
-        <content type="html"><![CDATA[2021.10.13(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [더 라스트맨] 리딩공연 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11201</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11201"/>
-        <updated>2021-10-07T08:18:34.884Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 14:00]]></content>
     </entry>
 </feed>
