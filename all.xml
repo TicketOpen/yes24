@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 08:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 09:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 2차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11227</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11227</guid>
+            <pubDate>Fri, 15 Oct 2021 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21(목) 16:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[슈퍼밴드2 콘서트 - 부산 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11226</link>
@@ -137,13 +144,6 @@
             <content:encoded><![CDATA[2021.10.15(금) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“ENCORE” The French Musical Concert (울산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈.. (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11206</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11206</guid>
-            <pubDate>Fri, 08 Oct 2021 06:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.14(목) 11:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[안녕? 손호영〈Hello? SHY〉- 부산 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11213&amp;Gcode=009_208_001</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11213&amp;Gcode=009_208_001</guid>
@@ -182,6 +182,13 @@
             <pubDate>Wed, 13 Oct 2021 00:52:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.19(화) 20:00]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211007/20211007-40293.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 2차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11227&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11227&amp;order=1</guid>
+            <pubDate>Fri, 15 Oct 2021 09:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-21(목) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[슈퍼밴드2 콘서트 - 부산 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -244,13 +251,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11215&amp;order=1</guid>
             <pubDate>Tue, 12 Oct 2021 03:16:48 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-12(화) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안녕? 손호영〈Hello? SHY〉- 부산 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11213&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11213&amp;order=1</guid>
-            <pubDate>Tue, 12 Oct 2021 03:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-15(금) 20:00]]></content:encoded>
         </item>
     </channel>
 </rss>

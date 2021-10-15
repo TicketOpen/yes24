@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-15T08:18:38.539Z</updated>
+    <updated>2021-10-15T09:15:30.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11227</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11227"/>
+        <updated>2021-10-15T09:15:07.864Z</updated>
+        <content type="html"><![CDATA[2021.10.21(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼밴드2 콘서트 - 부산 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11226</id>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11207"/>
         <updated>2021-10-08T06:18:34.442Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“ENCORE” The French Musical Concert (울산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11206</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11206"/>
-        <updated>2021-10-08T06:18:34.443Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 11:00]]></content>
     </entry>
 </feed>
