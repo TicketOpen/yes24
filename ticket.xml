@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-15T00:54:54.475Z</updated>
+    <updated>2021-10-15T02:02:58.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈퍼밴드2 콘서트 - 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11226</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11226"/>
+        <updated>2021-10-15T02:02:41.669Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [쿠로이 저택엔 누가 살고 있을까?] 1차 티켓 오픈 안내 : 쿠로이 저택엔 누가 먼저 가볼..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11225</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11225"/>
+        <updated>2021-10-15T02:02:41.671Z</updated>
+        <content type="html"><![CDATA[2021.10.21(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민연극 [라이어1탄] - 창원 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11224</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11224"/>
+        <updated>2021-10-15T02:02:41.673Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 4차 티켓 오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11223</id>
@@ -119,26 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11206"/>
         <updated>2021-10-08T06:18:34.443Z</updated>
         <content type="html"><![CDATA[2021.10.14(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족 뮤지컬 [봄날의 곰] 11월 티켓 오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11205</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11205"/>
-        <updated>2021-10-08T04:19:53.194Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11204</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11204"/>
-        <updated>2021-10-08T04:19:53.194Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [소품 호텔] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11203</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11203"/>
-        <updated>2021-10-07T08:18:34.876Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 13:00]]></content>
     </entry>
 </feed>
