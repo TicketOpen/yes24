@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 00:54:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 02:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최재림 콘서트 Monday Off! 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11229</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11229</guid>
+            <pubDate>Mon, 18 Oct 2021 02:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22(금) 11:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 [V 에버 애프터] 추가 티켓 오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11228</link>
@@ -137,13 +144,6 @@
             <content:encoded><![CDATA[2021.10.19(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매2021 적재 전국투어 ＇서로의 서로＇- 서울 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11208</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11208</guid>
-            <pubDate>Tue, 12 Oct 2021 05:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.14(목) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [V 에버 애프터] 추가 티켓 오픈안내 (예스24 티켓 ─ 하이라이트)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11228&amp;Gcode=009_208_001</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11228&amp;Gcode=009_208_001</guid>
@@ -190,6 +190,13 @@
             <pubDate>Wed, 13 Oct 2021 00:52:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.19(화) 20:00]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211007/20211007-40293.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[최재림 콘서트 Monday Off! 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11229&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11229&amp;order=1</guid>
+            <pubDate>Mon, 18 Oct 2021 02:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-22(금) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [V 에버 애프터] 추가 티켓 오픈안내 (예스24 티켓 모바일)]]></title>
@@ -253,12 +260,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11218&amp;order=1</guid>
             <pubDate>Wed, 13 Oct 2021 05:14:47 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-20(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[울산] 노래인생 60년 기념 이미자 음악회 취소안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11216&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11216&amp;order=1</guid>
-            <pubDate>Tue, 12 Oct 2021 06:18:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
