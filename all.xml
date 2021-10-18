@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 23:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 00:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,38 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11208</guid>
             <pubDate>Tue, 12 Oct 2021 05:13:58 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.14(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [V 에버 애프터] 추가 티켓 오픈안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11228&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11228&amp;Gcode=009_208_001</guid>
+            <pubDate>Mon, 18 Oct 2021 00:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18(월) 15:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202108/20210812/20210812-39879.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [V 에버 애프터] 4차 티켓 오픈안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11223&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11223&amp;Gcode=009_208_001</guid>
+            <pubDate>Mon, 18 Oct 2021 00:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19(화) 15:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202108/20210812/20210812-39879.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[강남심포니오케스트라 제139회 클래식품격콘서트 [Falling in fall 가을에 빠지다] 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11222&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11222&amp;Gcode=009_208_001</guid>
+            <pubDate>Mon, 18 Oct 2021 00:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18(월) 10:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211016/20211016-40467.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [미인] 3차 티켓 오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11221&amp;Gcode=009_208_001</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11221&amp;Gcode=009_208_001</guid>
+            <pubDate>Mon, 18 Oct 2021 00:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18(월) 14:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211005/20211005-39792.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 4차 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
