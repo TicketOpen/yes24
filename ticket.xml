@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-19T04:20:26.770Z</updated>
+    <updated>2021-10-19T05:14:38.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,34 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11235"/>
         <updated>2021-10-19T03:16:49.440Z</updated>
         <content type="html"><![CDATA[2021.10.19(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 적재 전국투어 ＇서로의 서로＇ - 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11234</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11234"/>
+        <updated>2021-10-19T05:14:19.749Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 적재 전국투어 ＇서로의 서로＇ - 대구 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11232</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11232"/>
+        <updated>2021-10-19T05:14:19.749Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 적재 전국투어 ＇서로의 서로＇- 광주 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11231</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11231"/>
+        <updated>2021-10-19T05:14:19.755Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [시카고] - 여수 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11230</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11230"/>
+        <updated>2021-10-19T05:14:19.755Z</updated>
+        <content type="html"><![CDATA[2021.10.21(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최재림 콘서트 Monday Off! 티켓오픈안내]]></title>
@@ -112,33 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11215"/>
         <updated>2021-10-12T03:16:30.283Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕? 손호영〈Hello? SHY〉- 부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11213</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11213"/>
-        <updated>2021-10-12T03:16:30.288Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] - 전주 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11212</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11212"/>
-        <updated>2021-10-12T06:18:14.025Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] - 대전 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11211</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11211"/>
-        <updated>2021-10-12T06:18:14.025Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매유미 연말 콘서트 〈Let's just live today〉티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11210</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11210"/>
-        <updated>2021-10-12T00:55:26.438Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 17:00]]></content>
     </entry>
 </feed>
