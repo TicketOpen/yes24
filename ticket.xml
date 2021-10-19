@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-19T07:15:52.956Z</updated>
+    <updated>2021-10-19T08:19:15.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11238</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11238"/>
+        <updated>2021-10-19T08:18:51.824Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 광주 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11237</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11237"/>
+        <updated>2021-10-19T08:18:51.824Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 인천 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11236</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11236"/>
+        <updated>2021-10-19T08:18:51.824Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[별은 빛나건만: 오페라 ＆ 크로스오버 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11235</id>
@@ -121,24 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11218"/>
         <updated>2021-10-13T05:14:28.030Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주은행 시스템 작업에 따른 결제 서비스 중단 안내(10/23, 10/24)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11217</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11217"/>
-        <updated>2021-10-12T09:14:55.608Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 노래인생 60년 기념 이미자 음악회 취소안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11216</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11216"/>
-        <updated>2021-10-12T06:18:14.021Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문태국 ＆ 임동혁 듀오 리사이틀 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11215</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11215"/>
-        <updated>2021-10-12T03:16:30.283Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 16:00]]></content>
     </entry>
 </feed>
