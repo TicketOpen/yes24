@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-19T02:03:26.622Z</updated>
+    <updated>2021-10-19T03:17:08.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[별은 빛나건만: 오페라 ＆ 크로스오버 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11235</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11235"/>
+        <updated>2021-10-19T03:16:49.440Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최재림 콘서트 Monday Off! 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11229</id>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11210"/>
         <updated>2021-10-12T00:55:26.438Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 4차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11209</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11209"/>
-        <updated>2021-10-12T05:13:58.046Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 14:00]]></content>
     </entry>
 </feed>
