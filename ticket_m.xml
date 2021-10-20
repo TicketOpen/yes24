@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-20T05:15:08.326Z</updated>
+    <updated>2021-10-20T06:19:08.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ATEEZ(에이티즈) XR SHOW [FEVER : eXtended edition] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11240&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11240&amp;order=1"/>
+        <updated>2021-10-20T06:19:07.624Z</updated>
+        <content type="html"><![CDATA[2021-10-22(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11239&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11230&amp;order=1"/>
         <updated>2021-10-19T05:14:38.120Z</updated>
         <content type="html"><![CDATA[2021-10-21(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최재림 콘서트 Monday Off! 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11229&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11229&amp;order=1"/>
-        <updated>2021-10-18T02:11:03.353Z</updated>
-        <content type="html"><![CDATA[2021-10-22(금) 11:00]]></content>
     </entry>
 </feed>

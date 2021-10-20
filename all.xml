@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 05:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 06:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ATEEZ(에이티즈) XR SHOW [FEVER : eXtended edition] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11240</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11240</guid>
+            <pubDate>Wed, 20 Oct 2021 06:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22(금) 15:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11239</link>
@@ -140,12 +147,6 @@
             <pubDate>Wed, 13 Oct 2021 03:16:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[삼성증권 시스템 작업에 따른 결제 서비스 중단 안내(10/17) (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11219</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11219</guid>
-            <pubDate>Wed, 13 Oct 2021 03:16:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [시카고] - 여수 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11230&amp;Gcode=009_208_001</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11230&amp;Gcode=009_208_001</guid>
@@ -176,6 +177,13 @@
             <pubDate>Tue, 19 Oct 2021 00:55:37 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20(수) 14:00]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211018/20211018-40477.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ(에이티즈) XR SHOW [FEVER : eXtended edition] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11240&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11240&amp;order=1</guid>
+            <pubDate>Wed, 20 Oct 2021 06:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-22(금) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -239,13 +247,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11230&amp;order=1</guid>
             <pubDate>Tue, 19 Oct 2021 05:14:38 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-21(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최재림 콘서트 Monday Off! 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11229&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11229&amp;order=1</guid>
-            <pubDate>Mon, 18 Oct 2021 02:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-22(금) 11:00]]></content:encoded>
         </item>
     </channel>
 </rss>

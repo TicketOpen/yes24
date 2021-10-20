@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-20T05:15:08.329Z</updated>
+    <updated>2021-10-20T06:19:08.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ATEEZ(에이티즈) XR SHOW [FEVER : eXtended edition] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11240</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11240"/>
+        <updated>2021-10-20T06:18:47.528Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11239</id>
@@ -135,12 +142,6 @@
         <title type="html"><![CDATA[[세종문화회관] 네트워크 작업으로 인한 실시간 연동 판매 서비스 중단안내(10/21)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11220</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11220"/>
-        <updated>2021-10-13T03:16:44.365Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성증권 시스템 작업에 따른 결제 서비스 중단 안내(10/17)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11219</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11219"/>
         <updated>2021-10-13T03:16:44.365Z</updated>
     </entry>
 </feed>
