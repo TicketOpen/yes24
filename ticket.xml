@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-21T00:57:11.320Z</updated>
+    <updated>2021-10-21T02:10:20.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <인사이드> 3차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11241</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11241"/>
+        <updated>2021-10-21T02:09:58.683Z</updated>
+        <content type="html"><![CDATA[2021.10.25(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ATEEZ(에이티즈) XR SHOW [FEVER : eXtended edition] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11240</id>
@@ -73,7 +80,7 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11230</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11230"/>
         <updated>2021-10-19T05:14:19.755Z</updated>
-        <content type="html"><![CDATA[2021.10.21(목) 14:00]]></content>
+        <content type="html"><![CDATA[2021.10.26(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최재림 콘서트 Monday Off! 티켓오픈안내]]></title>
@@ -137,11 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11221"/>
         <updated>2021-10-14T02:01:23.156Z</updated>
         <content type="html"><![CDATA[2021.10.18(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세종문화회관] 네트워크 작업으로 인한 실시간 연동 판매 서비스 중단안내(10/21)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11220</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11220"/>
-        <updated>2021-10-13T03:16:44.365Z</updated>
     </entry>
 </feed>
