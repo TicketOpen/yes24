@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 08:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 09:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 김수영 단독공연 [EPISODE] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11245</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11245</guid>
+            <pubDate>Fri, 22 Oct 2021 09:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.27(수) 18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[크리스마스 지브리 탱고 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11244</link>
@@ -141,13 +148,6 @@
             <content:encoded><![CDATA[2021.10.21(목) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국민연극 [라이어1탄] - 창원 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11224</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11224</guid>
-            <pubDate>Fri, 15 Oct 2021 02:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22(금) 11:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[ATEEZ(에이티즈) XR SHOW [FEVER : eXtended edition] 티켓오픈 안내 (예스24 티켓 ─ 하이라이트)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11240&amp;Gcode=009_208_001</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx?#id=11240&amp;Gcode=009_208_001</guid>
@@ -220,6 +220,13 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211018/20211018-40475_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[2021 김수영 단독공연 [EPISODE] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11245&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11245&amp;order=1</guid>
+            <pubDate>Fri, 22 Oct 2021 09:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-27(수) 18:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[크리스마스 지브리 탱고 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11244&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11244&amp;order=1</guid>
@@ -281,13 +288,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11236&amp;order=1</guid>
             <pubDate>Tue, 19 Oct 2021 08:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-22(금) 19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[별은 빛나건만: 오페라 ＆ 크로스오버 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11235&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11235&amp;order=1</guid>
-            <pubDate>Tue, 19 Oct 2021 03:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-19(화) 14:00]]></content:encoded>
         </item>
     </channel>
 </rss>

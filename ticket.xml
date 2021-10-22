@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-22T08:19:01.896Z</updated>
+    <updated>2021-10-22T09:15:27.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 김수영 단독공연 [EPISODE] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11245</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11245"/>
+        <updated>2021-10-22T09:15:10.592Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스 지브리 탱고 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11244</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11225"/>
         <updated>2021-10-15T02:02:41.671Z</updated>
         <content type="html"><![CDATA[2021.10.21(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민연극 [라이어1탄] - 창원 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11224</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11224"/>
-        <updated>2021-10-15T02:02:41.673Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 11:00]]></content>
     </entry>
 </feed>
