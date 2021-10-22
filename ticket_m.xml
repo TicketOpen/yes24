@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-22T00:59:37.808Z</updated>
+    <updated>2021-10-22T02:13:43.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스마스 지브리 탱고 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11244&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11244&amp;order=1"/>
+        <updated>2021-10-22T02:13:42.637Z</updated>
+        <content type="html"><![CDATA[2021-10-22(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [헤드윅] - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11243&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11243&amp;order=1"/>
+        <updated>2021-10-22T02:13:42.641Z</updated>
+        <content type="html"><![CDATA[2021-11-05(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인형극 [소녀, 순이] - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11242&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11235&amp;order=1"/>
         <updated>2021-10-19T03:17:08.198Z</updated>
         <content type="html"><![CDATA[2021-10-19(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 적재 전국투어 ＇서로의 서로＇ - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11234&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11234&amp;order=1"/>
-        <updated>2021-10-19T05:14:38.111Z</updated>
-        <content type="html"><![CDATA[2021-10-22(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 적재 전국투어 ＇서로의 서로＇ - 대구 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11232&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11232&amp;order=1"/>
-        <updated>2021-10-19T05:14:38.112Z</updated>
-        <content type="html"><![CDATA[2021-10-22(금) 16:00]]></content>
     </entry>
 </feed>
