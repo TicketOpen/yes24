@@ -17,7 +17,6 @@ linkSelector = "a"
 contentSelector = "p.ticket-date"
 imageSelector = "a img.lazyload"
 waitUntil = "networkidle"
-onFail = "stale"
 
 [ticket_m]
 title = "예스24 티켓 모바일"
