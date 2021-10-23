@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-23T02:04:10.189Z</updated>
+    <updated>2021-10-23T03:16:36.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [비누향기] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11246</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11246"/>
+        <updated>2021-10-23T03:16:18.432Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 김수영 단독공연 [EPISODE] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11245</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11226"/>
         <updated>2021-10-15T02:02:41.669Z</updated>
         <content type="html"><![CDATA[2021.10.22(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [쿠로이 저택엔 누가 살고 있을까?] 1차 티켓 오픈 안내 : 쿠로이 저택엔 누가 먼저 가볼..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11225</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11225"/>
-        <updated>2021-10-15T02:02:41.671Z</updated>
-        <content type="html"><![CDATA[2021.10.21(목) 15:00]]></content>
     </entry>
 </feed>
