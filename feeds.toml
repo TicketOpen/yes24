@@ -6,6 +6,7 @@ titleSelector = "td:nth-child(2)"
 linkSelector = "td:nth-child(2) > a"
 contentSelector = "td:nth-child(3)"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [ticket_top]
 title = "예스24 티켓 ─ 하이라이트"
@@ -16,6 +17,7 @@ linkSelector = "a"
 contentSelector = "p.ticket-date"
 imageSelector = "a img.lazyload"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [ticket_m]
 title = "예스24 티켓 모바일"
@@ -25,3 +27,4 @@ titleSelector = "a > div.brd_name.limit_2ln"
 linkSelector = "a[class='lnk_brd']"
 contentSelector = "em[class='txt']"
 waitUntil = "networkidle"
+onFail = "stale"
