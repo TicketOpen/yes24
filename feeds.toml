@@ -8,16 +8,6 @@ contentSelector = "td:nth-child(3)"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[ticket_top]
-title = "예스24 티켓 ─ 하이라이트"
-url = "http://ticket.yes24.com/New/Notice/NoticeMain.aspx"
-entrySelector = "div.swiper-container.ticketo div.swiper-wrapper div.swiper-slide"
-titleSelector = "p.ticket-tit"
-linkSelector = "a"
-contentSelector = "p.ticket-date"
-imageSelector = "a img.lazyload"
-waitUntil = "networkidle"
-
 [ticket_m]
 title = "예스24 티켓 모바일"
 url = "http://m.ticket.yes24.com/Notice/List.aspx?type=1"
