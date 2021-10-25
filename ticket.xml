@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-25T00:53:32.264Z</updated>
+    <updated>2021-10-25T02:01:52.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 해군창설 76주년 기념 대한민국 해군 호국음악회 - 서울 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11248</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11248"/>
+        <updated>2021-10-25T02:01:42.788Z</updated>
+        <content type="html"><![CDATA[2021.10.29(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [비누향기] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11246</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11227"/>
         <updated>2021-10-15T09:15:07.864Z</updated>
         <content type="html"><![CDATA[2021.10.21(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼밴드2 콘서트 - 부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11226</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11226"/>
-        <updated>2021-10-15T02:02:41.669Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 14:00]]></content>
     </entry>
 </feed>
