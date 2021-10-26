@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-26T05:14:09.974Z</updated>
+    <updated>2021-10-26T06:19:10.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[온앤오프(ONF) 2021 LIVE CONTACT :: CODE #1. [REVERSE] 티켓오픈안내 (예스24 티켓)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11255</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11255"/>
+        <updated>2021-10-26T06:19:01.342Z</updated>
+        <content type="html"><![CDATA[2021.11.12(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.11.09(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [잭더리퍼] 티켓오픈안내 (예스24 티켓)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11254</id>
@@ -138,11 +145,11 @@
         <content type="html"><![CDATA[2021.10.22(금) 19:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[별은 빛나건만: 오페라 ＆ 크로스오버 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11235</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11235"/>
-        <updated>2021-10-19T03:16:49.440Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 14:00]]></content>
+        <title type="html"><![CDATA[온앤오프(ONF) 2021 LIVE CONTACT :: CODE #1. [REVERSE] 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11255&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11255&amp;order=1"/>
+        <updated>2021-10-26T06:19:10.102Z</updated>
+        <content type="html"><![CDATA[2021-11-12(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [잭더리퍼] 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11246&amp;order=1"/>
         <updated>2021-10-23T03:16:35.679Z</updated>
         <content type="html"><![CDATA[2021-10-27(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 김수영 단독공연 [EPISODE] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11245&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11245&amp;order=1"/>
-        <updated>2021-10-22T09:15:27.336Z</updated>
-        <content type="html"><![CDATA[2021-10-27(수) 18:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-26T05:14:09.975Z</updated>
+    <updated>2021-10-26T06:19:10.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온앤오프(ONF) 2021 LIVE CONTACT :: CODE #1. [REVERSE] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11255&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11255&amp;order=1"/>
+        <updated>2021-10-26T06:19:10.102Z</updated>
+        <content type="html"><![CDATA[2021-11-12(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [잭더리퍼] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11254&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11246&amp;order=1"/>
         <updated>2021-10-23T03:16:35.679Z</updated>
         <content type="html"><![CDATA[2021-10-27(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 김수영 단독공연 [EPISODE] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11245&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11245&amp;order=1"/>
-        <updated>2021-10-22T09:15:27.336Z</updated>
-        <content type="html"><![CDATA[2021-10-27(수) 18:00]]></content>
     </entry>
 </feed>
