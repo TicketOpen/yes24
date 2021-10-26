@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-26T07:15:45.426Z</updated>
+    <updated>2021-10-26T08:19:08.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇추가 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11257</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11257"/>
+        <updated>2021-10-26T08:18:58.045Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [작은아씨들] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11256</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11238"/>
         <updated>2021-10-19T08:18:51.824Z</updated>
         <content type="html"><![CDATA[2021.10.22(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 광주 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11237</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11237"/>
-        <updated>2021-10-19T08:18:51.824Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 16:00]]></content>
     </entry>
 </feed>

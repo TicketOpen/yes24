@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-26T07:15:45.410Z</updated>
+    <updated>2021-10-26T08:19:08.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇추가 티켓오픈 안내 (예스24 티켓)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11257</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11257"/>
+        <updated>2021-10-26T08:18:58.045Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [작은아씨들] 티켓오픈 안내 (예스24 티켓)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11256</id>
@@ -138,11 +145,11 @@
         <content type="html"><![CDATA[2021.10.22(금) 15:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 광주 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11237</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11237"/>
-        <updated>2021-10-19T08:18:51.824Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 16:00]]></content>
+        <title type="html"><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇추가 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11257&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11257&amp;order=1"/>
+        <updated>2021-10-26T08:19:07.576Z</updated>
+        <content type="html"><![CDATA[2021-10-27(수) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [작은아씨들] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11248&amp;order=1"/>
         <updated>2021-10-25T02:01:51.838Z</updated>
         <content type="html"><![CDATA[2021-10-29(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [무희 - 무명이 되고자 했던 그녀] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11247&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11247&amp;order=1"/>
-        <updated>2021-10-25T05:14:30.091Z</updated>
-        <content type="html"><![CDATA[2021-10-27(수) 15:00]]></content>
     </entry>
 </feed>
