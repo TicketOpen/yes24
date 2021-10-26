@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-26T04:20:29.750Z</updated>
+    <updated>2021-10-26T05:14:09.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [잭더리퍼] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11254</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11254"/>
+        <updated>2021-10-26T05:14:00.150Z</updated>
+        <content type="html"><![CDATA[2021.11.03(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 5차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11253</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11253"/>
+        <updated>2021-10-26T05:14:00.152Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [시카고] 성남 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11252</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11252"/>
+        <updated>2021-10-26T05:14:00.152Z</updated>
+        <content type="html"><![CDATA[2021.10.29(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스 첼로의 성가 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11251</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11235"/>
         <updated>2021-10-19T03:16:49.440Z</updated>
         <content type="html"><![CDATA[2021.10.19(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 적재 전국투어 ＇서로의 서로＇ - 부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11234</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11234"/>
-        <updated>2021-10-19T05:14:19.749Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 적재 전국투어 ＇서로의 서로＇ - 대구 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11232</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11232"/>
-        <updated>2021-10-19T05:14:19.749Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2021 적재 전국투어 ＇서로의 서로＇- 광주 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11231</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11231"/>
-        <updated>2021-10-19T05:14:19.755Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 14:00]]></content>
     </entry>
 </feed>
