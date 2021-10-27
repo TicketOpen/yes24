@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-27T06:20:05.988Z</updated>
+    <updated>2021-10-27T07:16:06.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [바람이 불어오는 곳] 2차 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11258</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11258"/>
+        <updated>2021-10-27T07:15:55.131Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇추가 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11257</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11239"/>
         <updated>2021-10-19T09:15:38.614Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11238</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11238"/>
-        <updated>2021-10-19T08:18:51.824Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 15:00]]></content>
     </entry>
 </feed>
