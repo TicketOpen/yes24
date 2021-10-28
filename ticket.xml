@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-28T06:19:06.277Z</updated>
+    <updated>2021-10-28T07:16:01.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오픈일시 변경] 뮤지컬 [시카고] 성남 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11260</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11260"/>
+        <updated>2021-10-28T07:15:51.964Z</updated>
+        <content type="html"><![CDATA[2021.11.01(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2021 적재 전국투어 ＇서로의 서로＇추가 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11259</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11241"/>
         <updated>2021-10-21T02:09:58.683Z</updated>
         <content type="html"><![CDATA[2021.10.25(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATEEZ(에이티즈) XR SHOW [FEVER : eXtended edition] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11240</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11240"/>
-        <updated>2021-10-20T06:18:47.528Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 15:00]]></content>
     </entry>
 </feed>
