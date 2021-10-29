@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-29T05:14:28.513Z</updated>
+    <updated>2021-10-29T06:19:08.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [행복리] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11265</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11265"/>
+        <updated>2021-10-29T06:18:58.735Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [엑스칼리버] - 성남 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11264</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11245"/>
         <updated>2021-10-22T09:15:10.592Z</updated>
         <content type="html"><![CDATA[2021.10.27(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 지브리 탱고 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11244</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11244"/>
-        <updated>2021-10-22T02:13:24.283Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 14:00]]></content>
     </entry>
 </feed>
