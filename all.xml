@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-29T07:17:11.607Z</updated>
+    <updated>2021-10-29T08:19:53.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[연극 [행복리] 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -145,6 +145,13 @@
         <content type="html"><![CDATA[2021.10.27(수) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[오픈일시변경] 뮤지컬 지킬앤하이드 5차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11267&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11267&amp;order=1"/>
+        <updated>2021-10-29T08:19:53.297Z</updated>
+        <content type="html"><![CDATA[2021-11-05(금) 11:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 12월 연말 시즌 티켓 오픈! (Musical Hadestown) 티켓오픈안내 (예스24 티켓 모바일)]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11266&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11266&amp;order=1"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11257&amp;order=1"/>
         <updated>2021-10-26T08:19:07.576Z</updated>
         <content type="html"><![CDATA[2021-10-27(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [작은아씨들] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11256&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11256&amp;order=1"/>
-        <updated>2021-10-26T07:15:44.704Z</updated>
-        <content type="html"><![CDATA[2021-11-02(화) 14:00]]></content>
     </entry>
 </feed>
