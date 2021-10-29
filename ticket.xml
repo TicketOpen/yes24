@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-29T08:19:53.902Z</updated>
+    <updated>2021-10-29T09:15:43.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [더데빌] 1차 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11268</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11268"/>
+        <updated>2021-10-29T09:15:32.853Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오픈일시변경] 뮤지컬 지킬앤하이드 5차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11267</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11267"/>
+        <updated>2021-10-29T09:15:32.855Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 12월 연말 시즌 티켓 오픈! (Musical Hadestown) 티켓오픈..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11266</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11266"/>
+        <updated>2021-10-29T09:15:32.857Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [행복리] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11265</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11248"/>
         <updated>2021-10-25T02:01:42.788Z</updated>
         <content type="html"><![CDATA[2021.10.29(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [무희 - 무명이 되고자 했던 그녀] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11247</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11247"/>
-        <updated>2021-10-25T05:14:20.548Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [비누향기] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11246</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11246"/>
-        <updated>2021-10-23T03:16:18.432Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 김수영 단독공연 [EPISODE] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11245</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11245"/>
-        <updated>2021-10-22T09:15:10.592Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 18:00]]></content>
     </entry>
 </feed>
