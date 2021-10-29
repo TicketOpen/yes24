@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-29T04:20:38.271Z</updated>
+    <updated>2021-10-29T05:14:28.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] - 성남 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11264&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11264&amp;order=1"/>
+        <updated>2021-10-29T05:14:26.151Z</updated>
+        <content type="html"><![CDATA[2021-11-02(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] -  대구 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11263&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11263&amp;order=1"/>
+        <updated>2021-10-29T05:14:26.151Z</updated>
+        <content type="html"><![CDATA[2021-11-02(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <인사이드> 마지막 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11262&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11262&amp;order=1"/>
+        <updated>2021-10-29T05:14:26.152Z</updated>
+        <content type="html"><![CDATA[2021-11-04(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오픈일시 변경] 뮤지컬 [시카고] 성남 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11260&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11254&amp;order=1"/>
         <updated>2021-10-26T05:14:09.321Z</updated>
         <content type="html"><![CDATA[2021-11-03(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 5차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11253&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11253&amp;order=1"/>
-        <updated>2021-10-26T05:14:09.322Z</updated>
-        <content type="html"><![CDATA[2021-11-02(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [시카고] 성남 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11252&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11252&amp;order=1"/>
-        <updated>2021-10-26T05:14:09.324Z</updated>
-        <content type="html"><![CDATA[2021-10-29(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 첼로의 성가 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11251&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11251&amp;order=1"/>
-        <updated>2021-10-25T09:16:31.090Z</updated>
-        <content type="html"><![CDATA[2021-10-27(수) 14:00]]></content>
     </entry>
 </feed>
