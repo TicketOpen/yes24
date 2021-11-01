@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-01T02:37:51.521Z</updated>
+    <updated>2021-11-01T03:17:18.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[2021.11.03(수) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 5차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11253</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11253"/>
-        <updated>2021-10-26T05:14:00.152Z</updated>
-        <content type="html"><![CDATA[2021.11.02(화) 14:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뮤지컬 [시카고] 성남 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11252</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11252"/>
@@ -144,5 +137,12 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11249"/>
         <updated>2021-10-25T05:14:20.546Z</updated>
         <content type="html"><![CDATA[2021.10.26(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 해군창설 76주년 기념 대한민국 해군 호국음악회 - 서울 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11248</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11248"/>
+        <updated>2021-11-01T03:17:06.940Z</updated>
+        <content type="html"><![CDATA[2021.10.29(금) 10:00]]></content>
     </entry>
 </feed>
