@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-03T02:30:32.160Z</updated>
+    <updated>2021-11-03T03:17:03.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KBS교향악단 and 존노 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11277</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11277"/>
+        <updated>2021-11-03T03:16:53.783Z</updated>
+        <content type="html"><![CDATA[2021.11.04(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 연극 [엘리펀트 송] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11276</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11257"/>
         <updated>2021-10-26T08:18:58.045Z</updated>
         <content type="html"><![CDATA[2021.10.27(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [작은아씨들] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11256</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11256"/>
-        <updated>2021-10-26T07:15:35.024Z</updated>
-        <content type="html"><![CDATA[2021.11.02(화) 14:00]]></content>
     </entry>
 </feed>

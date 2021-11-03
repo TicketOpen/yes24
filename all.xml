@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-03T02:30:32.164Z</updated>
+    <updated>2021-11-03T03:17:03.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[KBS교향악단 and 존노 티켓오픈 안내 (예스24 티켓)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11277</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11277"/>
+        <updated>2021-11-03T03:16:53.783Z</updated>
+        <content type="html"><![CDATA[2021.11.04(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 연극 [엘리펀트 송] 티켓오픈 안내 (예스24 티켓)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11276</id>
@@ -137,11 +144,11 @@
         <content type="html"><![CDATA[2021.10.27(수) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 [작은아씨들] 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11256</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11256"/>
-        <updated>2021-10-26T07:15:35.024Z</updated>
-        <content type="html"><![CDATA[2021.11.02(화) 14:00]]></content>
+        <title type="html"><![CDATA[KBS교향악단 and 존노 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11277&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11277&amp;order=1"/>
+        <updated>2021-11-03T03:17:03.028Z</updated>
+        <content type="html"><![CDATA[2021-11-04(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 연극 [엘리펀트 송] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -204,12 +211,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11268&amp;order=1"/>
         <updated>2021-10-29T09:15:42.550Z</updated>
         <content type="html"><![CDATA[2021-11-05(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오픈일시변경] 뮤지컬 지킬앤하이드 5차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11267&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11267&amp;order=1"/>
-        <updated>2021-10-29T08:19:53.297Z</updated>
-        <content type="html"><![CDATA[2021-11-05(금) 11:00]]></content>
     </entry>
 </feed>
