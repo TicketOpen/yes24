@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-03T07:16:47.847Z</updated>
+    <updated>2021-11-03T08:19:40.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최재림 콘서트 Monday Off! 일부좌석 추가 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11282&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11282&amp;order=1"/>
+        <updated>2021-11-03T08:19:39.540Z</updated>
+        <content type="html"><![CDATA[2021-11-05(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX 〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11281&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11273&amp;order=1"/>
         <updated>2021-11-02T04:20:30.561Z</updated>
         <content type="html"><![CDATA[2021-11-10(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 추가 티켓 오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11272&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11272&amp;order=1"/>
-        <updated>2021-11-01T05:14:58.822Z</updated>
-        <content type="html"><![CDATA[2021-11-02(화) 11:00]]></content>
     </entry>
 </feed>
