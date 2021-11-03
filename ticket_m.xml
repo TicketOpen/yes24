@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-03T06:18:38.480Z</updated>
+    <updated>2021-11-03T07:16:47.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX 〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11281&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11281&amp;order=1"/>
+        <updated>2021-11-03T07:16:47.182Z</updated>
+        <content type="html"><![CDATA[2021-11-10(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11280&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11272&amp;order=1"/>
         <updated>2021-11-01T05:14:58.822Z</updated>
         <content type="html"><![CDATA[2021-11-02(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11271&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11271&amp;order=1"/>
-        <updated>2021-11-01T08:19:09.573Z</updated>
-        <content type="html"><![CDATA[2021-11-04(목) 14:00]]></content>
     </entry>
 </feed>

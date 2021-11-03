@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-03T06:18:38.486Z</updated>
+    <updated>2021-11-03T07:16:47.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX 〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11281</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11281"/>
+        <updated>2021-11-03T07:16:37.932Z</updated>
+        <content type="html"><![CDATA[2021.11.10(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11280</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11262"/>
         <updated>2021-10-29T05:14:09.632Z</updated>
         <content type="html"><![CDATA[2021.11.04(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오픈일시 변경] 뮤지컬 [시카고] 성남 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11260</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11260"/>
-        <updated>2021-10-28T07:15:51.964Z</updated>
-        <content type="html"><![CDATA[2021.11.01(월) 18:00]]></content>
     </entry>
 </feed>
