@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-03T04:20:33.156Z</updated>
+    <updated>2021-11-03T05:15:21.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[KBS교향악단 and 존노 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -144,6 +144,13 @@
         <content type="html"><![CDATA[2021.10.27(수) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2021 VICTON FANMEETING [Sweet Travel] 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11278&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11278&amp;order=1"/>
+        <updated>2021-11-03T05:15:20.696Z</updated>
+        <content type="html"><![CDATA[2021-11-15(월) 20:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KBS교향악단 and 존노 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11277&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11277&amp;order=1"/>
@@ -204,12 +211,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11269&amp;order=1"/>
         <updated>2021-11-01T02:01:21.487Z</updated>
         <content type="html"><![CDATA[2021-11-05(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [더데빌] 1차 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11268&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11268&amp;order=1"/>
-        <updated>2021-10-29T09:15:42.550Z</updated>
-        <content type="html"><![CDATA[2021-11-05(금) 13:00]]></content>
     </entry>
 </feed>
