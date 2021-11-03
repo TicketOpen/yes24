@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-03T05:15:21.262Z</updated>
+    <updated>2021-11-03T06:18:38.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11280&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11280&amp;order=1"/>
+        <updated>2021-11-03T06:18:37.840Z</updated>
+        <content type="html"><![CDATA[2021-11-04(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 뮤지컬 [블랙메리포핀스] 앵콜 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11279&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11279&amp;order=1"/>
+        <updated>2021-11-03T06:18:37.842Z</updated>
+        <content type="html"><![CDATA[2021-11-04(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 VICTON FANMEETING [Sweet Travel] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11278&amp;order=1</id>
@@ -60,18 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11271&amp;order=1"/>
         <updated>2021-11-01T08:19:09.573Z</updated>
         <content type="html"><![CDATA[2021-11-04(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）공연 연기 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11270&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11270&amp;order=1"/>
-        <updated>2021-11-01T05:14:58.824Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [홀연했던 사나이] - 온라인 상영회 (OST 패키지) 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11269&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11269&amp;order=1"/>
-        <updated>2021-11-01T02:01:21.487Z</updated>
-        <content type="html"><![CDATA[2021-11-05(금) 14:00]]></content>
     </entry>
 </feed>
