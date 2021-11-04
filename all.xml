@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-04T05:14:08.674Z</updated>
+    <updated>2021-11-04T06:19:43.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[세계적인 피아니스트 백혜선 피아노 독주회 티켓오픈 안내 (예스24 티켓)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11284</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11284"/>
+        <updated>2021-11-04T06:19:33.889Z</updated>
+        <content type="html"><![CDATA[2021.11.09(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헐리우드 영화음악 콘서트 in 부산 티켓오픈 안내 (예스24 티켓)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11283</id>
@@ -137,11 +144,11 @@
         <content type="html"><![CDATA[2021.11.02(화) 16:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] - 성남 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11264</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11264"/>
-        <updated>2021-10-29T05:14:09.632Z</updated>
-        <content type="html"><![CDATA[2021.11.02(화) 15:00]]></content>
+        <title type="html"><![CDATA[세계적인 피아니스트 백혜선 피아노 독주회 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11284&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11284&amp;order=1"/>
+        <updated>2021-11-04T06:19:43.113Z</updated>
+        <content type="html"><![CDATA[2021-11-09(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헐리우드 영화음악 콘서트 in 부산 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -205,12 +212,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11275&amp;order=1"/>
         <updated>2021-11-02T08:19:04.347Z</updated>
         <content type="html"><![CDATA[2021-11-04(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [미인] 마지막 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11274&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11274&amp;order=1"/>
-        <updated>2021-11-02T06:18:57.021Z</updated>
-        <content type="html"><![CDATA[2021-11-08(월) 15:00]]></content>
     </entry>
 </feed>
