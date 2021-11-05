@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-05T01:59:11.602Z</updated>
+    <updated>2021-11-05T02:34:57.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [은하철도의 밤] 1차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11287</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11287"/>
+        <updated>2021-11-05T02:34:47.050Z</updated>
+        <content type="html"><![CDATA[2021.11.11(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 마지막 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11286</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11286"/>
+        <updated>2021-11-05T02:34:47.050Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나의 관심공연 설정 및 맞춤 알람 서비스 종료 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11285</id>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11268"/>
         <updated>2021-10-29T09:15:32.853Z</updated>
         <content type="html"><![CDATA[2021.11.05(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오픈일시변경] 뮤지컬 지킬앤하이드 5차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11267</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11267"/>
-        <updated>2021-10-29T09:15:32.855Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 12월 연말 시즌 티켓 오픈! (Musical Hadestown) 티켓오픈..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11266</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11266"/>
-        <updated>2021-10-29T09:15:32.857Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 14:00]]></content>
     </entry>
 </feed>
