@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-05T06:19:12.930Z</updated>
+    <updated>2021-11-05T07:15:57.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [친정엄마와 2박3일] - 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11291</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11291"/>
+        <updated>2021-11-05T07:15:47.892Z</updated>
+        <content type="html"><![CDATA[2021.11.16(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [쿠로이 저택엔 누가 살고 있을까?] 2차 티켓 오픈 안내 : 쿠로이 저택엔 어떤 선물이 있..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11290</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11290"/>
+        <updated>2021-11-05T07:15:47.892Z</updated>
+        <content type="html"><![CDATA[2021.11.09(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [시카고] - 고양 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11289</id>
@@ -129,18 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11272"/>
         <updated>2021-11-01T05:14:49.134Z</updated>
         <content type="html"><![CDATA[2021.11.02(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11271</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11271"/>
-        <updated>2021-11-01T08:19:00.038Z</updated>
-        <content type="html"><![CDATA[2021.11.04(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）공연 연기 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11270</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11270"/>
-        <updated>2021-11-01T05:14:49.135Z</updated>
     </entry>
 </feed>

@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-05T06:19:12.953Z</updated>
+    <updated>2021-11-05T07:15:57.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 [친정엄마와 2박3일] - 부산 티켓오픈 안내 (예스24 티켓)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11291</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11291"/>
+        <updated>2021-11-05T07:15:47.892Z</updated>
+        <content type="html"><![CDATA[2021.11.16(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [쿠로이 저택엔 누가 살고 있을까?] 2차 티켓 오픈 안내 : 쿠로이 저택엔 어떤 선물이 있.. (예스24 티켓)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11290</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11290"/>
+        <updated>2021-11-05T07:15:47.892Z</updated>
+        <content type="html"><![CDATA[2021.11.09(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [시카고] - 고양 티켓오픈 안내 (예스24 티켓)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11289</id>
@@ -130,17 +144,18 @@
         <content type="html"><![CDATA[2021.11.02(화) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 2차 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11271</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11271"/>
-        <updated>2021-11-01T08:19:00.038Z</updated>
-        <content type="html"><![CDATA[2021.11.04(목) 14:00]]></content>
+        <title type="html"><![CDATA[연극 [친정엄마와 2박3일] - 부산 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11291&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11291&amp;order=1"/>
+        <updated>2021-11-05T07:15:56.871Z</updated>
+        <content type="html"><![CDATA[2021-11-16(화) 15:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）공연 연기 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11270</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11270"/>
-        <updated>2021-11-01T05:14:49.135Z</updated>
+        <title type="html"><![CDATA[뮤지컬 [쿠로이 저택엔 누가 살고 있을까?] 2차 티켓 오픈 안내 : 쿠로이 저택엔 어떤 선물이 있을까? (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11290&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11290&amp;order=1"/>
+        <updated>2021-11-05T07:15:56.874Z</updated>
+        <content type="html"><![CDATA[2021-11-09(화) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [시카고] - 고양 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -197,19 +212,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11281&amp;order=1"/>
         <updated>2021-11-03T07:16:47.182Z</updated>
         <content type="html"><![CDATA[2021-11-10(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11280&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11280&amp;order=1"/>
-        <updated>2021-11-03T06:18:37.840Z</updated>
-        <content type="html"><![CDATA[2021-11-04(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 뮤지컬 [블랙메리포핀스] 앵콜 2차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11279&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11279&amp;order=1"/>
-        <updated>2021-11-03T06:18:37.842Z</updated>
-        <content type="html"><![CDATA[2021-11-04(목) 16:00]]></content>
     </entry>
 </feed>
