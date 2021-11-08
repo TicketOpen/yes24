@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 18:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 19:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,6 +217,14 @@
             <content:encoded><![CDATA[2021-11-16(화) 15:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 <친정엄마와 2박3일> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40418</link>
+            <guid>http://ticket.yes24.com/Perf/40418</guid>
+            <pubDate>Mon, 08 Nov 2021 13:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>63,050원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211108/20211108-40418.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 <공원벤치가 견뎌야 하는 상실의 무게> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/40424</link>
             <guid>http://ticket.yes24.com/Perf/40424</guid>
@@ -231,14 +239,6 @@
             <pubDate>Mon, 08 Nov 2021 13:49:25 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>39,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211108/20211108-40196.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <친정엄마와 2박3일> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40418</link>
-            <guid>http://ticket.yes24.com/Perf/40418</guid>
-            <pubDate>Mon, 08 Nov 2021 13:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>63,050원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211108/20211108-40418.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천사에 관하여: 타락천사 편 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -347,6 +347,244 @@
             <pubDate>Mon, 08 Nov 2021 18:30:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.02.01 ~ 2021.12.05]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202105/20210524/20210524-f666b307-0e8b-454e-8dea-c29d98bec085.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[매거진 수신회원] 뮤지컬 2,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://www.yes24.com/Member/FTMypageMain.aspx</link>
+            <guid>http://www.yes24.com/Member/FTMypageMain.aspx</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
+				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/imgNew/event/redcp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지컬 예매 시 사용가능<br>취소 시 쿠폰 복원<br>주 1회 발급 가능]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 미인] 하륜관에서 보낸 3천원 할인쿠폰♬ (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.11.05 ~ 2021.11.14</dd><dt>사용기간</dt><dd>2021.11.05 ~ 2021.11.14</dd>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/imgNew/event/redcp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[취소시 쿠폰 적용]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[타 할인과 중복 사용 가능]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[타 쿠폰과 중복 사용 불가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[3만원 이상 결제 시, 사용 가능]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 엑스칼리버] 1만원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.10.13 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.10.13 ~ 2021.12.31</dd>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/imgNew/event/redcp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[취소시 쿠폰 복원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[타 할인과 중복사용 가능]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[타 쿠폰과 중복사용 불가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[20만원 이상 구매 시, 사용 가능]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 엑스칼리버] 5천원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.10.13 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.10.13 ~ 2021.12.31</dd>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/imgNew/event/redcp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[취소시 쿠폰 복원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[타 할인과 중복사용 가능]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[타 쿠폰과 중복사용 불가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[10만원 이상 구매 시, 사용 가능]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 팬텀] 5천원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2021.12.31</dd>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/imgNew/event/redcp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[취소시 쿠폰 복원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[타 할인과 중복사용 가능]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[타 쿠폰과 중복사용 불가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[10만원 이상 구매 시, 사용 가능]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 팬텀] 1만원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2021.12.31</dd>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/imgNew/event/redcp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[취소시 쿠폰 복원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[타 할인과 중복사용 가능]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[타 쿠폰과 중복사용 불가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[20만원 이상 구매 시, 사용 가능]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 시카고] 5천원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2021.12.31</dd>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/imgNew/event/redcp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[취소시 쿠폰 복원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[타 할인과 중복사용 가능]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[타 쿠폰과 중복사용 불가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>https://TicketOpen.github.io/yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/yes24/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[10만원 이상 구매 시, 사용 가능]]></content:encoded>
         </item>
     </channel>
 </rss>
