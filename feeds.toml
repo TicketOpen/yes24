@@ -18,7 +18,7 @@ contentSelector = "em[class='txt']"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[ticket_promotion]
+[ticket_angel]
 title = "YES24 티켓 ─ 엔젤티켓"
 url = "http://ticket.yes24.com/Pages/Events/HotEvent/PromotionInfo.aspx?id=2577"
 entrySelector = "div.listwrap div.list"
@@ -26,5 +26,16 @@ titleSelector = "span.t_t"
 linkSelector = "a"
 contentSelector = "a > dl > dd > table > tbody > tr > td > table > tbody > tr:nth-child(1)"
 imageSelector = "span.pos img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[ticket_angel_m]
+title = "YES24 티켓 ─ 엔젤티켓 모바일"
+url = "http://m.ticket.yes24.com/Discount/Angel.aspx"
+entrySelector = "ul.yGoodsUnit li"
+titleSelector = "p.goods_name"
+linkSelector = "a.lnk_goods"
+contentSelector = "div.goods_info"
+imageSelector = "em.imgBdr img"
 waitUntil = "networkidle"
 onFail = "stale"
