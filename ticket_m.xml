@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-08T07:16:07.636Z</updated>
+    <updated>2021-11-08T08:19:45.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 3차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11300&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11300&amp;order=1"/>
+        <updated>2021-11-08T08:19:44.834Z</updated>
+        <content type="html"><![CDATA[2021-11-11(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE BOYZ FAN CON : THE B-ZONE 온라인 공연  티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11299&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11299&amp;order=1"/>
+        <updated>2021-11-08T08:19:44.834Z</updated>
+        <content type="html"><![CDATA[2021-11-16(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE BOYZ FAN CON : THE B-ZONE 오프라인 공연 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11298&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11298&amp;order=1"/>
+        <updated>2021-11-08T08:19:44.836Z</updated>
+        <content type="html"><![CDATA[2021-11-15(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 만나 콘서트 (강원도민 대상 공연) 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11297&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11291&amp;order=1"/>
         <updated>2021-11-05T07:15:56.871Z</updated>
         <content type="html"><![CDATA[2021-11-16(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [쿠로이 저택엔 누가 살고 있을까?] 2차 티켓 오픈 안내 : 쿠로이 저택엔 어떤 선물이 있을까?]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11290&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11290&amp;order=1"/>
-        <updated>2021-11-05T07:15:56.874Z</updated>
-        <content type="html"><![CDATA[2021-11-09(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [시카고] - 고양 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11289&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11289&amp;order=1"/>
-        <updated>2021-11-05T05:14:51.439Z</updated>
-        <content type="html"><![CDATA[2021-11-11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민연극 [라이어 1탄] - 전주 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11288&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11288&amp;order=1"/>
-        <updated>2021-11-05T05:14:51.454Z</updated>
-        <content type="html"><![CDATA[2021-11-10(수) 14:00]]></content>
     </entry>
 </feed>
