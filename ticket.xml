@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-08T03:17:10.934Z</updated>
+    <updated>2021-11-08T04:20:47.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매뮤지컬 [최후진술] 얼리버드 패키지 B타입 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11296</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11296"/>
+        <updated>2021-11-08T04:20:37.652Z</updated>
+        <content type="html"><![CDATA[2021.11.08(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매뮤지컬 [최후진술] 얼리버드 패키지 A타입 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11295</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11295"/>
+        <updated>2021-11-08T04:20:37.652Z</updated>
+        <content type="html"><![CDATA[2021.11.08(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콘서트 브랜디드 VOL.1〈팔로알토, 허클베리피, 저스디스, EK〉티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11292</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11275"/>
         <updated>2021-11-02T08:18:55.194Z</updated>
         <content type="html"><![CDATA[2021.11.04(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [미인] 마지막 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11274</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11274"/>
-        <updated>2021-11-02T06:18:47.519Z</updated>
-        <content type="html"><![CDATA[2021.11.08(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [서찰을 전하는 아이] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11273</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11273"/>
-        <updated>2021-11-02T04:20:20.999Z</updated>
-        <content type="html"><![CDATA[2021.11.10(수) 16:00]]></content>
     </entry>
 </feed>
