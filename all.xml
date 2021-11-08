@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-08T05:14:54.937Z</updated>
+    <updated>2021-11-08T06:19:41.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[단독판매다시 만나 콘서트 (강원도민 대상 공연) 티켓 오픈 안내 (예스24 티켓)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11297</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11297"/>
+        <updated>2021-11-08T06:19:31.212Z</updated>
+        <content type="html"><![CDATA[2021.11.08(월) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매뮤지컬 [최후진술] 얼리버드 패키지 B타입 티켓오픈 안내 (예스24 티켓)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11296</id>
@@ -137,11 +144,11 @@
         <content type="html"><![CDATA[2021.11.15(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.11.11(목) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KBS교향악단 and 존노 티켓오픈 안내 (예스24 티켓)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11277</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11277"/>
-        <updated>2021-11-03T03:16:53.783Z</updated>
-        <content type="html"><![CDATA[2021.11.04(목) 14:00]]></content>
+        <title type="html"><![CDATA[다시 만나 콘서트 (강원도민 대상 공연) 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11297&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11297&amp;order=1"/>
+        <updated>2021-11-08T06:19:40.553Z</updated>
+        <content type="html"><![CDATA[2021-11-08(월) 16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [최후진술] 얼리버드 패키지 B타입 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -205,12 +212,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11288&amp;order=1"/>
         <updated>2021-11-05T05:14:51.454Z</updated>
         <content type="html"><![CDATA[2021-11-10(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [은하철도의 밤] 1차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11287&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11287&amp;order=1"/>
-        <updated>2021-11-05T02:34:56.979Z</updated>
-        <content type="html"><![CDATA[2021-11-11(목) 15:00]]></content>
     </entry>
 </feed>
