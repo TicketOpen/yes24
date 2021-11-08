@@ -71,3 +71,12 @@ linkSelector = "a"
 contentSelector = "dl"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[ticket_coupon_m]
+title = "YES24 티켓 ─ 쿠폰 "
+url = "http://m.ticket.yes24.com/Discount/coupon.aspx"
+entrySelector = "div.goods_saleListArea.gType_coupon ul.yGoodsUnit li"
+titleSelector = "p.goods_name"
+linkSelector = "a.lnk_goods"
+contentSelector = "p.goods_coupon"
+waitUntil = "networkidle"
