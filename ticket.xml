@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-08T01:58:27.841Z</updated>
+    <updated>2021-11-08T02:32:33.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콘서트 브랜디드 VOL.1〈팔로알토, 허클베리피, 저스디스, EK〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11292</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11292"/>
+        <updated>2021-11-08T02:32:21.826Z</updated>
+        <content type="html"><![CDATA[2021.11.09(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [친정엄마와 2박3일] - 부산 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11291</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11273"/>
         <updated>2021-11-02T04:20:20.999Z</updated>
         <content type="html"><![CDATA[2021.11.10(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 추가 티켓 오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11272</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11272"/>
-        <updated>2021-11-01T05:14:49.134Z</updated>
-        <content type="html"><![CDATA[2021.11.02(화) 11:00]]></content>
     </entry>
 </feed>

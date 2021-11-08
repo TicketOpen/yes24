@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-08T01:58:27.868Z</updated>
+    <updated>2021-11-08T02:32:33.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콘서트 브랜디드 VOL.1〈팔로알토, 허클베리피, 저스디스, EK〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11292&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11292&amp;order=1"/>
+        <updated>2021-11-08T02:32:32.946Z</updated>
+        <content type="html"><![CDATA[2021-11-09(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [친정엄마와 2박3일] - 부산 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11291&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11282&amp;order=1"/>
         <updated>2021-11-03T08:19:39.540Z</updated>
         <content type="html"><![CDATA[2021-11-05(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX 〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11281&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11281&amp;order=1"/>
-        <updated>2021-11-03T07:16:47.182Z</updated>
-        <content type="html"><![CDATA[2021-11-10(수) 18:00]]></content>
     </entry>
 </feed>
