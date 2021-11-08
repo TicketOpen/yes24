@@ -51,6 +51,17 @@ imageSelector = "a img"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[ticket_event_m]
+title = "YES24 티켓 ─ 이벤트 모바일"
+url = "http://m.ticket.yes24.com/Event/List.aspx"
+entrySelector = "ul.yGoodsUnit li"
+titleSelector = "div.goods_info p.evt_info:nth-child(1)"
+linkSelector = "a.lnk_goods"
+contentSelector = "div.goods_info p.evt_info[style='display:block;']"
+imageSelector = "p.goods_img em.imgBdr img"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [ticket_coupon]
 title = "YES24 티켓 ─ 쿠폰"
 url = "http://ticket.yes24.com/New/Events/Main.aspx"
