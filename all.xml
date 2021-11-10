@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 06:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 07:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <content:encoded><![CDATA[2021-11-08(월) 16:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <천사에 관하여: 타락천사 편> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40196</link>
+            <guid>http://ticket.yes24.com/Perf/40196</guid>
+            <pubDate>Mon, 08 Nov 2021 13:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>39,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211108/20211108-40196.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 <친정엄마와 2박3일> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/40418</link>
             <guid>http://ticket.yes24.com/Perf/40418</guid>
@@ -230,14 +238,6 @@
             <pubDate>Mon, 08 Nov 2021 13:49:25 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>15,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211108/20211108-40424.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <천사에 관하여: 타락천사 편> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40196</link>
-            <guid>http://ticket.yes24.com/Perf/40196</guid>
-            <pubDate>Mon, 08 Nov 2021 13:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>39,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211108/20211108-40196.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천사에 관하여: 타락천사 편 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -274,6 +274,14 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">15,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11월 공연까지, 1인 4매</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211108/20211108-40424.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <무희 - 무명이 되고자 했던 그녀> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40583&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40583&amp;Tab=3</guid>
+            <pubDate>Wed, 10 Nov 2021 07:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10 ~ 2021.11.15 | 2021.11.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211110/20211110-791179b5-508e-45d2-8257-903501bf5bb6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <천사에 관하여: 타락천사 편> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -340,12 +348,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211012/20211012-405f144b-8fd6-4a40-8784-271a6505c19d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소중한 일상, 소중한 문화티켓 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3178</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3178</guid>
-            <pubDate>Mon, 08 Nov 2021 18:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.02.01 ~ 2021.12.05]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202105/20210524/20210524-f666b307-0e8b-454e-8dea-c29d98bec085.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2021.11.10 ~ 2021.11.15 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40583</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40583</guid>
+            <pubDate>Wed, 10 Nov 2021 07:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2021년 11월 19일(금) 오후 8시]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211110/20211110-791179b5-508e-45d2-8257-903501bf5bb6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2021.11.08 ~ 2022.01.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
