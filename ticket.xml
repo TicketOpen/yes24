@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-10T01:59:40.785Z</updated>
+    <updated>2021-11-10T02:34:39.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ - 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11305</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11305"/>
+        <updated>2021-11-10T02:33:45.165Z</updated>
+        <content type="html"><![CDATA[2021.11.18(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버페이 DB 점검 작업에 따른 결제 서비스 중단 안내(11/23)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11304</id>
@@ -134,12 +141,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11285</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11285"/>
         <updated>2021-11-04T07:15:54.827Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계적인 피아니스트 백혜선 피아노 독주회 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11284</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11284"/>
-        <updated>2021-11-04T06:19:33.889Z</updated>
-        <content type="html"><![CDATA[2021.11.09(화) 14:00]]></content>
     </entry>
 </feed>
