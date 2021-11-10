@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-10T02:34:39.756Z</updated>
+    <updated>2021-11-10T03:18:03.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허원숙 하이든 프로젝트 II ＇Haydn Style＇ 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11307&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11307&amp;order=1"/>
+        <updated>2021-11-10T03:17:13.756Z</updated>
+        <content type="html"><![CDATA[2021-11-10(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김상진＆문지영 듀오 리사이틀 ＇로망스＇ 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11306&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11306&amp;order=1"/>
+        <updated>2021-11-10T03:17:13.758Z</updated>
+        <content type="html"><![CDATA[2021-11-12(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ - 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11305&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11295&amp;order=1"/>
         <updated>2021-11-08T04:20:47.210Z</updated>
         <content type="html"><![CDATA[2021-11-08(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 적재 전국투어 ＇서로의 서로＇- 서울 추가 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11294&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11294&amp;order=1"/>
-        <updated>2021-11-08T05:14:54.180Z</updated>
-        <content type="html"><![CDATA[2021-11-09(화) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 서울 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11293&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11293&amp;order=1"/>
-        <updated>2021-11-08T05:14:54.180Z</updated>
-        <content type="html"><![CDATA[2021-11-12(금) 14:00]]></content>
     </entry>
 </feed>

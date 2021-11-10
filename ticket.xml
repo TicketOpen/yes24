@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-10T02:34:39.759Z</updated>
+    <updated>2021-11-10T03:18:03.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허원숙 하이든 프로젝트 II ＇Haydn Style＇ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11307</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11307"/>
+        <updated>2021-11-10T03:17:03.763Z</updated>
+        <content type="html"><![CDATA[2021.11.10(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김상진＆문지영 듀오 리사이틀 ＇로망스＇ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11306</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11306"/>
+        <updated>2021-11-10T03:17:03.768Z</updated>
+        <content type="html"><![CDATA[2021.11.12(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ - 부산 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11305</id>
@@ -128,18 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11287"/>
         <updated>2021-11-05T02:34:47.050Z</updated>
         <content type="html"><![CDATA[2021.11.11(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 마지막 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11286</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11286"/>
-        <updated>2021-11-05T02:34:47.050Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 관심공연 설정 및 맞춤 알람 서비스 종료 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11285</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11285"/>
-        <updated>2021-11-04T07:15:54.827Z</updated>
     </entry>
 </feed>
