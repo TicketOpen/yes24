@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-11T05:16:47.597Z</updated>
+    <updated>2021-11-11T06:20:22.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [뱀파이어 아더] 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11315&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11315&amp;order=1"/>
+        <updated>2021-11-11T06:19:34.413Z</updated>
+        <content type="html"><![CDATA[2021-11-15(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [고양이라서 괜찮아]  티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11314&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11302&amp;order=1"/>
         <updated>2021-11-09T04:21:37.692Z</updated>
         <content type="html"><![CDATA[2021-11-15(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11300&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11300&amp;order=1"/>
-        <updated>2021-11-08T08:19:44.834Z</updated>
-        <content type="html"><![CDATA[2021-11-11(목) 16:00]]></content>
     </entry>
 </feed>
