@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 10:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 11:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,6 +215,14 @@
             <content:encoded><![CDATA[2021-11-12(금) 15:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 <공원벤치가 견뎌야 하는 상실의 무게> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40424</link>
+            <guid>http://ticket.yes24.com/Perf/40424</guid>
+            <pubDate>Mon, 08 Nov 2021 13:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>15,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211108/20211108-40424.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 <친정엄마와 2박3일> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/40418</link>
             <guid>http://ticket.yes24.com/Perf/40418</guid>
@@ -229,14 +237,6 @@
             <pubDate>Mon, 08 Nov 2021 13:49:25 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>39,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211108/20211108-40196.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <공원벤치가 견뎌야 하는 상실의 무게> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40424</link>
-            <guid>http://ticket.yes24.com/Perf/40424</guid>
-            <pubDate>Mon, 08 Nov 2021 13:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>15,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211108/20211108-40424.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천사에 관하여: 타락천사 편 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -273,78 +273,6 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">15,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11월 공연까지, 1인 4매</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211108/20211108-40424.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <엘리펀트 송> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40712&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40712&amp;Tab=3</guid>
-            <pubDate>Thu, 11 Nov 2021 07:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.11 ~ 2021.11.28 | 2021.11.29 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211111/20211111-71ac5281-7e2e-4633-be05-8227cc5495e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <무희 - 무명이 되고자 했던 그녀> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40583&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40583&amp;Tab=3</guid>
-            <pubDate>Wed, 10 Nov 2021 07:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10 ~ 2021.11.15 | 2021.11.16 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211110/20211110-791179b5-508e-45d2-8257-903501bf5bb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <천사에 관하여: 타락천사 편> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40196&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40196&amp;Tab=2</guid>
-            <pubDate>Mon, 08 Nov 2021 18:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08 ~ 2022.01.30 | 2022.02.02 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211108/20211108-6dbd9c76-8fd1-4cb8-aec9-9c7a61f1f489.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <행복리> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40655&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40655&amp;Tab=3</guid>
-            <pubDate>Mon, 08 Nov 2021 18:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05 ~ 2021.11.14 | 2021.11.15 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211105/20211105-cbb89748-0e7c-402a-b0e2-9671d5ecbf2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <블랙메리포핀스> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40323&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40323&amp;Tab=2</guid>
-            <pubDate>Mon, 08 Nov 2021 18:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.02 ~ 2021.11.28 | 2021.12.01 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211102/20211102-76e99cd0-c609-44a5-9879-09c8fd092cf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 코리아세일페스타 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://www.yes24.com/Campaign/00_Corp/2021/1014KoreaSaleFesta.aspx</link>
-            <guid>http://www.yes24.com/Campaign/00_Corp/2021/1014KoreaSaleFesta.aspx</guid>
-            <pubDate>Mon, 08 Nov 2021 18:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.15]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211102/20211102-f7000e79-ae6e-4ba0-94ff-94027d1eff01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 최현우 〈THE BRAIN〉 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40477&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40477&amp;Tab=3</guid>
-            <pubDate>Mon, 08 Nov 2021 18:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20 ~ 2021.12.02 | 2021.12.03 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211020/20211020-0e4f36d8-e5e4-44a9-b644-10bf58ef91ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <지킬앤하이드> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39997&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39997&amp;Tab=2</guid>
-            <pubDate>Mon, 08 Nov 2021 18:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.19 ~ 2022.05.01 | 2022.05.03 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211019/20211019-215ede4e-8b3a-43e2-ac1b-6bb83825bd82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 뮤지컬 오리지널팀 내한 콘서트 <앙코르> - 대구 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40422&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40422&amp;Tab=3</guid>
-            <pubDate>Mon, 08 Nov 2021 18:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15 ~ 2021.11.19 | 2021.11.22 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211015/20211015-d58a3430-7216-4ac9-9446-268eb42e32f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2021.11.11 ~ 2021.11.28 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -465,48 +393,6 @@
             <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
             <content:encoded><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 미인] 하륜관에서 보낸 3천원 할인쿠폰♬ (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.11.05 ~ 2021.11.14</dd><dt>사용기간</dt><dd>2021.11.05 ~ 2021.11.14</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 엑스칼리버] 1만원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.10.13 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.10.13 ~ 2021.12.31</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 엑스칼리버] 5천원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.10.13 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.10.13 ~ 2021.12.31</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 팬텀] 5천원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2021.12.31</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 팬텀] 1만원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2021.12.31</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 시카고] 5천원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Mon, 08 Nov 2021 19:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2021.12.31</dd>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
