@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-11T04:21:40.649Z</updated>
+    <updated>2021-11-11T05:16:47.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [고양이라서 괜찮아]  티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11314&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11314&amp;order=1"/>
+        <updated>2021-11-11T05:15:44.460Z</updated>
+        <content type="html"><![CDATA[2021-11-15(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11312&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11300&amp;order=1"/>
         <updated>2021-11-08T08:19:44.834Z</updated>
         <content type="html"><![CDATA[2021-11-11(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE BOYZ FAN CON : THE B-ZONE 온라인 공연  티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11299&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11299&amp;order=1"/>
-        <updated>2021-11-08T08:19:44.834Z</updated>
-        <content type="html"><![CDATA[2021-11-16(화) 20:00]]></content>
     </entry>
 </feed>

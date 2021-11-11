@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-11T04:21:40.658Z</updated>
+    <updated>2021-11-11T05:16:47.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [고양이라서 괜찮아]  티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11314</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11314"/>
+        <updated>2021-11-11T05:15:34.754Z</updated>
+        <content type="html"><![CDATA[2021.11.15(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11312</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11293"/>
         <updated>2021-11-08T05:14:44.193Z</updated>
         <content type="html"><![CDATA[2021.11.12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘서트 브랜디드 VOL.1〈팔로알토, 허클베리피, 저스디스, EK〉티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11292</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11292"/>
-        <updated>2021-11-08T02:32:21.826Z</updated>
-        <content type="html"><![CDATA[2021.11.09(화) 18:00]]></content>
     </entry>
 </feed>
