@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-11T08:21:13.785Z</updated>
+    <updated>2021-11-11T09:17:28.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11314&amp;order=1"/>
         <updated>2021-11-11T05:15:44.460Z</updated>
         <content type="html"><![CDATA[2021-11-15(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2F 단독 콘서트〈If〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11313&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11313&amp;order=1"/>
+        <updated>2021-11-11T09:16:25.884Z</updated>
+        <content type="html"><![CDATA[2021-11-25(목) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11306&amp;order=1"/>
         <updated>2021-11-10T03:17:13.758Z</updated>
         <content type="html"><![CDATA[2021-11-12(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ - 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11305&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11305&amp;order=1"/>
-        <updated>2021-11-10T02:33:54.389Z</updated>
-        <content type="html"><![CDATA[2021-11-18(목) 14:00]]></content>
     </entry>
 </feed>

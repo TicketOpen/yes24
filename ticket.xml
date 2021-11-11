@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-11T08:21:13.745Z</updated>
+    <updated>2021-11-11T09:17:28.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11314"/>
         <updated>2021-11-11T05:15:34.754Z</updated>
         <content type="html"><![CDATA[2021.11.15(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2F 단독 콘서트〈If〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11313</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11313"/>
+        <updated>2021-11-11T09:16:14.699Z</updated>
+        <content type="html"><![CDATA[2021.11.25(목) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내]]></title>
@@ -132,13 +139,6 @@
         <title type="html"><![CDATA[단독판매뮤지컬 [최후진술] 얼리버드 패키지 B타입 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11296</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11296"/>
-        <updated>2021-11-08T04:20:37.652Z</updated>
-        <content type="html"><![CDATA[2021.11.08(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매뮤지컬 [최후진술] 얼리버드 패키지 A타입 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11295</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11295"/>
         <updated>2021-11-08T04:20:37.652Z</updated>
         <content type="html"><![CDATA[2021.11.08(월) 14:00]]></content>
     </entry>
