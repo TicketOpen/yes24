@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-11T00:52:56.575Z</updated>
+    <updated>2021-11-11T01:59:45.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 롯데콘서트홀 송년음악회 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11311&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11311&amp;order=1"/>
+        <updated>2021-11-11T01:58:57.878Z</updated>
+        <content type="html"><![CDATA[2021-11-11(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[희노애락] DANCE CONCERT 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11309&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11298&amp;order=1"/>
         <updated>2021-11-08T08:19:44.836Z</updated>
         <content type="html"><![CDATA[2021-11-15(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 만나 콘서트 (강원도민 대상 공연) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11297&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11297&amp;order=1"/>
-        <updated>2021-11-08T06:19:40.553Z</updated>
-        <content type="html"><![CDATA[2021-11-08(월) 16:00]]></content>
     </entry>
 </feed>
