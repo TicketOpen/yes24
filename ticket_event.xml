@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
-    <title>YES24 티켓 ─ 이벤트</title>
-    <updated>2021-11-11T11:14:50.735Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 이벤트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 11 Nov 2021 12:25:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <엘리펀트 송> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40712&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40712&amp;Tab=3</guid>
+            <pubDate>Thu, 11 Nov 2021 12:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.11 ~ 2021.11.28 | 2021.11.29 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211111/20211111-71ac5281-7e2e-4633-be05-8227cc5495e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <무희 - 무명이 되고자 했던 그녀> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40583&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40583&amp;Tab=3</guid>
+            <pubDate>Thu, 11 Nov 2021 12:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10 ~ 2021.11.15 | 2021.11.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211110/20211110-791179b5-508e-45d2-8257-903501bf5bb6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <천사에 관하여: 타락천사 편> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40196&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40196&amp;Tab=2</guid>
+            <pubDate>Thu, 11 Nov 2021 12:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.08 ~ 2022.01.30 | 2022.02.02 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211108/20211108-6dbd9c76-8fd1-4cb8-aec9-9c7a61f1f489.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <행복리> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40655&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40655&amp;Tab=3</guid>
+            <pubDate>Thu, 11 Nov 2021 12:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05 ~ 2021.11.14 | 2021.11.15 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211105/20211105-cbb89748-0e7c-402a-b0e2-9671d5ecbf2d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <블랙메리포핀스> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40323&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40323&amp;Tab=2</guid>
+            <pubDate>Thu, 11 Nov 2021 12:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.02 ~ 2021.11.28 | 2021.12.01 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211102/20211102-76e99cd0-c609-44a5-9879-09c8fd092cf4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 코리아세일페스타]]></title>
+            <link>http://www.yes24.com/Campaign/00_Corp/2021/1014KoreaSaleFesta.aspx</link>
+            <guid>http://www.yes24.com/Campaign/00_Corp/2021/1014KoreaSaleFesta.aspx</guid>
+            <pubDate>Thu, 11 Nov 2021 12:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.15]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211102/20211102-f7000e79-ae6e-4ba0-94ff-94027d1eff01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 최현우 〈THE BRAIN〉 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40477&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40477&amp;Tab=3</guid>
+            <pubDate>Thu, 11 Nov 2021 12:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.20 ~ 2021.12.02 | 2021.12.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211020/20211020-0e4f36d8-e5e4-44a9-b644-10bf58ef91ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <지킬앤하이드> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39997&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39997&amp;Tab=2</guid>
+            <pubDate>Thu, 11 Nov 2021 12:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19 ~ 2022.05.01 | 2022.05.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211019/20211019-215ede4e-8b3a-43e2-ac1b-6bb83825bd82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑스 뮤지컬 오리지널팀 내한 콘서트 <앙코르> - 대구 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40422&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40422&amp;Tab=3</guid>
+            <pubDate>Thu, 11 Nov 2021 12:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15 ~ 2021.11.19 | 2021.11.22 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211015/20211015-d58a3430-7216-4ac9-9446-268eb42e32f7.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
