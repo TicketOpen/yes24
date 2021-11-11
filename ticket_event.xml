@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 06:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 07:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <엘리펀트 송> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40712&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40712&amp;Tab=3</guid>
+            <pubDate>Thu, 11 Nov 2021 07:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.11 ~ 2021.11.28 | 2021.11.29 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211111/20211111-71ac5281-7e2e-4633-be05-8227cc5495e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <무희 - 무명이 되고자 했던 그녀> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40583&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 08 Nov 2021 18:30:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15 ~ 2021.11.19 | 2021.11.22 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211015/20211015-d58a3430-7216-4ac9-9446-268eb42e32f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 뮤지컬 오리지널팀 내한 콘서트 <앙코르> - 부산 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40182&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40182&amp;Tab=3</guid>
-            <pubDate>Mon, 08 Nov 2021 18:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.12 ~ 2021.11.26 | 2021.11.29 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211012/20211012-405f144b-8fd6-4a40-8784-271a6505c19d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

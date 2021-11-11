@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-11T06:20:22.163Z</updated>
+    <updated>2021-11-11T07:16:57.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅재미 극단 Soulmate 이어달리기 - 〈검둥이〉 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11316&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11316&amp;order=1"/>
+        <updated>2021-11-11T07:16:08.412Z</updated>
+        <content type="html"><![CDATA[2021-11-12(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [뱀파이어 아더] 2차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11315&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11305&amp;order=1"/>
         <updated>2021-11-10T02:33:54.389Z</updated>
         <content type="html"><![CDATA[2021-11-18(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [시카고] - 김해 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11302&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11302&amp;order=1"/>
-        <updated>2021-11-09T04:21:37.692Z</updated>
-        <content type="html"><![CDATA[2021-11-15(월) 14:00]]></content>
     </entry>
 </feed>
