@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-10T23:17:15.729Z</updated>
+    <updated>2021-11-11T00:52:56.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[씨티은행 시스템 작업에 따른 결제 서비스 중단 안내(11/14)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11310</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11310"/>
+        <updated>2021-11-11T00:51:51.456Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[희노애락] DANCE CONCERT 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11309</id>
@@ -135,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11290"/>
         <updated>2021-11-05T07:15:47.892Z</updated>
         <content type="html"><![CDATA[2021.11.09(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [시카고] - 고양 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11289</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11289"/>
-        <updated>2021-11-05T05:14:43.582Z</updated>
-        <content type="html"><![CDATA[2021.11.11(목) 14:00]]></content>
     </entry>
 </feed>
