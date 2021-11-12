@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-12T04:22:42.311Z</updated>
+    <updated>2021-11-12T05:16:01.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남심포니오케스트라 제140회 클래식품격콘서트[송년 음악 선물] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11323</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11323"/>
+        <updated>2021-11-12T05:15:04.465Z</updated>
+        <content type="html"><![CDATA[2021.11.17(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <썸씽로튼> 첫 티켓 오픈- 크리스마스 시즌 오픈 안내!]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11321</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11321"/>
+        <updated>2021-11-12T05:15:04.465Z</updated>
+        <content type="html"><![CDATA[2021.11.16(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2022 강원세계산림엑스포 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11320</id>
@@ -59,7 +73,7 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11313</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11313"/>
         <updated>2021-11-11T09:16:14.699Z</updated>
-        <content type="html"><![CDATA[2021.11.25(목) 18:00]]></content>
+        <content type="html"><![CDATA[2021.11.25(목) 18:00<a class="noti-btn-pop" presaletit1="휠체어석" presaletit2="" presaletime1="2021.11.25(목) 10:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내]]></title>
@@ -127,19 +141,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11303</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11303"/>
         <updated>2021-11-09T06:18:53.784Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [시카고] - 김해 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11302</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11302"/>
-        <updated>2021-11-09T06:18:53.784Z</updated>
-        <content type="html"><![CDATA[2021.11.15(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 3차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11300</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11300"/>
-        <updated>2021-11-08T08:19:35.493Z</updated>
-        <content type="html"><![CDATA[2021.11.11(목) 16:00]]></content>
     </entry>
 </feed>
