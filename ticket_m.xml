@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-12T00:53:28.941Z</updated>
+    <updated>2021-11-12T02:00:10.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11320&amp;order=1"/>
         <updated>2021-11-12T00:52:42.634Z</updated>
         <content type="html"><![CDATA[2021-11-15(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나훈아 AGAIN 테스형 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11319&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11319&amp;order=1"/>
+        <updated>2021-11-12T01:59:23.688Z</updated>
+        <content type="html"><![CDATA[2021-11-23(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나훈아 AGAIN 테스형 - 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11318&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11318&amp;order=1"/>
+        <updated>2021-11-12T01:59:23.688Z</updated>
+        <content type="html"><![CDATA[2021-11-18(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나훈아 AGAIN 테스형 - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11317&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11317&amp;order=1"/>
+        <updated>2021-11-12T01:59:23.690Z</updated>
+        <content type="html"><![CDATA[2021-11-16(화) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빅재미 극단 Soulmate 이어달리기 - 〈검둥이〉 티켓오픈안내]]></title>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11311&amp;order=1"/>
         <updated>2021-11-11T01:58:57.878Z</updated>
         <content type="html"><![CDATA[2021-11-11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[희노애락] DANCE CONCERT 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11309&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11309&amp;order=1"/>
-        <updated>2021-11-10T05:14:39.738Z</updated>
-        <content type="html"><![CDATA[2021-11-12(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블록버스터급 멘탈매직쇼 최현우 〈더 브레인〉 홀리데이 시즌 마지막 티켓오픈!]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11308&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11308&amp;order=1"/>
-        <updated>2021-11-10T05:14:39.738Z</updated>
-        <content type="html"><![CDATA[2021-11-17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허원숙 하이든 프로젝트 II ＇Haydn Style＇ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11307&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11307&amp;order=1"/>
-        <updated>2021-11-10T03:17:13.756Z</updated>
-        <content type="html"><![CDATA[2021-11-10(수) 15:00]]></content>
     </entry>
 </feed>
