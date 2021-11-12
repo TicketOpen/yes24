@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-11T23:17:19.901Z</updated>
+    <updated>2021-11-12T00:53:28.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2022 강원세계산림엑스포 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11320</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11320"/>
+        <updated>2021-11-12T00:52:33.029Z</updated>
+        <content type="html"><![CDATA[2021.11.15(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅재미 극단 Soulmate 이어달리기 - 〈검둥이〉 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11316</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11297"/>
         <updated>2021-11-08T06:19:31.212Z</updated>
         <content type="html"><![CDATA[2021.11.08(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매뮤지컬 [최후진술] 얼리버드 패키지 B타입 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11296</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11296"/>
-        <updated>2021-11-08T04:20:37.652Z</updated>
-        <content type="html"><![CDATA[2021.11.08(월) 14:00]]></content>
     </entry>
 </feed>
