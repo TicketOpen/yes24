@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-12T06:21:13.996Z</updated>
+    <updated>2021-11-12T07:16:39.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <젠틀맨스 가이드 : 사랑과 살인편> 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11324&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11324&amp;order=1"/>
+        <updated>2021-11-12T07:15:50.863Z</updated>
+        <content type="html"><![CDATA[2021-11-17(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남심포니오케스트라 제140회 클래식품격콘서트[송년 음악 선물] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11323&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11314&amp;order=1"/>
         <updated>2021-11-11T05:15:44.460Z</updated>
         <content type="html"><![CDATA[2021-11-15(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2F 단독 콘서트〈If〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11313&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11313&amp;order=1"/>
-        <updated>2021-11-11T09:16:25.884Z</updated>
-        <content type="html"><![CDATA[2021-11-25(목) 18:00]]></content>
     </entry>
 </feed>

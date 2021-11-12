@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-12T06:21:13.962Z</updated>
+    <updated>2021-11-12T07:16:39.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <젠틀맨스 가이드 : 사랑과 살인편> 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11324</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11324"/>
+        <updated>2021-11-12T07:15:41.873Z</updated>
+        <content type="html"><![CDATA[2021.11.17(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남심포니오케스트라 제140회 클래식품격콘서트[송년 음악 선물] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11323</id>
@@ -135,11 +142,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11304</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11304"/>
         <updated>2021-11-10T00:51:13.069Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신한금융투자 시스템 작업에 따른 결제 서비스 중단 안내(11/14)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11303</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11303"/>
-        <updated>2021-11-09T06:18:53.784Z</updated>
     </entry>
 </feed>
