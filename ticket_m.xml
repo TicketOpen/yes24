@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-15T09:17:43.262Z</updated>
+    <updated>2021-11-15T10:19:13.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [스핏파이어 그릴] 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11332&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11332&amp;order=1"/>
+        <updated>2021-11-15T10:18:21.395Z</updated>
+        <content type="html"><![CDATA[2021-11-18(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈리어왕 : KING LEAR〉 앵콜 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11331&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11331&amp;order=1"/>
+        <updated>2021-11-15T10:18:21.396Z</updated>
+        <content type="html"><![CDATA[2021-11-17(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[FANTASY IN I’ll LAND] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11330&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11321&amp;order=1"/>
         <updated>2021-11-12T05:15:14.064Z</updated>
         <content type="html"><![CDATA[2021-11-16(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 강원세계산림엑스포 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11320&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11320&amp;order=1"/>
-        <updated>2021-11-12T00:52:42.634Z</updated>
-        <content type="html"><![CDATA[2021-11-15(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나훈아 AGAIN 테스형 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11319&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11319&amp;order=1"/>
-        <updated>2021-11-12T01:59:23.688Z</updated>
-        <content type="html"><![CDATA[2021-11-23(화) 10:00]]></content>
     </entry>
 </feed>
