@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-15T08:20:33.257Z</updated>
+    <updated>2021-11-15T09:17:43.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[FANTASY IN I’ll LAND] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11330&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11330&amp;order=1"/>
+        <updated>2021-11-15T09:16:54.587Z</updated>
+        <content type="html"><![CDATA[2021-11-18(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 2ND TOUR ‘NEO CITY : SEOUL - THE LINK’ 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11329&amp;order=1</id>
@@ -18,6 +25,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11328&amp;order=1"/>
         <updated>2021-11-15T02:33:09.275Z</updated>
         <content type="html"><![CDATA[2021-11-17(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11325&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11325&amp;order=1"/>
+        <updated>2021-11-15T09:16:54.593Z</updated>
+        <content type="html"><![CDATA[2021-11-16(화) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <젠틀맨스 가이드 : 사랑과 살인편> 3차 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11319&amp;order=1"/>
         <updated>2021-11-12T01:59:23.688Z</updated>
         <content type="html"><![CDATA[2021-11-23(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나훈아 AGAIN 테스형 - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11318&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11318&amp;order=1"/>
-        <updated>2021-11-12T01:59:23.688Z</updated>
-        <content type="html"><![CDATA[2021-11-18(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나훈아 AGAIN 테스형 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11317&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11317&amp;order=1"/>
-        <updated>2021-11-12T01:59:23.690Z</updated>
-        <content type="html"><![CDATA[2021-11-16(화) 10:00]]></content>
     </entry>
 </feed>

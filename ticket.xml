@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-15T08:20:33.264Z</updated>
+    <updated>2021-11-15T09:17:43.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[FANTASY IN I’ll LAND] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11330</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11330"/>
+        <updated>2021-11-15T09:16:44.977Z</updated>
+        <content type="html"><![CDATA[2021.11.18(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 2ND TOUR ‘NEO CITY : SEOUL - THE LINK’ 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11329</id>
@@ -18,6 +25,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11328"/>
         <updated>2021-11-15T02:33:00.357Z</updated>
         <content type="html"><![CDATA[2021.11.17(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11325</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11325"/>
+        <updated>2021-11-15T09:16:44.981Z</updated>
+        <content type="html"><![CDATA[2021.11.16(화) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <젠틀맨스 가이드 : 사랑과 살인편> 3차 티켓오픈 안내]]></title>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11309"/>
         <updated>2021-11-10T06:19:05.602Z</updated>
         <content type="html"><![CDATA[2021.11.12(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블록버스터급 멘탈매직쇼 최현우 〈더 브레인〉 홀리데이 시즌 마지막 티켓오픈!]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11308</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11308"/>
-        <updated>2021-11-10T06:19:05.602Z</updated>
-        <content type="html"><![CDATA[2021.11.17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허원숙 하이든 프로젝트 II ＇Haydn Style＇ 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11307</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11307"/>
-        <updated>2021-11-10T03:17:03.763Z</updated>
-        <content type="html"><![CDATA[2021.11.10(수) 15:00]]></content>
     </entry>
 </feed>
