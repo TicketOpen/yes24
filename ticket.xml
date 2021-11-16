@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-16T01:59:22.079Z</updated>
+    <updated>2021-11-16T02:34:22.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 정승환의 안녕 겨울 : 다시 여기, 우리 - 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11333</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11333"/>
+        <updated>2021-11-16T02:33:29.826Z</updated>
+        <content type="html"><![CDATA[2021.11.22(월) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [스핏파이어 그릴] 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11332</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11312"/>
         <updated>2021-11-15T14:15:26.671Z</updated>
         <content type="html"><![CDATA[2021.11.12(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 롯데콘서트홀 송년음악회 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11311</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11311"/>
-        <updated>2021-11-15T14:15:26.673Z</updated>
-        <content type="html"><![CDATA[2021.11.11(목) 14:00]]></content>
     </entry>
 </feed>
