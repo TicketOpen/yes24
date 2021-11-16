@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-16T08:20:07.088Z</updated>
+    <updated>2021-11-16T09:17:03.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11337&amp;order=1"/>
         <updated>2021-11-16T07:16:29.537Z</updated>
         <content type="html"><![CDATA[2021-11-24(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wave to earth 단독공연 [wave field 0.1] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11336&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11336&amp;order=1"/>
+        <updated>2021-11-16T09:16:18.463Z</updated>
+        <content type="html"><![CDATA[2021-11-19(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 ATEEZ(에이티즈) WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] IN SEOUL 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11325&amp;order=1"/>
         <updated>2021-11-15T09:16:54.593Z</updated>
         <content type="html"><![CDATA[2021-11-16(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <젠틀맨스 가이드 : 사랑과 살인편> 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11324&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11324&amp;order=1"/>
-        <updated>2021-11-12T07:15:50.863Z</updated>
-        <content type="html"><![CDATA[2021-11-17(수) 11:00]]></content>
     </entry>
 </feed>

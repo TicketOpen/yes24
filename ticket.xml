@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-16T08:20:07.089Z</updated>
+    <updated>2021-11-16T09:17:03.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11337"/>
         <updated>2021-11-16T07:16:20.078Z</updated>
         <content type="html"><![CDATA[2021.11.24(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wave to earth 단독공연 [wave field 0.1] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11336</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11336"/>
+        <updated>2021-11-16T09:16:09.755Z</updated>
+        <content type="html"><![CDATA[2021.11.19(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2022 ATEEZ(에이티즈) WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] IN SEOUL 티켓오픈 ..]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11315"/>
         <updated>2021-11-15T14:15:26.669Z</updated>
         <content type="html"><![CDATA[2021.11.15(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [고양이라서 괜찮아]  티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11314</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11314"/>
-        <updated>2021-11-15T14:15:26.670Z</updated>
-        <content type="html"><![CDATA[2021.11.15(월) 11:00]]></content>
     </entry>
 </feed>
