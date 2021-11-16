@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 14:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 15:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 16 Nov 2021 01:58:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.15 ~ 2021.11.21 | 2021.12.06 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211115/20211115-f77821ae-bb5e-4076-9a11-b3dcdb0d0760.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <고양이라서 괜찮아> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40772&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40772&amp;Tab=3</guid>
+            <pubDate>Tue, 16 Nov 2021 15:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.17 ~ 2021.12.05 | 2021.12.06 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211115/20211115-d91ebe26-4efa-4f7b-a590-2670a820ada5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <엘리펀트 송> 기대평 이벤트]]></title>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 16 Nov 2021 01:58:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.12 ~ 2021.11.26 | 2021.11.29 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211012/20211012-405f144b-8fd6-4a40-8784-271a6505c19d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소중한 일상, 소중한 문화티켓]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3178</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3178</guid>
-            <pubDate>Tue, 16 Nov 2021 01:58:59 GMT</pubDate>
-            <content:encoded><![CDATA[2021.02.01 ~ 2021.12.05]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202105/20210524/20210524-f666b307-0e8b-454e-8dea-c29d98bec085.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

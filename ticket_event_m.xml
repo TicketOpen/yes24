@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 14:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 15:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 15 Nov 2021 06:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<em>당첨자 발표</em>2021.12.06]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211115/20211115-f77821ae-bb5e-4076-9a11-b3dcdb0d0760.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2021.11.17 ~ 2021.12.05]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40772</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40772</guid>
+            <pubDate>Tue, 16 Nov 2021 15:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2021년 12월 16일(목) 오후 8시]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211115/20211115-d91ebe26-4efa-4f7b-a590-2670a820ada5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2021.11.11 ~ 2021.11.28]]></title>
