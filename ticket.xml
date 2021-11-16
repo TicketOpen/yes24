@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-16T06:18:50.203Z</updated>
+    <updated>2021-11-16T07:17:17.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [시카고] - 진주 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11337</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11337"/>
+        <updated>2021-11-16T07:16:20.078Z</updated>
+        <content type="html"><![CDATA[2021.11.24(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2022 ATEEZ(에이티즈) WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] IN SEOUL 티켓오픈 ..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11334</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11314"/>
         <updated>2021-11-15T14:15:26.670Z</updated>
         <content type="html"><![CDATA[2021.11.15(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2F 단독 콘서트〈If〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11313</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11313"/>
-        <updated>2021-11-15T14:15:26.671Z</updated>
-        <content type="html"><![CDATA[2021.11.25(목) 18:00<a class="noti-btn-pop" presaletit1="휠체어석" presaletit2="" presaletime1="2021.11.25(목) 10:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
