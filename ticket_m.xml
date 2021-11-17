@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-17T01:59:23.969Z</updated>
+    <updated>2021-11-17T02:34:44.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TWICE 4TH WORLD TOUR ‘Ⅲ’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11338&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11338&amp;order=1"/>
+        <updated>2021-11-17T02:33:54.134Z</updated>
+        <content type="html"><![CDATA[2021-12-03(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [시카고] - 진주 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11337&amp;order=1</id>
@@ -18,6 +25,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11336&amp;order=1"/>
         <updated>2021-11-16T09:16:18.463Z</updated>
         <content type="html"><![CDATA[2021-11-19(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어(Musical The Lion King) 11월 24일(수) 15시 첫 티켓 오픈!]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11335&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11335&amp;order=1"/>
+        <updated>2021-11-17T02:33:54.138Z</updated>
+        <content type="html"><![CDATA[2021-11-24(수) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 ATEEZ(에이티즈) WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] IN SEOUL 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11329&amp;order=1"/>
         <updated>2021-11-15T04:21:09.025Z</updated>
         <content type="html"><![CDATA[2021-11-23(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 인천 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11328&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11328&amp;order=1"/>
-        <updated>2021-11-15T02:33:09.275Z</updated>
-        <content type="html"><![CDATA[2021-11-17(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11325&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11325&amp;order=1"/>
-        <updated>2021-11-15T09:16:54.593Z</updated>
-        <content type="html"><![CDATA[2021-11-16(화) 18:00]]></content>
     </entry>
 </feed>

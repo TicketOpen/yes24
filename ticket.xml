@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-17T01:59:23.994Z</updated>
+    <updated>2021-11-17T02:34:44.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TWICE 4TH WORLD TOUR ‘Ⅲ’ 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11338</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11338"/>
+        <updated>2021-11-17T02:33:44.529Z</updated>
+        <content type="html"><![CDATA[2021.12.03(금) 20:00<a class="noti-btn-pop" presaletit1="CANDY회원 선예매" presaletit2="JELLY회원 선예매" presaletime1="2021.11.29(월) 20:00" presaletime2="2021.12.01(수) 20:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [시카고] - 진주 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11337</id>
@@ -18,6 +25,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11336"/>
         <updated>2021-11-16T09:16:09.755Z</updated>
         <content type="html"><![CDATA[2021.11.19(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어(Musical The Lion King) 11월 24일(수) 15시 첫 티켓 오..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11335</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11335"/>
+        <updated>2021-11-17T02:33:44.547Z</updated>
+        <content type="html"><![CDATA[2021.11.24(수) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2022 ATEEZ(에이티즈) WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] IN SEOUL 티켓오픈 ..]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11317"/>
         <updated>2021-11-15T14:15:26.662Z</updated>
         <content type="html"><![CDATA[2021.11.16(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅재미 극단 Soulmate 이어달리기 - 〈검둥이〉 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11316</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11316"/>
-        <updated>2021-11-15T14:15:26.667Z</updated>
-        <content type="html"><![CDATA[2021.11.12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [뱀파이어 아더] 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11315</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11315"/>
-        <updated>2021-11-15T14:15:26.669Z</updated>
-        <content type="html"><![CDATA[2021.11.15(월) 14:00]]></content>
     </entry>
 </feed>
