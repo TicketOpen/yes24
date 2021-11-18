@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-18T04:21:37.589Z</updated>
+    <updated>2021-11-18T05:15:44.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 장범준 연말공연〈잠이 오질 않네요〉- 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11340&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11340&amp;order=1"/>
+        <updated>2021-11-18T05:14:43.250Z</updated>
+        <content type="html"><![CDATA[2021-11-24(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니버설발레단〈호두까기인형〉3층 좌석 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11339&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11339&amp;order=1"/>
+        <updated>2021-11-18T05:14:43.253Z</updated>
+        <content type="html"><![CDATA[2021-11-23(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TWICE 4TH WORLD TOUR ‘Ⅲ’ 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11338&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11331&amp;order=1"/>
         <updated>2021-11-15T10:18:21.396Z</updated>
         <content type="html"><![CDATA[2021-11-17(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[FANTASY IN I’ll LAND] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11330&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11330&amp;order=1"/>
-        <updated>2021-11-15T09:16:54.587Z</updated>
-        <content type="html"><![CDATA[2021-11-18(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 127 2ND TOUR ‘NEO CITY : SEOUL - THE LINK’ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11329&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11329&amp;order=1"/>
-        <updated>2021-11-15T04:21:09.025Z</updated>
-        <content type="html"><![CDATA[2021-11-23(화) 20:00]]></content>
     </entry>
 </feed>
