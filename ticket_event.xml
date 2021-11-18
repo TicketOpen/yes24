@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 14:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 15:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <검둥이> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40761&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40761&amp;Tab=3</guid>
+            <pubDate>Thu, 18 Nov 2021 15:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19 ~ 2021.12.05 | 2021.12.07 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211117/20211117-a0daebdd-555e-4420-a118-40636c8aeb6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <서찰을 전하는 아이> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40730&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40730&amp;Tab=3</guid>
+            <pubDate>Thu, 18 Nov 2021 15:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19 ~ 2021.12.14 | 2021.12.15 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211116/20211116-d174a39f-5d9c-4498-8aba-9dc9bf7296ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[XR LIVE aespa SPECIAL EVENT ＂Party-On＂공연 기념 프로모션]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3235</link>
@@ -62,22 +78,6 @@
             <pubDate>Thu, 18 Nov 2021 01:58:47 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.19 ~ 2022.05.01 | 2022.05.03 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211019/20211019-215ede4e-8b3a-43e2-ac1b-6bb83825bd82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 뮤지컬 오리지널팀 내한 콘서트 <앙코르> - 대구 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40422&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40422&amp;Tab=3</guid>
-            <pubDate>Thu, 18 Nov 2021 01:58:47 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15 ~ 2021.11.19 | 2021.11.22 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211015/20211015-d58a3430-7216-4ac9-9446-268eb42e32f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 뮤지컬 오리지널팀 내한 콘서트 <앙코르> - 부산 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40182&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40182&amp;Tab=3</guid>
-            <pubDate>Thu, 18 Nov 2021 01:58:47 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.12 ~ 2021.11.26 | 2021.11.29 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211012/20211012-405f144b-8fd6-4a40-8784-271a6505c19d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
