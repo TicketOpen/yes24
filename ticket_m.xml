@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-19T09:17:43.992Z</updated>
+    <updated>2021-11-19T10:20:00.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [바람이 불어오는 곳] 3차 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11345&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11345&amp;order=1"/>
+        <updated>2021-11-19T10:18:59.371Z</updated>
+        <content type="html"><![CDATA[2021-11-26(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈언더스터디〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11344&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11336&amp;order=1"/>
         <updated>2021-11-16T09:16:18.463Z</updated>
         <content type="html"><![CDATA[2021-11-19(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈라이온 킹〉인터내셔널 투어 첫 티켓오픈 안내（Musical The Lion King）11월 24일(수) 15시 첫 티켓 오픈!]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11335&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11335&amp;order=1"/>
-        <updated>2021-11-17T02:33:54.138Z</updated>
-        <content type="html"><![CDATA[2021-11-24(수) 15:00]]></content>
     </entry>
 </feed>
