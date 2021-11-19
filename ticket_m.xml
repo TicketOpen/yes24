@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-19T04:22:45.026Z</updated>
+    <updated>2021-11-19T05:16:14.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021 장범준 연말공연〈잠이 오질 않네요〉- 부산 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[연극 〈언더스터디〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11344&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11344&amp;order=1"/>
+        <updated>2021-11-19T05:15:27.400Z</updated>
+        <content type="html"><![CDATA[2021-11-26(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11343&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11343&amp;order=1"/>
+        <updated>2021-11-19T05:15:27.405Z</updated>
+        <content type="html"><![CDATA[2021-11-25(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극〈친정엄마와 2박3일〉- 용인 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11342&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11342&amp;order=1"/>
+        <updated>2021-11-19T05:15:27.407Z</updated>
+        <content type="html"><![CDATA[2021-11-23(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 이승철 전국투어 콘서트 “우리, 이제 만나요” - 광주 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11341&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11341&amp;order=1"/>
+        <updated>2021-11-19T05:15:27.408Z</updated>
+        <content type="html"><![CDATA[2021-11-22(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선예매] 2021 장범준 연말공연〈잠이 오질 않네요〉- 부산 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11340&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11340&amp;order=1"/>
         <updated>2021-11-18T05:14:43.250Z</updated>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11335&amp;order=1"/>
         <updated>2021-11-17T02:33:54.138Z</updated>
         <content type="html"><![CDATA[2021-11-24(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 ATEEZ(에이티즈) WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] IN SEOUL 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11334&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11334&amp;order=1"/>
-        <updated>2021-11-16T03:17:04.395Z</updated>
-        <content type="html"><![CDATA[2021-11-26(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 정승환의 안녕 겨울 : 다시 여기, 우리 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11333&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11333&amp;order=1"/>
-        <updated>2021-11-16T02:33:38.425Z</updated>
-        <content type="html"><![CDATA[2021-11-22(월) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [스핏파이어 그릴] 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11332&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11332&amp;order=1"/>
-        <updated>2021-11-15T10:18:21.395Z</updated>
-        <content type="html"><![CDATA[2021-11-18(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈리어왕 : KING LEAR〉 앵콜 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11331&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11331&amp;order=1"/>
-        <updated>2021-11-15T10:18:21.396Z</updated>
-        <content type="html"><![CDATA[2021-11-17(수) 11:00]]></content>
     </entry>
 </feed>
