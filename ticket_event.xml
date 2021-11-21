@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 14:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 15:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 19 Nov 2021 12:25:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.19 ~ 2021.12.14 | 2021.12.15 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211116/20211116-d174a39f-5d9c-4498-8aba-9dc9bf7296ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[XR LIVE aespa SPECIAL EVENT ＂Party-On＂공연 기념 프로모션]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3235</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3235</guid>
-            <pubDate>Fri, 19 Nov 2021 12:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15 ~ 2021.11.21 | 2021.12.06 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211115/20211115-f77821ae-bb5e-4076-9a11-b3dcdb0d0760.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <고양이라서 괜찮아> 기대평 이벤트]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Fri, 19 Nov 2021 12:25:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20 ~ 2021.12.02 | 2021.12.03 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211020/20211020-0e4f36d8-e5e4-44a9-b644-10bf58ef91ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <지킬앤하이드> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39997&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39997&amp;Tab=2</guid>
+            <pubDate>Sun, 21 Nov 2021 15:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19 ~ 2022.05.01 | 2022.05.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211019/20211019-215ede4e-8b3a-43e2-ac1b-6bb83825bd82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
