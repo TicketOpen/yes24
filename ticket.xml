@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-22T02:00:29.585Z</updated>
+    <updated>2021-11-22T02:37:27.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈헤드윅〉 - 성남 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11346</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11346"/>
+        <updated>2021-11-22T02:36:21.686Z</updated>
+        <content type="html"><![CDATA[2021.11.25(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [바람이 불어오는 곳] 3차 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11345</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11325"/>
         <updated>2021-11-15T14:15:26.635Z</updated>
         <content type="html"><![CDATA[2021.11.16(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <젠틀맨스 가이드 : 사랑과 살인편> 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11324</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11324"/>
-        <updated>2021-11-15T14:15:26.640Z</updated>
-        <content type="html"><![CDATA[2021.11.17(수) 11:00]]></content>
     </entry>
 </feed>
