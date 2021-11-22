@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-22T06:20:51.845Z</updated>
+    <updated>2021-11-22T07:16:58.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11349&amp;order=1"/>
         <updated>2021-11-22T06:20:00.813Z</updated>
         <content type="html"><![CDATA[2021-11-26(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 백지영 전국투어 콘서트〈BAEK HUG〉-  인천 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11348&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11348&amp;order=1"/>
+        <updated>2021-11-22T07:16:15.447Z</updated>
+        <content type="html"><![CDATA[2021-11-26(금) 16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 김사월 연말 단독 공연〈밖은 너무 추워 나는〉티켓오픈안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11340&amp;order=1"/>
         <updated>2021-11-18T05:14:43.250Z</updated>
         <content type="html"><![CDATA[2021-11-24(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니버설발레단〈호두까기인형〉3층 좌석 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11339&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11339&amp;order=1"/>
-        <updated>2021-11-18T05:14:43.253Z</updated>
-        <content type="html"><![CDATA[2021-11-23(화) 14:00]]></content>
     </entry>
 </feed>

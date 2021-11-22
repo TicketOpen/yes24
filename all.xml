@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 06:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 07:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11349</guid>
             <pubDate>Mon, 22 Nov 2021 06:19:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.26(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 백지영 전국투어 콘서트〈BAEK HUG〉-  인천 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11348</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11348</guid>
+            <pubDate>Mon, 22 Nov 2021 07:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26(금) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 김사월 연말 단독 공연〈밖은 너무 추워 나는〉티켓오픈안내 (예스24 티켓)]]></title>
@@ -141,18 +148,18 @@
             <content:encoded><![CDATA[2021.11.18(목) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매NCT 127 2ND TOUR ‘NEO CITY : SEOUL - THE LINK’ 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11329</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11329</guid>
-            <pubDate>Mon, 15 Nov 2021 14:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.11.19(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [우리들의 사랑] 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11349&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11349&amp;order=1</guid>
             <pubDate>Mon, 22 Nov 2021 06:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-26(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 백지영 전국투어 콘서트〈BAEK HUG〉-  인천 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11348&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11348&amp;order=1</guid>
+            <pubDate>Mon, 22 Nov 2021 07:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-26(금) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 김사월 연말 단독 공연〈밖은 너무 추워 나는〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -211,11 +218,12 @@
             <content:encoded><![CDATA[2021-11-24(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유니버설발레단〈호두까기인형〉3층 좌석 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11339&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11339&amp;order=1</guid>
-            <pubDate>Thu, 18 Nov 2021 05:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-23(화) 14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <뱀파이어 아더> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40265</link>
+            <guid>http://ticket.yes24.com/Perf/40265</guid>
+            <pubDate>Mon, 22 Nov 2021 01:59:54 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>47,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202109/20210928/20210928-40265.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <무희 - 무명이 되고자 했던 그녀> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -224,14 +232,6 @@
             <pubDate>Mon, 22 Nov 2021 01:59:54 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>21,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211122/20211122-40583.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <뱀파이어 아더> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40265</link>
-            <guid>http://ticket.yes24.com/Perf/40265</guid>
-            <pubDate>Mon, 22 Nov 2021 01:59:54 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>47,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202109/20210928/20210928-40265.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <뱀파이어 아더> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
