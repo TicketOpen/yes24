@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-22T04:21:56.996Z</updated>
+    <updated>2021-11-22T05:16:08.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 김사월 연말 단독 공연〈밖은 너무 추워 나는〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11347</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11347"/>
+        <updated>2021-11-22T05:15:07.330Z</updated>
+        <content type="html"><![CDATA[2021.11.24(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈헤드윅〉 - 성남 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11346</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11328"/>
         <updated>2021-11-15T14:15:26.635Z</updated>
         <content type="html"><![CDATA[2021.11.17(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11325</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11325"/>
-        <updated>2021-11-15T14:15:26.635Z</updated>
-        <content type="html"><![CDATA[2021.11.16(화) 18:00]]></content>
     </entry>
 </feed>
