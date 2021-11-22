@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-22T05:16:08.110Z</updated>
+    <updated>2021-11-22T06:20:51.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [우리들의 사랑] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11349&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11349&amp;order=1"/>
+        <updated>2021-11-22T06:20:00.813Z</updated>
+        <content type="html"><![CDATA[2021-11-26(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 김사월 연말 단독 공연〈밖은 너무 추워 나는〉티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11347&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11339&amp;order=1"/>
         <updated>2021-11-18T05:14:43.253Z</updated>
         <content type="html"><![CDATA[2021-11-23(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWICE 4TH WORLD TOUR ‘Ⅲ’ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11338&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11338&amp;order=1"/>
-        <updated>2021-11-17T02:33:54.134Z</updated>
-        <content type="html"><![CDATA[2021-12-03(금) 20:00]]></content>
     </entry>
 </feed>
