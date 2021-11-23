@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 14:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 15:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <라이온 킹> 인터내셔널 투어-서울 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40856&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40856&amp;Tab=3</guid>
+            <pubDate>Tue, 23 Nov 2021 15:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.24 ~ 2022.01.06 | 2022.01.07 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211123/20211123-9444c672-9e6c-4083-86ff-bf7101a35c63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬<잭더리퍼> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40672&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 23 Nov 2021 12:26:10 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.02 ~ 2021.11.28 | 2021.12.01 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211102/20211102-76e99cd0-c609-44a5-9879-09c8fd092cf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 최현우 〈THE BRAIN〉 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40477&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40477&amp;Tab=3</guid>
-            <pubDate>Tue, 23 Nov 2021 12:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20 ~ 2021.12.02 | 2021.12.03 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211020/20211020-0e4f36d8-e5e4-44a9-b644-10bf58ef91ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

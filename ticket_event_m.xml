@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 14:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 15:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2021.11.24 ~ 2022.01.06]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40856</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40856</guid>
+            <pubDate>Tue, 23 Nov 2021 15:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>&lt;라이온 킹&gt; 오리지널 OST]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211123/20211123-9444c672-9e6c-4083-86ff-bf7101a35c63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2021.11.17 ~ 2021.12.02]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40672</link>
