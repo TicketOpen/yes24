@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-23T03:18:43.813Z</updated>
+    <updated>2021-11-23T04:21:51.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [온에어] 1차 티켓 오픈공지]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11350&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11350&amp;order=1"/>
+        <updated>2021-11-23T04:20:56.636Z</updated>
+        <content type="html"><![CDATA[2021-11-26(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [우리들의 사랑] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11349&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11341&amp;order=1"/>
         <updated>2021-11-19T05:15:27.408Z</updated>
         <content type="html"><![CDATA[2021-11-22(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선예매] 2021 장범준 연말공연〈잠이 오질 않네요〉- 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11340&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11340&amp;order=1"/>
-        <updated>2021-11-18T05:14:43.250Z</updated>
-        <content type="html"><![CDATA[2021-11-24(수) 14:00]]></content>
     </entry>
 </feed>
