@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-23T05:15:23.039Z</updated>
+    <updated>2021-11-23T06:20:15.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [더데빌] 2차 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11351</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11351"/>
+        <updated>2021-11-23T06:19:14.619Z</updated>
+        <content type="html"><![CDATA[2021.11.30(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [온에어] 1차 티켓 오픈공지]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11350</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11332"/>
         <updated>2021-11-15T14:15:26.635Z</updated>
         <content type="html"><![CDATA[2021.11.18(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈리어왕 : KING LEAR〉 앵콜 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11331</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11331"/>
-        <updated>2021-11-15T14:15:26.635Z</updated>
-        <content type="html"><![CDATA[2021.11.17(수) 11:00]]></content>
     </entry>
 </feed>
