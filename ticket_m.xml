@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-24T02:35:11.543Z</updated>
+    <updated>2021-11-24T03:19:07.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기프트 연말콘서트 [GIFT VILLAGE] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11353&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11353&amp;order=1"/>
+        <updated>2021-11-24T03:18:07.833Z</updated>
+        <content type="html"><![CDATA[2021-11-26(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안녕하신가영 EP 발매기념 단독 콘서트 ‘가장(　　　　　)자리에서’ 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11352&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11344&amp;order=1"/>
         <updated>2021-11-23T12:25:43.621Z</updated>
         <content type="html"><![CDATA[2021-11-26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11343&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11343&amp;order=1"/>
-        <updated>2021-11-23T12:25:43.622Z</updated>
-        <content type="html"><![CDATA[2021-11-25(목) 20:00]]></content>
     </entry>
 </feed>
