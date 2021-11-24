@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-24T06:20:18.404Z</updated>
+    <updated>2021-11-24T07:16:54.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 창원 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11359</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11359"/>
+        <updated>2021-11-24T07:16:02.015Z</updated>
+        <content type="html"><![CDATA[2021.11.29(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <리차드3세> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11358</id>
@@ -90,7 +97,7 @@
         <content type="html"><![CDATA[2021.11.24(수) 20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬〈헤드윅〉 - 성남 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬[헤드윅] - 성남 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11346</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11346"/>
         <updated>2021-11-23T12:25:34.305Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11340"/>
         <updated>2021-11-23T12:25:34.325Z</updated>
         <content type="html"><![CDATA[2021.11.24(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니버설발레단〈호두까기인형〉3층 좌석 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11339</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11339"/>
-        <updated>2021-11-23T12:25:34.331Z</updated>
-        <content type="html"><![CDATA[2021.11.23(화) 14:00]]></content>
     </entry>
 </feed>

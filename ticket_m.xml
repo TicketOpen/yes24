@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-24T06:20:18.402Z</updated>
+    <updated>2021-11-24T07:16:54.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 창원 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11359&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11359&amp;order=1"/>
+        <updated>2021-11-24T07:16:11.239Z</updated>
+        <content type="html"><![CDATA[2021-11-29(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <리차드3세> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11358&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11350&amp;order=1"/>
         <updated>2021-11-23T12:25:43.615Z</updated>
         <content type="html"><![CDATA[2021-11-26(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [우리들의 사랑] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11349&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11349&amp;order=1"/>
-        <updated>2021-11-23T12:25:43.615Z</updated>
-        <content type="html"><![CDATA[2021-11-26(금) 14:00]]></content>
     </entry>
 </feed>
