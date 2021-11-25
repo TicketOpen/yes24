@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-25T08:21:40.593Z</updated>
+    <updated>2021-11-25T09:17:26.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김필 10주년 콘서트〈FEELmography〉- 부산 공연 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11364&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11364&amp;order=1"/>
+        <updated>2021-11-25T09:16:31.669Z</updated>
+        <content type="html"><![CDATA[2021-12-01(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이진혁 2021 팬 콘 : XYZ 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11363&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11363&amp;order=1"/>
         <updated>2021-11-25T08:20:40.103Z</updated>
         <content type="html"><![CDATA[2021-12-03(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선예매] 김필 10주년 콘서트〈FEELmography〉- 부산 공연 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11362&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11362&amp;order=1"/>
-        <updated>2021-11-25T07:17:05.662Z</updated>
-        <content type="html"><![CDATA[2021-11-30(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [잭더리퍼] 2차 티켓오픈 안내]]></title>
@@ -73,6 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11354&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11354&amp;order=1"/>
         <updated>2021-11-24T05:14:42.009Z</updated>
-        <content type="html"><![CDATA[2021-11-26(금) 11:00]]></content>
+        <content type="html"><![CDATA[2021-11-30(화) 13:00]]></content>
     </entry>
 </feed>
