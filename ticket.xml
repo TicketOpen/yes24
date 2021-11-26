@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-25T23:17:12.457Z</updated>
+    <updated>2021-11-26T00:51:35.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GREEDY CHRISTMAS 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11366</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11366"/>
+        <updated>2021-11-26T00:50:29.356Z</updated>
+        <content type="html"><![CDATA[2021.12.01(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김필 10주년 콘서트〈FEELmography〉- 부산 공연 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11364</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[뮤지컬 [바람이 불어오는 곳] 3차 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11345</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11345"/>
-        <updated>2021-11-25T06:19:47.739Z</updated>
-        <content type="html"><![CDATA[2021.11.26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈언더스터디〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11344</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11344"/>
         <updated>2021-11-25T06:19:47.739Z</updated>
         <content type="html"><![CDATA[2021.11.26(금) 14:00]]></content>
     </entry>
