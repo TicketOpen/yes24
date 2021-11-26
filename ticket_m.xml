@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-26T08:19:59.042Z</updated>
+    <updated>2021-11-26T09:17:55.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 M.I.SEA 힙합 콘서트 - 고양/비오,쿤타,홀리뱅...티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11372&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11372&amp;order=1"/>
+        <updated>2021-11-26T09:16:49.167Z</updated>
+        <content type="html"><![CDATA[2021-12-03(금) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 M.I.SEA 힙합 콘서트 - 제주/비오,쿤타,홀리뱅...티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11371&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11371&amp;order=1"/>
+        <updated>2021-11-26T09:16:49.167Z</updated>
+        <content type="html"><![CDATA[2021-12-01(수) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 4차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11370&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11361&amp;order=1"/>
         <updated>2021-11-25T05:14:55.286Z</updated>
         <content type="html"><![CDATA[2021-12-02(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9와 숫자들BLUE CONCERT 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11360&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11360&amp;order=1"/>
-        <updated>2021-11-25T03:17:01.263Z</updated>
-        <content type="html"><![CDATA[2021-11-30(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 창원 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11359&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11359&amp;order=1"/>
-        <updated>2021-11-24T07:16:11.239Z</updated>
-        <content type="html"><![CDATA[2021-11-29(월) 14:00]]></content>
     </entry>
 </feed>

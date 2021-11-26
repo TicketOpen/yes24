@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-26T08:19:59.054Z</updated>
+    <updated>2021-11-26T09:17:55.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 M.I.SEA 힙합 콘서트 - 고양/비오,쿤타,홀리뱅...티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11372</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11372"/>
+        <updated>2021-11-26T09:16:37.862Z</updated>
+        <content type="html"><![CDATA[2021.12.03(금) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 M.I.SEA 힙합 콘서트 - 제주/비오,쿤타,홀리뱅...티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11371</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11371"/>
+        <updated>2021-11-26T09:16:37.863Z</updated>
+        <content type="html"><![CDATA[2021.12.01(수) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 4차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11370</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11351"/>
         <updated>2021-11-25T06:19:47.739Z</updated>
         <content type="html"><![CDATA[2021.11.30(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [온에어] 1차 티켓 오픈공지]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11350</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11350"/>
-        <updated>2021-11-25T06:19:47.739Z</updated>
-        <content type="html"><![CDATA[2021.11.26(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [우리들의 사랑] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11349</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11349"/>
-        <updated>2021-11-25T06:19:47.739Z</updated>
-        <content type="html"><![CDATA[2021.11.26(금) 14:00]]></content>
     </entry>
 </feed>
