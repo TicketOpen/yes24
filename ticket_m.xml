@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-26T01:58:35.843Z</updated>
+    <updated>2021-11-26T02:32:39.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11366&amp;order=1"/>
         <updated>2021-11-26T00:50:39.682Z</updated>
         <content type="html"><![CDATA[2021-12-01(수) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [은하철도의 밤] 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11365&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11365&amp;order=1"/>
+        <updated>2021-11-26T02:31:56.046Z</updated>
+        <content type="html"><![CDATA[2021-12-02(목) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김필 10주년 콘서트〈FEELmography〉- 부산 공연 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11356&amp;order=1"/>
         <updated>2021-11-24T05:14:42.006Z</updated>
         <content type="html"><![CDATA[2021-11-29(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 6차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11355&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11355&amp;order=1"/>
-        <updated>2021-11-24T05:14:42.007Z</updated>
-        <content type="html"><![CDATA[2021-12-02(목) 14:00]]></content>
     </entry>
 </feed>
