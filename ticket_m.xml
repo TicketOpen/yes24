@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-26T04:22:08.543Z</updated>
+    <updated>2021-11-26T05:15:35.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11367&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11367&amp;order=1"/>
+        <updated>2021-11-26T05:14:43.719Z</updated>
+        <content type="html"><![CDATA[2021-12-03(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GREEDY CHRISTMAS 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11366&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11357&amp;order=1"/>
         <updated>2021-11-24T05:14:42.006Z</updated>
         <content type="html"><![CDATA[2021-12-01(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHOI MINHO FAN PARTY “BEST CHOI's MINHO 2021” 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11356&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11356&amp;order=1"/>
-        <updated>2021-11-24T05:14:42.006Z</updated>
-        <content type="html"><![CDATA[2021-11-29(월) 20:00]]></content>
     </entry>
 </feed>
