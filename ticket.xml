@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-29T04:22:40.396Z</updated>
+    <updated>2021-11-29T05:16:19.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 VICTON FANMEETING [Sweet Travel] 취소안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11374</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11374"/>
+        <updated>2021-11-29T05:15:19.562Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [라흐마니노프] 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11373</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11354"/>
         <updated>2021-11-25T06:19:47.724Z</updated>
         <content type="html"><![CDATA[2021.11.30(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기프트 연말콘서트 [GIFT VILLAGE] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11353</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11353"/>
-        <updated>2021-11-25T06:19:47.739Z</updated>
-        <content type="html"><![CDATA[2021.11.26(금) 14:00]]></content>
     </entry>
 </feed>
