@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-29T02:36:46.881Z</updated>
+    <updated>2021-11-29T03:19:03.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [라흐마니노프] 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11373&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11373&amp;order=1"/>
+        <updated>2021-11-29T03:18:02.888Z</updated>
+        <content type="html"><![CDATA[2021-12-02(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 M.I.SEA 힙합 콘서트 - 고양/비오,쿤타,홀리뱅...티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11372&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11364&amp;order=1"/>
         <updated>2021-11-25T09:16:31.669Z</updated>
         <content type="html"><![CDATA[2021-12-01(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진혁 2021 팬 콘 : XYZ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11363&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11363&amp;order=1"/>
-        <updated>2021-11-25T08:20:40.103Z</updated>
-        <content type="html"><![CDATA[2021-12-03(금) 18:00]]></content>
     </entry>
 </feed>
