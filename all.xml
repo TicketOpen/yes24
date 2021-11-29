@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 14:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 15:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -251,14 +251,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211122/20211122-29c1715f-1ee1-4f26-bab6-c0c21f801388.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <무희 - 무명이 되고자 했던 그녀> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40583&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40583&amp;Tab=2</guid>
-            <pubDate>Thu, 25 Nov 2021 06:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.19 ~ 2021.11.29 | 2021.11.30 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211119/20211119-95fef689-64b2-49b5-8c8f-fb373f32830c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <검둥이> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40761&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40761&amp;Tab=3</guid>
@@ -307,6 +299,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211019/20211019-215ede4e-8b3a-43e2-ac1b-6bb83825bd82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[소중한 일상, 소중한 문화티켓 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3178</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3178</guid>
+            <pubDate>Mon, 29 Nov 2021 15:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.02.01 ~ 2021.12.05]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202105/20210524/20210524-f666b307-0e8b-454e-8dea-c29d98bec085.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이벤트 기간2021.11.24 ~ 2022.01.06 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40856</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40856</guid>
@@ -321,14 +321,6 @@
             <pubDate>Tue, 23 Nov 2021 12:26:19 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2021년 12월 17일(금) 오후 7시 30분]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211122/20211122-29c1715f-1ee1-4f26-bab6-c0c21f801388.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2021.11.19 ~ 2021.11.29 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=40583</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=40583</guid>
-            <pubDate>Tue, 23 Nov 2021 12:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>연극 &lt;고양이라서 괜찮아&gt; 2021년 12월 18일(토) 오후 7시]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211119/20211119-95fef689-64b2-49b5-8c8f-fb373f32830c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2021.11.19 ~ 2021.12.05 (YES24 티켓 ─ 이벤트 모바일)]]></title>
