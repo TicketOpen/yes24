@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 00:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 01:59:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11369</guid>
             <pubDate>Fri, 26 Nov 2021 07:16:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.30(화) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매2021 포항愛ON KPOP 콘서트 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11368</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11368</guid>
+            <pubDate>Mon, 29 Nov 2021 01:59:06 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.30(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown) (예스24 티켓)]]></title>
@@ -141,13 +148,6 @@
             <content:encoded><![CDATA[2021.11.26(금) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [더데빌] 2차 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11351</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11351</guid>
-            <pubDate>Thu, 25 Nov 2021 06:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.30(화) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022 M.I.SEA 힙합 콘서트 - 고양/비오,쿤타,홀리뱅...티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11372&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11372&amp;order=1</guid>
@@ -174,6 +174,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11369&amp;order=1</guid>
             <pubDate>Fri, 26 Nov 2021 06:20:59 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-30(화) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 포항愛ON KPOP 콘서트 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11368&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11368&amp;order=1</guid>
+            <pubDate>Mon, 29 Nov 2021 01:59:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-30(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown) (예스24 티켓 모바일)]]></title>
@@ -211,36 +218,23 @@
             <content:encoded><![CDATA[2021-12-03(금) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [잭더리퍼] 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11361&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11361&amp;order=1</guid>
-            <pubDate>Thu, 25 Nov 2021 05:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-02(목) 11:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <미인> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/39792</link>
+            <guid>http://ticket.yes24.com/Perf/39792</guid>
+            <pubDate>Mon, 29 Nov 2021 01:59:22 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211129/20211129-39792.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <뱀파이어 아더> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/40265</link>
-            <guid>http://m.ticket.yes24.com/Perf/40265</guid>
-            <pubDate>Tue, 23 Nov 2021 12:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;뱀파이어 아더&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">32</em>%<em class="blind">할인</em></span><span class="txt_num">
+            <title><![CDATA[뮤지컬 <미인> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/39792</link>
+            <guid>http://m.ticket.yes24.com/Perf/39792</guid>
+            <pubDate>Mon, 29 Nov 2021 01:59:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;미인&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
 																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">27,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11/22 ~ 12/11 공연(일부 제외)
-
-
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211122/20211122-40265.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <무희 - 무명이 되고자 ... > (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/40583</link>
-            <guid>http://m.ticket.yes24.com/Perf/40583</guid>
-            <pubDate>Tue, 23 Nov 2021 12:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 &lt;무희 - 무명이 되고자 ... &gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">50,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">21,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11/23~11/28 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211129/20211129-40583.jpg" length="0" type="image/jpg"/>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">19,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11/30 ~ 12/5 공연, 1인 4매</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211129/20211129-39792.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <라이온 킹> 인터내셔널 투어-서울 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
