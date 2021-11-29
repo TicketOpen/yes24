@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-29T08:20:32.979Z</updated>
+    <updated>2021-11-29T09:18:50.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소프라노 홍혜란의 〈HOPE〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11376&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11376&amp;order=1"/>
+        <updated>2021-11-29T09:17:54.254Z</updated>
+        <content type="html"><![CDATA[2021-11-30(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈언더스터디〉 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11375&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11375&amp;order=1"/>
+        <updated>2021-11-29T09:17:54.254Z</updated>
+        <content type="html"><![CDATA[2021-12-03(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 VICTON FANMEETING [Sweet Travel] 취소안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11374&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11367&amp;order=1"/>
         <updated>2021-11-26T05:14:43.719Z</updated>
         <content type="html"><![CDATA[2021-12-03(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GREEDY CHRISTMAS 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11366&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11366&amp;order=1"/>
-        <updated>2021-11-26T00:50:39.682Z</updated>
-        <content type="html"><![CDATA[2021-12-01(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [은하철도의 밤] 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11365&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11365&amp;order=1"/>
-        <updated>2021-11-26T02:31:56.046Z</updated>
-        <content type="html"><![CDATA[2021-12-02(목) 15:00]]></content>
     </entry>
 </feed>
