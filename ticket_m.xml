@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-30T08:17:33.110Z</updated>
+    <updated>2021-11-30T09:14:47.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[고양] 뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉회차추가 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11378&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11378&amp;order=1"/>
+        <updated>2021-11-30T09:14:03.986Z</updated>
+        <content type="html"><![CDATA[2021-12-01(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [뱀파이어 아더] - 아더 코필드 저택의 크리스마스 파티 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11377&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11369&amp;order=1"/>
         <updated>2021-11-26T06:20:59.313Z</updated>
         <content type="html"><![CDATA[2021-11-30(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 포항愛ON KPOP 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11368&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11368&amp;order=1"/>
-        <updated>2021-11-29T01:59:15.093Z</updated>
-        <content type="html"><![CDATA[2021-11-30(화) 20:00]]></content>
     </entry>
 </feed>

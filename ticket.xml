@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-30T08:17:33.120Z</updated>
+    <updated>2021-11-30T09:14:47.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[고양] 뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉회차추가 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11378</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11378"/>
+        <updated>2021-11-30T09:13:54.796Z</updated>
+        <content type="html"><![CDATA[2021.12.01(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [뱀파이어 아더] - 아더 코필드 저택의 크리스마스 파티 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11377</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11358"/>
         <updated>2021-11-25T06:19:47.693Z</updated>
         <content type="html"><![CDATA[2021.12.02(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [엘리펀트 송] 2차 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11357</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11357"/>
-        <updated>2021-11-25T06:19:47.693Z</updated>
-        <content type="html"><![CDATA[2021.12.01(수) 15:00]]></content>
     </entry>
 </feed>
