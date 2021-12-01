@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-01T10:20:13.368Z</updated>
+    <updated>2021-12-01T11:15:04.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위로와 힐링 2021 송년음악회 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11382&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11382&amp;order=1"/>
+        <updated>2021-12-01T11:14:20.462Z</updated>
+        <content type="html"><![CDATA[2021-12-06(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인천] 뮤지컬 [시카고] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11381&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11372&amp;order=1"/>
         <updated>2021-11-26T09:16:49.167Z</updated>
         <content type="html"><![CDATA[2021-12-03(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 M.I.SEA 힙합 콘서트 - 제주/비오,쿤타,홀리뱅...티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11371&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11371&amp;order=1"/>
-        <updated>2021-11-26T09:16:49.167Z</updated>
-        <content type="html"><![CDATA[2021-12-01(수) 19:00]]></content>
     </entry>
 </feed>
