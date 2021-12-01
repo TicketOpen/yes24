@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-01T06:20:52.679Z</updated>
+    <updated>2021-12-01T07:17:23.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인천] 뮤지컬 [시카고] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11381</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11381"/>
+        <updated>2021-12-01T07:16:19.563Z</updated>
+        <content type="html"><![CDATA[2021.12.06(월) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영욱 손정범 듀오 리사이틀 1~3 / 베토벤 바이올린소나타 전곡연주 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11380</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11361"/>
         <updated>2021-11-25T06:19:47.689Z</updated>
         <content type="html"><![CDATA[2021.12.02(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9와 숫자들BLUE CONCERT 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11360</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11360"/>
-        <updated>2021-11-25T06:19:47.689Z</updated>
-        <content type="html"><![CDATA[2021.11.30(화) 12:00<a class="noti-btn-pop" presaletit1="Bluer" presaletit2="" presaletime1="2021.11.30(화) 16:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

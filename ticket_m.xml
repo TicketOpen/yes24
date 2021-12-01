@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-01T06:20:52.682Z</updated>
+    <updated>2021-12-01T07:17:23.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인천] 뮤지컬 [시카고] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11381&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11381&amp;order=1"/>
+        <updated>2021-12-01T07:16:36.151Z</updated>
+        <content type="html"><![CDATA[2021-12-06(월) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영욱 손정범 듀오 리사이틀 1~3 / 베토벤 바이올린소나타 전곡연주 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11380&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11371&amp;order=1"/>
         <updated>2021-11-26T09:16:49.167Z</updated>
         <content type="html"><![CDATA[2021-12-01(수) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11370&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11370&amp;order=1"/>
-        <updated>2021-11-26T07:16:33.387Z</updated>
-        <content type="html"><![CDATA[2021-12-01(수) 11:00]]></content>
     </entry>
 </feed>
