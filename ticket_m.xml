@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-01T02:05:49.006Z</updated>
+    <updated>2021-12-01T03:17:46.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김영욱 손정범 듀오 리사이틀 1~3 / 베토벤 바이올린소나타 전곡연주 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11380&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11380&amp;order=1"/>
+        <updated>2021-12-01T03:17:03.003Z</updated>
+        <content type="html"><![CDATA[2021-12-03(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고양] 뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉회차추가 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11378&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11370&amp;order=1"/>
         <updated>2021-11-26T07:16:33.387Z</updated>
         <content type="html"><![CDATA[2021-12-01(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [쿠로이 저택엔 누가 살고 있을까?] 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11369&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11369&amp;order=1"/>
-        <updated>2021-11-26T06:20:59.313Z</updated>
-        <content type="html"><![CDATA[2021-11-30(화) 15:00]]></content>
     </entry>
 </feed>
