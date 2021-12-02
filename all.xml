@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <리차드3세> 2차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11387</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11387</guid>
+            <pubDate>Thu, 02 Dec 2021 06:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.08(수) 11:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 거미 전국투어 콘서트〈다시, Winter Ballad〉- 전주티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11386</link>
@@ -74,7 +81,7 @@
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11377</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11377</guid>
             <pubDate>Tue, 30 Nov 2021 05:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03(금) 14:00]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.07(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소프라노 홍혜란의 〈HOPE〉 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -139,11 +146,11 @@
             <content:encoded><![CDATA[2021.11.30(화) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown) (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11367</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11367</guid>
-            <pubDate>Fri, 26 Nov 2021 05:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03(금) 14:00]]></content:encoded>
+            <title><![CDATA[연극 <리차드3세> 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11387&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11387&amp;order=1</guid>
+            <pubDate>Thu, 02 Dec 2021 06:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-08(수) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 거미 전국투어 콘서트〈다시, Winter Ballad〉- 전주티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -206,14 +213,7 @@
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11377&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11377&amp;order=1</guid>
             <pubDate>Tue, 30 Nov 2021 05:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-03(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소프라노 홍혜란의 〈HOPE〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11376&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11376&amp;order=1</guid>
-            <pubDate>Mon, 29 Nov 2021 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-30(화) 14:00]]></content:encoded>
+            <content:encoded><![CDATA[2021-12-07(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <미인> (YES24 티켓 ─ 엔젤티켓)]]></title>

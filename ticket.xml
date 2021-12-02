@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-02T05:16:25.648Z</updated>
+    <updated>2021-12-02T06:20:32.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <리차드3세> 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11387</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11387"/>
+        <updated>2021-12-02T06:19:35.154Z</updated>
+        <content type="html"><![CDATA[2021.12.08(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 거미 전국투어 콘서트〈다시, Winter Ballad〉- 전주티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11386</id>
@@ -72,7 +79,7 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11377</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11377"/>
         <updated>2021-11-30T05:13:01.782Z</updated>
-        <content type="html"><![CDATA[2021.12.03(금) 14:00]]></content>
+        <content type="html"><![CDATA[2021.12.07(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소프라노 홍혜란의 〈HOPE〉 티켓오픈 안내]]></title>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11368"/>
         <updated>2021-11-29T01:59:06.092Z</updated>
         <content type="html"><![CDATA[2021.11.30(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11367</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11367"/>
-        <updated>2021-11-26T05:14:34.371Z</updated>
-        <content type="html"><![CDATA[2021.12.03(금) 14:00]]></content>
     </entry>
 </feed>
