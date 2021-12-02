@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-02T07:17:23.958Z</updated>
+    <updated>2021-12-02T08:20:05.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내 (12/4, 12/5, 12/11, 12/12, 12/19, 12/20)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11388</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11388"/>
+        <updated>2021-12-02T08:19:11.131Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <리차드3세> 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11387</id>
@@ -135,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11369"/>
         <updated>2021-11-26T07:16:21.186Z</updated>
         <content type="html"><![CDATA[2021.11.30(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2021 포항愛ON KPOP 콘서트 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11368</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11368"/>
-        <updated>2021-11-29T01:59:06.092Z</updated>
-        <content type="html"><![CDATA[2021.11.30(화) 20:00]]></content>
     </entry>
 </feed>
