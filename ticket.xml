@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-03T02:00:13.085Z</updated>
+    <updated>2021-12-03T02:38:03.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - TWICE 4TH WORLD TOUR ‘Ⅲ’ Live Streaming 관람권 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11389</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11389"/>
+        <updated>2021-12-03T02:37:06.800Z</updated>
+        <content type="html"><![CDATA[2021.12.06(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내 (12/4, 12/5, 12/11, 12/12, 12/19, 12/20)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11388</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11370"/>
         <updated>2021-11-26T07:16:21.179Z</updated>
         <content type="html"><![CDATA[2021.12.01(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [쿠로이 저택엔 누가 살고 있을까?] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11369</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11369"/>
-        <updated>2021-11-26T07:16:21.186Z</updated>
-        <content type="html"><![CDATA[2021.11.30(화) 15:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-03T02:00:13.082Z</updated>
+    <updated>2021-12-03T02:38:03.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - TWICE 4TH WORLD TOUR ‘Ⅲ’ Live Streaming 관람권 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11389&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11389&amp;order=1"/>
+        <updated>2021-12-03T02:37:16.618Z</updated>
+        <content type="html"><![CDATA[2021-12-06(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <리차드3세> 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11387&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11378&amp;order=1"/>
         <updated>2021-11-30T09:14:03.986Z</updated>
         <content type="html"><![CDATA[2021-12-01(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [뱀파이어 아더] - 아더 코필드 저택의 크리스마스 파티 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11377&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11377&amp;order=1"/>
-        <updated>2021-11-30T05:13:11.338Z</updated>
-        <content type="html"><![CDATA[2021-12-07(화) 14:00]]></content>
     </entry>
 </feed>
