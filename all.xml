@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 03:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 04:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,6 +393,13 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[뮤지컬 잭더리퍼] 이 쿠폰은 영국에서 최초로... (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Tue, 23 Nov 2021 12:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.12.03 ~ 2021.12.05</dd><dt>사용기간</dt><dd>2021.12.03 ~ 2021.12.05</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[뮤지컬 라이온킹] 심바가 물고 온 5천원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -422,13 +429,6 @@
         </item>
         <item>
             <title><![CDATA[[뮤지컬 팬텀] 5천원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Tue, 23 Nov 2021 12:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2021.12.31</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 팬텀] 1만원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
             <pubDate>Tue, 23 Nov 2021 12:26:26 GMT</pubDate>
@@ -503,6 +503,13 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=39853</guid>
             <pubDate>Tue, 23 Nov 2021 12:26:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 잭더리퍼] 이 쿠폰은 영국에서 최초로... (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40002</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40002</guid>
+            <pubDate>Fri, 03 Dec 2021 04:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content:encoded>
         </item>
     </channel>
 </rss>
