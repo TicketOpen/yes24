@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 14:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 15:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,14 +215,6 @@
             <content:encoded><![CDATA[2021-12-06(월) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <미인> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/39792</link>
-            <guid>http://ticket.yes24.com/Perf/39792</guid>
-            <pubDate>Mon, 29 Nov 2021 01:59:22 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202111/20211129/20211129-39792.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <미인> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/39792</link>
             <guid>http://m.ticket.yes24.com/Perf/39792</guid>
@@ -242,28 +234,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211123/20211123-9444c672-9e6c-4083-86ff-bf7101a35c63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <검둥이> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40761&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40761&amp;Tab=3</guid>
-            <pubDate>Thu, 25 Nov 2021 06:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.19 ~ 2021.12.05 | 2021.12.07 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211117/20211117-a0daebdd-555e-4420-a118-40636c8aeb6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <서찰을 전하는 아이> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40730&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40730&amp;Tab=3</guid>
             <pubDate>Thu, 25 Nov 2021 06:20:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.19 ~ 2021.12.14 | 2021.12.15 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211116/20211116-d174a39f-5d9c-4498-8aba-9dc9bf7296ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <고양이라서 괜찮아> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40772&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40772&amp;Tab=3</guid>
-            <pubDate>Thu, 25 Nov 2021 06:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17 ~ 2021.12.05 | 2021.12.06 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211115/20211115-d91ebe26-4efa-4f7b-a590-2670a820ada5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <천사에 관하여: 타락천사 편> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -282,14 +258,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211019/20211019-215ede4e-8b3a-43e2-ac1b-6bb83825bd82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소중한 일상, 소중한 문화티켓 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3178</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3178</guid>
-            <pubDate>Mon, 29 Nov 2021 15:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.02.01 ~ 2021.12.05]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202105/20210524/20210524-f666b307-0e8b-454e-8dea-c29d98bec085.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[YES24 SNS담당자 살리기 프로젝트(개편) (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3156</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3156</guid>
@@ -305,6 +273,27 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 05 Dec 2021 15:17:26 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Sun, 05 Dec 2021 15:17:26 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예술의전당 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
+            <pubDate>Sun, 05 Dec 2021 15:17:26 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[이벤트 기간2021.11.24 ~ 2022.01.06 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40856</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40856</guid>
@@ -313,28 +302,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211123/20211123-9444c672-9e6c-4083-86ff-bf7101a35c63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이벤트 기간2021.11.19 ~ 2021.12.05 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40761</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40761</guid>
-            <pubDate>Tue, 23 Nov 2021 12:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2021년 12월 10일(금) 오후 8시]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211117/20211117-a0daebdd-555e-4420-a118-40636c8aeb6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이벤트 기간2021.11.19 ~ 2021.12.14 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40730</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40730</guid>
             <pubDate>Tue, 23 Nov 2021 12:26:19 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2021년 12월 17일(금) 오후 7시 30분]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211116/20211116-d174a39f-5d9c-4498-8aba-9dc9bf7296ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2021.11.17 ~ 2021.12.05 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40772</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=40772</guid>
-            <pubDate>Tue, 23 Nov 2021 12:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2021년 12월 16일(목) 오후 8시]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202111/20211115/20211115-d91ebe26-4efa-4f7b-a590-2670a820ada5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2021.11.08 ~ 2022.01.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -351,14 +324,6 @@
             <pubDate>Tue, 23 Nov 2021 12:26:19 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>2018-2019 뮤지컬 &lt;지킬앤하이드&gt; 실링왁스세트]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211019/20211019-215ede4e-8b3a-43e2-ac1b-6bb83825bd82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2021.02.01 ~ 2021.12.05 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3178</link>
-            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3178</guid>
-            <pubDate>Tue, 23 Nov 2021 12:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202105/20210524/20210524-f666b307-0e8b-454e-8dea-c29d98bec085.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2020.10.01 ~ 2021.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -393,13 +358,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[뮤지컬 잭더리퍼] 이 쿠폰은 영국에서 최초로... (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Tue, 23 Nov 2021 12:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.12.03 ~ 2021.12.05</dd><dt>사용기간</dt><dd>2021.12.03 ~ 2021.12.05</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[뮤지컬 라이온킹] 심바가 물고 온 5천원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -429,6 +387,13 @@
         </item>
         <item>
             <title><![CDATA[[뮤지컬 팬텀] 5천원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Tue, 23 Nov 2021 12:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2021.12.31</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 팬텀] 1만원 할인쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
             <pubDate>Tue, 23 Nov 2021 12:26:26 GMT</pubDate>
@@ -503,13 +468,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=39853</guid>
             <pubDate>Tue, 23 Nov 2021 12:26:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 잭더리퍼] 이 쿠폰은 영국에서 최초로... (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40002</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40002</guid>
-            <pubDate>Fri, 03 Dec 2021 04:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content:encoded>
         </item>
     </channel>
 </rss>
