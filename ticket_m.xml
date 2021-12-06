@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-06T02:03:23.171Z</updated>
+    <updated>2021-12-06T03:18:07.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11392&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11392&amp;order=1"/>
+        <updated>2021-12-06T03:17:16.605Z</updated>
+        <content type="html"><![CDATA[2021-12-09(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 4차(마지막) 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11391&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11382&amp;order=1"/>
         <updated>2021-12-01T11:14:20.462Z</updated>
         <content type="html"><![CDATA[2021-12-06(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천] 뮤지컬 [시카고] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11381&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11381&amp;order=1"/>
-        <updated>2021-12-01T07:16:36.151Z</updated>
-        <content type="html"><![CDATA[2021-12-06(월) 16:00]]></content>
     </entry>
 </feed>

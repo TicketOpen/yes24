@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 02:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 03:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11392</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11392</guid>
+            <pubDate>Mon, 06 Dec 2021 03:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.09(목) 15:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 4차(마지막) 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11391</link>
@@ -138,11 +145,11 @@
             <content:encoded><![CDATA[2021.12.02(목) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 M.I.SEA 힙합 콘서트 - 고양/비오,쿤타,홀리뱅...티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11372</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11372</guid>
-            <pubDate>Fri, 26 Nov 2021 09:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03(금) 19:00]]></content:encoded>
+            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11392&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11392&amp;order=1</guid>
+            <pubDate>Mon, 06 Dec 2021 03:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-09(목) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 4차(마지막) 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -208,11 +215,20 @@
             <content:encoded><![CDATA[2021-12-06(월) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인천] 뮤지컬 [시카고] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11381&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11381&amp;order=1</guid>
-            <pubDate>Wed, 01 Dec 2021 07:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-06(월) 16:00]]></content:encoded>
+            <title><![CDATA[최현우 〈THE BRAIN〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40477</link>
+            <guid>http://ticket.yes24.com/Perf/40477</guid>
+            <pubDate>Mon, 06 Dec 2021 02:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>36,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211206/20211206-40477.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <고양이라서 괜찮아> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40772</link>
+            <guid>http://ticket.yes24.com/Perf/40772</guid>
+            <pubDate>Mon, 06 Dec 2021 02:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>18,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211206/20211206-40772.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <하데스타운> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -229,22 +245,6 @@
             <pubDate>Mon, 06 Dec 2021 02:02:45 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>18,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211206/20211206-40761.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최현우 〈THE BRAIN〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40477</link>
-            <guid>http://ticket.yes24.com/Perf/40477</guid>
-            <pubDate>Mon, 06 Dec 2021 02:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>36,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211206/20211206-40477.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <고양이라서 괜찮아> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40772</link>
-            <guid>http://ticket.yes24.com/Perf/40772</guid>
-            <pubDate>Mon, 06 Dec 2021 02:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>18,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211206/20211206-40772.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <하데스타운> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
