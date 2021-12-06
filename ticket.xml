@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-06T07:17:36.343Z</updated>
+    <updated>2021-12-06T08:20:46.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [스핏파이어 그릴] 3차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11395</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11395"/>
+        <updated>2021-12-06T08:19:51.501Z</updated>
+        <content type="html"><![CDATA[2021.12.10(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 Winter Story Series 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11394</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11376"/>
         <updated>2021-11-29T10:17:44.003Z</updated>
         <content type="html"><![CDATA[2021.11.30(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈언더스터디〉 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11375</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11375"/>
-        <updated>2021-11-29T10:17:44.008Z</updated>
-        <content type="html"><![CDATA[2021.12.03(금) 14:00]]></content>
     </entry>
 </feed>
