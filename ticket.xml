@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-06T04:22:05.794Z</updated>
+    <updated>2021-12-06T05:16:34.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 Winter Story Series 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11394</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11394"/>
+        <updated>2021-12-06T05:15:37.475Z</updated>
+        <content type="html"><![CDATA[2021.12.07(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Serenade of LA POEM 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11393</id>
@@ -135,11 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11375"/>
         <updated>2021-11-29T10:17:44.008Z</updated>
         <content type="html"><![CDATA[2021.12.03(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 VICTON FANMEETING [Sweet Travel] 취소안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11374</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11374"/>
-        <updated>2021-11-29T05:15:19.562Z</updated>
     </entry>
 </feed>
