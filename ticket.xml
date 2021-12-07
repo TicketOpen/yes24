@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-07T07:17:15.060Z</updated>
+    <updated>2021-12-07T08:22:19.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX〉- 추가좌석 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11397</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11397"/>
+        <updated>2021-12-07T08:21:17.610Z</updated>
+        <content type="html"><![CDATA[2021.12.08(수) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［시네마 필름 콘서트］ 러브레터 ＆ 냉정과 열정사이 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11396</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11396"/>
+        <updated>2021-12-07T08:21:17.630Z</updated>
+        <content type="html"><![CDATA[2021.12.08(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [스핏파이어 그릴] 3차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11395</id>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11378"/>
         <updated>2021-11-30T09:13:54.796Z</updated>
         <content type="html"><![CDATA[2021.12.01(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [뱀파이어 아더] - 아더 코필드 저택의 크리스마스 파티 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11377</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11377"/>
-        <updated>2021-11-30T05:13:01.782Z</updated>
-        <content type="html"><![CDATA[2021.12.07(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프라노 홍혜란의 〈HOPE〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11376</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11376"/>
-        <updated>2021-11-29T10:17:44.003Z</updated>
-        <content type="html"><![CDATA[2021.11.30(화) 14:00]]></content>
     </entry>
 </feed>
