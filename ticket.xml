@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-08T02:04:44.296Z</updated>
+    <updated>2021-12-08T03:17:41.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LEE JIN HYUK 2021 FAN CON : XYZ 취소 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11398</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11398"/>
+        <updated>2021-12-08T03:16:47.580Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX〉- 추가좌석 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11397</id>
@@ -135,12 +141,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11379</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11379"/>
         <updated>2021-12-01T02:04:50.059Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉회차추가 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11378</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11378"/>
-        <updated>2021-11-30T09:13:54.796Z</updated>
-        <content type="html"><![CDATA[2021.12.01(수) 10:00]]></content>
     </entry>
 </feed>

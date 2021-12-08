@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-08T02:04:44.287Z</updated>
+    <updated>2021-12-08T03:17:41.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LEE JIN HYUK 2021 FAN CON : XYZ 취소 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11398&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11398&amp;order=1"/>
+        <updated>2021-12-08T03:16:56.699Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX〉- 추가좌석 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11397&amp;order=1</id>
@@ -67,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11389&amp;order=1"/>
         <updated>2021-12-03T02:37:16.618Z</updated>
         <content type="html"><![CDATA[2021-12-06(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <리차드3세> 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11387&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11387&amp;order=1"/>
-        <updated>2021-12-02T06:19:44.382Z</updated>
-        <content type="html"><![CDATA[2021-12-08(수) 11:00]]></content>
     </entry>
 </feed>
