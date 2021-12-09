@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-09T00:53:41.656Z</updated>
+    <updated>2021-12-09T02:03:30.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [물고기 남자] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11401</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11401"/>
+        <updated>2021-12-09T02:02:29.767Z</updated>
+        <content type="html"><![CDATA[2021.12.14(화) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [뱀파이어 아더] 마지막 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11400</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11400"/>
+        <updated>2021-12-09T02:02:29.767Z</updated>
+        <content type="html"><![CDATA[2021.12.13(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LEE JIN HYUK 2021 FAN CON : XYZ 취소 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11398</id>
@@ -128,18 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11381"/>
         <updated>2021-12-01T07:16:19.563Z</updated>
         <content type="html"><![CDATA[2021.12.06(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영욱 손정범 듀오 리사이틀 1~3 / 베토벤 바이올린소나타 전곡연주 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11380</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11380"/>
-        <updated>2021-12-01T03:16:53.952Z</updated>
-        <content type="html"><![CDATA[2021.12.03(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세종문화회관] 네트워크 작업으로 인한 실시간 연동 판매 서비스 중단안내(12/06)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11379</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11379"/>
-        <updated>2021-12-01T02:04:50.059Z</updated>
     </entry>
 </feed>
