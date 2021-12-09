@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-09T04:22:10.387Z</updated>
+    <updated>2021-12-09T05:16:29.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11400"/>
         <updated>2021-12-09T02:02:29.767Z</updated>
         <content type="html"><![CDATA[2021.12.13(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 춘천 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11399</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11399"/>
+        <updated>2021-12-09T05:15:36.939Z</updated>
+        <content type="html"><![CDATA[2021.12.14(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LEE JIN HYUK 2021 FAN CON : XYZ 취소 안내]]></title>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11382"/>
         <updated>2021-12-01T11:14:11.513Z</updated>
         <content type="html"><![CDATA[2021.12.06(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천] 뮤지컬 [시카고] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11381</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11381"/>
-        <updated>2021-12-01T07:16:19.563Z</updated>
-        <content type="html"><![CDATA[2021.12.06(월) 16:00]]></content>
     </entry>
 </feed>
