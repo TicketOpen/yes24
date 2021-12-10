@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-10T05:16:42.328Z</updated>
+    <updated>2021-12-10T06:21:01.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [엘리펀트 송] 3차 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11404&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11404&amp;order=1"/>
+        <updated>2021-12-10T06:20:01.327Z</updated>
+        <content type="html"><![CDATA[2021-12-16(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11402&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11394&amp;order=1"/>
         <updated>2021-12-06T05:15:46.681Z</updated>
         <content type="html"><![CDATA[2021-12-07(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serenade of LA POEM 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11393&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11393&amp;order=1"/>
-        <updated>2021-12-06T04:21:23.005Z</updated>
-        <content type="html"><![CDATA[2021-12-08(수) 16:00]]></content>
     </entry>
 </feed>

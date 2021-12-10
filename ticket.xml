@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-10T05:16:42.322Z</updated>
+    <updated>2021-12-10T06:21:01.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [엘리펀트 송] 3차 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11404</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11404"/>
+        <updated>2021-12-10T06:19:50.147Z</updated>
+        <content type="html"><![CDATA[2021.12.16(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11402</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11384"/>
         <updated>2021-12-02T02:37:47.894Z</updated>
         <content type="html"><![CDATA[2021.12.03(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE - NCT 127 2ND TOUR ‘NEO CITY : SEOUL - THE LINK’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11383</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11383"/>
-        <updated>2021-12-02T02:37:47.894Z</updated>
-        <content type="html"><![CDATA[2021.12.07(화) 15:00]]></content>
     </entry>
 </feed>
