@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 07:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 08:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <더데빌> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40696&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40696&amp;Tab=2</guid>
+            <pubDate>Fri, 10 Dec 2021 08:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10 ~ 2022.02.27 | 2022.02.28 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202112/20211210/20211210-b3e98a0b-0a37-47b4-87e4-6af63f9eedd6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <패션의 신> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40989&amp;Tab=3</link>
@@ -70,13 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 15:15:57 GMT</pubDate>
             <content:encoded><![CDATA[2020.10.01 ~ 2021.12.31 | 2021.12.31 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202012/20201231/20201231-3042283d-4e39-42c3-9a30-7a9fa97cafe4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Thu, 02 Dec 2021 15:15:57 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

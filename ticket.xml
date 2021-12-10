@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-10T07:17:06.561Z</updated>
+    <updated>2021-12-10T08:20:17.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[커넥팅 CONNECTING 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11405</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11405"/>
+        <updated>2021-12-10T08:19:12.758Z</updated>
+        <content type="html"><![CDATA[2021.12.15(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [엘리펀트 송] 3차 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11404</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11386"/>
         <updated>2021-12-02T05:15:25.268Z</updated>
         <content type="html"><![CDATA[2021.12.07(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트〈BAEK HUG〉- 전주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11385</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11385"/>
-        <updated>2021-12-02T05:15:25.269Z</updated>
-        <content type="html"><![CDATA[2021.12.07(화) 15:00]]></content>
     </entry>
 </feed>
