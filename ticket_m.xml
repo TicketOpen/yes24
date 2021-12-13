@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-13T03:17:47.761Z</updated>
+    <updated>2021-12-13T04:22:31.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 [잭더리퍼] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11409&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11409&amp;order=1"/>
+        <updated>2021-12-13T04:21:33.201Z</updated>
+        <content type="html"><![CDATA[2021-12-20(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [은하철도의 밤] 3차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11407&amp;order=1</id>
@@ -67,11 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11399&amp;order=1"/>
         <updated>2021-12-09T05:15:46.217Z</updated>
         <content type="html"><![CDATA[2021-12-14(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEE JIN HYUK 2021 FAN CON : XYZ 취소 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11398&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11398&amp;order=1"/>
-        <updated>2021-12-08T03:16:56.699Z</updated>
     </entry>
 </feed>
