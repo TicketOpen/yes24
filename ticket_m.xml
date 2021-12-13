@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-13T04:22:31.447Z</updated>
+    <updated>2021-12-13T05:15:58.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11409&amp;order=1"/>
         <updated>2021-12-13T04:21:33.201Z</updated>
         <content type="html"><![CDATA[2021-12-20(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 AB6IX CONCERT [COMPLETE WITH YOU] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11408&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11408&amp;order=1"/>
+        <updated>2021-12-13T05:15:00.402Z</updated>
+        <content type="html"><![CDATA[2021-12-17(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [은하철도의 밤] 3차 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11400&amp;order=1"/>
         <updated>2021-12-09T02:02:39.299Z</updated>
         <content type="html"><![CDATA[2021-12-13(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 춘천 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11399&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11399&amp;order=1"/>
-        <updated>2021-12-09T05:15:46.217Z</updated>
-        <content type="html"><![CDATA[2021-12-14(화) 14:00]]></content>
     </entry>
 </feed>
