@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-13T00:54:51.965Z</updated>
+    <updated>2021-12-13T02:03:10.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [은하철도의 밤] 3차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11407</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11407"/>
+        <updated>2021-12-13T02:02:14.323Z</updated>
+        <content type="html"><![CDATA[2021.12.16(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE- CHOI MINHO FAN PARTY “BEST CHOI’s MINHO 2021” 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11406</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11406"/>
+        <updated>2021-12-13T02:02:14.324Z</updated>
+        <content type="html"><![CDATA[2021.12.13(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[커넥팅 CONNECTING 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11405</id>
@@ -128,19 +142,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11388</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11388"/>
         <updated>2021-12-02T08:19:11.131Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <리차드3세> 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11387</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11387"/>
-        <updated>2021-12-02T06:19:35.154Z</updated>
-        <content type="html"><![CDATA[2021.12.08(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 거미 전국투어 콘서트〈다시, Winter Ballad〉- 전주티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11386</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11386"/>
-        <updated>2021-12-02T05:15:25.268Z</updated>
-        <content type="html"><![CDATA[2021.12.07(화) 14:00]]></content>
     </entry>
 </feed>
