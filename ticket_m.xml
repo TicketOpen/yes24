@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-14T08:23:11.582Z</updated>
+    <updated>2021-12-14T09:17:28.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [온에어] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11411&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11411&amp;order=1"/>
+        <updated>2021-12-14T09:16:41.887Z</updated>
+        <content type="html"><![CDATA[2021-12-15(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <썸씽로튼> 2차 티켓, 새해 1월 시즌 오픈 안내!]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11410&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11402&amp;order=1"/>
         <updated>2021-12-10T04:21:21.225Z</updated>
         <content type="html"><![CDATA[2021-12-16(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [물고기 남자] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11401&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11401&amp;order=1"/>
-        <updated>2021-12-09T02:02:39.295Z</updated>
-        <content type="html"><![CDATA[2021-12-14(화) 16:00]]></content>
     </entry>
 </feed>
