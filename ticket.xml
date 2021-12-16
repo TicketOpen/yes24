@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-16T08:20:53.489Z</updated>
+    <updated>2021-12-16T09:17:39.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈언더스터디〉 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11416</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11416"/>
+        <updated>2021-12-16T09:16:45.556Z</updated>
+        <content type="html"><![CDATA[2021.12.23(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 거미 전국투어 콘서트〈다시, Winter Ballad〉- 진주 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11415</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11397"/>
         <updated>2021-12-07T08:21:17.610Z</updated>
         <content type="html"><![CDATA[2021.12.08(수) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［시네마 필름 콘서트］ 러브레터 ＆ 냉정과 열정사이 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11396</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11396"/>
-        <updated>2021-12-07T08:21:17.630Z</updated>
-        <content type="html"><![CDATA[2021.12.08(수) 14:00]]></content>
     </entry>
 </feed>
