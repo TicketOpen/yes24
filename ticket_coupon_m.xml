@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2021-12-17T00:57:16.932Z</updated>
+    <updated>2021-12-17T02:07:26.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
     <entry>
@@ -81,5 +81,12 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40023"/>
         <updated>2021-12-13T02:03:09.456Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연극 엘리펀트 송] 안소니가 보고 싶대]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40046</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40046"/>
+        <updated>2021-12-17T02:07:26.063Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content>
     </entry>
 </feed>
