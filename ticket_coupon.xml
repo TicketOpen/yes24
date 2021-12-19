@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2021-12-19T14:15:52.241Z</updated>
+    <updated>2021-12-19T15:17:31.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
     <entry>
@@ -12,20 +12,6 @@
         <updated>2021-11-23T12:26:26.396Z</updated>
         <content type="html"><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연극 엘리펀트 송] 안소니가 보고 싶대]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2021-11-23T12:26:26.396Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.12.17 ~ 2021.12.19</dd><dt>사용기간</dt><dd>2021.12.17 ~ 2021.12.19</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 라흐마니노프] 예매수수료 면제쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2021-11-23T12:26:26.396Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.12.13 ~ 2021.12.19</dd><dt>사용기간</dt><dd>2021.12.13 ~ 2021.12.19</dd>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뮤지컬 라이온킹] 심바가 물고 온 5천원 할인쿠폰]]></title>
@@ -54,5 +40,19 @@
         <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
         <updated>2021-11-23T12:26:26.396Z</updated>
         <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.10.13 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.10.13 ~ 2021.12.31</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 팬텀] 5천원 할인쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2021-11-23T12:26:26.396Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2021.12.31</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 팬텀] 1만원 할인쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2021-11-23T12:26:26.396Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2021.12.31</dd>]]></content>
     </entry>
 </feed>
