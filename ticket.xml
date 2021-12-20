@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-20T04:23:15.247Z</updated>
+    <updated>2021-12-20T05:17:53.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [더데빌] 3차 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11420</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11420"/>
+        <updated>2021-12-20T05:16:42.060Z</updated>
+        <content type="html"><![CDATA[2021.12.24(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 연극〈친정엄마와 2박3일－여수〉티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11419</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11419"/>
+        <updated>2021-12-20T05:16:42.061Z</updated>
+        <content type="html"><![CDATA[2021.12.23(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 순천 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11418</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11418"/>
+        <updated>2021-12-20T05:16:42.061Z</updated>
+        <content type="html"><![CDATA[2021.12.23(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라포엠 단독 콘서트〈ECLIPSE〉- 부산 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11417</id>
@@ -123,25 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11400"/>
         <updated>2021-12-09T02:02:29.767Z</updated>
         <content type="html"><![CDATA[2021.12.13(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 춘천 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11399</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11399"/>
-        <updated>2021-12-09T05:15:36.939Z</updated>
-        <content type="html"><![CDATA[2021.12.14(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEE JIN HYUK 2021 FAN CON : XYZ 취소 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11398</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11398"/>
-        <updated>2021-12-08T03:16:47.580Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX〉- 추가좌석 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11397</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11397"/>
-        <updated>2021-12-07T08:21:17.610Z</updated>
-        <content type="html"><![CDATA[2021.12.08(수) 13:00]]></content>
     </entry>
 </feed>
