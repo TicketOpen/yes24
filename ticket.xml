@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-21T00:58:05.325Z</updated>
+    <updated>2021-12-21T02:09:10.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] 전국 투어 인천 티켓 재오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11421</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11421"/>
+        <updated>2021-12-21T02:08:11.158Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [더데빌] 3차 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11420</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11401"/>
         <updated>2021-12-09T02:02:29.767Z</updated>
         <content type="html"><![CDATA[2021.12.14(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [뱀파이어 아더] 마지막 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11400</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11400"/>
-        <updated>2021-12-09T02:02:29.767Z</updated>
-        <content type="html"><![CDATA[2021.12.13(월) 14:00]]></content>
     </entry>
 </feed>
