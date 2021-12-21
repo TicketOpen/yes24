@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-21T07:17:20.628Z</updated>
+    <updated>2021-12-21T08:21:18.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 고양 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11424</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11424"/>
+        <updated>2021-12-21T08:20:19.127Z</updated>
+        <content type="html"><![CDATA[2022.01.03(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS> - 진주 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11423</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11423"/>
+        <updated>2021-12-21T08:20:19.127Z</updated>
+        <content type="html"><![CDATA[2021.12.28(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] 전국 투어 인천 티켓 재오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11421</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11403"/>
         <updated>2021-12-10T07:15:58.350Z</updated>
         <content type="html"><![CDATA[2021.12.15(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11402</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11402"/>
-        <updated>2021-12-10T04:21:11.916Z</updated>
-        <content type="html"><![CDATA[2021.12.16(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [물고기 남자] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11401</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11401"/>
-        <updated>2021-12-09T02:02:29.767Z</updated>
-        <content type="html"><![CDATA[2021.12.14(화) 16:00]]></content>
     </entry>
 </feed>

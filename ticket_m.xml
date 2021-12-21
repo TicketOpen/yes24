@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-21T07:17:20.610Z</updated>
+    <updated>2021-12-21T08:21:18.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 고양 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11424&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11424&amp;order=1"/>
+        <updated>2021-12-21T08:20:28.435Z</updated>
+        <content type="html"><![CDATA[2022-01-03(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS> - 진주 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11423&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11423&amp;order=1"/>
+        <updated>2021-12-21T08:20:28.439Z</updated>
+        <content type="html"><![CDATA[2021-12-28(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] 전국 투어 인천 티켓 재오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11421&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11413&amp;order=1"/>
         <updated>2021-12-15T05:15:04.379Z</updated>
         <content type="html"><![CDATA[2021-12-22(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [장화 신은 고양이 비긴즈] 겨울방학 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11412&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11412&amp;order=1"/>
-        <updated>2021-12-15T03:17:45.285Z</updated>
-        <content type="html"><![CDATA[2021-12-20(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [온에어] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11411&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11411&amp;order=1"/>
-        <updated>2021-12-14T09:16:41.887Z</updated>
-        <content type="html"><![CDATA[2021-12-15(수) 14:00]]></content>
     </entry>
 </feed>
