@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 07:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 08:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단독판매2022 DRX FAN MEETING : ON BOARD 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11427</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11427</guid>
+            <pubDate>Wed, 22 Dec 2021 08:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24(금) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 7차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11426</link>
@@ -140,11 +147,11 @@
             <content:encoded><![CDATA[2021.12.13(월) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아름지기 20주년 기념 특별전  CONNECTING  -아름답게, 전통을 이어 일상으로- 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11405</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11405</guid>
-            <pubDate>Fri, 10 Dec 2021 08:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.15(수) 09:00]]></content:encoded>
+            <title><![CDATA[2022 DRX FAN MEETING : ON BOARD 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11427&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11427&amp;order=1</guid>
+            <pubDate>Wed, 22 Dec 2021 08:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-24(금) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 7차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -209,11 +216,12 @@
             <content:encoded><![CDATA[2021-12-22(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈언더스터디〉 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11416&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11416&amp;order=1</guid>
-            <pubDate>Thu, 16 Dec 2021 09:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-23(목) 14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <뱀파이어 아더> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40265</link>
+            <guid>http://ticket.yes24.com/Perf/40265</guid>
+            <pubDate>Mon, 20 Dec 2021 02:05:29 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>41,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211220/20211220-40265.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <운소도> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -230,14 +238,6 @@
             <pubDate>Mon, 20 Dec 2021 02:05:29 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211220/20211220-40480.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <뱀파이어 아더> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40265</link>
-            <guid>http://ticket.yes24.com/Perf/40265</guid>
-            <pubDate>Mon, 20 Dec 2021 02:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>41,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211220/20211220-40265.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <쿠로이 저택엔...> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -271,6 +271,14 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">18,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">12/22 ~ 1/2 공연</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211220/20211220-40966.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <패션의 신> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40989&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40989&amp;Tab=2</guid>
+            <pubDate>Wed, 22 Dec 2021 08:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.22 ~ 2021.12.27 | 2021.12.28 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202112/20211222/20211222-619e11cd-89db-4f77-8d79-e368821423f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <물고기 남자> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -336,11 +344,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
-            <pubDate>Sun, 19 Dec 2021 15:17:05 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+            <title><![CDATA[이벤트 기간2021.12.22 ~ 2021.12.27 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=40989</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=40989</guid>
+            <pubDate>Wed, 22 Dec 2021 08:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>연극 &lt;메이드 인 세운상가&gt; 2022년 1월 21일(금) 오후 7시 30분]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202112/20211222/20211222-619e11cd-89db-4f77-8d79-e368821423f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2021.12.16 ~ 2022.01.05 (YES24 티켓 ─ 이벤트 모바일)]]></title>
