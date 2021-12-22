@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-21T23:17:48.225Z</updated>
+    <updated>2021-12-22T00:56:54.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[라이브스트리밍] 뮤지컬 [잭더리퍼] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11425</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11425"/>
+        <updated>2021-12-22T00:55:50.680Z</updated>
+        <content type="html"><![CDATA[2021.12.23(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 고양 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11424</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11404"/>
         <updated>2021-12-10T06:19:50.147Z</updated>
         <content type="html"><![CDATA[2021.12.16(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 5차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11403</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11403"/>
-        <updated>2021-12-10T07:15:58.350Z</updated>
-        <content type="html"><![CDATA[2021.12.15(수) 11:00]]></content>
     </entry>
 </feed>
