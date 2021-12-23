@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-23T00:56:12.293Z</updated>
+    <updated>2021-12-23T02:05:37.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 울산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11430&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11430&amp;order=1"/>
+        <updated>2021-12-23T02:04:53.155Z</updated>
+        <content type="html"><![CDATA[2021-12-29(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 광주 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11429&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11429&amp;order=1"/>
+        <updated>2021-12-23T02:04:53.157Z</updated>
+        <content type="html"><![CDATA[2021-12-29(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 대구 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11428&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11428&amp;order=1"/>
+        <updated>2021-12-23T02:04:53.158Z</updated>
+        <content type="html"><![CDATA[2021-12-29(수) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 DRX FAN MEETING : ON BOARD 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11427&amp;order=1</id>
@@ -52,26 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11420&amp;order=1"/>
         <updated>2021-12-20T05:16:53.427Z</updated>
         <content type="html"><![CDATA[2021-12-24(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 연극〈친정엄마와 2박3일－여수〉티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11419&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11419&amp;order=1"/>
-        <updated>2021-12-20T05:16:53.428Z</updated>
-        <content type="html"><![CDATA[2021-12-23(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 순천 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11418&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11418&amp;order=1"/>
-        <updated>2021-12-20T05:16:53.428Z</updated>
-        <content type="html"><![CDATA[2021-12-23(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라포엠 단독 콘서트〈ECLIPSE〉- 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11417&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11417&amp;order=1"/>
-        <updated>2021-12-17T07:16:09.374Z</updated>
-        <content type="html"><![CDATA[2021-12-22(수) 14:00]]></content>
     </entry>
 </feed>
