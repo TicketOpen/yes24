@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-24T06:21:09.450Z</updated>
+    <updated>2021-12-24T07:17:04.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 6차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11432&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11432&amp;order=1"/>
+        <updated>2021-12-24T07:16:07.020Z</updated>
+        <content type="html"><![CDATA[2021-12-29(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[극단소년 연극 [플레이백] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11431&amp;order=1</id>
@@ -67,11 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11423&amp;order=1"/>
         <updated>2021-12-21T08:20:28.439Z</updated>
         <content type="html"><![CDATA[2021-12-28(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] 전국 투어 인천 티켓 재오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11421&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11421&amp;order=1"/>
-        <updated>2021-12-21T02:08:21.031Z</updated>
     </entry>
 </feed>
