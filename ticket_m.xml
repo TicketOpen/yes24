@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-24T02:04:29.587Z</updated>
+    <updated>2021-12-24T03:17:23.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[극단소년 연극 [플레이백] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11431&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11431&amp;order=1"/>
+        <updated>2021-12-24T03:16:37.549Z</updated>
+        <content type="html"><![CDATA[2021-12-30(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 울산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11430&amp;order=1</id>
@@ -66,12 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11421&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11421&amp;order=1"/>
         <updated>2021-12-21T02:08:21.031Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [더데빌] 3차 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11420&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11420&amp;order=1"/>
-        <updated>2021-12-20T05:16:53.427Z</updated>
-        <content type="html"><![CDATA[2021-12-24(금) 14:00]]></content>
     </entry>
 </feed>
