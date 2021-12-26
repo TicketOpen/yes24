@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 11:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 12:26:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,14 +217,6 @@
             <content:encoded><![CDATA[2021-12-28(화) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고...> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40480</link>
-            <guid>http://ticket.yes24.com/Perf/40480</guid>
-            <pubDate>Mon, 20 Dec 2021 02:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211220/20211220-40480.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <뱀파이어 아더> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/40265</link>
             <guid>http://ticket.yes24.com/Perf/40265</guid>
@@ -239,6 +231,14 @@
             <pubDate>Mon, 20 Dec 2021 02:05:29 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>18,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211220/20211220-40966.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고...> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40480</link>
+            <guid>http://ticket.yes24.com/Perf/40480</guid>
+            <pubDate>Mon, 20 Dec 2021 02:05:29 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211220/20211220-40480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <쿠로이 저택엔...> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
