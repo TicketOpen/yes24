@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-27T05:17:37.160Z</updated>
+    <updated>2021-12-27T06:21:15.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 추가좌석 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11435</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11435"/>
+        <updated>2021-12-27T06:20:08.109Z</updated>
+        <content type="html"><![CDATA[2021.12.30(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [은하철도의 밤] 마지막 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11434</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11415"/>
         <updated>2021-12-16T05:15:08.444Z</updated>
         <content type="html"><![CDATA[2021.12.21(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [잭더리퍼] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11413</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11413"/>
-        <updated>2021-12-15T05:14:54.276Z</updated>
-        <content type="html"><![CDATA[2021.12.22(수) 11:00]]></content>
     </entry>
 </feed>
