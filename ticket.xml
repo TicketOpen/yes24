@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-27T08:21:32.938Z</updated>
+    <updated>2021-12-27T09:19:09.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[래원 X 영지 콘서트 [꽃말 : 매듭] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11436</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11436"/>
+        <updated>2021-12-27T09:18:10.212Z</updated>
+        <content type="html"><![CDATA[2021.12.29(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 추가좌석 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11435</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11416"/>
         <updated>2021-12-16T09:16:45.556Z</updated>
         <content type="html"><![CDATA[2021.12.23(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 거미 전국투어 콘서트〈다시, Winter Ballad〉- 진주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11415</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11415"/>
-        <updated>2021-12-16T05:15:08.444Z</updated>
-        <content type="html"><![CDATA[2021.12.21(화) 14:00]]></content>
     </entry>
 </feed>
