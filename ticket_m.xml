@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-27T02:06:06.559Z</updated>
+    <updated>2021-12-27T03:17:58.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [은하철도의 밤] 마지막 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11434&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11434&amp;order=1"/>
+        <updated>2021-12-27T03:17:03.945Z</updated>
+        <content type="html"><![CDATA[2021-12-30(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제주 [일상으로의 초대] 적재, 정승환, 10CM...]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11433&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11433&amp;order=1"/>
         <updated>2021-12-27T00:54:27.774Z</updated>
         <content type="html"><![CDATA[2021-12-29(수) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 6차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11432&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11432&amp;order=1"/>
+        <updated>2021-12-27T03:17:03.947Z</updated>
+        <content type="html"><![CDATA[2021-12-29(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[극단소년 연극 [플레이백] 티켓오픈안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11425&amp;order=1"/>
         <updated>2021-12-22T00:56:01.245Z</updated>
         <content type="html"><![CDATA[2021-12-23(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 고양 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11424&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11424&amp;order=1"/>
-        <updated>2021-12-21T08:20:28.435Z</updated>
-        <content type="html"><![CDATA[2022-01-03(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS> - 진주 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11423&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11423&amp;order=1"/>
-        <updated>2021-12-21T08:20:28.439Z</updated>
-        <content type="html"><![CDATA[2021-12-28(화) 16:00]]></content>
     </entry>
 </feed>
