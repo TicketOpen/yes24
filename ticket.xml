@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-28T07:17:01.473Z</updated>
+    <updated>2021-12-28T08:21:45.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 N.Flying LIVE ‘&CON’ - Man on the Moon 티켓 재오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11439</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11439"/>
+        <updated>2021-12-28T08:20:43.713Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매VERIVERY FANMEETING [2022 VERI UNIV. Festival] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11438</id>
@@ -136,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11419"/>
         <updated>2021-12-20T05:16:42.061Z</updated>
         <content type="html"><![CDATA[2021.12.23(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 순천 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11418</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11418"/>
-        <updated>2021-12-20T05:16:42.061Z</updated>
-        <content type="html"><![CDATA[2021.12.23(목) 14:00]]></content>
     </entry>
 </feed>
