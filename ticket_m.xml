@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-28T04:22:44.215Z</updated>
+    <updated>2021-12-28T05:17:06.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[VERIVERY FANMEETING [2022 VERI UNIV. Festival] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11438&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11438&amp;order=1"/>
+        <updated>2021-12-28T05:16:21.764Z</updated>
+        <content type="html"><![CDATA[2022-01-03(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 KIM JAE JOONG J-PARTY 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11437&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11437&amp;order=1"/>
+        <updated>2021-12-28T05:16:21.764Z</updated>
+        <content type="html"><![CDATA[2021-12-30(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[래원 X 영지 콘서트 [꽃말 : 매듭] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11436&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11429&amp;order=1"/>
         <updated>2021-12-23T02:04:53.157Z</updated>
         <content type="html"><![CDATA[2021-12-30(목) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 대구 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11428&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11428&amp;order=1"/>
-        <updated>2021-12-23T02:04:53.158Z</updated>
-        <content type="html"><![CDATA[2021-12-29(수) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 DRX FAN MEETING : ON BOARD 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11427&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11427&amp;order=1"/>
-        <updated>2021-12-22T08:21:50.314Z</updated>
-        <content type="html"><![CDATA[2021-12-24(금) 20:00]]></content>
     </entry>
 </feed>

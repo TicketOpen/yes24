@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-28T04:22:44.212Z</updated>
+    <updated>2021-12-28T05:17:06.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매VERIVERY FANMEETING [2022 VERI UNIV. Festival] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11438</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11438"/>
+        <updated>2021-12-28T05:16:12.675Z</updated>
+        <content type="html"><![CDATA[2022.01.03(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.12.31(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 KIM JAE JOONG J-PARTY 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11437</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11437"/>
+        <updated>2021-12-28T05:16:12.675Z</updated>
+        <content type="html"><![CDATA[2021.12.30(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[래원 X 영지 콘서트 [꽃말 : 매듭] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11436</id>
@@ -128,20 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11418</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11418"/>
         <updated>2021-12-20T05:16:42.061Z</updated>
-        <content type="html"><![CDATA[2021.12.23(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라포엠 단독 콘서트〈ECLIPSE〉- 부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11417</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11417"/>
-        <updated>2021-12-17T07:16:00.387Z</updated>
-        <content type="html"><![CDATA[2021.12.22(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈언더스터디〉 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11416</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11416"/>
-        <updated>2021-12-16T09:16:45.556Z</updated>
         <content type="html"><![CDATA[2021.12.23(목) 14:00]]></content>
     </entry>
 </feed>
