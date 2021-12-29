@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-29T05:18:08.824Z</updated>
+    <updated>2021-12-29T06:21:29.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피아니스트 허효정의 인문학 리사이틀 Ⅲ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11443</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11443"/>
+        <updated>2021-12-29T06:20:28.334Z</updated>
+        <content type="html"><![CDATA[2022.01.04(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 <미드나잇:액터뮤지션> 프리뷰 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11441</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11441"/>
+        <updated>2021-12-29T06:20:28.334Z</updated>
+        <content type="html"><![CDATA[2021.12.31(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 마지막 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11440</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11440"/>
+        <updated>2021-12-29T06:20:28.334Z</updated>
+        <content type="html"><![CDATA[2022.01.04(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 N.Flying LIVE ‘&CON’ - Man on the Moon 티켓 재오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11439</id>
@@ -122,25 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11423"/>
         <updated>2021-12-21T08:20:19.127Z</updated>
         <content type="html"><![CDATA[2021.12.28(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] 전국 투어 인천 티켓 재오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11421</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11421"/>
-        <updated>2021-12-21T02:08:11.158Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [더데빌] 3차 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11420</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11420"/>
-        <updated>2021-12-20T05:16:42.060Z</updated>
-        <content type="html"><![CDATA[2021.12.24(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 연극〈친정엄마와 2박3일－여수〉티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11419</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11419"/>
-        <updated>2021-12-20T05:16:42.061Z</updated>
-        <content type="html"><![CDATA[2021.12.23(목) 15:00]]></content>
     </entry>
 </feed>
