@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-29T09:18:25.055Z</updated>
+    <updated>2021-12-29T10:19:28.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 <흔들흔들 댄스파티> - 성남 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11444</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11444"/>
+        <updated>2021-12-29T10:18:26.559Z</updated>
+        <content type="html"><![CDATA[2022.01.03(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피아니스트 허효정의 인문학 리사이틀 Ⅲ 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11443</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11425"/>
         <updated>2021-12-22T00:55:50.680Z</updated>
         <content type="html"><![CDATA[2021.12.23(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 고양 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11424</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11424"/>
-        <updated>2021-12-21T08:20:19.127Z</updated>
-        <content type="html"><![CDATA[2022.01.03(월) 14:00]]></content>
     </entry>
 </feed>
