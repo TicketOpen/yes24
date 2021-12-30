@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-30T06:20:51.103Z</updated>
+    <updated>2021-12-30T07:17:39.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11446</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11446"/>
+        <updated>2021-12-30T07:16:28.891Z</updated>
+        <content type="html"><![CDATA[2022.01.04(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [엘리펀트 송] 4차 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11445</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11427"/>
         <updated>2021-12-22T08:21:43.097Z</updated>
         <content type="html"><![CDATA[2021.12.24(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 7차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11426</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11426"/>
-        <updated>2021-12-22T05:16:45.325Z</updated>
-        <content type="html"><![CDATA[2021.12.28(화) 14:00]]></content>
     </entry>
 </feed>
