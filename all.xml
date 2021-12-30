@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 00:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 02:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,7 +22,7 @@
             <content:encoded><![CDATA[2022.01.04(화) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[래원 X 영지 콘서트 [꽃말 : 매듭] 추가 티켓오픈 안내 (예스24 티켓)]]></title>
+            <title><![CDATA[단독판매래원 X 영지 콘서트 [꽃말 : 매듭] 추가 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11442</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11442</guid>
             <pubDate>Wed, 29 Dec 2021 07:16:02 GMT</pubDate>
@@ -56,14 +56,14 @@
             <content:encoded><![CDATA[2022.01.03(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.12.31(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 KIM JAE JOONG J-PARTY 티켓오픈안내 (예스24 티켓)]]></title>
+            <title><![CDATA[단독판매2022 KIM JAE JOONG J-PARTY 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11437</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11437</guid>
             <pubDate>Tue, 28 Dec 2021 05:16:12 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[래원 X 영지 콘서트 [꽃말 : 매듭] 티켓오픈안내 (예스24 티켓)]]></title>
+            <title><![CDATA[단독판매래원 X 영지 콘서트 [꽃말 : 매듭] 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11436</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11436</guid>
             <pubDate>Mon, 27 Dec 2021 09:18:10 GMT</pubDate>
@@ -98,7 +98,7 @@
             <content:encoded><![CDATA[2021.12.29(수) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[극단소년 연극 [플레이백] 티켓오픈안내 (예스24 티켓)]]></title>
+            <title><![CDATA[단독판매극단소년 연극 [플레이백] 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11431</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11431</guid>
             <pubDate>Fri, 24 Dec 2021 03:16:28 GMT</pubDate>
@@ -217,6 +217,14 @@
             <content:encoded><![CDATA[2021-12-30(목) 15:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <라흐마니노프> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40680</link>
+            <guid>http://ticket.yes24.com/Perf/40680</guid>
+            <pubDate>Mon, 27 Dec 2021 02:05:29 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211227/20211227-40680.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 <엘리펀트 송> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/40712</link>
             <guid>http://ticket.yes24.com/Perf/40712</guid>
@@ -225,12 +233,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211227/20211227-40712.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <천사에 관하여 : 타락천사 편> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40196</link>
-            <guid>http://ticket.yes24.com/Perf/40196</guid>
+            <title><![CDATA[2021 최현우 ＜THE BRAIN＞ (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40477</link>
+            <guid>http://ticket.yes24.com/Perf/40477</guid>
             <pubDate>Mon, 27 Dec 2021 02:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>39,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211227/20211227-40196.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>50,400원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211227/20211227-40477.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 ＜더데빌＞ (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -241,20 +249,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211227/20211227-40696.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <라흐마니노프> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40680</link>
-            <guid>http://ticket.yes24.com/Perf/40680</guid>
+            <title><![CDATA[뮤지컬 <천사에 관하여 : 타락천사 편> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40196</link>
+            <guid>http://ticket.yes24.com/Perf/40196</guid>
             <pubDate>Mon, 27 Dec 2021 02:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211227/20211227-40680.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 최현우 ＜THE BRAIN＞ (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40477</link>
-            <guid>http://ticket.yes24.com/Perf/40477</guid>
-            <pubDate>Mon, 27 Dec 2021 02:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>50,400원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211227/20211227-40477.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>39,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202112/20211227/20211227-40196.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <라흐마니노프> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
