@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2021-12-31T14:17:07.961Z</updated>
+    <updated>2021-12-31T15:18:24.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
     <entry>
@@ -42,17 +42,17 @@
         <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.11.12 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2021.11.12 ~ 2022.12.31</dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뮤지컬 엑스칼리버] 1만원 할인쿠폰]]></title>
+        <title type="html"><![CDATA[[뮤지컬 시카고] 5천원 할인쿠폰]]></title>
         <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
         <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
         <updated>2021-11-23T12:26:26.396Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.10.13 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.10.13 ~ 2021.12.31</dd>]]></content>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2022.02.28</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2022.02.28</dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뮤지컬 엑스칼리버] 5천원 할인쿠폰]]></title>
+        <title type="html"><![CDATA[[뮤지컬 시카고] 1만원 할인쿠폰]]></title>
         <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
         <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
         <updated>2021-11-23T12:26:26.396Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.10.13 ~ 2021.12.31</dd><dt>사용기간</dt><dd>2021.10.13 ~ 2021.12.31</dd>]]></content>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2022.02.28</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2022.02.28</dd>]]></content>
     </entry>
 </feed>
