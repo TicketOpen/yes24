@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-31T03:18:17.269Z</updated>
+    <updated>2021-12-31T04:22:42.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[발굴 100주년 기념특별전 투탕카멘 : 파라오의 비밀 전시 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11450&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11450&amp;order=1"/>
+        <updated>2021-12-31T04:21:41.673Z</updated>
+        <content type="html"><![CDATA[2021-12-31(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 개막 확정 및 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11449&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11440&amp;order=1"/>
         <updated>2021-12-29T05:17:17.734Z</updated>
         <content type="html"><![CDATA[2022-01-04(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VERIVERY FANMEETING [2022 VERI UNIV. Festival] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11438&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11438&amp;order=1"/>
-        <updated>2021-12-28T05:16:21.764Z</updated>
-        <content type="html"><![CDATA[2022-01-03(월) 20:00]]></content>
     </entry>
 </feed>
