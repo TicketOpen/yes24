@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-03T03:18:35.694Z</updated>
+    <updated>2022-01-03T04:22:47.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [온에어] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11452</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11452"/>
+        <updated>2022-01-03T04:21:50.372Z</updated>
+        <content type="html"><![CDATA[2022.01.04(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[발굴 100주년 기념특별전 투탕카멘 : 파라오의 비밀 전시 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11450</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11432"/>
         <updated>2021-12-27T03:16:53.593Z</updated>
         <content type="html"><![CDATA[2021.12.29(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매극단소년 연극 [플레이백] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11431</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11431"/>
-        <updated>2021-12-24T03:16:28.125Z</updated>
-        <content type="html"><![CDATA[2021.12.30(목) 14:00]]></content>
     </entry>
 </feed>
