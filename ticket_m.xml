@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-03T06:21:30.780Z</updated>
+    <updated>2022-01-03T07:17:38.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 영주세계풍기인삼엑스포]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11454&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11454&amp;order=1"/>
+        <updated>2022-01-03T07:16:46.232Z</updated>
+        <content type="html"><![CDATA[2022-01-10(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [스핏파이어 그릴] 4차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11453&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11453&amp;order=1"/>
+        <updated>2022-01-03T07:16:46.236Z</updated>
+        <content type="html"><![CDATA[2022-01-06(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [온에어] 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11452&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11444&amp;order=1"/>
         <updated>2021-12-29T10:18:36.122Z</updated>
         <content type="html"><![CDATA[2022-01-03(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아니스트 허효정의 인문학 리사이틀 Ⅲ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11443&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11443&amp;order=1"/>
-        <updated>2021-12-29T06:20:37.983Z</updated>
-        <content type="html"><![CDATA[2022-01-04(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[래원 X 영지 콘서트 [꽃말 : 매듭] 추가 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11442&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11442&amp;order=1"/>
-        <updated>2021-12-29T07:16:11.652Z</updated>
-        <content type="html"><![CDATA[2021-12-30(목) 18:00]]></content>
     </entry>
 </feed>
