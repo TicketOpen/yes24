@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 07:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 08:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,18 +40,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220103/20220103-40352.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <물고기 남자>]]></title>
-            <link>http://m.ticket.yes24.com/Perf/41026</link>
-            <guid>http://m.ticket.yes24.com/Perf/41026</guid>
-            <pubDate>Mon, 03 Jan 2022 02:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 &lt;물고기 남자&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원
-</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">21,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">12/28 ~ 1/9 공연(일부 제외)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220103/20220103-41026.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <스핏파이어 그릴>]]></title>
             <link>http://m.ticket.yes24.com/Perf/40628</link>
             <guid>http://m.ticket.yes24.com/Perf/40628</guid>
@@ -68,6 +56,18 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220103/20220103-40628.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <물고기 남자>]]></title>
+            <link>http://m.ticket.yes24.com/Perf/41026</link>
+            <guid>http://m.ticket.yes24.com/Perf/41026</guid>
+            <pubDate>Mon, 03 Jan 2022 02:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 &lt;물고기 남자&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원
+</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">21,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">12/28 ~ 1/9 공연(일부 제외)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220103/20220103-41026.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
