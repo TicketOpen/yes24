@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-05T07:17:05.249Z</updated>
+    <updated>2022-01-05T08:21:21.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[VERIVERY FANMEETING [2022 VERI UNIV. Festival] 추가오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11465</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11465"/>
+        <updated>2022-01-05T08:20:12.576Z</updated>
+        <content type="html"><![CDATA[2022.01.06(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨티은행 시스템 작업에 따른 결제 서비스 중단 안내(1/9, 1/15, 1/16)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11464</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11445"/>
         <updated>2021-12-30T04:21:28.333Z</updated>
         <content type="html"><![CDATA[2022.01.05(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 <흔들흔들 댄스파티> - 성남 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11444</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11444"/>
-        <updated>2021-12-29T10:18:26.559Z</updated>
-        <content type="html"><![CDATA[2022.01.03(월) 11:00]]></content>
     </entry>
 </feed>

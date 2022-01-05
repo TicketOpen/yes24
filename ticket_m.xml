@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-05T07:17:05.255Z</updated>
+    <updated>2022-01-05T08:21:21.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[VERIVERY FANMEETING [2022 VERI UNIV. Festival] 추가오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11465&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11465&amp;order=1"/>
+        <updated>2022-01-05T08:20:23.423Z</updated>
+        <content type="html"><![CDATA[2022-01-06(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [더데빌] 마지막 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11463&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11453&amp;order=1"/>
         <updated>2022-01-03T07:16:46.236Z</updated>
         <content type="html"><![CDATA[2022-01-06(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [온에어] 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11452&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11452&amp;order=1"/>
-        <updated>2022-01-03T04:21:58.719Z</updated>
-        <content type="html"><![CDATA[2022-01-04(화) 16:00]]></content>
     </entry>
 </feed>

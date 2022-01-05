@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 07:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 08:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VERIVERY FANMEETING [2022 VERI UNIV. Festival] 추가오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11465</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11465</guid>
+            <pubDate>Wed, 05 Jan 2022 08:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.06(목) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[씨티은행 시스템 작업에 따른 결제 서비스 중단 안내(1/9, 1/15, 1/16) (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11464</link>
@@ -138,11 +145,11 @@
             <content:encoded><![CDATA[2022.01.05(수) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌6 <흔들흔들 댄스파티> - 성남 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11444</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11444</guid>
-            <pubDate>Wed, 29 Dec 2021 10:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.03(월) 11:00]]></content:encoded>
+            <title><![CDATA[VERIVERY FANMEETING [2022 VERI UNIV. Festival] 추가오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11465&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11465&amp;order=1</guid>
+            <pubDate>Wed, 05 Jan 2022 08:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-06(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [더데빌] 마지막 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -208,11 +215,20 @@
             <content:encoded><![CDATA[2022-01-06(목) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [온에어] 3차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11452&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11452&amp;order=1</guid>
-            <pubDate>Mon, 03 Jan 2022 04:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022-01-04(화) 16:00]]></content:encoded>
+            <title><![CDATA[연극 [물고기 남자] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41026</link>
+            <guid>http://ticket.yes24.com/Perf/41026</guid>
+            <pubDate>Mon, 03 Jan 2022 02:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>21,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220103/20220103-41026.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [스핏파이어 그릴] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40628</link>
+            <guid>http://ticket.yes24.com/Perf/40628</guid>
+            <pubDate>Mon, 03 Jan 2022 02:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>37,200원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220103/20220103-40628.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 ＜하데스타운＞ 최초 한국 공연 （MUSICAL HAD (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -231,22 +247,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220103/20220103-40352.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 [물고기 남자] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41026</link>
-            <guid>http://ticket.yes24.com/Perf/41026</guid>
-            <pubDate>Mon, 03 Jan 2022 02:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>21,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220103/20220103-41026.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [스핏파이어 그릴] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40628</link>
-            <guid>http://ticket.yes24.com/Perf/40628</guid>
-            <pubDate>Mon, 03 Jan 2022 02:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>37,200원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220103/20220103-40628.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <하데스타운> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/39338</link>
             <guid>http://m.ticket.yes24.com/Perf/39338</guid>
@@ -254,10 +254,7 @@
             <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;하데스타운&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
 																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">70,000원</em></strong>
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">46,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/4~1/23 공연, 1인 4매
-(1/8 7시,  1/15 7시 제외)
-1인 4매
-
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/4~1/23 일부 회차/등급에 한함
 
 
 </div>]]></content:encoded>
@@ -271,8 +268,8 @@
             <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;젠틀맨스 가이드:...&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">25</em>%<em class="blind">할인</em></span><span class="txt_num">
 																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">80,000원 </em></strong>
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">57,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/4~1/13 공연,  1인 4매
-(1/7 7시30분, 1/8 2시, 7시30분,  1/9 3시30분,  1/12 7시30분 제외)
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/4~1/13 일부 회차/등급에 한함
+
 
 
 </div>]]></content:encoded>
@@ -286,7 +283,8 @@
             <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;스핏파이어 그릴&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
 																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">37,000원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/4~1/16 공연, 1인 2매
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/4~1/16 공연
+
 
 
 
@@ -305,7 +303,7 @@
 																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원
 </em></strong>
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">21,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">12/28 ~ 1/9 공연(일부 제외)</div>]]></content:encoded>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/12~1/30 공연</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220103/20220103-41026.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
