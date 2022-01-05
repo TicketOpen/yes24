@@ -4,9 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 06:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[씨티은행 시스템 작업에 따른 결제 서비스 중단 안내(1/9, 1/15, 1/16) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11464</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11464</guid>
+            <pubDate>Wed, 05 Jan 2022 06:20:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 [더데빌] 마지막 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11463</link>
@@ -137,13 +143,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11444</guid>
             <pubDate>Wed, 29 Dec 2021 10:18:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.03(월) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피아니스트 허효정의 인문학 리사이틀 Ⅲ 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11443</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11443</guid>
-            <pubDate>Wed, 29 Dec 2021 06:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.04(화) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [더데빌] 마지막 티켓오픈안내 (예스24 티켓 모바일)]]></title>

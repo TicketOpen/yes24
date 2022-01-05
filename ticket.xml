@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-05T05:17:42.843Z</updated>
+    <updated>2022-01-05T06:22:16.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[씨티은행 시스템 작업에 따른 결제 서비스 중단 안내(1/9, 1/15, 1/16)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11464</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11464"/>
+        <updated>2022-01-05T06:20:22.805Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [더데빌] 마지막 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11463</id>
@@ -135,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11444"/>
         <updated>2021-12-29T10:18:26.559Z</updated>
         <content type="html"><![CDATA[2022.01.03(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아니스트 허효정의 인문학 리사이틀 Ⅲ 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11443</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11443"/>
-        <updated>2021-12-29T06:20:28.334Z</updated>
-        <content type="html"><![CDATA[2022.01.04(화) 15:00]]></content>
     </entry>
 </feed>
