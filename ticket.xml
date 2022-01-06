@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-06T05:18:29.370Z</updated>
+    <updated>2022-01-06T06:21:22.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 AB6IX CONCERT [COMPLETE WITH YOU] 잠정연기안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11467</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11467"/>
+        <updated>2022-01-06T06:20:27.211Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 8차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11466</id>
@@ -134,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11447"/>
         <updated>2021-12-31T03:17:22.862Z</updated>
         <content type="html"><![CDATA[2022.01.04(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11446</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11446"/>
-        <updated>2021-12-30T07:16:28.891Z</updated>
-        <content type="html"><![CDATA[2022.01.04(화) 15:00]]></content>
     </entry>
 </feed>
