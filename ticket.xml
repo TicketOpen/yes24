@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-06T08:21:46.846Z</updated>
+    <updated>2022-01-06T09:18:31.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [장화 신은 고양이 비긴즈] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11468</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11468"/>
+        <updated>2022-01-06T09:17:30.926Z</updated>
+        <content type="html"><![CDATA[2022.01.12(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 AB6IX CONCERT [COMPLETE WITH YOU] 잠정연기안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11467</id>
@@ -133,12 +140,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11448</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11448"/>
         <updated>2021-12-31T03:17:22.855Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매버둥 1집 발매 쇼케이스 ‘해가, 꽃이, 그리고 우리가!’ 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11447</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11447"/>
-        <updated>2021-12-31T03:17:22.862Z</updated>
-        <content type="html"><![CDATA[2022.01.04(화) 18:00]]></content>
     </entry>
 </feed>

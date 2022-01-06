@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-06T08:21:46.847Z</updated>
+    <updated>2022-01-06T09:18:31.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [장화 신은 고양이 비긴즈] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11468&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11468&amp;order=1"/>
+        <updated>2022-01-06T09:17:39.940Z</updated>
+        <content type="html"><![CDATA[2022-01-12(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 AB6IX CONCERT [COMPLETE WITH YOU] 잠정연기안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11467&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11458&amp;order=1"/>
         <updated>2022-01-04T10:18:27.766Z</updated>
         <content type="html"><![CDATA[2022-01-07(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 부활 발렌타인 콘서트 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11455&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11455&amp;order=1"/>
-        <updated>2022-01-04T08:20:50.422Z</updated>
-        <content type="html"><![CDATA[2022-01-10(월) 14:00]]></content>
     </entry>
 </feed>
