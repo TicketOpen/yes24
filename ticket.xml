@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-06T04:22:37.384Z</updated>
+    <updated>2022-01-06T05:18:29.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 8차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11466</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11466"/>
+        <updated>2022-01-06T05:17:20.384Z</updated>
+        <content type="html"><![CDATA[2022.01.13(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VERIVERY FANMEETING [2022 VERI UNIV. Festival] 추가오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11465</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11446"/>
         <updated>2021-12-30T07:16:28.891Z</updated>
         <content type="html"><![CDATA[2022.01.04(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [엘리펀트 송] 4차 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11445</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11445"/>
-        <updated>2021-12-30T04:21:28.333Z</updated>
-        <content type="html"><![CDATA[2022.01.05(수) 15:00]]></content>
     </entry>
 </feed>
