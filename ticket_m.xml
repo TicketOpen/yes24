@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-07T07:16:50.246Z</updated>
+    <updated>2022-01-07T08:21:10.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가무극 <잃어버린 얼굴 1895> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11472&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11472&amp;order=1"/>
+        <updated>2022-01-07T08:20:24.378Z</updated>
+        <content type="html"><![CDATA[2022-01-21(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 N.Flying LIVE ‘&CON’ - Man on the Moon 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11471&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11471&amp;order=1"/>
+        <updated>2022-01-07T08:20:24.381Z</updated>
+        <content type="html"><![CDATA[2022-01-20(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11470&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11462&amp;order=1"/>
         <updated>2022-01-05T05:16:57.714Z</updated>
         <content type="html"><![CDATA[2022-01-07(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[군산] 뮤지컬 [시카고] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11461&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11461&amp;order=1"/>
-        <updated>2022-01-05T05:16:57.715Z</updated>
-        <content type="html"><![CDATA[2022-01-07(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 뮤지컬 [시카고] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11460&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11460&amp;order=1"/>
-        <updated>2022-01-05T05:16:57.716Z</updated>
-        <content type="html"><![CDATA[2022-01-07(금) 14:00]]></content>
     </entry>
 </feed>
