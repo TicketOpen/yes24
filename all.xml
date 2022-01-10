@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 00:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 02:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,35 +214,48 @@
             <content:encoded><![CDATA[2022-01-07(금) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <스핏파이어 그릴> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/40628</link>
-            <guid>http://m.ticket.yes24.com/Perf/40628</guid>
-            <pubDate>Mon, 03 Jan 2022 02:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;스핏파이어 그릴&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">37,000원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/4~1/16 공연
+            <title><![CDATA[뮤지컬 [잭더리퍼] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40672</link>
+            <guid>http://ticket.yes24.com/Perf/40672</guid>
+            <pubDate>Mon, 10 Jan 2022 02:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									140,000원								</td>								<td class="dc_price">									<em>→</em>109,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220110/20220110-40672.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [뱀파이어 아더] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40265</link>
+            <guid>http://ticket.yes24.com/Perf/40265</guid>
+            <pubDate>Mon, 10 Jan 2022 02:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>41,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220110/20220110-40265_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <잭더리퍼> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/40672</link>
+            <guid>http://m.ticket.yes24.com/Perf/40672</guid>
+            <pubDate>Mon, 10 Jan 2022 02:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;잭더리퍼&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">80.000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">37,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/11~1/23 공연
 
-
-
-
+</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220110/20220110-40672.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <뱀파이어 아더> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/40265</link>
+            <guid>http://m.ticket.yes24.com/Perf/40265</guid>
+            <pubDate>Mon, 10 Jan 2022 02:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;뱀파이어 아더&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">43</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원 </em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">22,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/11~2/4 공연, 일부 회차 제외
 
 
 
 </div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220110/20220110-40628.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <물고기 남자> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/41026</link>
-            <guid>http://m.ticket.yes24.com/Perf/41026</guid>
-            <pubDate>Mon, 03 Jan 2022 02:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 &lt;물고기 남자&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원
-</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">21,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/12~1/30 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220110/20220110-41026.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220110/20220110-40265_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <플레이백> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
