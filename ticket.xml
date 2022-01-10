@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-10T04:22:58.520Z</updated>
+    <updated>2022-01-10T05:18:51.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[라이브스트리밍] 뮤지컬 [잭더리퍼] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11473</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11473"/>
+        <updated>2022-01-10T05:17:54.504Z</updated>
+        <content type="html"><![CDATA[2022.01.17(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가무극 <잃어버린 얼굴 1895> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11472</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11453"/>
         <updated>2022-01-03T07:16:35.415Z</updated>
         <content type="html"><![CDATA[2022.01.06(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [온에어] 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11452</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11452"/>
-        <updated>2022-01-03T04:21:50.372Z</updated>
-        <content type="html"><![CDATA[2022.01.04(화) 16:00]]></content>
     </entry>
 </feed>
