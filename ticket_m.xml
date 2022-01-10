@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-10T05:18:51.717Z</updated>
+    <updated>2022-01-10T06:21:59.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남문화재단 제141회 클래식품격콘서트 〈Great CONCERTO Series-L.v.Beethoven〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11474&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11474&amp;order=1"/>
+        <updated>2022-01-10T06:21:07.467Z</updated>
+        <content type="html"><![CDATA[2022-01-13(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[라이브스트리밍] 뮤지컬 [잭더리퍼] 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11473&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11465&amp;order=1"/>
         <updated>2022-01-05T08:20:23.423Z</updated>
         <content type="html"><![CDATA[2022-01-06(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [더데빌] 마지막 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11463&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11463&amp;order=1"/>
-        <updated>2022-01-05T05:16:57.709Z</updated>
-        <content type="html"><![CDATA[2022-01-11(화) 11:00]]></content>
     </entry>
 </feed>
