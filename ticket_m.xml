@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-11T06:22:40.589Z</updated>
+    <updated>2022-01-11T07:17:19.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11479&amp;order=1"/>
         <updated>2022-01-11T06:21:47.347Z</updated>
         <content type="html"><![CDATA[2022-01-12(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11478&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11478&amp;order=1"/>
+        <updated>2022-01-11T07:16:27.208Z</updated>
+        <content type="html"><![CDATA[2022-01-18(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박진수 바이올린 독주회 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11469&amp;order=1"/>
         <updated>2022-01-06T10:18:32.717Z</updated>
         <content type="html"><![CDATA[2022-01-13(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [장화 신은 고양이 비긴즈] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11468&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11468&amp;order=1"/>
-        <updated>2022-01-06T09:17:39.940Z</updated>
-        <content type="html"><![CDATA[2022-01-12(수) 11:00]]></content>
     </entry>
 </feed>
