@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 02:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 03:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박진수 바이올린 독주회 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11477</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11477</guid>
+            <pubDate>Tue, 11 Jan 2022 03:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.14(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[포르테 디 콰트로 콘서트: 메타포닉 - 부산 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11476</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11476</guid>
+            <pubDate>Tue, 11 Jan 2022 03:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.14(금) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[강남문화재단 제141회 클래식품격콘서트 〈Great CONCERTO Series-L.v.Beethoven〉 티켓오픈 안.. (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11474</link>
@@ -131,18 +145,11 @@
             <pubDate>Tue, 04 Jan 2022 09:16:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2022 부활 발렌타인 콘서트 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11455</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11455</guid>
-            <pubDate>Tue, 04 Jan 2022 08:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.10(월) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매2022 영주세계풍기인삼엑스포 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11454</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11454</guid>
-            <pubDate>Mon, 03 Jan 2022 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.10(월) 09:00]]></content:encoded>
+            <title><![CDATA[박진수 바이올린 독주회 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11477&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11477&amp;order=1</guid>
+            <pubDate>Tue, 11 Jan 2022 03:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-14(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[포르테 디 콰트로 콘서트: 메타포닉 - 부산 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -207,11 +214,12 @@
             <pubDate>Thu, 06 Jan 2022 06:20:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 8차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11466&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11466&amp;order=1</guid>
-            <pubDate>Thu, 06 Jan 2022 05:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022-01-13(목) 14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [뱀파이어 아더] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40265</link>
+            <guid>http://ticket.yes24.com/Perf/40265</guid>
+            <pubDate>Mon, 10 Jan 2022 02:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>41,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220110/20220110-40265_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [잭더리퍼] (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -220,14 +228,6 @@
             <pubDate>Mon, 10 Jan 2022 02:07:05 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									140,000원								</td>								<td class="dc_price">									<em>→</em>109,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220110/20220110-40672.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [뱀파이어 아더] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40265</link>
-            <guid>http://ticket.yes24.com/Perf/40265</guid>
-            <pubDate>Mon, 10 Jan 2022 02:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>41,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220110/20220110-40265_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <잭더리퍼> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>

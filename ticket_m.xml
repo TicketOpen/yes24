@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-11T02:12:21.696Z</updated>
+    <updated>2022-01-11T03:20:34.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박진수 바이올린 독주회 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11477&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11477&amp;order=1"/>
+        <updated>2022-01-11T03:19:36.711Z</updated>
+        <content type="html"><![CDATA[2022-01-14(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포르테 디 콰트로 콘서트: 메타포닉 - 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11476&amp;order=1</id>
@@ -66,12 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11467&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11467&amp;order=1"/>
         <updated>2022-01-06T06:20:35.731Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 8차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11466&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11466&amp;order=1"/>
-        <updated>2022-01-06T05:17:30.424Z</updated>
-        <content type="html"><![CDATA[2022-01-13(목) 14:00]]></content>
     </entry>
 </feed>
