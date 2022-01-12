@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-12T06:21:55.012Z</updated>
+    <updated>2022-01-12T07:16:55.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 부산 오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11480&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11480&amp;order=1"/>
+        <updated>2022-01-12T07:16:02.928Z</updated>
+        <content type="html"><![CDATA[2022-01-18(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KBS교향악단 제774회 정기연주회(01.28) 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11479&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11470&amp;order=1"/>
         <updated>2022-01-07T04:21:57.727Z</updated>
         <content type="html"><![CDATA[2022-01-18(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [라흐마니노프] 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11469&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11469&amp;order=1"/>
-        <updated>2022-01-06T10:18:32.717Z</updated>
-        <content type="html"><![CDATA[2022-01-13(목) 15:00]]></content>
     </entry>
 </feed>
