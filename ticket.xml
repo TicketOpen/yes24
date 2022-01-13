@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-13T00:59:45.147Z</updated>
+    <updated>2022-01-13T02:14:26.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프리다 칼로, 자클린 뒤 프레를 만나다 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11483</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11483"/>
+        <updated>2022-01-13T02:13:26.734Z</updated>
+        <content type="html"><![CDATA[2022.01.18(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피아졸라, 루이 암스트롱을 만나다 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11482</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11463"/>
         <updated>2022-01-05T05:16:48.577Z</updated>
         <content type="html"><![CDATA[2022.01.11(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 뮤지컬 [시카고] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11462</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11462"/>
-        <updated>2022-01-05T05:16:48.587Z</updated>
-        <content type="html"><![CDATA[2022.01.07(금) 16:00]]></content>
     </entry>
 </feed>
