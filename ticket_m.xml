@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-13T05:18:21.118Z</updated>
+    <updated>2022-01-13T06:21:42.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이내믹 : 드보르작 ＆ 그리그 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11485&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11485&amp;order=1"/>
+        <updated>2022-01-13T06:20:41.602Z</updated>
+        <content type="html"><![CDATA[2022-01-20(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <썸씽로튼> 김동완, 최재림 뉴캐스트 출격! 3차 티켓 오픈 안내!]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11484&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11484&amp;order=1"/>
+        <updated>2022-01-13T06:20:41.603Z</updated>
+        <content type="html"><![CDATA[2022-01-18(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프리다 칼로, 자클린 뒤 프레를 만나다 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11483&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11475&amp;order=1"/>
         <updated>2022-01-11T04:21:32.853Z</updated>
         <content type="html"><![CDATA[2022-01-19(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남문화재단 제141회 클래식품격콘서트 〈Great CONCERTO Series-L.v.Beethoven〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11474&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11474&amp;order=1"/>
-        <updated>2022-01-10T06:21:07.467Z</updated>
-        <content type="html"><![CDATA[2022-01-13(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이브스트리밍] 뮤지컬 [잭더리퍼] 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11473&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11473&amp;order=1"/>
-        <updated>2022-01-10T05:18:01.953Z</updated>
-        <content type="html"><![CDATA[2022-01-17(월) 14:00]]></content>
     </entry>
 </feed>
