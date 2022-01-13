@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-12T23:17:59.057Z</updated>
+    <updated>2022-01-13T00:59:45.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피아졸라, 루이 암스트롱을 만나다 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11482&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11482&amp;order=1"/>
+        <updated>2022-01-13T00:58:57.854Z</updated>
+        <content type="html"><![CDATA[2022-01-13(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈언더스터디〉 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11481&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11481&amp;order=1"/>
+        <updated>2022-01-13T00:58:57.855Z</updated>
+        <content type="html"><![CDATA[2022-01-14(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 부산 오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11480&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11472&amp;order=1"/>
         <updated>2022-01-07T08:20:24.378Z</updated>
         <content type="html"><![CDATA[2022-01-21(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 N.Flying LIVE ‘&CON’ - Man on the Moon 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11471&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11471&amp;order=1"/>
-        <updated>2022-01-07T08:20:24.381Z</updated>
-        <content type="html"><![CDATA[2022-01-20(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11470&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11470&amp;order=1"/>
-        <updated>2022-01-07T04:21:57.727Z</updated>
-        <content type="html"><![CDATA[2022-01-18(화) 20:00]]></content>
     </entry>
 </feed>
