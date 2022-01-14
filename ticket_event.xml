@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 23:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 00:59:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <플레이백> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41114&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41114&amp;Tab=2</guid>
+            <pubDate>Fri, 14 Jan 2022 00:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.14 ~ 2022.01.30 | 2022.01.31 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202201/20220114/20220114-47ea8845-0be7-4765-ad59-d2e66f9e012b.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <물고기 남자> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41026&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41026&amp;Tab=2</guid>
+            <pubDate>Fri, 14 Jan 2022 00:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.14 ~ 2022.01.31 | 2022.02.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202201/20220114/20220114-67d3c7bc-5e66-4365-987f-4f012066ff54.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <장화 신은 고양이 비긴즈> 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41071&amp;Tab=2</link>
@@ -60,20 +76,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Mon, 27 Dec 2021 15:17:53 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예스24스테이지]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Wed, 05 Jan 2022 15:18:03 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예술의전당]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
-            <pubDate>Thu, 13 Jan 2022 15:18:16 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
