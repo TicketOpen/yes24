@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-17T02:11:16.850Z</updated>
+    <updated>2022-01-17T03:20:08.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PENTAGON 12th Mini Album [IN:VITE U] LAUNCHING SHOW 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11486&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11486&amp;order=1"/>
+        <updated>2022-01-17T03:19:13.345Z</updated>
+        <content type="html"><![CDATA[2022-01-18(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이내믹 : 드보르작 ＆ 그리그 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11485&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11477&amp;order=1"/>
         <updated>2022-01-11T03:19:36.711Z</updated>
         <content type="html"><![CDATA[2022-01-14(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids 2ND ＃LoveSTAY ＇SKZ’S CHOCOLATE FACTORY＇티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11475&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11475&amp;order=1"/>
-        <updated>2022-01-11T04:21:32.853Z</updated>
-        <content type="html"><![CDATA[2022-01-19(수) 20:00]]></content>
     </entry>
 </feed>

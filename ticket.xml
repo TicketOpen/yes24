@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-17T02:11:16.855Z</updated>
+    <updated>2022-01-17T03:20:08.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매PENTAGON 12th Mini Album [IN:VITE U] LAUNCHING SHOW 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11486</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11486"/>
+        <updated>2022-01-17T03:19:02.326Z</updated>
+        <content type="html"><![CDATA[2022.01.18(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이내믹 : 드보르작 ＆ 그리그 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11485</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11466"/>
         <updated>2022-01-06T05:17:20.384Z</updated>
         <content type="html"><![CDATA[2022.01.13(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VERIVERY FANMEETING [2022 VERI UNIV. Festival] 추가오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11465</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11465"/>
-        <updated>2022-01-05T08:20:12.576Z</updated>
-        <content type="html"><![CDATA[2022.01.06(목) 14:00]]></content>
     </entry>
 </feed>
