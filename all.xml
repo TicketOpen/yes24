@@ -4,9 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 02:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 03:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RAPBEAT 2022 연기 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11487</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11487</guid>
+            <pubDate>Wed, 19 Jan 2022 03:15:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[단독판매PENTAGON 12th Mini Album [IN:VITE U] LAUNCHING SHOW 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11486</link>
@@ -140,11 +146,10 @@
             <pubDate>Thu, 06 Jan 2022 06:20:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 8차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11466</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11466</guid>
-            <pubDate>Thu, 06 Jan 2022 05:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.13(목) 14:00]]></content:encoded>
+            <title><![CDATA[RAPBEAT 2022 연기 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11487&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11487&amp;order=1</guid>
+            <pubDate>Wed, 19 Jan 2022 03:15:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PENTAGON 12th Mini Album [IN:VITE U] LAUNCHING SHOW 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -210,13 +215,6 @@
             <content:encoded><![CDATA[2022-01-18(화) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박진수 바이올린 독주회 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11477&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11477&amp;order=1</guid>
-            <pubDate>Tue, 11 Jan 2022 03:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022-01-14(금) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [온에어] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/40903</link>
             <guid>http://ticket.yes24.com/Perf/40903</guid>
@@ -225,20 +223,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220118/20220118-40903.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈장화 신은 고양이 비긴즈〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41071</link>
-            <guid>http://ticket.yes24.com/Perf/41071</guid>
-            <pubDate>Mon, 17 Jan 2022 02:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>평일VIP석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>27,300원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220117/20220117-41071.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 [Jekyll＆Hyde] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/39997</link>
             <guid>http://ticket.yes24.com/Perf/39997</guid>
             <pubDate>Mon, 17 Jan 2022 02:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220117/20220117-39997.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈장화 신은 고양이 비긴즈〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41071</link>
+            <guid>http://ticket.yes24.com/Perf/41071</guid>
+            <pubDate>Mon, 17 Jan 2022 02:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>평일VIP석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>27,300원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220117/20220117-41071.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <지킬앤하이드> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>

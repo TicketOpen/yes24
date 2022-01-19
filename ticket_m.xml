@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-19T02:29:27.991Z</updated>
+    <updated>2022-01-19T03:16:41.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RAPBEAT 2022 연기 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11487&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11487&amp;order=1"/>
+        <updated>2022-01-19T03:15:54.156Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PENTAGON 12th Mini Album [IN:VITE U] LAUNCHING SHOW 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11486&amp;order=1</id>
@@ -67,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11478&amp;order=1"/>
         <updated>2022-01-11T07:16:27.208Z</updated>
         <content type="html"><![CDATA[2022-01-18(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진수 바이올린 독주회 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11477&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11477&amp;order=1"/>
-        <updated>2022-01-11T03:19:36.711Z</updated>
-        <content type="html"><![CDATA[2022-01-14(금) 14:00]]></content>
     </entry>
 </feed>

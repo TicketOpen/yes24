@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-19T02:29:27.995Z</updated>
+    <updated>2022-01-19T03:16:41.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RAPBEAT 2022 연기 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11487</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11487"/>
+        <updated>2022-01-19T03:15:45.194Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매PENTAGON 12th Mini Album [IN:VITE U] LAUNCHING SHOW 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11486</id>
@@ -136,12 +142,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11467</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11467"/>
         <updated>2022-01-06T06:20:27.211Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 8차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11466</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11466"/>
-        <updated>2022-01-06T05:17:20.384Z</updated>
-        <content type="html"><![CDATA[2022.01.13(목) 14:00]]></content>
     </entry>
 </feed>
