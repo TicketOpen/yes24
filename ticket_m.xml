@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-20T01:03:40.905Z</updated>
+    <updated>2022-01-20T02:38:35.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY ‘SKZ’S CHOCOLATE FACTORY’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11489&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11489&amp;order=1"/>
+        <updated>2022-01-20T02:37:39.340Z</updated>
+        <content type="html"><![CDATA[2022-01-24(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 9차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11488&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11480&amp;order=1"/>
         <updated>2022-01-12T07:16:02.928Z</updated>
         <content type="html"><![CDATA[2022-01-18(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS교향악단 제774회 정기연주회(01.28) 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11479&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11479&amp;order=1"/>
-        <updated>2022-01-11T06:21:47.347Z</updated>
-        <content type="html"><![CDATA[2022-01-12(수) 15:00]]></content>
     </entry>
 </feed>
