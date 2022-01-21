@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-21T08:19:56.659Z</updated>
+    <updated>2022-01-21T09:16:37.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11495&amp;order=1"/>
         <updated>2022-01-21T07:15:21.102Z</updated>
         <content type="html"><![CDATA[2022-01-27(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 ONEWE 2nd Live Concert ‘O! NEW E!volution Ⅱ’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11494&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11494&amp;order=1"/>
+        <updated>2022-01-21T09:15:42.088Z</updated>
+        <content type="html"><![CDATA[2022-01-27(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 AB6IX CONCERT [COMPLETE WITH YOU] 티켓오픈안내]]></title>
@@ -66,12 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11487&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11487&amp;order=1"/>
         <updated>2022-01-19T03:15:54.156Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PENTAGON 12th Mini Album [IN:VITE U] LAUNCHING SHOW 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11486&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11486&amp;order=1"/>
-        <updated>2022-01-17T03:19:13.345Z</updated>
-        <content type="html"><![CDATA[2022-01-18(화) 20:00]]></content>
     </entry>
 </feed>
