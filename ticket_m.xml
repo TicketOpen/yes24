@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-21T06:20:28.503Z</updated>
+    <updated>2022-01-21T07:16:08.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11496&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11496&amp;order=1"/>
+        <updated>2022-01-21T07:15:21.101Z</updated>
+        <content type="html"><![CDATA[2022-01-28(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11495&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11495&amp;order=1"/>
+        <updated>2022-01-21T07:15:21.102Z</updated>
+        <content type="html"><![CDATA[2022-01-27(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 AB6IX CONCERT [COMPLETE WITH YOU] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11493&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11486&amp;order=1"/>
         <updated>2022-01-17T03:19:13.345Z</updated>
         <content type="html"><![CDATA[2022-01-18(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이내믹 : 드보르작 ＆ 그리그 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11485&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11485&amp;order=1"/>
-        <updated>2022-01-13T06:20:41.602Z</updated>
-        <content type="html"><![CDATA[2022-01-20(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <썸씽로튼> 김동완, 최재림 뉴캐스트 출격! 3차 티켓 오픈 안내!]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11484&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11484&amp;order=1"/>
-        <updated>2022-01-13T06:20:41.603Z</updated>
-        <content type="html"><![CDATA[2022-01-18(화) 14:00]]></content>
     </entry>
 </feed>
