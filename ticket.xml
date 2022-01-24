@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-23T23:15:53.559Z</updated>
+    <updated>2022-01-24T00:53:15.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국립합창단 기획공연 위대한 합창 시리즈 Ⅰ - 칼 오르프, 카르미나 부라나 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11497</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11497"/>
+        <updated>2022-01-24T00:52:09.306Z</updated>
+        <content type="html"><![CDATA[2022.01.26(수) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11496</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11478"/>
         <updated>2022-01-11T07:16:16.996Z</updated>
         <content type="html"><![CDATA[2022.01.18(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진수 바이올린 독주회 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11477</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11477"/>
-        <updated>2022-01-11T03:19:25.548Z</updated>
-        <content type="html"><![CDATA[2022.01.14(금) 14:00]]></content>
     </entry>
 </feed>
