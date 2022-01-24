@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-24T04:20:45.929Z</updated>
+    <updated>2022-01-24T05:14:51.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -60,13 +60,6 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11490"/>
         <updated>2022-01-20T06:18:40.307Z</updated>
         <content type="html"><![CDATA[2022.01.24(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY ‘SKZ’S CHOCOLATE FACTORY’ 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11489</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11489"/>
-        <updated>2022-01-20T03:14:52.541Z</updated>
-        <content type="html"><![CDATA[2022.01.24(월) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 9차 티켓오픈 안내]]></title>
@@ -143,5 +136,12 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11478"/>
         <updated>2022-01-11T07:16:16.996Z</updated>
         <content type="html"><![CDATA[2022.01.18(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박진수 바이올린 독주회 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11477</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11477"/>
+        <updated>2022-01-24T05:13:46.521Z</updated>
+        <content type="html"><![CDATA[2022.01.14(금) 14:00]]></content>
     </entry>
 </feed>
