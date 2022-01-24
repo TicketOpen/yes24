@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-24T06:22:35.432Z</updated>
+    <updated>2022-01-24T07:20:02.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - Stray Kids 2ND ＃LoveSTAY ＇SKZ’S CHOCOLATE FACTORY＇티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11498&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11498&amp;order=1"/>
+        <updated>2022-01-24T07:19:09.239Z</updated>
+        <content type="html"><![CDATA[2022-01-26(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국립합창단 기획공연 위대한 합창 시리즈 Ⅰ - 칼 오르프, 카르미나 부라나 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11497&amp;order=1</id>
@@ -67,11 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11488&amp;order=1"/>
         <updated>2022-01-19T07:12:21.030Z</updated>
         <content type="html"><![CDATA[2022-01-26(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAPBEAT 2022 연기 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11487&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11487&amp;order=1"/>
-        <updated>2022-01-24T05:13:56.998Z</updated>
     </entry>
 </feed>
