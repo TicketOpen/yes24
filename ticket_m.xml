@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-25T07:17:07.114Z</updated>
+    <updated>2022-01-25T08:19:53.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 천안 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11506&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11506&amp;order=1"/>
+        <updated>2022-01-25T08:19:07.842Z</updated>
+        <content type="html"><![CDATA[2022-01-28(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[극단 소년 연극 [플레이백] 연장 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11504&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11504&amp;order=1"/>
+        <updated>2022-01-25T08:19:07.845Z</updated>
+        <content type="html"><![CDATA[2022-01-28(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 P1Harmony LIVE TOUR [P1ustage H : PEACE] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11503&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11503&amp;order=1"/>
+        <updated>2022-01-25T08:19:07.850Z</updated>
+        <content type="html"><![CDATA[2022-01-27(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] - 천안 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11502&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11496&amp;order=1"/>
         <updated>2022-01-21T07:15:21.101Z</updated>
         <content type="html"><![CDATA[2022-01-28(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11495&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11495&amp;order=1"/>
-        <updated>2022-01-21T07:15:21.102Z</updated>
-        <content type="html"><![CDATA[2022-01-27(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 ONEWE 2nd Live Concert ‘O! NEW E!volution Ⅱ’ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11494&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11494&amp;order=1"/>
-        <updated>2022-01-21T09:15:42.088Z</updated>
-        <content type="html"><![CDATA[2022-01-27(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 AB6IX CONCERT [COMPLETE WITH YOU] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11493&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11493&amp;order=1"/>
-        <updated>2022-01-21T05:14:03.784Z</updated>
-        <content type="html"><![CDATA[2022-01-27(목) 20:00]]></content>
     </entry>
 </feed>

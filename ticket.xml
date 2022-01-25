@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-25T07:17:07.116Z</updated>
+    <updated>2022-01-25T08:19:53.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 천안 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11506</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11506"/>
+        <updated>2022-01-25T08:18:58.675Z</updated>
+        <content type="html"><![CDATA[2022.01.28(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버페이 DB 점검 작업에 따른 카드 결제 서비스 중단 안내(2/7)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11505</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11505"/>
+        <updated>2022-01-25T08:18:58.676Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[극단 소년 연극 [플레이백] 연장 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11504</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11504"/>
+        <updated>2022-01-25T08:18:58.676Z</updated>
+        <content type="html"><![CDATA[2022.01.28(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 P1Harmony LIVE TOUR [P1ustage H : PEACE] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11503</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11503"/>
+        <updated>2022-01-25T08:18:58.676Z</updated>
+        <content type="html"><![CDATA[2022.01.27(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] - 천안 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11502</id>
@@ -115,33 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11486"/>
         <updated>2022-01-17T03:19:02.326Z</updated>
         <content type="html"><![CDATA[2022.01.18(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이내믹 : 드보르작 ＆ 그리그 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11485</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11485"/>
-        <updated>2022-01-13T06:20:31.623Z</updated>
-        <content type="html"><![CDATA[2022.01.20(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <썸씽로튼> 김동완, 최재림 뉴캐스트 출격! 3차 티켓 오픈 안내!]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11484</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11484"/>
-        <updated>2022-01-13T06:20:31.662Z</updated>
-        <content type="html"><![CDATA[2022.01.18(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리다 칼로, 자클린 뒤 프레를 만나다 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11483</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11483"/>
-        <updated>2022-01-13T02:13:26.734Z</updated>
-        <content type="html"><![CDATA[2022.01.18(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아졸라, 루이 암스트롱을 만나다 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11482</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11482"/>
-        <updated>2022-01-13T00:58:48.328Z</updated>
-        <content type="html"><![CDATA[2022.01.13(목) 14:00]]></content>
     </entry>
 </feed>
