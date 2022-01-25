@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-25T00:59:45.642Z</updated>
+    <updated>2022-01-25T02:11:01.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 내일은 미스트롯2 TOP4 전국투어 콘서트〈소리꽃〉- 대구 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11500</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11500"/>
+        <updated>2022-01-25T02:10:05.581Z</updated>
+        <content type="html"><![CDATA[2022.01.26(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 부산공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11499</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11499"/>
+        <updated>2022-01-25T02:10:05.582Z</updated>
+        <content type="html"><![CDATA[2022.01.28(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond LIVE - Stray Kids 2ND ＃LoveSTAY ＇SKZ’S CHOCOLATE FACTORY＇티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11498</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11480"/>
         <updated>2022-01-12T07:15:52.042Z</updated>
         <content type="html"><![CDATA[2022.01.18(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS교향악단 제774회 정기연주회(01.28) 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11479</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11479"/>
-        <updated>2022-01-11T07:16:16.995Z</updated>
-        <content type="html"><![CDATA[2022.01.12(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11478</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11478"/>
-        <updated>2022-01-11T07:16:16.996Z</updated>
-        <content type="html"><![CDATA[2022.01.18(화) 11:00]]></content>
     </entry>
 </feed>
