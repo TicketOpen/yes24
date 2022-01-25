@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-25T06:20:29.131Z</updated>
+    <updated>2022-01-25T07:17:07.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] - 천안 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11502</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11502"/>
+        <updated>2022-01-25T07:16:07.460Z</updated>
+        <content type="html"><![CDATA[2022.01.28(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 신유 콘서트 - 대구 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11501</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11482"/>
         <updated>2022-01-13T00:58:48.328Z</updated>
         <content type="html"><![CDATA[2022.01.13(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈언더스터디〉 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11481</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11481"/>
-        <updated>2022-01-13T00:58:48.329Z</updated>
-        <content type="html"><![CDATA[2022.01.14(금) 14:00]]></content>
     </entry>
 </feed>

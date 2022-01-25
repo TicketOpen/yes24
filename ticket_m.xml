@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-25T06:20:29.126Z</updated>
+    <updated>2022-01-25T07:17:07.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] - 천안 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11502&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11502&amp;order=1"/>
+        <updated>2022-01-25T07:16:16.987Z</updated>
+        <content type="html"><![CDATA[2022-01-28(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 신유 콘서트 - 대구 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11501&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11493&amp;order=1"/>
         <updated>2022-01-21T05:14:03.784Z</updated>
         <content type="html"><![CDATA[2022-01-27(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 CAMPING MUSIC FESTIVAL 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11492&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11492&amp;order=1"/>
-        <updated>2022-01-21T03:15:47.726Z</updated>
-        <content type="html"><![CDATA[2022-01-28(금) 12:00]]></content>
     </entry>
 </feed>
