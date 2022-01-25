@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-25T03:17:02.666Z</updated>
+    <updated>2022-01-25T04:20:53.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 신유 콘서트 - 대구 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11501</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11501"/>
+        <updated>2022-01-25T04:19:57.156Z</updated>
+        <content type="html"><![CDATA[2022.01.28(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 내일은 미스트롯2 TOP4 전국투어 콘서트〈소리꽃〉- 대구 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11500</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11481"/>
         <updated>2022-01-13T00:58:48.329Z</updated>
         <content type="html"><![CDATA[2022.01.14(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 부산 오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11480</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11480"/>
-        <updated>2022-01-12T07:15:52.042Z</updated>
-        <content type="html"><![CDATA[2022.01.18(화) 16:00]]></content>
     </entry>
 </feed>
