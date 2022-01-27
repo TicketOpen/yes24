@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-27T02:35:34.387Z</updated>
+    <updated>2022-01-27T03:16:54.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11512&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11512&amp;order=1"/>
+        <updated>2022-01-27T03:16:07.956Z</updated>
+        <content type="html"><![CDATA[2022-01-28(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈레베카〉 - 전주 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11511&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11502&amp;order=1"/>
         <updated>2022-01-25T07:16:16.987Z</updated>
         <content type="html"><![CDATA[2022-01-28(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 신유 콘서트 - 대구 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11501&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11501&amp;order=1"/>
-        <updated>2022-01-25T04:20:06.470Z</updated>
-        <content type="html"><![CDATA[2022-01-28(금) 14:00]]></content>
     </entry>
 </feed>
