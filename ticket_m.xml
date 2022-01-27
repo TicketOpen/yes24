@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-01-27T04:20:31.771Z</updated>
+    <updated>2022-01-27T05:15:44.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 프리뷰 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11514&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11514&amp;order=1"/>
+        <updated>2022-01-27T05:14:58.673Z</updated>
+        <content type="html"><![CDATA[2022-02-08(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 대구 공연 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11513&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11513&amp;order=1"/>
+        <updated>2022-01-27T05:14:58.673Z</updated>
+        <content type="html"><![CDATA[2022-02-04(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11512&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11504&amp;order=1"/>
         <updated>2022-01-25T08:19:07.845Z</updated>
         <content type="html"><![CDATA[2022-01-28(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 P1Harmony LIVE TOUR [P1ustage H : PEACE] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11503&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11503&amp;order=1"/>
-        <updated>2022-01-25T08:19:07.850Z</updated>
-        <content type="html"><![CDATA[2022-01-27(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] - 천안 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11502&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11502&amp;order=1"/>
-        <updated>2022-01-25T07:16:16.987Z</updated>
-        <content type="html"><![CDATA[2022-01-28(금) 16:00]]></content>
     </entry>
 </feed>

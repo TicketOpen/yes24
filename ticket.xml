@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-01-27T04:20:31.661Z</updated>
+    <updated>2022-01-27T05:15:44.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 프리뷰 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11514</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11514"/>
+        <updated>2022-01-27T05:14:49.526Z</updated>
+        <content type="html"><![CDATA[2022.02.08(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 대구 공연 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11513</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11513"/>
+        <updated>2022-01-27T05:14:49.549Z</updated>
+        <content type="html"><![CDATA[2022.02.04(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11512</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11494"/>
         <updated>2022-01-21T09:15:30.849Z</updated>
         <content type="html"><![CDATA[2022.01.27(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.01.26(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 AB6IX CONCERT [COMPLETE WITH YOU] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11493</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11493"/>
-        <updated>2022-01-21T05:13:54.841Z</updated>
-        <content type="html"><![CDATA[2022.01.27(목) 20:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="리허설 관람" presaletime1="2022.01.25(화) 20:00" presaletime2="2022.01.26(수) 20:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 CAMPING MUSIC FESTIVAL 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11492</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11492"/>
-        <updated>2022-01-21T03:15:38.122Z</updated>
-        <content type="html"><![CDATA[2022.01.28(금) 12:00<a class="noti-btn-pop" presaletit1="2회차" presaletit2="3회차" presaletime1="2022.01.28(금) 14:00" presaletime2="2022.01.28(금) 16:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
