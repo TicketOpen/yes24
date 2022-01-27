@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2022-01-27T09:17:11.767Z</updated>
+    <updated>2022-01-27T10:17:53.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
     <entry>
@@ -19,6 +19,20 @@
         <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
         <updated>2021-11-23T12:26:26.396Z</updated>
         <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.01.24 ~ 2022.01.30</dd><dt>사용기간</dt><dd>2022.01.24 ~ 2022.01.30</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 젠틀맨스 가이드] 5천원 할인쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2021-11-23T12:26:26.396Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.01.24 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.01.24 ~ 2022.12.31</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 젠틀맨스 가이드] 1만원 할인쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2021-11-23T12:26:26.396Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.01.24 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.01.24 ~ 2022.12.31</dd>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뮤지컬 잭더리퍼] 택시타고 가는 나, 제법 따뜻해요]]></title>
@@ -40,19 +54,5 @@
         <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
         <updated>2021-11-23T12:26:26.396Z</updated>
         <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.11.12 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2021.11.12 ~ 2022.12.31</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 시카고] 5천원 할인쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2021-11-23T12:26:26.396Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2022.02.28</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2022.02.28</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 시카고] 1만원 할인쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2021-11-23T12:26:26.396Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2021.06.03 ~ 2022.02.28</dd><dt>사용기간</dt><dd>2021.06.03 ~ 2022.02.28</dd>]]></content>
     </entry>
 </feed>
