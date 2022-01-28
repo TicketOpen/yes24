@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2022-01-28T00:54:02.491Z</updated>
+    <updated>2022-01-28T01:59:51.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
     <entry>
@@ -62,17 +62,31 @@
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뮤지컬 젠틀맨스 가이드] 1만원 할인쿠폰]]></title>
+        <title type="html"><![CDATA[[뮤지컬 젠틀맨스 가이드] 5천원 할인쿠폰_2022]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40241</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40241"/>
+        <updated>2022-01-27T10:17:52.639Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 젠틀맨스 가이드] 1만원 할인쿠폰_2022]]></title>
         <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40240</id>
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40240"/>
         <updated>2022-01-27T10:17:52.638Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뮤지컬 젠틀맨스 가이드] 5천원 할인쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40241</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40241"/>
-        <updated>2022-01-27T10:17:52.639Z</updated>
+        <title type="html"><![CDATA[[뮤지컬 레베카] 1만원 할인 쿠폰_2022]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40273</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40273"/>
+        <updated>2022-01-28T01:59:50.396Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 레베카] 5천원 할인 쿠폰_2022]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40274</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40274"/>
+        <updated>2022-01-28T01:59:50.400Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
     </entry>
 </feed>
