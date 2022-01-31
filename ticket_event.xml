@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 14:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 15:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 14 Jan 2022 00:58:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.14 ~ 2022.02.13 | 2022.02.14 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202201/20220114/20220114-47ea8845-0be7-4765-ad59-d2e66f9e012b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <물고기 남자> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41026&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41026&amp;Tab=2</guid>
-            <pubDate>Fri, 14 Jan 2022 00:58:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.14 ~ 2022.01.31 | 2022.02.03 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202201/20220114/20220114-67d3c7bc-5e66-4365-987f-4f012066ff54.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <장화 신은 고양이 비긴즈> 관람후기 이벤트]]></title>
@@ -76,6 +68,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Sun, 30 Jan 2022 15:16:17 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Mon, 31 Jan 2022 15:16:24 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
