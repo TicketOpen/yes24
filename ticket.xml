@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-03T04:20:40.366Z</updated>
+    <updated>2022-02-03T05:15:19.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 10차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11520</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11520"/>
+        <updated>2022-02-03T05:14:26.090Z</updated>
+        <content type="html"><![CDATA[2022.02.10(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [온에어] 4차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11519</id>
@@ -135,13 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11501</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11501"/>
         <updated>2022-01-25T04:19:57.156Z</updated>
-        <content type="html"><![CDATA[2022.01.28(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 부산공연 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11499</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11499"/>
-        <updated>2022-01-25T02:10:05.582Z</updated>
         <content type="html"><![CDATA[2022.01.28(금) 14:00]]></content>
     </entry>
 </feed>
