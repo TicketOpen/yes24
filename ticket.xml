@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-03T06:20:12.177Z</updated>
+    <updated>2022-02-03T07:15:49.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배송수수료 인상 안내 (3/2~)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11521</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11521"/>
+        <updated>2022-02-03T07:14:54.937Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 10차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11520</id>
@@ -136,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11502"/>
         <updated>2022-01-25T07:16:07.460Z</updated>
         <content type="html"><![CDATA[2022.01.28(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 신유 콘서트 - 대구 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11501</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11501"/>
-        <updated>2022-01-25T04:19:57.156Z</updated>
-        <content type="html"><![CDATA[2022.01.28(금) 14:00]]></content>
     </entry>
 </feed>
