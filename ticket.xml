@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-04T02:17:43.574Z</updated>
+    <updated>2022-02-04T03:15:23.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내(2/12, 2/13, 2/20, 2/21)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11522</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11522"/>
+        <updated>2022-02-04T03:14:27.049Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배송수수료 인상 안내 (3/2~)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11521</id>
@@ -135,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11503"/>
         <updated>2022-01-25T08:18:58.676Z</updated>
         <content type="html"><![CDATA[2022.01.27(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] - 천안 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11502</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11502"/>
-        <updated>2022-01-25T07:16:07.460Z</updated>
-        <content type="html"><![CDATA[2022.01.28(금) 16:00]]></content>
     </entry>
 </feed>
