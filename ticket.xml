@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-04T06:16:01.784Z</updated>
+    <updated>2022-02-04T07:14:06.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [렛미플라이] 프리뷰 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11523</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11523"/>
+        <updated>2022-02-04T07:13:05.291Z</updated>
+        <content type="html"><![CDATA[2022.02.15(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내(2/12, 2/13, 2/20, 2/21)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11522</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11504"/>
         <updated>2022-01-25T08:18:58.676Z</updated>
         <content type="html"><![CDATA[2022.01.28(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 P1Harmony LIVE TOUR [P1ustage H : PEACE] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11503</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11503"/>
-        <updated>2022-01-25T08:18:58.676Z</updated>
-        <content type="html"><![CDATA[2022.01.27(목) 18:00]]></content>
     </entry>
 </feed>
