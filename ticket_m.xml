@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-07T05:14:51.730Z</updated>
+    <updated>2022-02-07T06:19:31.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11528&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11528&amp;order=1"/>
+        <updated>2022-02-07T06:18:34.175Z</updated>
+        <content type="html"><![CDATA[2022-02-11(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지소울＆따마 BLESSED with Clazz Orchestra 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11527&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11516&amp;order=1"/>
         <updated>2022-01-28T02:36:40.685Z</updated>
         <content type="html"><![CDATA[2022-02-03(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [라흐마니노프] (마지막)4차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11515&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11515&amp;order=1"/>
-        <updated>2022-01-27T09:16:18.037Z</updated>
-        <content type="html"><![CDATA[2022-02-04(금) 15:00]]></content>
     </entry>
 </feed>
