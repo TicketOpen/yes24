@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-07T00:55:01.468Z</updated>
+    <updated>2022-02-07T01:59:16.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구〈일상으로의 초대〉 Theatre - 박재정,하성운,스텔라장 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11525</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11525"/>
+        <updated>2022-02-07T01:58:15.305Z</updated>
+        <content type="html"><![CDATA[2022.02.09(수) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈작가노트, 사라져가는 잔상들〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11524</id>
@@ -135,11 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11506"/>
         <updated>2022-01-25T08:18:58.675Z</updated>
         <content type="html"><![CDATA[2022.01.28(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버페이 DB 점검 작업에 따른 카드 결제 서비스 중단 안내(2/7)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11505</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11505"/>
-        <updated>2022-01-25T08:18:58.676Z</updated>
     </entry>
 </feed>
