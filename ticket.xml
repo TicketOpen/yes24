@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-08T06:20:17.903Z</updated>
+    <updated>2022-02-08T07:15:37.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈회란기〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11533</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11533"/>
+        <updated>2022-02-08T07:14:31.852Z</updated>
+        <content type="html"><![CDATA[2022.02.09(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버페이 DB 점검 안내(2/12)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11532</id>
@@ -132,12 +139,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11514"/>
         <updated>2022-02-08T02:37:35.644Z</updated>
         <content type="html"><![CDATA[2022.02.08(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <하데스타운> 대구 공연 티켓 오픈! (Musical Hadestown)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11513</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11513"/>
-        <updated>2022-02-08T02:37:35.645Z</updated>
-        <content type="html"><![CDATA[2022.02.04(금) 14:00]]></content>
     </entry>
 </feed>
