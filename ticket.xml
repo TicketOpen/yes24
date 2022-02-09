@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-09T04:20:52.441Z</updated>
+    <updated>2022-02-09T05:14:55.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11537</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11537"/>
+        <updated>2022-02-09T05:14:01.352Z</updated>
+        <content type="html"><![CDATA[2022.02.15(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 연극 [친정엄마와 2박 3일] - 전주 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11536</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11536"/>
+        <updated>2022-02-09T05:14:01.353Z</updated>
+        <content type="html"><![CDATA[2022.02.11(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Connect with The Whales 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11535</id>
@@ -124,20 +138,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11518</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11518"/>
         <updated>2022-02-08T02:37:35.638Z</updated>
-        <content type="html"><![CDATA[2022.02.03(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬＜레베카＞- 대전 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11517</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11517"/>
-        <updated>2022-02-08T02:37:35.638Z</updated>
-        <content type="html"><![CDATA[2022.02.03(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 싯다르타 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11516</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11516"/>
-        <updated>2022-02-08T02:37:35.639Z</updated>
         <content type="html"><![CDATA[2022.02.03(목) 14:00]]></content>
     </entry>
 </feed>
