@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-08T23:17:07.444Z</updated>
+    <updated>2022-02-09T00:59:36.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Connect with The Whales 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11535</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11535"/>
+        <updated>2022-02-09T00:58:37.557Z</updated>
+        <content type="html"><![CDATA[2022.02.10(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매Connect with LUCY 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11534</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11534"/>
+        <updated>2022-02-09T00:58:37.557Z</updated>
+        <content type="html"><![CDATA[2022.02.10(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈회란기〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11533</id>
@@ -125,19 +139,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11516"/>
         <updated>2022-02-08T02:37:35.639Z</updated>
         <content type="html"><![CDATA[2022.02.03(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [라흐마니노프] (마지막)4차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11515</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11515"/>
-        <updated>2022-02-08T02:37:35.641Z</updated>
-        <content type="html"><![CDATA[2022.02.04(금) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2022.02.04(금) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 프리뷰 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11514</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11514"/>
-        <updated>2022-02-08T02:37:35.644Z</updated>
-        <content type="html"><![CDATA[2022.02.08(화) 11:00]]></content>
     </entry>
 </feed>

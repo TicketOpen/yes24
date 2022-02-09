@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-08T23:17:07.443Z</updated>
+    <updated>2022-02-09T00:59:36.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Connect with The Whales 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11535&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11535&amp;order=1"/>
+        <updated>2022-02-09T00:58:46.838Z</updated>
+        <content type="html"><![CDATA[2022-02-10(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect with LUCY 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11534&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11534&amp;order=1"/>
+        <updated>2022-02-09T00:58:46.838Z</updated>
+        <content type="html"><![CDATA[2022-02-10(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈회란기〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11533&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11523&amp;order=1"/>
         <updated>2022-02-08T02:37:44.759Z</updated>
         <content type="html"><![CDATA[2022-02-15(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 10차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11520&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11520&amp;order=1"/>
-        <updated>2022-02-08T02:37:44.760Z</updated>
-        <content type="html"><![CDATA[2022-02-10(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [온에어] 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11519&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11519&amp;order=1"/>
-        <updated>2022-02-08T02:37:44.761Z</updated>
-        <content type="html"><![CDATA[2022-02-03(목) 16:00]]></content>
     </entry>
 </feed>
