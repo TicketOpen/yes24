@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 07:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 08:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대학로 뮤지컬 이벤트 <반반뮤마니>]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3260</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3260</guid>
+            <pubDate>Wed, 09 Feb 2022 08:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.09 ~ 2022.03.20]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220209/20220209-57359b00-e5cb-4cf3-b7a1-814a984707a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <난쟁이들> 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41048&amp;Tab=2</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 08 Feb 2022 02:38:08 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 ~ 2022.02.27 | 2022.02.28 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202112/20211210/20211210-b3e98a0b-0a37-47b4-87e4-6af63f9eedd6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <지킬앤하이드> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39997&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39997&amp;Tab=2</guid>
-            <pubDate>Tue, 08 Feb 2022 02:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.19 ~ 2022.05.01 | 2022.05.03 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211019/20211019-215ede4e-8b3a-43e2-ac1b-6bb83825bd82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
