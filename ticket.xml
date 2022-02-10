@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-10T00:59:32.728Z</updated>
+    <updated>2022-02-10T01:59:55.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <킹아더> 첫 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11542</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11542"/>
+        <updated>2022-02-10T01:59:03.813Z</updated>
+        <content type="html"><![CDATA[2022.02.16(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남문화재단 제142회 클래식품격콘서트 〈Great CONCERTO Series-P.I.Tchaikovsky〉티켓오픈 안..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11541</id>
@@ -133,11 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11523"/>
         <updated>2022-02-08T02:37:35.634Z</updated>
         <content type="html"><![CDATA[2022.02.15(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내(2/12, 2/13, 2/20, 2/21)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11522</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11522"/>
-        <updated>2022-02-08T02:37:35.635Z</updated>
     </entry>
 </feed>
