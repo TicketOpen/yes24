@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 07:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 08:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,22 @@
             <content:encoded><![CDATA[2022-02-15(화) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[가무극 〈잃어버린 얼굴 1895〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41260</link>
+            <guid>http://ticket.yes24.com/Perf/41260</guid>
+            <pubDate>Tue, 08 Feb 2022 02:37:52 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									90,000원								</td>								<td class="dc_price">									<em>→</em>51,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220120/20220120-41260_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 ＜잭더리퍼＞ － 부산 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41077</link>
+            <guid>http://ticket.yes24.com/Perf/41077</guid>
+            <pubDate>Tue, 08 Feb 2022 02:37:52 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									120,000원								</td>								<td class="dc_price">									<em>→</em>81,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220207/20220207-41077.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <지킬앤하이드> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/39997</link>
             <guid>http://ticket.yes24.com/Perf/39997</guid>
@@ -229,28 +245,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220207/20220207-40782.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가무극 〈잃어버린 얼굴 1895〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41260</link>
-            <guid>http://ticket.yes24.com/Perf/41260</guid>
-            <pubDate>Tue, 08 Feb 2022 02:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									90,000원								</td>								<td class="dc_price">									<em>→</em>51,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202201/20220120/20220120-41260_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <연애하기좋은날> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/34882</link>
             <guid>http://ticket.yes24.com/Perf/34882</guid>
             <pubDate>Tue, 08 Feb 2022 02:37:52 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220207/20220207-34882.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 ＜잭더리퍼＞ － 부산 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41077</link>
-            <guid>http://ticket.yes24.com/Perf/41077</guid>
-            <pubDate>Tue, 08 Feb 2022 02:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									120,000원								</td>								<td class="dc_price">									<em>→</em>81,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220207/20220207-41077.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <지킬앤하이드> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
