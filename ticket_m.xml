@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-11T06:20:20.494Z</updated>
+    <updated>2022-02-11T07:15:33.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 보여드림데이 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11548&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11548&amp;order=1"/>
+        <updated>2022-02-11T07:14:36.126Z</updated>
+        <content type="html"><![CDATA[2022-02-14(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [추석]  티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11547&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11537&amp;order=1"/>
         <updated>2022-02-09T05:14:10.367Z</updated>
         <content type="html"><![CDATA[2022-02-15(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 연극 [친정엄마와 2박 3일] - 전주 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11536&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11536&amp;order=1"/>
-        <updated>2022-02-09T05:14:10.374Z</updated>
-        <content type="html"><![CDATA[2022-02-11(금) 11:00]]></content>
     </entry>
 </feed>

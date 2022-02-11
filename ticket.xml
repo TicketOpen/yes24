@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-11T06:20:20.491Z</updated>
+    <updated>2022-02-11T07:15:33.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 보여드림데이 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11548</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11548"/>
+        <updated>2022-02-11T07:14:25.501Z</updated>
+        <content type="html"><![CDATA[2022.02.14(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [추석]  티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11547</id>
@@ -132,12 +139,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11529"/>
         <updated>2022-02-08T02:37:35.627Z</updated>
         <content type="html"><![CDATA[2022.02.08(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11528</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11528"/>
-        <updated>2022-02-08T02:37:35.630Z</updated>
-        <content type="html"><![CDATA[2022.02.11(금) 14:00]]></content>
     </entry>
 </feed>
