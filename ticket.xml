@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-10T23:17:03.087Z</updated>
+    <updated>2022-02-11T01:01:09.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[씨티은행 시스템 작업에 따른 결제 서비스 중단 안내(2/13)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11545</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11545"/>
+        <updated>2022-02-11T01:00:15.438Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 - 부산 첫 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11544</id>
@@ -133,12 +139,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11526"/>
         <updated>2022-02-08T02:37:35.632Z</updated>
         <content type="html"><![CDATA[2022.02.09(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구〈일상으로의 초대〉 Theatre - 박재정,하성운,스텔라장 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11525</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11525"/>
-        <updated>2022-02-08T02:37:35.633Z</updated>
-        <content type="html"><![CDATA[2022.02.09(수) 19:00]]></content>
     </entry>
 </feed>
