@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-11T02:07:06.984Z</updated>
+    <updated>2022-02-11T03:16:47.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [추석]  티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11547</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11547"/>
+        <updated>2022-02-11T03:15:42.184Z</updated>
+        <content type="html"><![CDATA[2022.02.16(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨티은행 시스템 작업에 따른 결제 서비스 중단 안내(2/13)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11545</id>
@@ -132,12 +139,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11527"/>
         <updated>2022-02-08T02:37:35.631Z</updated>
         <content type="html"><![CDATA[2022.02.10(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 에델 라인클랑 콘서트 : 네 남자 이야기 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11526</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11526"/>
-        <updated>2022-02-08T02:37:35.632Z</updated>
-        <content type="html"><![CDATA[2022.02.09(수) 18:00]]></content>
     </entry>
 </feed>

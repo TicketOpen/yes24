@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-11T02:07:06.982Z</updated>
+    <updated>2022-02-11T03:16:47.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [추석]  티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11547&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11547&amp;order=1"/>
+        <updated>2022-02-11T03:15:53.179Z</updated>
+        <content type="html"><![CDATA[2022-02-16(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 - 부산 첫 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11544&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11535&amp;order=1"/>
         <updated>2022-02-09T00:58:46.838Z</updated>
         <content type="html"><![CDATA[2022-02-10(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Connect with LUCY 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11534&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11534&amp;order=1"/>
-        <updated>2022-02-09T00:58:46.838Z</updated>
-        <content type="html"><![CDATA[2022-02-10(목) 14:00]]></content>
     </entry>
 </feed>
