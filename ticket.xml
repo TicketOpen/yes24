@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-11T04:20:39.302Z</updated>
+    <updated>2022-02-11T05:14:55.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11547"/>
         <updated>2022-02-11T03:15:42.184Z</updated>
         <content type="html"><![CDATA[2022.02.16(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 싯다르타 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11546</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11546"/>
+        <updated>2022-02-11T05:14:01.676Z</updated>
+        <content type="html"><![CDATA[2022.02.17(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨티은행 시스템 작업에 따른 결제 서비스 중단 안내(2/13)]]></title>
@@ -132,12 +139,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11528"/>
         <updated>2022-02-08T02:37:35.630Z</updated>
         <content type="html"><![CDATA[2022.02.11(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지소울＆따마 BLESSED with Clazz Orchestra 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11527</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11527"/>
-        <updated>2022-02-08T02:37:35.631Z</updated>
-        <content type="html"><![CDATA[2022.02.10(목) 14:00]]></content>
     </entry>
 </feed>
