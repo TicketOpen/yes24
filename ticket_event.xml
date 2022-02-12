@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
-    <title>YES24 티켓 ─ 이벤트</title>
-    <updated>2022-02-12T20:16:15.252Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 이벤트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 12 Feb 2022 21:13:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대학로 뮤지컬 이벤트 <반반뮤마니>]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3260</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3260</guid>
+            <pubDate>Sat, 12 Feb 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.09 ~ 2022.03.20]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220209/20220209-57359b00-e5cb-4cf3-b7a1-814a984707a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <난쟁이들> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41048&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41048&amp;Tab=2</guid>
+            <pubDate>Sat, 12 Feb 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.08 ~ 2022.02.27 | 2022.03.08 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220208/20220208-f17232e6-f47a-4e82-9fa8-76c4c4e346f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <싯다르타> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41262&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41262&amp;Tab=3</guid>
+            <pubDate>Sat, 12 Feb 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.04 ~ 2022.03.04 | 2022.03.07 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220204/20220204-1a551ad1-651f-4a25-b3fa-d8bbab20164c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <미드나잇: 액터뮤지션> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41141&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41141&amp;Tab=2</guid>
+            <pubDate>Sat, 12 Feb 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.29 ~ 2022.02.13 | 2022.02.14 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220203/20220203-7329e8d9-7d5e-4680-81f2-fc291c8cbbed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <라이온킹> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40856&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40856&amp;Tab=2</guid>
+            <pubDate>Sat, 12 Feb 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.26 ~ 2022.03.18 | 2022.03.21 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202201/20220125/20220125-fbf448dd-348f-4a3c-b3b6-e273db786bea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <스핏파이어 그릴> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40628&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40628&amp;Tab=2</guid>
+            <pubDate>Sat, 12 Feb 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.14 ~ 2022.02.27 | 2022.03.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202201/20220114/20220114-74785e1f-cbd2-481e-b783-bcda2e5a31eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <플레이백> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41114&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41114&amp;Tab=2</guid>
+            <pubDate>Sat, 12 Feb 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.14 ~ 2022.02.13 | 2022.02.14 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202201/20220114/20220114-47ea8845-0be7-4765-ad59-d2e66f9e012b.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <장화 신은 고양이 비긴즈> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41071&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41071&amp;Tab=2</guid>
+            <pubDate>Sat, 12 Feb 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.10 ~ 2022.02.18 | 2022.03.04 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202201/20220111/20220111-5a11fb66-a223-4bd6-8695-e3cf5844bbc4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <더데빌> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40696&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40696&amp;Tab=2</guid>
+            <pubDate>Sat, 12 Feb 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10 ~ 2022.02.27 | 2022.02.28 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202112/20211210/20211210-b3e98a0b-0a37-47b4-87e4-6af63f9eedd6.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
