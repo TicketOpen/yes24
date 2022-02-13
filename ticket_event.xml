@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 14:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 15:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220204/20220204-1a551ad1-651f-4a25-b3fa-d8bbab20164c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <미드나잇: 액터뮤지션> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41141&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41141&amp;Tab=2</guid>
-            <pubDate>Sat, 12 Feb 2022 21:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.29 ~ 2022.02.13 | 2022.02.14 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220203/20220203-7329e8d9-7d5e-4680-81f2-fc291c8cbbed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <라이온킹> 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40856&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40856&amp;Tab=2</guid>
@@ -56,14 +48,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202201/20220114/20220114-74785e1f-cbd2-481e-b783-bcda2e5a31eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <플레이백> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41114&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41114&amp;Tab=2</guid>
-            <pubDate>Sat, 12 Feb 2022 21:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.14 ~ 2022.02.13 | 2022.02.14 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202201/20220114/20220114-47ea8845-0be7-4765-ad59-d2e66f9e012b.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <장화 신은 고양이 비긴즈> 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41071&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41071&amp;Tab=2</guid>
@@ -78,6 +62,21 @@
             <pubDate>Sat, 12 Feb 2022 21:12:56 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 ~ 2022.02.27 | 2022.02.28 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202112/20211210/20211210-b3e98a0b-0a37-47b4-87e4-6af63f9eedd6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <지킬앤하이드> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39997&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39997&amp;Tab=2</guid>
+            <pubDate>Sun, 13 Feb 2022 15:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19 ~ 2022.05.01 | 2022.05.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211019/20211019-215ede4e-8b3a-43e2-ac1b-6bb83825bd82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Sun, 13 Feb 2022 15:16:24 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
