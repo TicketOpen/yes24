@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-14T08:21:09.032Z</updated>
+    <updated>2022-02-14T09:16:45.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 윤지영 단독공연 [나의 정원에서] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11553</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11553"/>
+        <updated>2022-02-14T09:15:41.511Z</updated>
+        <content type="html"><![CDATA[2022.02.17(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ITZY The 1st Fan Meeting ＂있지 믿지, 날자!＂ 연기 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11552</id>
@@ -132,12 +139,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11534"/>
         <updated>2022-02-12T21:12:24.233Z</updated>
         <content type="html"><![CDATA[2022.02.10(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈회란기〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11533</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11533"/>
-        <updated>2022-02-12T21:12:24.234Z</updated>
-        <content type="html"><![CDATA[2022.02.09(수) 15:00]]></content>
     </entry>
 </feed>

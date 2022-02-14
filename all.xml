@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 윤지영 단독공연 [나의 정원에서] 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11553</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11553</guid>
+            <pubDate>Mon, 14 Feb 2022 09:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.17(목) 18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[ITZY The 1st Fan Meeting ＂있지 믿지, 날자!＂ 연기 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11552</link>
@@ -136,11 +143,11 @@
             <content:encoded><![CDATA[2022.02.10(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈회란기〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11533</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11533</guid>
-            <pubDate>Sat, 12 Feb 2022 21:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.09(수) 15:00]]></content:encoded>
+            <title><![CDATA[2022 윤지영 단독공연 [나의 정원에서] 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11553&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11553&amp;order=1</guid>
+            <pubDate>Mon, 14 Feb 2022 09:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-17(목) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ITZY The 1st Fan Meeting ＂있지 믿지, 날자!＂ 연기 안내 (예스24 티켓 모바일)]]></title>
@@ -202,13 +209,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11542&amp;order=1</guid>
             <pubDate>Sat, 12 Feb 2022 21:12:33 GMT</pubDate>
             <content:encoded><![CDATA[2022-02-16(수) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강남문화재단 제142회 클래식품격콘서트 〈Great CONCERTO Series-P.I.Tchaikovsky〉티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11541&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11541&amp;order=1</guid>
-            <pubDate>Sat, 12 Feb 2022 21:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-10(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <사춘기메들리> (YES24 티켓 ─ 엔젤티켓)]]></title>

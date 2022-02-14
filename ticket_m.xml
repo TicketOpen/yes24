@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-14T08:21:09.050Z</updated>
+    <updated>2022-02-14T09:16:45.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 윤지영 단독공연 [나의 정원에서] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11553&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11553&amp;order=1"/>
+        <updated>2022-02-14T09:15:50.255Z</updated>
+        <content type="html"><![CDATA[2022-02-17(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ITZY The 1st Fan Meeting ＂있지 믿지, 날자!＂ 연기 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11552&amp;order=1</id>
@@ -65,12 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11542&amp;order=1"/>
         <updated>2022-02-12T21:12:33.099Z</updated>
         <content type="html"><![CDATA[2022-02-16(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남문화재단 제142회 클래식품격콘서트 〈Great CONCERTO Series-P.I.Tchaikovsky〉티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11541&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11541&amp;order=1"/>
-        <updated>2022-02-12T21:12:33.100Z</updated>
-        <content type="html"><![CDATA[2022-02-10(목) 10:00]]></content>
     </entry>
 </feed>
