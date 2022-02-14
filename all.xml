@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 05:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 06:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,6 +18,13 @@
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11551</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11551</guid>
             <pubDate>Mon, 14 Feb 2022 04:20:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[단독판매WONPIL SOLO CONCERT ‘Pilmography’ 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11550</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11550</guid>
+            <pubDate>Mon, 14 Feb 2022 06:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.24(목) 20:00<a class="noti-btn-pop" presaletit1="Morning회원 선예매" presaletit2="Evening회원 선예매" presaletime1="2022.02.21(월) 20:00" presaletime2="2022.02.23(수) 20:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[저축은행 시스템 작업에 따른 결제 서비스 중단 안내(2/13) (예스24 티켓)]]></title>
@@ -136,12 +143,6 @@
             <content:encoded><![CDATA[2022.02.09(수) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버페이 DB 점검 안내(2/12) (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11532</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11532</guid>
-            <pubDate>Sat, 12 Feb 2022 21:12:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ITZY The 1st Fan Meeting ＂있지 믿지, 날자!＂ 연기 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11552&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11552&amp;order=1</guid>
@@ -152,6 +153,13 @@
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11551&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11551&amp;order=1</guid>
             <pubDate>Mon, 14 Feb 2022 04:21:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WONPIL SOLO CONCERT ‘Pilmography’ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11550&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11550&amp;order=1</guid>
+            <pubDate>Mon, 14 Feb 2022 06:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-24(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어른이 뮤지컬 [난쟁이들] 보여드림데이 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -201,13 +209,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11541&amp;order=1</guid>
             <pubDate>Sat, 12 Feb 2022 21:12:33 GMT</pubDate>
             <content:encoded><![CDATA[2022-02-10(목) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극〈눈을 뜻하는 수백 가지 단어들〉1차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11540&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11540&amp;order=1</guid>
-            <pubDate>Sat, 12 Feb 2022 21:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-11(금) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <사춘기메들리> (YES24 티켓 ─ 엔젤티켓)]]></title>

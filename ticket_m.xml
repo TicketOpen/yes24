@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-14T05:16:15.988Z</updated>
+    <updated>2022-02-14T06:20:25.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -16,6 +16,13 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11551&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11551&amp;order=1"/>
         <updated>2022-02-14T04:21:04.187Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WONPIL SOLO CONCERT ‘Pilmography’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11550&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11550&amp;order=1"/>
+        <updated>2022-02-14T06:19:35.634Z</updated>
+        <content type="html"><![CDATA[2022-02-24(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 보여드림데이 티켓오픈 안내]]></title>
@@ -65,12 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11541&amp;order=1"/>
         <updated>2022-02-12T21:12:33.100Z</updated>
         <content type="html"><![CDATA[2022-02-10(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극〈눈을 뜻하는 수백 가지 단어들〉1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11540&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11540&amp;order=1"/>
-        <updated>2022-02-12T21:12:33.101Z</updated>
-        <content type="html"><![CDATA[2022-02-11(금) 16:00]]></content>
     </entry>
 </feed>
