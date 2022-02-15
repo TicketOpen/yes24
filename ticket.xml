@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-15T01:03:56.056Z</updated>
+    <updated>2022-02-15T02:34:01.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[성남] 뮤지컬쇼 [핑크퐁과 아기상어의 월드투어쇼] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11554</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11554"/>
+        <updated>2022-02-15T02:33:00.344Z</updated>
+        <content type="html"><![CDATA[2022.02.17(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 윤지영 단독공연 [나의 정원에서] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11553</id>
@@ -132,12 +139,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11535"/>
         <updated>2022-02-12T21:12:24.230Z</updated>
         <content type="html"><![CDATA[2022.02.10(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Connect with LUCY 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11534</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11534"/>
-        <updated>2022-02-12T21:12:24.233Z</updated>
-        <content type="html"><![CDATA[2022.02.10(목) 14:00]]></content>
     </entry>
 </feed>
