@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-15T04:20:54.968Z</updated>
+    <updated>2022-02-15T05:15:36.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포르테 디 콰트로 콘서트 <메타포닉> - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11557&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11557&amp;order=1"/>
+        <updated>2022-02-15T05:14:52.298Z</updated>
+        <content type="html"><![CDATA[2022-02-22(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[여수] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11556&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11556&amp;order=1"/>
+        <updated>2022-02-15T05:14:52.300Z</updated>
+        <content type="html"><![CDATA[2022-02-17(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11555&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11555&amp;order=1"/>
+        <updated>2022-02-15T05:14:52.300Z</updated>
+        <content type="html"><![CDATA[2022-02-17(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[성남] 뮤지컬쇼 [핑크퐁과 아기상어의 월드투어쇼] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11554&amp;order=1</id>
@@ -51,26 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11547&amp;order=1"/>
         <updated>2022-02-12T21:12:33.085Z</updated>
         <content type="html"><![CDATA[2022-02-16(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 싯다르타 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11546&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11546&amp;order=1"/>
-        <updated>2022-02-12T21:12:33.087Z</updated>
-        <content type="html"><![CDATA[2022-02-17(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 - 부산 첫 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11544&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11544&amp;order=1"/>
-        <updated>2022-02-12T21:12:33.088Z</updated>
-        <content type="html"><![CDATA[2022-02-16(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉인터내셔널 투어 - 서울 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11543&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11543&amp;order=1"/>
-        <updated>2022-02-12T21:12:33.095Z</updated>
-        <content type="html"><![CDATA[2022-02-17(목) 15:00]]></content>
     </entry>
 </feed>
