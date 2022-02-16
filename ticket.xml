@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-16T01:00:05.993Z</updated>
+    <updated>2022-02-16T02:10:34.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매Connect with 신현희&디에이드 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11558</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11558"/>
+        <updated>2022-02-16T02:09:34.403Z</updated>
+        <content type="html"><![CDATA[2022.02.17(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포르테 디 콰트로 콘서트 <메타포닉> - 부산 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11557</id>
@@ -133,11 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11539"/>
         <updated>2022-02-12T21:12:24.227Z</updated>
         <content type="html"><![CDATA[2022.02.18(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시스템 점검으로 인한 서비스 일시 중지 안내(2/13)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11538</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11538"/>
-        <updated>2022-02-12T21:12:24.228Z</updated>
     </entry>
 </feed>
