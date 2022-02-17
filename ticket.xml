@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-17T01:55:20.282Z</updated>
+    <updated>2022-02-17T02:27:01.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시스템 점검으로 인한 서비스 일시 중지 안내(2/20)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11560</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11560"/>
+        <updated>2022-02-17T02:25:57.742Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Connect with 신현희&디에이드 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11558</id>
@@ -133,12 +139,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11540"/>
         <updated>2022-02-12T21:12:24.226Z</updated>
         <content type="html"><![CDATA[2022.02.11(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [스톤 THE STONE] 1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11539</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11539"/>
-        <updated>2022-02-12T21:12:24.227Z</updated>
-        <content type="html"><![CDATA[2022.02.18(금) 15:00]]></content>
     </entry>
 </feed>
