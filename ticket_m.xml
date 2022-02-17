@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-17T04:21:09.365Z</updated>
+    <updated>2022-02-17T05:15:42.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [내가 멜론을 얼마나 좋아하는데] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11559&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11559&amp;order=1"/>
+        <updated>2022-02-17T05:14:49.802Z</updated>
+        <content type="html"><![CDATA[2022-02-22(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Connect with 신현희&디에이드 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11558&amp;order=1</id>
@@ -65,12 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11550&amp;order=1"/>
         <updated>2022-02-14T07:15:50.337Z</updated>
         <content type="html"><![CDATA[2022-02-24(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 보여드림데이 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11548&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11548&amp;order=1"/>
-        <updated>2022-02-12T21:12:33.073Z</updated>
-        <content type="html"><![CDATA[2022-02-14(월) 15:00]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-17T04:21:09.373Z</updated>
+    <updated>2022-02-17T05:15:42.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11560</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11560"/>
         <updated>2022-02-17T02:25:57.742Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [내가 멜론을 얼마나 좋아하는데] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11559</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11559"/>
+        <updated>2022-02-17T05:14:40.048Z</updated>
+        <content type="html"><![CDATA[2022.02.22(화) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Connect with 신현희&디에이드 티켓오픈 안내]]></title>
@@ -132,12 +139,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11541"/>
         <updated>2022-02-12T21:12:24.226Z</updated>
         <content type="html"><![CDATA[2022.02.10(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극〈눈을 뜻하는 수백 가지 단어들〉1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11540</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11540"/>
-        <updated>2022-02-12T21:12:24.226Z</updated>
-        <content type="html"><![CDATA[2022.02.11(금) 16:00]]></content>
     </entry>
 </feed>
