@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-18T03:18:52.865Z</updated>
+    <updated>2022-02-18T04:22:00.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [빈센트 반 고흐] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11561&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11561&amp;order=1"/>
+        <updated>2022-02-18T04:21:11.644Z</updated>
+        <content type="html"><![CDATA[2022-02-23(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [내가 멜론을 얼마나 좋아하는데] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11559&amp;order=1</id>
@@ -65,12 +72,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11551&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11551&amp;order=1"/>
         <updated>2022-02-14T04:21:04.187Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WONPIL SOLO CONCERT ‘Pilmography’ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11550&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11550&amp;order=1"/>
-        <updated>2022-02-14T07:15:50.337Z</updated>
-        <content type="html"><![CDATA[2022-02-24(목) 20:00]]></content>
     </entry>
 </feed>
