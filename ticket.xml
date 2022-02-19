@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-19T07:15:41.249Z</updated>
+    <updated>2022-02-19T08:18:53.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11564</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11564"/>
+        <updated>2022-02-19T08:17:58.318Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11563</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11563"/>
+        <updated>2022-02-19T08:17:58.318Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 4차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11562</id>
@@ -125,19 +137,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11545</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11545"/>
         <updated>2022-02-12T21:12:24.222Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 - 부산 첫 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11544</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11544"/>
-        <updated>2022-02-12T21:12:24.223Z</updated>
-        <content type="html"><![CDATA[2022.02.16(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉인터내셔널 투어 - 서울 마지막 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11543</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11543"/>
-        <updated>2022-02-12T21:12:24.224Z</updated>
-        <content type="html"><![CDATA[2022.02.17(목) 15:00]]></content>
     </entry>
 </feed>

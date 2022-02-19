@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-19T07:15:41.247Z</updated>
+    <updated>2022-02-19T08:18:53.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11564&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11564&amp;order=1"/>
+        <updated>2022-02-19T08:18:07.605Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11563&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11563&amp;order=1"/>
+        <updated>2022-02-19T08:18:07.608Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 4차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11562&amp;order=1</id>
@@ -60,18 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11554&amp;order=1"/>
         <updated>2022-02-15T02:33:09.400Z</updated>
         <content type="html"><![CDATA[2022-02-17(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 윤지영 단독공연 [나의 정원에서] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11553&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11553&amp;order=1"/>
-        <updated>2022-02-14T09:15:50.255Z</updated>
-        <content type="html"><![CDATA[2022-02-17(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY The 1st Fan Meeting ＂있지 믿지, 날자!＂ 연기 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11552&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11552&amp;order=1"/>
-        <updated>2022-02-14T05:15:17.238Z</updated>
     </entry>
 </feed>
