@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-21T04:22:56.041Z</updated>
+    <updated>2022-02-21T05:15:54.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11569&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11569&amp;order=1"/>
+        <updated>2022-02-21T05:14:58.229Z</updated>
+        <content type="html"><![CDATA[추후공지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 서울 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11568&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11568&amp;order=1"/>
+        <updated>2022-02-21T05:14:58.237Z</updated>
+        <content type="html"><![CDATA[2022-03-02(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11567&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11567&amp;order=1"/>
+        <updated>2022-02-21T05:14:58.237Z</updated>
+        <content type="html"><![CDATA[2022-03-02(수) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <썸씽로튼> 마지막 티켓 오픈 안내!]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11565&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11565&amp;order=1"/>
+        <updated>2022-02-21T05:14:58.237Z</updated>
+        <content type="html"><![CDATA[2022-02-25(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11564&amp;order=1</id>
@@ -44,33 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11558&amp;order=1"/>
         <updated>2022-02-19T21:14:53.084Z</updated>
         <content type="html"><![CDATA[2022-02-17(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르테 디 콰트로 콘서트 <메타포닉> - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11557&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11557&amp;order=1"/>
-        <updated>2022-02-19T21:14:53.085Z</updated>
-        <content type="html"><![CDATA[2022-02-22(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11556&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11556&amp;order=1"/>
-        <updated>2022-02-19T21:14:53.086Z</updated>
-        <content type="html"><![CDATA[2022-02-17(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11555&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11555&amp;order=1"/>
-        <updated>2022-02-19T21:14:53.087Z</updated>
-        <content type="html"><![CDATA[2022-02-17(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 뮤지컬쇼 [핑크퐁과 아기상어의 월드투어쇼] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11554&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11554&amp;order=1"/>
-        <updated>2022-02-19T21:14:53.089Z</updated>
-        <content type="html"><![CDATA[2022-02-17(목) 11:00]]></content>
     </entry>
 </feed>
