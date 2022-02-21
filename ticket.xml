@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-21T06:21:41.364Z</updated>
+    <updated>2022-02-21T07:16:31.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [눈을 뜻하는 수백 가지 단어들] 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11573</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11573"/>
+        <updated>2022-02-21T07:15:18.904Z</updated>
+        <content type="html"><![CDATA[2022.02.24(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 온라인 티켓오..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11571</id>
@@ -133,11 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11553"/>
         <updated>2022-02-19T21:14:42.019Z</updated>
         <content type="html"><![CDATA[2022.02.17(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY The 1st Fan Meeting ＂있지 믿지, 날자!＂ 연기 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11552</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11552"/>
-        <updated>2022-02-19T21:14:42.021Z</updated>
     </entry>
 </feed>
