@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 08:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 09:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Syn.THE.Size] 실리카겔 단독공연 2022 오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11574</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11574</guid>
+            <pubDate>Mon, 21 Feb 2022 09:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.24(목) 18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[연극 [눈을 뜻하는 수백 가지 단어들] 2차 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11573</link>
@@ -137,11 +144,11 @@
             <content:encoded><![CDATA[2022.02.17(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[성남] 뮤지컬쇼 [핑크퐁과 아기상어의 월드투어쇼] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11554</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11554</guid>
-            <pubDate>Sat, 19 Feb 2022 21:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.17(목) 11:00]]></content:encoded>
+            <title><![CDATA[[Syn.THE.Size] 실리카겔 단독공연 2022 오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11574&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11574&amp;order=1</guid>
+            <pubDate>Mon, 21 Feb 2022 09:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-24(목) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 [눈을 뜻하는 수백 가지 단어들] 2차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -206,10 +213,12 @@
             <pubDate>Sat, 19 Feb 2022 21:14:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11563&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11563&amp;order=1</guid>
-            <pubDate>Sat, 19 Feb 2022 21:14:53 GMT</pubDate>
+            <title><![CDATA[뮤지컬 <미드나잇:액터뮤지션> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41141</link>
+            <guid>http://ticket.yes24.com/Perf/41141</guid>
+            <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>V석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>27,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-41141.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <라이온 킹> - 서울 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -218,14 +227,6 @@
             <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>140,100원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-40856_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <미드나잇:액터뮤지션> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41141</link>
-            <guid>http://ticket.yes24.com/Perf/41141</guid>
-            <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>V석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>27,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-41141.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈장화 신은 고양이 비긴즈〉 (YES24 티켓 ─ 엔젤티켓)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-21T08:20:25.188Z</updated>
+    <updated>2022-02-21T09:17:43.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Syn.THE.Size] 실리카겔 단독공연 2022 오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11574</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11574"/>
+        <updated>2022-02-21T09:16:50.851Z</updated>
+        <content type="html"><![CDATA[2022.02.24(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [눈을 뜻하는 수백 가지 단어들] 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11573</id>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11555"/>
         <updated>2022-02-19T21:14:42.017Z</updated>
         <content type="html"><![CDATA[2022.02.17(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 뮤지컬쇼 [핑크퐁과 아기상어의 월드투어쇼] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11554</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11554"/>
-        <updated>2022-02-19T21:14:42.018Z</updated>
-        <content type="html"><![CDATA[2022.02.17(목) 11:00]]></content>
     </entry>
 </feed>
