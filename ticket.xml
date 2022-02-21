@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-21T03:18:20.347Z</updated>
+    <updated>2022-02-21T04:22:56.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신한은행 시스템 작업에 따른 결제 서비스 중단 안내(3/5)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11566</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11566"/>
+        <updated>2022-02-21T04:21:55.486Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11564</id>
@@ -131,11 +137,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11546"/>
         <updated>2022-02-19T21:14:42.031Z</updated>
         <content type="html"><![CDATA[2022.02.17(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨티은행 시스템 작업에 따른 결제 서비스 중단 안내(2/13)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11545</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11545"/>
-        <updated>2022-02-19T21:14:42.033Z</updated>
     </entry>
 </feed>
