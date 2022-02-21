@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-21T05:15:54.022Z</updated>
+    <updated>2022-02-21T06:21:41.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 온라인 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11571&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11571&amp;order=1"/>
+        <updated>2022-02-21T06:20:52.813Z</updated>
+        <content type="html"><![CDATA[2022-02-28(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 오프라인 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11570&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11570&amp;order=1"/>
+        <updated>2022-02-21T06:20:52.813Z</updated>
+        <content type="html"><![CDATA[2022-02-25(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11569&amp;order=1</id>
@@ -58,19 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11561&amp;order=1"/>
         <updated>2022-02-19T21:14:53.082Z</updated>
         <content type="html"><![CDATA[2022-02-23(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [내가 멜론을 얼마나 좋아하는데] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11559&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11559&amp;order=1"/>
-        <updated>2022-02-19T21:14:53.082Z</updated>
-        <content type="html"><![CDATA[2022-02-22(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Connect with 신현희&디에이드 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11558&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11558&amp;order=1"/>
-        <updated>2022-02-19T21:14:53.084Z</updated>
-        <content type="html"><![CDATA[2022-02-17(목) 15:00]]></content>
     </entry>
 </feed>
