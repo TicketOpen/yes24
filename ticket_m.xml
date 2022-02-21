@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-21T07:16:31.544Z</updated>
+    <updated>2022-02-21T08:20:25.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11573&amp;order=1"/>
         <updated>2022-02-21T07:15:29.753Z</updated>
         <content type="html"><![CDATA[2022-02-24(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 11차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11572&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11572&amp;order=1"/>
+        <updated>2022-02-21T08:19:35.444Z</updated>
+        <content type="html"><![CDATA[2022-02-24(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 온라인 티켓오픈 안내]]></title>
@@ -65,12 +72,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11563&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11563&amp;order=1"/>
         <updated>2022-02-19T21:14:53.063Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11562&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11562&amp;order=1"/>
-        <updated>2022-02-19T21:14:53.080Z</updated>
-        <content type="html"><![CDATA[2022-02-22(화) 15:00]]></content>
     </entry>
 </feed>
