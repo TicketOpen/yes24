@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-22T05:15:39.555Z</updated>
+    <updated>2022-02-22T06:20:13.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11577"/>
         <updated>2022-02-22T05:14:43.102Z</updated>
         <content type="html"><![CDATA[2022.02.28(월) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11576</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11576"/>
+        <updated>2022-02-22T06:18:58.920Z</updated>
+        <content type="html"><![CDATA[2022.02.25(금) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 세종 봄시즌 프로그램 개별 티켓오픈 안내]]></title>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11559"/>
         <updated>2022-02-19T21:14:42.010Z</updated>
         <content type="html"><![CDATA[2022.02.22(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Connect with 신현희&디에이드 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11558</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11558"/>
-        <updated>2022-02-19T21:14:42.012Z</updated>
-        <content type="html"><![CDATA[2022.02.17(목) 15:00]]></content>
     </entry>
 </feed>
