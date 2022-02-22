@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-21T23:17:07.991Z</updated>
+    <updated>2022-02-22T00:58:13.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 세종 봄시즌 프로그램 개별 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11575&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11575&amp;order=1"/>
+        <updated>2022-02-22T00:57:30.547Z</updated>
+        <content type="html"><![CDATA[2022-02-23(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Syn.THE.Size] 실리카겔 단독공연 2022 오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11574&amp;order=1</id>
@@ -67,11 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11565&amp;order=1"/>
         <updated>2022-02-21T05:14:58.237Z</updated>
         <content type="html"><![CDATA[2022-02-25(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11564&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11564&amp;order=1"/>
-        <updated>2022-02-19T21:14:53.062Z</updated>
     </entry>
 </feed>

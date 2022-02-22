@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-21T23:17:07.993Z</updated>
+    <updated>2022-02-22T00:58:13.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 세종 봄시즌 프로그램 개별 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11575</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11575"/>
+        <updated>2022-02-22T00:57:21.550Z</updated>
+        <content type="html"><![CDATA[2022.02.23(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Syn.THE.Size] 실리카겔 단독공연 2022 오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11574</id>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11556"/>
         <updated>2022-02-19T21:14:42.016Z</updated>
         <content type="html"><![CDATA[2022.02.17(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11555</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11555"/>
-        <updated>2022-02-19T21:14:42.017Z</updated>
-        <content type="html"><![CDATA[2022.02.17(목) 14:00]]></content>
     </entry>
 </feed>
