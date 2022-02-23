@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-23T01:05:53.946Z</updated>
+    <updated>2022-02-23T02:33:34.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <잭더리퍼> - 고양 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11580</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11580"/>
+        <updated>2022-02-23T02:32:42.081Z</updated>
+        <content type="html"><![CDATA[2022.03.02(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임동혁 리사이틀 〈슈베르트를 위하여〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11578</id>
@@ -133,12 +140,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11560</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11560"/>
         <updated>2022-02-19T21:14:42.008Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [내가 멜론을 얼마나 좋아하는데] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11559</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11559"/>
-        <updated>2022-02-19T21:14:42.010Z</updated>
-        <content type="html"><![CDATA[2022.02.22(화) 15:00]]></content>
     </entry>
 </feed>
