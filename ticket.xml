@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-23T05:16:32.867Z</updated>
+    <updated>2022-02-23T06:21:54.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 대구 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11584</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11584"/>
+        <updated>2022-02-23T06:20:58.441Z</updated>
+        <content type="html"><![CDATA[2022.03.02(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매MOVEMENT: 이현정 안무가 데뷔 10주년 기념 안무콘서트 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11583</id>
@@ -135,11 +142,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11564</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11564"/>
         <updated>2022-02-19T21:14:42.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11563</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11563"/>
-        <updated>2022-02-19T21:14:42.004Z</updated>
     </entry>
 </feed>

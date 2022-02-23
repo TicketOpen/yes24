@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-23T05:16:32.855Z</updated>
+    <updated>2022-02-23T06:21:54.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 대구 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11584&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11584&amp;order=1"/>
+        <updated>2022-02-23T06:21:06.093Z</updated>
+        <content type="html"><![CDATA[2022-03-02(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MOVEMENT: 이현정 안무가 데뷔 10주년 기념 안무콘서트 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11583&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11574&amp;order=1"/>
         <updated>2022-02-21T09:16:59.935Z</updated>
         <content type="html"><![CDATA[2022-02-24(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [눈을 뜻하는 수백 가지 단어들] 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11573&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11573&amp;order=1"/>
-        <updated>2022-02-21T07:15:29.753Z</updated>
-        <content type="html"><![CDATA[2022-02-24(목) 16:00]]></content>
     </entry>
 </feed>
