@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-23T04:21:55.611Z</updated>
+    <updated>2022-02-23T05:16:32.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11583&amp;order=1"/>
         <updated>2022-02-23T04:21:02.944Z</updated>
         <content type="html"><![CDATA[2022-02-28(월) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11582&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11582&amp;order=1"/>
+        <updated>2022-02-23T05:15:35.873Z</updated>
+        <content type="html"><![CDATA[2022-03-03(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블록버스터 영화음악 콘서트_앙코르 추가티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11573&amp;order=1"/>
         <updated>2022-02-21T07:15:29.753Z</updated>
         <content type="html"><![CDATA[2022-02-24(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 11차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11572&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11572&amp;order=1"/>
-        <updated>2022-02-21T08:19:35.444Z</updated>
-        <content type="html"><![CDATA[2022-02-24(목) 14:00]]></content>
     </entry>
 </feed>
