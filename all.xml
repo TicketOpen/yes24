@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 04:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11586</guid>
             <pubDate>Thu, 24 Feb 2022 03:15:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.28(월) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [렛미플라이] 1차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11585</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11585</guid>
+            <pubDate>Thu, 24 Feb 2022 05:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.03(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 대구 티켓오픈안내 (예스24 티켓)]]></title>
@@ -140,18 +147,18 @@
             <pubDate>Mon, 21 Feb 2022 04:21:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <썸씽로튼> 마지막 티켓 오픈 안내! (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11565</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11565</guid>
-            <pubDate>Mon, 21 Feb 2022 05:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.25(금) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[일상으로의 초대] - 인천 10CM,박재정,윤딴딴 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11586&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11586&amp;order=1</guid>
             <pubDate>Thu, 24 Feb 2022 03:15:50 GMT</pubDate>
             <content:encoded><![CDATA[2022-02-28(월) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [렛미플라이] 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11585&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11585&amp;order=1</guid>
+            <pubDate>Thu, 24 Feb 2022 05:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-03(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 대구 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -210,27 +217,12 @@
             <content:encoded><![CDATA[2022-02-25(금) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 세종 봄시즌 프로그램 개별 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11575&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11575&amp;order=1</guid>
-            <pubDate>Tue, 22 Feb 2022 00:57:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-23(수) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <미드나잇:액터뮤지션> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/41141</link>
             <guid>http://ticket.yes24.com/Perf/41141</guid>
             <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>V석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>27,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-41141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <라이온 킹> - 서울 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40856</link>
-            <guid>http://ticket.yes24.com/Perf/40856</guid>
-            <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>140,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-40856_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈장화 신은 고양이 비긴즈〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -246,6 +238,14 @@
             <guid>http://ticket.yes24.com/Perf/40856</guid>
             <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>132,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-40856_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <라이온 킹> - 서울 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40856</link>
+            <guid>http://ticket.yes24.com/Perf/40856</guid>
+            <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>140,100원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-40856_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>

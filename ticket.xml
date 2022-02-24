@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-02-24T04:22:02.943Z</updated>
+    <updated>2022-02-24T05:16:50.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11586"/>
         <updated>2022-02-24T03:15:41.570Z</updated>
         <content type="html"><![CDATA[2022.02.28(월) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [렛미플라이] 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11585</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11585"/>
+        <updated>2022-02-24T05:15:44.351Z</updated>
+        <content type="html"><![CDATA[2022.03.03(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 대구 티켓오픈안내]]></title>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11566</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11566"/>
         <updated>2022-02-21T04:21:55.486Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <썸씽로튼> 마지막 티켓 오픈 안내!]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11565</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11565"/>
-        <updated>2022-02-21T05:14:47.566Z</updated>
-        <content type="html"><![CDATA[2022.02.25(금) 14:00]]></content>
     </entry>
 </feed>
