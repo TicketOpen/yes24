@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 18:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 19:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <라이온 킹> - 서울]]></title>
-            <link>http://ticket.yes24.com/Perf/40856</link>
-            <guid>http://ticket.yes24.com/Perf/40856</guid>
-            <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>140,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-40856_1.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 〈장화 신은 고양이 비긴즈〉]]></title>
             <link>http://ticket.yes24.com/Perf/41071</link>
@@ -22,6 +14,14 @@
             <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>평일VIP석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>27,300원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-41071.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <미드나잇:액터뮤지션>]]></title>
+            <link>http://ticket.yes24.com/Perf/41141</link>
+            <guid>http://ticket.yes24.com/Perf/41141</guid>
+            <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>V석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>27,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-41141.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <라이온 킹> - 서울(BC카드)]]></title>
@@ -32,12 +32,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-40856_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <미드나잇:액터뮤지션>]]></title>
-            <link>http://ticket.yes24.com/Perf/41141</link>
-            <guid>http://ticket.yes24.com/Perf/41141</guid>
+            <title><![CDATA[뮤지컬 <라이온 킹> - 서울]]></title>
+            <link>http://ticket.yes24.com/Perf/40856</link>
+            <guid>http://ticket.yes24.com/Perf/40856</guid>
             <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>V석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>27,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-41141.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>140,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-40856_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
