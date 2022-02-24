@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 23:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 01:02:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <content:encoded><![CDATA[2022-02-24(목) 18:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <라이온 킹> - 서울 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/40856</link>
+            <guid>http://ticket.yes24.com/Perf/40856</guid>
+            <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>140,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-40856_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <미드나잇:액터뮤지션> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/41141</link>
             <guid>http://ticket.yes24.com/Perf/41141</guid>
@@ -237,14 +245,6 @@
             <guid>http://ticket.yes24.com/Perf/40856</guid>
             <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>132,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-40856_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <라이온 킹> - 서울 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/40856</link>
-            <guid>http://ticket.yes24.com/Perf/40856</guid>
-            <pubDate>Mon, 21 Feb 2022 02:00:34 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>140,100원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-40856_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -281,6 +281,14 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">12,450원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">평일공연, 주말공연</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220221/20220221-41071.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <내가 멜론을 얼마나 좋아하는데> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41498&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41498&amp;Tab=3</guid>
+            <pubDate>Thu, 24 Feb 2022 01:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.24 ~ 2022.03.06 | 2022.03.08 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220224/20220224-db90cf21-407b-4b79-a7b3-4094a8459d67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <눈을 뜻하는 수백 가지 단어들> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -347,12 +355,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202201/20220125/20220125-fbf448dd-348f-4a3c-b3b6-e273db786bea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <스핏파이어 그릴> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40628&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=40628&amp;Tab=2</guid>
-            <pubDate>Sat, 19 Feb 2022 21:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.14 ~ 2022.02.27 | 2022.03.03 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202201/20220114/20220114-74785e1f-cbd2-481e-b783-bcda2e5a31eb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2022.02.24 ~ 2022.03.06 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41498</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41498</guid>
+            <pubDate>Thu, 24 Feb 2022 01:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2022년 3월 17일(목) 오후 7시 30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220224/20220224-db90cf21-407b-4b79-a7b3-4094a8459d67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.02.23 ~ 2022.03.14 (YES24 티켓 ─ 이벤트 모바일)]]></title>
