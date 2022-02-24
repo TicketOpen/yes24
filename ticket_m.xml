@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-24T02:36:05.013Z</updated>
+    <updated>2022-02-24T03:16:35.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[일상으로의 초대] - 인천 10CM,박재정,윤딴딴 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11586&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11586&amp;order=1"/>
+        <updated>2022-02-24T03:15:50.733Z</updated>
+        <content type="html"><![CDATA[2022-02-28(월) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 대구 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11584&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11575&amp;order=1"/>
         <updated>2022-02-22T00:57:30.547Z</updated>
         <content type="html"><![CDATA[2022-02-23(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Syn.THE.Size] 실리카겔 단독공연 2022 오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11574&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11574&amp;order=1"/>
-        <updated>2022-02-21T09:16:59.935Z</updated>
-        <content type="html"><![CDATA[2022-02-24(목) 18:00]]></content>
     </entry>
 </feed>
