@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-02-28T05:16:12.946Z</updated>
+    <updated>2022-02-28T06:21:49.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CRACKSHOT 9th Anniversary Concert 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11588&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11588&amp;order=1"/>
+        <updated>2022-02-28T06:20:57.008Z</updated>
+        <content type="html"><![CDATA[2022-03-03(목) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WONPIL SOLO CONCERT ‘Pilmography’ 추가 공연 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11587&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11587&amp;order=1"/>
+        <updated>2022-02-28T06:20:57.011Z</updated>
+        <content type="html"><![CDATA[2022-03-14(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[일상으로의 초대] - 인천 10CM,박재정,윤딴딴 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11586&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11578&amp;order=1"/>
         <updated>2022-02-22T05:14:52.353Z</updated>
         <content type="html"><![CDATA[2022-02-24(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11577&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11577&amp;order=1"/>
-        <updated>2022-02-22T05:14:52.353Z</updated>
-        <content type="html"><![CDATA[2022-02-28(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11576&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11576&amp;order=1"/>
-        <updated>2022-02-22T06:19:10.814Z</updated>
-        <content type="html"><![CDATA[2022-02-25(금) 15:00]]></content>
     </entry>
 </feed>
