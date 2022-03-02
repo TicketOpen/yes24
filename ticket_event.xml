@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 14:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 15:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 23 Feb 2022 02:33:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.23 ~ 2022.03.14 | 2022.03.15 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220223/20220223-26b82d34-4666-4ec9-b26d-00b8402cfa0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <작가노트, 사라져가는 잔상들> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41427&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41427&amp;Tab=3</guid>
-            <pubDate>Sat, 19 Feb 2022 21:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.17 ~ 2022.03.02 | 2022.03.03 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220218/20220218-234c9372-43ae-46c8-9bca-61d64c3532c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <라이온 킹> - 부산  기대평 이벤트]]></title>
@@ -78,6 +70,13 @@
             <pubDate>Sun, 27 Feb 2022 15:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.19 ~ 2022.05.01 | 2022.05.03 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202110/20211019/20211019-215ede4e-8b3a-43e2-ac1b-6bb83825bd82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Wed, 02 Mar 2022 15:19:00 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
