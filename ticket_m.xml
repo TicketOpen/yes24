@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-02T04:21:41.920Z</updated>
+    <updated>2022-03-02T05:16:27.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11590&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11590&amp;order=1"/>
+        <updated>2022-03-02T05:15:10.216Z</updated>
+        <content type="html"><![CDATA[2022-03-10(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 소유 첫 단독콘서트 [THE LIVE : NIGHT] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11589&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11589&amp;order=1"/>
+        <updated>2022-03-02T05:15:10.219Z</updated>
+        <content type="html"><![CDATA[2022-03-04(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRACKSHOT 9th Anniversary Concert 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11588&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11581&amp;order=1"/>
         <updated>2022-02-23T03:17:42.649Z</updated>
         <content type="html"><![CDATA[2022-02-25(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <잭더리퍼> - 고양 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11580&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11580&amp;order=1"/>
-        <updated>2022-02-23T02:32:52.766Z</updated>
-        <content type="html"><![CDATA[2022-03-02(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임동혁 리사이틀 〈슈베르트를 위하여〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11578&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11578&amp;order=1"/>
-        <updated>2022-02-22T05:14:52.353Z</updated>
-        <content type="html"><![CDATA[2022-02-24(목) 16:00]]></content>
     </entry>
 </feed>
