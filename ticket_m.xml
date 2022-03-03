@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-03T05:16:43.255Z</updated>
+    <updated>2022-03-03T06:21:45.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 3차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11593&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11593&amp;order=1"/>
+        <updated>2022-03-03T06:20:44.418Z</updated>
+        <content type="html"><![CDATA[2022-03-08(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 하성운 생일파티 [COTTON CANDY] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11592&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11583&amp;order=1"/>
         <updated>2022-02-23T04:21:02.944Z</updated>
         <content type="html"><![CDATA[2022-02-28(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11582&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11582&amp;order=1"/>
-        <updated>2022-02-23T05:15:35.873Z</updated>
-        <content type="html"><![CDATA[2022-03-03(목) 20:00]]></content>
     </entry>
 </feed>

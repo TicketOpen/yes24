@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-03T05:16:43.236Z</updated>
+    <updated>2022-03-03T06:21:45.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 3차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11593</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11593"/>
+        <updated>2022-03-03T06:20:33.233Z</updated>
+        <content type="html"><![CDATA[2022.03.08(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 하성운 생일파티 [COTTON CANDY] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11592</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11573"/>
         <updated>2022-02-21T07:15:18.904Z</updated>
         <content type="html"><![CDATA[2022.02.24(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 11차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11572</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11572"/>
-        <updated>2022-02-21T08:19:26.015Z</updated>
-        <content type="html"><![CDATA[2022.02.24(목) 14:00]]></content>
     </entry>
 </feed>
