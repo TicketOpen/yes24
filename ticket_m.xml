@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-03T04:21:37.675Z</updated>
+    <updated>2022-03-03T05:16:43.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 하성운 생일파티 [COTTON CANDY] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11592&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11592&amp;order=1"/>
+        <updated>2022-03-03T05:15:54.671Z</updated>
+        <content type="html"><![CDATA[2022-03-10(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11590&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11582&amp;order=1"/>
         <updated>2022-02-23T05:15:35.873Z</updated>
         <content type="html"><![CDATA[2022-03-03(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블록버스터 영화음악 콘서트_앙코르 추가티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11581&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11581&amp;order=1"/>
-        <updated>2022-02-23T03:17:42.649Z</updated>
-        <content type="html"><![CDATA[2022-02-25(금) 15:00]]></content>
     </entry>
 </feed>
