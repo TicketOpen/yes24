@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 18:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 19:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,12 +217,12 @@
             <content:encoded><![CDATA[2022-03-10(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <지킬앤하이드> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/39997</link>
-            <guid>http://ticket.yes24.com/Perf/39997</guid>
+            <title><![CDATA[뮤지컬 <킹아더> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41435</link>
+            <guid>http://ticket.yes24.com/Perf/41435</guid>
             <pubDate>Mon, 28 Feb 2022 01:01:10 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,000원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220228/20220228-39997.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									110,000원								</td>								<td class="dc_price">									<em>→</em>74,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220228/20220228-41435.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른이 뮤지컬 [난쟁이들] (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -241,12 +241,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220228/20220228-40680.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <킹아더> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41435</link>
-            <guid>http://ticket.yes24.com/Perf/41435</guid>
+            <title><![CDATA[뮤지컬 <지킬앤하이드> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/39997</link>
+            <guid>http://ticket.yes24.com/Perf/39997</guid>
             <pubDate>Mon, 28 Feb 2022 01:01:10 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									110,000원								</td>								<td class="dc_price">									<em>→</em>74,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220228/20220228-41435.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,000원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220228/20220228-39997.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <지킬앤하이드> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
