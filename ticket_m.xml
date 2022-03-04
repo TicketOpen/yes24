@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-04T01:10:38.066Z</updated>
+    <updated>2022-03-04T02:44:00.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어른이 뮤지컬 〈난쟁이들〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11599&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11599&amp;order=1"/>
+        <updated>2022-03-04T02:43:10.069Z</updated>
+        <content type="html"><![CDATA[2022-03-11(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 인천 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11598&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11589&amp;order=1"/>
         <updated>2022-03-02T05:15:10.219Z</updated>
         <content type="html"><![CDATA[2022-03-04(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRACKSHOT 9th Anniversary Concert 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11588&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11588&amp;order=1"/>
-        <updated>2022-02-28T06:20:57.008Z</updated>
-        <content type="html"><![CDATA[2022-03-03(목) 19:00]]></content>
     </entry>
 </feed>
