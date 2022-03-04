@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-04T04:21:34.422Z</updated>
+    <updated>2022-03-04T05:18:27.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마스크 연극 [소라별 이야기] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11601&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11601&amp;order=1"/>
+        <updated>2022-03-04T05:17:26.562Z</updated>
+        <content type="html"><![CDATA[2022-03-10(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 연극 [친정엄마와 2박 3일] - 강릉 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11600&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11600&amp;order=1"/>
+        <updated>2022-03-04T05:17:26.563Z</updated>
+        <content type="html"><![CDATA[2022-03-07(월) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어른이 뮤지컬 〈난쟁이들〉 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11599&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11592&amp;order=1"/>
         <updated>2022-03-03T05:15:54.671Z</updated>
         <content type="html"><![CDATA[2022-03-10(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11590&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11590&amp;order=1"/>
-        <updated>2022-03-02T05:15:10.216Z</updated>
-        <content type="html"><![CDATA[2022-03-10(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 소유 첫 단독콘서트 [THE LIVE : NIGHT] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11589&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11589&amp;order=1"/>
-        <updated>2022-03-02T05:15:10.219Z</updated>
-        <content type="html"><![CDATA[2022-03-04(금) 20:00]]></content>
     </entry>
 </feed>

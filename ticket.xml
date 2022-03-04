@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-04T04:21:34.419Z</updated>
+    <updated>2022-03-04T05:18:27.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마스크 연극 [소라별 이야기] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11601</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11601"/>
+        <updated>2022-03-04T05:17:15.708Z</updated>
+        <content type="html"><![CDATA[2022.03.10(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 연극 [친정엄마와 2박 3일] - 강릉 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11600</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11600"/>
+        <updated>2022-03-04T05:17:15.708Z</updated>
+        <content type="html"><![CDATA[2022.03.07(월) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어른이 뮤지컬 〈난쟁이들〉 마지막 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11599</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11582"/>
         <updated>2022-02-23T05:15:25.772Z</updated>
         <content type="html"><![CDATA[2022.03.03(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.03.02(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블록버스터 영화음악 콘서트_앙코르 추가티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11581</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11581"/>
-        <updated>2022-02-23T03:17:32.441Z</updated>
-        <content type="html"><![CDATA[2022.02.25(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <잭더리퍼> - 고양 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11580</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11580"/>
-        <updated>2022-02-23T02:32:42.081Z</updated>
-        <content type="html"><![CDATA[2022.03.02(수) 14:00]]></content>
     </entry>
 </feed>
