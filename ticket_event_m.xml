@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 14:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 15:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이벤트 기간2022.02.24 ~ 2022.03.06]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41498</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41498</guid>
-            <pubDate>Thu, 24 Feb 2022 01:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2022년 3월 17일(목) 오후 7시 30분 공연]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220224/20220224-db90cf21-407b-4b79-a7b3-4094a8459d67.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[이벤트 기간2022.02.23 ~ 2022.03.14]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41431</link>
@@ -22,6 +14,14 @@
             <pubDate>Wed, 23 Feb 2022 02:33:20 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2022년 3월 20일(일) 오후 3시 공연]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220223/20220223-26b82d34-4666-4ec9-b26d-00b8402cfa0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2022.03.07 ~ 2022.03.31]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3265</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3265</guid>
+            <pubDate>Sun, 06 Mar 2022 15:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220304/20220304-81bcc433-0edf-4fc3-ab97-291a21082131.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.02.16 ~ 2022.03.31]]></title>
