@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 04:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 05:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[창원] 뮤지컬 [레베카] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11604</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11604</guid>
+            <pubDate>Mon, 07 Mar 2022 05:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.10(목) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[마스크 연극 [소라별 이야기] 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11601</link>
@@ -140,11 +147,11 @@
             <content:encoded><![CDATA[2022.02.28(월) 13:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11582</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11582</guid>
-            <pubDate>Wed, 23 Feb 2022 05:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.03(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.03.02(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+            <title><![CDATA[[창원] 뮤지컬 [레베카] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11604&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11604&amp;order=1</guid>
+            <pubDate>Mon, 07 Mar 2022 05:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-10(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마스크 연극 [소라별 이야기] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -208,13 +215,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11593&amp;order=1</guid>
             <pubDate>Thu, 03 Mar 2022 06:20:44 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-08(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 하성운 생일파티 [COTTON CANDY] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11592&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11592&amp;order=1</guid>
-            <pubDate>Thu, 03 Mar 2022 05:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-10(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <눈을 뜻하는 수백 가지 단어들> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>

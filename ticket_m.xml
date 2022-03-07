@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-07T04:22:15.632Z</updated>
+    <updated>2022-03-07T05:16:44.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11604&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11604&amp;order=1"/>
+        <updated>2022-03-07T05:15:53.745Z</updated>
+        <content type="html"><![CDATA[2022-03-10(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마스크 연극 [소라별 이야기] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11601&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11593&amp;order=1"/>
         <updated>2022-03-03T06:20:44.418Z</updated>
         <content type="html"><![CDATA[2022-03-08(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 하성운 생일파티 [COTTON CANDY] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11592&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11592&amp;order=1"/>
-        <updated>2022-03-03T05:15:54.671Z</updated>
-        <content type="html"><![CDATA[2022-03-10(목) 20:00]]></content>
     </entry>
 </feed>
