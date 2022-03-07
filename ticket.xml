@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-07T08:20:59.850Z</updated>
+    <updated>2022-03-07T09:17:11.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [스톤 THE STONE] 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11607</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11607"/>
+        <updated>2022-03-07T09:16:16.723Z</updated>
+        <content type="html"><![CDATA[2022.03.10(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[판페라 힐링콘서트 ＂삶의 소리＂ 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11605</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11585"/>
         <updated>2022-02-24T05:15:44.351Z</updated>
         <content type="html"><![CDATA[2022.03.03(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 대구 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11584</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11584"/>
-        <updated>2022-02-23T06:20:58.441Z</updated>
-        <content type="html"><![CDATA[2022.03.02(수) 15:00]]></content>
     </entry>
 </feed>
