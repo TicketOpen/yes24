@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-07T05:16:44.962Z</updated>
+    <updated>2022-03-07T06:21:37.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[판페라 힐링콘서트 ＂삶의 소리＂ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11605</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11605"/>
+        <updated>2022-03-07T06:20:39.316Z</updated>
+        <content type="html"><![CDATA[2022.03.10(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11604</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11584"/>
         <updated>2022-02-23T06:20:58.441Z</updated>
         <content type="html"><![CDATA[2022.03.02(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매MOVEMENT: 이현정 안무가 데뷔 10주년 기념 안무콘서트 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11583</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11583"/>
-        <updated>2022-02-23T04:20:54.307Z</updated>
-        <content type="html"><![CDATA[2022.02.28(월) 13:00]]></content>
     </entry>
 </feed>
