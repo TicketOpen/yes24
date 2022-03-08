@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-08T06:21:05.216Z</updated>
+    <updated>2022-03-08T07:18:19.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남심포니오케스트라 제143회 클래식품격콘서트 〈Great CONCERTO Series-L.v.Beethoven & F.Mendelssohn〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11615&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11615&amp;order=1"/>
+        <updated>2022-03-08T07:17:13.308Z</updated>
+        <content type="html"><![CDATA[2022-03-11(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 남진콘서트 - 광주공연 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11614&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11614&amp;order=1"/>
+        <updated>2022-03-08T07:17:13.327Z</updated>
+        <content type="html"><![CDATA[2022-03-11(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11613&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11605&amp;order=1"/>
         <updated>2022-03-07T06:20:49.096Z</updated>
         <content type="html"><![CDATA[2022-03-10(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11604&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11604&amp;order=1"/>
-        <updated>2022-03-07T05:15:53.745Z</updated>
-        <content type="html"><![CDATA[2022-03-10(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스크 연극 [소라별 이야기] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11601&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11601&amp;order=1"/>
-        <updated>2022-03-04T05:17:26.562Z</updated>
-        <content type="html"><![CDATA[2022-03-10(목) 15:00]]></content>
     </entry>
 </feed>
