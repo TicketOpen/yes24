@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-08T04:22:20.727Z</updated>
+    <updated>2022-03-08T05:16:06.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11613</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11613"/>
+        <updated>2022-03-08T05:15:06.007Z</updated>
+        <content type="html"><![CDATA[2022.03.11(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11612</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11612"/>
+        <updated>2022-03-08T05:15:06.007Z</updated>
+        <content type="html"><![CDATA[2022.03.16(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진주] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11611</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11611"/>
+        <updated>2022-03-08T05:15:06.013Z</updated>
+        <content type="html"><![CDATA[2022.03.10(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[용인] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11610</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11610"/>
+        <updated>2022-03-08T05:15:06.014Z</updated>
+        <content type="html"><![CDATA[2022.03.10(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <광주> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11609</id>
@@ -115,33 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11591</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11591"/>
         <updated>2022-03-03T01:05:02.127Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11590</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11590"/>
-        <updated>2022-03-02T05:14:58.251Z</updated>
-        <content type="html"><![CDATA[2022.03.10(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 소유 첫 단독콘서트 [THE LIVE : NIGHT] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11589</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11589"/>
-        <updated>2022-03-02T05:14:58.251Z</updated>
-        <content type="html"><![CDATA[2022.03.04(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매CRACKSHOT 9th Anniversary Concert 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11588</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11588"/>
-        <updated>2022-02-28T06:20:47.348Z</updated>
-        <content type="html"><![CDATA[2022.03.03(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매WONPIL SOLO CONCERT ‘Pilmography’ 추가 공연 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11587</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11587"/>
-        <updated>2022-02-28T06:20:47.350Z</updated>
-        <content type="html"><![CDATA[2022.03.14(월) 20:00<a class="noti-btn-pop" presaletit1="Morning회원 선예매" presaletit2="Evening회원 선예매" presaletime1="2022.03.07(월) 20:00" presaletime2="2022.03.10(목) 20:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
