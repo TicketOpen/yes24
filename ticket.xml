@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-07T23:17:05.440Z</updated>
+    <updated>2022-03-08T01:02:28.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 나의 별에게 팬미팅 ‘별 볼 일 있는 하루（A STARRY DAY）’ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11608</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11608"/>
+        <updated>2022-03-08T01:01:33.471Z</updated>
+        <content type="html"><![CDATA[2022.03.10(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [스톤 THE STONE] 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11607</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11586"/>
         <updated>2022-02-24T03:15:41.570Z</updated>
         <content type="html"><![CDATA[2022.02.28(월) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [렛미플라이] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11585</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11585"/>
-        <updated>2022-02-24T05:15:44.351Z</updated>
-        <content type="html"><![CDATA[2022.03.03(목) 10:00]]></content>
     </entry>
 </feed>
