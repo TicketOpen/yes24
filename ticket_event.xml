@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 14:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 15:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sat, 19 Feb 2022 21:15:27 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.16 ~ 2022.03.31 | 2022.04.01 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220218/20220218-1a2fd267-c9ae-4c16-9fbc-a3417339fbcb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <추석> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41444&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41444&amp;Tab=3</guid>
-            <pubDate>Sun, 20 Feb 2022 15:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.21 ~ 2022.03.09 | 2022.03.10 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220217/20220217-53a8ae62-4aad-4b67-a1ef-d96bd1475a0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대학로 뮤지컬 이벤트 <반반뮤마니>]]></title>
@@ -76,6 +68,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Fri, 04 Mar 2022 15:18:23 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Wed, 09 Mar 2022 15:17:42 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
