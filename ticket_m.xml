@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-10T01:09:33.198Z</updated>
+    <updated>2022-03-10T02:46:26.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어른이 뮤지컬 <난쟁이들> 긴급편성 3/16 구출 작전 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11616&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11616&amp;order=1"/>
+        <updated>2022-03-10T02:45:44.929Z</updated>
+        <content type="html"><![CDATA[2022-03-11(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남심포니오케스트라 제143회 클래식품격콘서트 〈Great CONCERTO Series-L.v.Beethoven & F.Mendelssohn〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11615&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11607&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11607&amp;order=1"/>
         <updated>2022-03-07T09:16:26.106Z</updated>
-        <content type="html"><![CDATA[2022-03-10(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판페라 힐링콘서트 ＂삶의 소리＂ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11605&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11605&amp;order=1"/>
-        <updated>2022-03-07T06:20:49.096Z</updated>
         <content type="html"><![CDATA[2022-03-10(목) 14:00]]></content>
     </entry>
 </feed>

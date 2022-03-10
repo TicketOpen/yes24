@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-10T01:09:33.201Z</updated>
+    <updated>2022-03-10T02:46:26.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어른이 뮤지컬 <난쟁이들> 긴급편성 3/16 구출 작전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11616</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11616"/>
+        <updated>2022-03-10T02:45:35.837Z</updated>
+        <content type="html"><![CDATA[2022.03.11(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남심포니오케스트라 제143회 클래식품격콘서트 〈Great CONCERTO Series-L.v.Beethoven & F.Me..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11615</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11594"/>
         <updated>2022-03-03T07:16:34.278Z</updated>
         <content type="html"><![CDATA[2022.03.07(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 3차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11593</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11593"/>
-        <updated>2022-03-03T06:20:33.233Z</updated>
-        <content type="html"><![CDATA[2022.03.08(화) 14:00]]></content>
     </entry>
 </feed>
