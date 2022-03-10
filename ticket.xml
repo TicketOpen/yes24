@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-10T05:16:08.278Z</updated>
+    <updated>2022-03-10T06:21:12.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <차미> 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11618</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11618"/>
+        <updated>2022-03-10T06:20:09.180Z</updated>
+        <content type="html"><![CDATA[2022.03.15(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 ROCKET PUNCH 2ND FANMEETING Punch Time2 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11617</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11596"/>
         <updated>2022-03-03T07:16:34.270Z</updated>
         <content type="html"><![CDATA[2022.03.07(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 창원 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11595</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11595"/>
-        <updated>2022-03-03T07:16:34.278Z</updated>
-        <content type="html"><![CDATA[2022.03.07(월) 14:00]]></content>
     </entry>
 </feed>
