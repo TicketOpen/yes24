@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-11T09:18:11.388Z</updated>
+    <updated>2022-03-11T10:19:40.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국립현대무용단［구두점의 나라에서］티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11622</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11622"/>
+        <updated>2022-03-11T10:18:43.372Z</updated>
+        <content type="html"><![CDATA[2022.03.16(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트롯특전사 박군의 첫번째 팬 콘서트' - 대구 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11621</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11600"/>
         <updated>2022-03-04T05:17:15.708Z</updated>
         <content type="html"><![CDATA[2022.03.07(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른이 뮤지컬 〈난쟁이들〉 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11599</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11599"/>
-        <updated>2022-03-04T02:43:00.160Z</updated>
-        <content type="html"><![CDATA[2022.03.11(금) 15:00]]></content>
     </entry>
 </feed>
