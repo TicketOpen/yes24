@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 04:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 05:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11625</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11625</guid>
+            <pubDate>Mon, 14 Mar 2022 05:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.15(화) 15:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11624</link>
@@ -139,11 +146,11 @@
             <content:encoded><![CDATA[2022.03.10(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[창원] 뮤지컬 [레베카] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11604</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11604</guid>
-            <pubDate>Mon, 07 Mar 2022 05:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.10(목) 14:00]]></content:encoded>
+            <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11625&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11625&amp;order=1</guid>
+            <pubDate>Mon, 14 Mar 2022 05:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-15(화) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내 (예스24 티켓 모바일)]]></title>
@@ -206,13 +213,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11615&amp;order=1</guid>
             <pubDate>Tue, 08 Mar 2022 07:17:13 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-11(금) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 남진콘서트 - 광주공연 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11614&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11614&amp;order=1</guid>
-            <pubDate>Tue, 08 Mar 2022 07:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-11(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[고양] 뮤지컬 ＜잭더리퍼＞ (YES24 티켓 ─ 엔젤티켓)]]></title>

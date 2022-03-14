@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-14T04:27:23.067Z</updated>
+    <updated>2022-03-14T05:37:10.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11625&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11625&amp;order=1"/>
+        <updated>2022-03-14T05:36:19.475Z</updated>
+        <content type="html"><![CDATA[2022-03-15(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11623&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11615&amp;order=1"/>
         <updated>2022-03-08T07:17:13.308Z</updated>
         <content type="html"><![CDATA[2022-03-11(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 남진콘서트 - 광주공연 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11614&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11614&amp;order=1"/>
-        <updated>2022-03-08T07:17:13.327Z</updated>
-        <content type="html"><![CDATA[2022-03-11(금) 14:00]]></content>
     </entry>
 </feed>
