@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 14:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 15:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,14 +250,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220310/20220310-22892cc0-97a7-4593-95d7-18cbc064e1cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <눈을 뜻하는 수백 가지 단어들> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41431&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41431&amp;Tab=3</guid>
-            <pubDate>Wed, 23 Feb 2022 02:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.23 ~ 2022.03.14 | 2022.03.15 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220223/20220223-26b82d34-4666-4ec9-b26d-00b8402cfa0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[3월 시즌 프로모션 <가보자고> (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3265</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3265</guid>
@@ -305,6 +297,13 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Mon, 14 Mar 2022 15:19:10 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[이벤트 기간2022.03.14 ~ 2022.04.07 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41654</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41654</guid>
@@ -319,14 +318,6 @@
             <pubDate>Thu, 10 Mar 2022 08:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2022년 4월 1일(금) 오후 8시 공연]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220310/20220310-22892cc0-97a7-4593-95d7-18cbc064e1cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.02.23 ~ 2022.03.14 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41431</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41431</guid>
-            <pubDate>Wed, 23 Feb 2022 02:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2022년 3월 20일(일) 오후 3시 공연]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220223/20220223-26b82d34-4666-4ec9-b26d-00b8402cfa0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.03.07 ~ 2022.03.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
