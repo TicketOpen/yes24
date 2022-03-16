@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 07:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 08:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2022.03.16 ~ 2022.05.01]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41431</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41431</guid>
+            <pubDate>Wed, 16 Mar 2022 08:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>연극&lt;눈을 뜻하는 수백 가지 단어들&gt; 사인 프로그램북]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220316/20220316-afb52103-b9a1-476d-9e0f-0e58ec9982a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2022.03.14 ~ 2022.04.07]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41654</link>
