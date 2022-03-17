@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2022-03-17T13:25:15.692Z</updated>
+    <updated>2022-03-17T16:25:06.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
     <entry>
@@ -81,5 +81,12 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40498"/>
         <updated>2022-03-11T10:19:39.455Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 1,969원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[싱어게인2 전국투어] 예매수수료 면제 쿠폰]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40429</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40429"/>
+        <updated>2022-03-17T16:25:05.524Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content>
     </entry>
 </feed>
