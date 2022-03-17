@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-17T04:23:48.779Z</updated>
+    <updated>2022-03-17T05:16:28.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11633&amp;order=1"/>
         <updated>2022-03-17T04:22:52.448Z</updated>
         <content type="html"><![CDATA[2022-03-21(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11632&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11632&amp;order=1"/>
+        <updated>2022-03-17T05:15:44.101Z</updated>
+        <content type="html"><![CDATA[2022-03-24(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <킹아더> 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11631&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11631&amp;order=1"/>
+        <updated>2022-03-17T05:15:44.101Z</updated>
+        <content type="html"><![CDATA[2022-03-22(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김선욱 피아노 리사이틀 티켓오픈 안내]]></title>
@@ -59,18 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11624&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11624&amp;order=1"/>
         <updated>2022-03-15T06:21:21.036Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11623&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11623&amp;order=1"/>
-        <updated>2022-03-14T02:38:33.520Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국립현대무용단［구두점의 나라에서］티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11622&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11622&amp;order=1"/>
-        <updated>2022-03-11T10:18:52.725Z</updated>
-        <content type="html"><![CDATA[2022-03-16(수) 14:00]]></content>
     </entry>
 </feed>

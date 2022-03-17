@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 04:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 05:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,20 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11633</guid>
             <pubDate>Thu, 17 Mar 2022 04:22:44 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.21(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11632</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11632</guid>
+            <pubDate>Thu, 17 Mar 2022 05:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.24(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <킹아더> 2차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11631</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11631</guid>
+            <pubDate>Thu, 17 Mar 2022 05:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.22(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김선욱 피아노 리사이틀 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -132,25 +146,25 @@
             <content:encoded><![CDATA[2022.03.11(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11613</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11613</guid>
-            <pubDate>Tue, 08 Mar 2022 05:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.11(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 2차 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11612</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11612</guid>
-            <pubDate>Tue, 08 Mar 2022 05:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.16(수) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[“2022 Debut Anniversary Fan Event : EXO” 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11633&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11633&amp;order=1</guid>
             <pubDate>Thu, 17 Mar 2022 04:22:52 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-21(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11632&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11632&amp;order=1</guid>
+            <pubDate>Thu, 17 Mar 2022 05:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-24(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <킹아더> 2차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11631&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11631&amp;order=1</guid>
+            <pubDate>Thu, 17 Mar 2022 05:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-22(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김선욱 피아노 리사이틀 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -199,19 +213,6 @@
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11624&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11624&amp;order=1</guid>
             <pubDate>Tue, 15 Mar 2022 06:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11623&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11623&amp;order=1</guid>
-            <pubDate>Mon, 14 Mar 2022 02:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[국립현대무용단［구두점의 나라에서］티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11622&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11622&amp;order=1</guid>
-            <pubDate>Fri, 11 Mar 2022 10:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-16(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[고양] 뮤지컬 ＜잭더리퍼＞ (YES24 티켓 ─ 엔젤티켓)]]></title>

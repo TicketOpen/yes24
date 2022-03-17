@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-17T04:23:48.781Z</updated>
+    <updated>2022-03-17T05:16:28.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11633"/>
         <updated>2022-03-17T04:22:44.370Z</updated>
         <content type="html"><![CDATA[2022.03.21(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11632</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11632"/>
+        <updated>2022-03-17T05:15:31.903Z</updated>
+        <content type="html"><![CDATA[2022.03.24(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <킹아더> 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11631</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11631"/>
+        <updated>2022-03-17T05:15:31.904Z</updated>
+        <content type="html"><![CDATA[2022.03.22(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김선욱 피아노 리사이틀 티켓오픈 안내]]></title>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11614"/>
         <updated>2022-03-08T07:17:01.328Z</updated>
         <content type="html"><![CDATA[2022.03.11(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11613</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11613"/>
-        <updated>2022-03-08T05:15:06.007Z</updated>
-        <content type="html"><![CDATA[2022.03.11(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11612</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11612"/>
-        <updated>2022-03-08T05:15:06.007Z</updated>
-        <content type="html"><![CDATA[2022.03.16(수) 14:00]]></content>
     </entry>
 </feed>
