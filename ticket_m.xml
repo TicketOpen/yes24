@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-17T03:19:50.389Z</updated>
+    <updated>2022-03-17T04:23:48.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“2022 Debut Anniversary Fan Event : EXO” 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11633&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11633&amp;order=1"/>
+        <updated>2022-03-17T04:22:52.448Z</updated>
+        <content type="html"><![CDATA[2022-03-21(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선욱 피아노 리사이틀 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11630&amp;order=1</id>
@@ -65,12 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11622&amp;order=1"/>
         <updated>2022-03-11T10:18:52.725Z</updated>
         <content type="html"><![CDATA[2022-03-16(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트롯특전사 박군의 첫번째 팬 콘서트' - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11621&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11621&amp;order=1"/>
-        <updated>2022-03-10T09:16:45.257Z</updated>
-        <content type="html"><![CDATA[2022-03-15(화) 19:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-17T03:19:50.394Z</updated>
+    <updated>2022-03-17T04:23:48.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매“2022 Debut Anniversary Fan Event : EXO” 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11633</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11633"/>
+        <updated>2022-03-17T04:22:44.370Z</updated>
+        <content type="html"><![CDATA[2022.03.21(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선욱 피아노 리사이틀 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11630</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11612"/>
         <updated>2022-03-08T05:15:06.007Z</updated>
         <content type="html"><![CDATA[2022.03.16(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진주] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11611</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11611"/>
-        <updated>2022-03-08T05:15:06.013Z</updated>
-        <content type="html"><![CDATA[2022.03.10(목) 16:00]]></content>
     </entry>
 </feed>
