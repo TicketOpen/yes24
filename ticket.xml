@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-18T04:31:19.212Z</updated>
+    <updated>2022-03-18T05:17:35.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[고양] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11636</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11636"/>
+        <updated>2022-03-18T05:16:26.576Z</updated>
+        <content type="html"><![CDATA[2022.03.24(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[성남] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11635</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11635"/>
+        <updated>2022-03-18T05:16:26.585Z</updated>
+        <content type="html"><![CDATA[2022.03.24(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천안] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11634</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11634"/>
+        <updated>2022-03-18T05:16:26.593Z</updated>
+        <content type="html"><![CDATA[2022.03.24(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매“2022 Debut Anniversary Fan Event : EXO” 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11633</id>
@@ -121,26 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11617"/>
         <updated>2022-03-10T05:15:17.734Z</updated>
         <content type="html"><![CDATA[2022.03.15(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.03.14(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른이 뮤지컬 <난쟁이들> 긴급편성 3/16 구출 작전 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11616</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11616"/>
-        <updated>2022-03-10T02:45:35.837Z</updated>
-        <content type="html"><![CDATA[2022.03.11(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남심포니오케스트라 제143회 클래식품격콘서트 〈Great CONCERTO Series-L.v.Beethoven & F.Me..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11615</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11615"/>
-        <updated>2022-03-08T07:17:01.327Z</updated>
-        <content type="html"><![CDATA[2022.03.11(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 남진콘서트 - 광주공연 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11614</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11614"/>
-        <updated>2022-03-08T07:17:01.328Z</updated>
-        <content type="html"><![CDATA[2022.03.11(금) 14:00]]></content>
     </entry>
 </feed>

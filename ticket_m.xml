@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-18T04:31:19.215Z</updated>
+    <updated>2022-03-18T05:17:35.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[고양] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11636&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11636&amp;order=1"/>
+        <updated>2022-03-18T05:16:37.434Z</updated>
+        <content type="html"><![CDATA[2022-03-24(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[성남] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11635&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11635&amp;order=1"/>
+        <updated>2022-03-18T05:16:37.435Z</updated>
+        <content type="html"><![CDATA[2022-03-24(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천안] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11634&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11634&amp;order=1"/>
+        <updated>2022-03-18T05:16:37.438Z</updated>
+        <content type="html"><![CDATA[2022-03-24(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“2022 Debut Anniversary Fan Event : EXO” 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11633&amp;order=1</id>
@@ -53,25 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11627&amp;order=1"/>
         <updated>2022-03-15T07:17:13.558Z</updated>
         <content type="html"><![CDATA[2022-03-18(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스크 연극 [The Three] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11626&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11626&amp;order=1"/>
-        <updated>2022-03-15T05:15:52.119Z</updated>
-        <content type="html"><![CDATA[2022-03-18(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11625&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11625&amp;order=1"/>
-        <updated>2022-03-14T05:36:19.475Z</updated>
-        <content type="html"><![CDATA[2022-03-15(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11624&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11624&amp;order=1"/>
-        <updated>2022-03-15T06:21:21.036Z</updated>
     </entry>
 </feed>
