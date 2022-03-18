@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-18T05:17:35.437Z</updated>
+    <updated>2022-03-18T06:21:52.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE : NCT DREAM - DREAM STAGE 〈GLITCH MODE〉 온라인 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11637</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11637"/>
+        <updated>2022-03-18T06:20:22.070Z</updated>
+        <content type="html"><![CDATA[2022.03.21(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고양] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11636</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11618"/>
         <updated>2022-03-10T06:20:09.180Z</updated>
         <content type="html"><![CDATA[2022.03.15(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 ROCKET PUNCH 2ND FANMEETING Punch Time2 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11617</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11617"/>
-        <updated>2022-03-10T05:15:17.734Z</updated>
-        <content type="html"><![CDATA[2022.03.15(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.03.14(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

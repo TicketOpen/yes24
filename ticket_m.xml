@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-18T05:17:35.438Z</updated>
+    <updated>2022-03-18T06:21:52.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE : NCT DREAM - DREAM STAGE 〈GLITCH MODE〉 온라인 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11637&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11637&amp;order=1"/>
+        <updated>2022-03-18T06:20:38.547Z</updated>
+        <content type="html"><![CDATA[2022-03-21(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고양] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11636&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11628&amp;order=1"/>
         <updated>2022-03-15T06:21:21.027Z</updated>
         <content type="html"><![CDATA[2022-03-16(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 천안 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11627&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11627&amp;order=1"/>
-        <updated>2022-03-15T07:17:13.558Z</updated>
-        <content type="html"><![CDATA[2022-03-18(금) 14:00]]></content>
     </entry>
 </feed>
