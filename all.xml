@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 04:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 05:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 [스톤 THE STONE] 3차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11640</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11640</guid>
+            <pubDate>Mon, 21 Mar 2022 05:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.23(수) 15:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[단독판매2022 WEi CONCERT - First Love 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11639</link>
@@ -139,11 +146,11 @@
             <content:encoded><![CDATA[2022.03.15(화) 19:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['트롯특전사 박군의 첫번째 팬 콘서트' - 부산 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11620</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11620</guid>
-            <pubDate>Thu, 10 Mar 2022 09:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.15(화) 18:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [스톤 THE STONE] 3차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11640&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11640&amp;order=1</guid>
+            <pubDate>Mon, 21 Mar 2022 05:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-23(수) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 WEi CONCERT - First Love 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -209,11 +216,12 @@
             <content:encoded><![CDATA[2022-03-22(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김선욱 피아노 리사이틀 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11630&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11630&amp;order=1</guid>
-            <pubDate>Wed, 16 Mar 2022 05:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-17(목) 15:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <싯다르타> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41262</link>
+            <guid>http://ticket.yes24.com/Perf/41262</guid>
+            <pubDate>Mon, 21 Mar 2022 01:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									110,000원								</td>								<td class="dc_price">									<em>→</em>63,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202203/20220321/20220321-41262.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <내가 멜론을 얼마나 좋아하는데> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -222,14 +230,6 @@
             <pubDate>Mon, 21 Mar 2022 01:06:37 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>15,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202203/20220321/20220321-41498.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <싯다르타> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41262</link>
-            <guid>http://ticket.yes24.com/Perf/41262</guid>
-            <pubDate>Mon, 21 Mar 2022 01:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									110,000원								</td>								<td class="dc_price">									<em>→</em>63,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202203/20220321/20220321-41262.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <싯다르타> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>

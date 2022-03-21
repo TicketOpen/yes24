@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-21T04:22:47.493Z</updated>
+    <updated>2022-03-21T05:17:07.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [스톤 THE STONE] 3차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11640</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11640"/>
+        <updated>2022-03-21T05:16:02.144Z</updated>
+        <content type="html"><![CDATA[2022.03.23(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2022 WEi CONCERT - First Love 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11639</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11621"/>
         <updated>2022-03-10T09:16:36.261Z</updated>
         <content type="html"><![CDATA[2022.03.15(화) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트롯특전사 박군의 첫번째 팬 콘서트' - 부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11620</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11620"/>
-        <updated>2022-03-10T09:16:36.285Z</updated>
-        <content type="html"><![CDATA[2022.03.15(화) 18:00]]></content>
     </entry>
 </feed>
