@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 01:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:54:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <내가 멜론을 얼마나 좋아하는데> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41498&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41498&amp;Tab=2</guid>
+            <pubDate>Tue, 22 Mar 2022 02:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.22 ~ 2022.03.27 | 2022.03.28 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220322/20220322-7c59170c-4a7f-428f-8a6e-515e1d635e41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예스24티켓 1위 이벤트]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3273</link>
@@ -68,13 +76,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Mon, 21 Mar 2022 12:30:21 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예스24스테이지]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Mon, 21 Mar 2022 15:24:25 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 01:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:54:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쇼팽과 함께 떠나는 스페인 마요르카 기행 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11643</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11643</guid>
+            <pubDate>Tue, 22 Mar 2022 02:53:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.25(금) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[미샤 마이스키 첼로 리사이틀 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11642</link>
@@ -139,10 +146,11 @@
             <pubDate>Mon, 14 Mar 2022 02:38:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11623</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11623</guid>
-            <pubDate>Mon, 14 Mar 2022 02:38:23 GMT</pubDate>
+            <title><![CDATA[쇼팽과 함께 떠나는 스페인 마요르카 기행 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11643&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11643&amp;order=1</guid>
+            <pubDate>Tue, 22 Mar 2022 02:53:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-25(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미샤 마이스키 첼로 리사이틀 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -208,13 +216,6 @@
             <content:encoded><![CDATA[2022-03-21(월) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11632&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11632&amp;order=1</guid>
-            <pubDate>Thu, 17 Mar 2022 06:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-24(목) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <싯다르타> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/41262</link>
             <guid>http://ticket.yes24.com/Perf/41262</guid>
@@ -254,6 +255,14 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202203/20220321/20220321-41498.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <내가 멜론을 얼마나 좋아하는데> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41498&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41498&amp;Tab=2</guid>
+            <pubDate>Tue, 22 Mar 2022 02:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.22 ~ 2022.03.27 | 2022.03.28 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220322/20220322-7c59170c-4a7f-428f-8a6e-515e1d635e41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예스24티켓 1위 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -318,11 +327,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Mon, 21 Mar 2022 15:24:25 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
+            <title><![CDATA[이벤트 기간2022.03.22 ~ 2022.03.27 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41498</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41498</guid>
+            <pubDate>Tue, 22 Mar 2022 02:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em> 2022년 4월 1일(금) 오후 7시 30분 공연(신바람난 삼대)]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220322/20220322-7c59170c-4a7f-428f-8a6e-515e1d635e41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.03.18 ~ 2022.03.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>

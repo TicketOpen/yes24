@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-22T01:09:13.618Z</updated>
+    <updated>2022-03-22T02:54:44.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼팽과 함께 떠나는 스페인 마요르카 기행 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11643&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11643&amp;order=1"/>
+        <updated>2022-03-22T02:53:32.272Z</updated>
+        <content type="html"><![CDATA[2022-03-25(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미샤 마이스키 첼로 리사이틀 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11642&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11633&amp;order=1"/>
         <updated>2022-03-17T04:22:52.448Z</updated>
         <content type="html"><![CDATA[2022-03-21(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11632&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11632&amp;order=1"/>
-        <updated>2022-03-17T06:21:06.899Z</updated>
-        <content type="html"><![CDATA[2022-03-24(목) 14:00]]></content>
     </entry>
 </feed>

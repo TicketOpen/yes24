@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-22T01:09:13.620Z</updated>
+    <updated>2022-03-22T02:54:44.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼팽과 함께 떠나는 스페인 마요르카 기행 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11643</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11643"/>
+        <updated>2022-03-22T02:53:19.794Z</updated>
+        <content type="html"><![CDATA[2022.03.25(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미샤 마이스키 첼로 리사이틀 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11642</id>
@@ -134,12 +141,6 @@
         <title type="html"><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11624</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11624"/>
-        <updated>2022-03-14T02:38:23.544Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11623</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11623"/>
         <updated>2022-03-14T02:38:23.544Z</updated>
     </entry>
 </feed>
