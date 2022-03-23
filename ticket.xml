@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-23T01:18:54.713Z</updated>
+    <updated>2022-03-23T02:56:38.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ 연기안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11647</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11647"/>
+        <updated>2022-03-23T02:55:37.524Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [렛미플라이] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11646</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11646"/>
+        <updated>2022-03-23T02:55:37.530Z</updated>
+        <content type="html"><![CDATA[2022.03.30(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뷰티풀 민트 라이프 2022 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11645</id>
@@ -72,21 +85,21 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11636</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11636"/>
         <updated>2022-03-18T05:16:26.576Z</updated>
-        <content type="html"><![CDATA[2022.03.24(목) 15:00]]></content>
+        <content type="html"><![CDATA[2022.03.28(월) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[성남] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11635</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11635"/>
         <updated>2022-03-18T05:16:26.585Z</updated>
-        <content type="html"><![CDATA[2022.03.24(목) 16:00]]></content>
+        <content type="html"><![CDATA[2022.03.28(월) 16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[천안] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11634</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11634"/>
         <updated>2022-03-18T05:16:26.593Z</updated>
-        <content type="html"><![CDATA[2022.03.24(목) 14:00]]></content>
+        <content type="html"><![CDATA[2022.03.28(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매“2022 Debut Anniversary Fan Event : EXO” 티켓오픈 안내]]></title>
@@ -129,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11628"/>
         <updated>2022-03-15T06:21:10.170Z</updated>
         <content type="html"><![CDATA[2022.03.16(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 천안 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11627</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11627"/>
-        <updated>2022-03-15T07:17:06.239Z</updated>
-        <content type="html"><![CDATA[2022.03.18(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스크 연극 [The Three] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11626</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11626"/>
-        <updated>2022-03-15T05:15:41.176Z</updated>
-        <content type="html"><![CDATA[2022.03.18(금) 15:00]]></content>
     </entry>
 </feed>
