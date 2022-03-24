@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-24T07:18:06.458Z</updated>
+    <updated>2022-03-24T08:21:22.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드미트리 마슬레예프 피아노 리사이틀 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11650&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11650&amp;order=1"/>
+        <updated>2022-03-24T08:20:32.810Z</updated>
+        <content type="html"><![CDATA[2022-03-30(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11649&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11639&amp;order=1"/>
         <updated>2022-03-21T02:51:36.918Z</updated>
         <content type="html"><![CDATA[2022-03-25(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [눈을 뜻하는 수백 가지 단어들] 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11638&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11638&amp;order=1"/>
-        <updated>2022-03-18T08:49:39.828Z</updated>
-        <content type="html"><![CDATA[2022-03-22(화) 16:00]]></content>
     </entry>
 </feed>
