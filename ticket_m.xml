@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-24T05:17:46.733Z</updated>
+    <updated>2022-03-24T06:22:29.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11649&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11649&amp;order=1"/>
+        <updated>2022-03-24T06:21:36.493Z</updated>
+        <content type="html"><![CDATA[2022-03-31(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ 연기안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11647&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11638&amp;order=1"/>
         <updated>2022-03-18T08:49:39.828Z</updated>
         <content type="html"><![CDATA[2022-03-22(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE : NCT DREAM - DREAM STAGE 〈GLITCH MODE〉 온라인 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11637&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11637&amp;order=1"/>
-        <updated>2022-03-18T06:20:38.547Z</updated>
-        <content type="html"><![CDATA[2022-03-21(월) 15:00]]></content>
     </entry>
 </feed>

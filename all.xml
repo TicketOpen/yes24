@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 05:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 06:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 3차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11649</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11649</guid>
+            <pubDate>Thu, 24 Mar 2022 06:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.31(목) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[시스템점검] 클립서비스 점검으로 인한 서비스 일시 중지 안내(3/28) (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11648</link>
@@ -138,11 +145,11 @@
             <content:encoded><![CDATA[2022.03.17(목) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [빈센트 반 고흐] 2차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11629</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11629</guid>
-            <pubDate>Wed, 16 Mar 2022 04:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.17(목) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2022.03.17(목) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+            <title><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 3차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11649&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11649&amp;order=1</guid>
+            <pubDate>Thu, 24 Mar 2022 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-31(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ 연기안내 (예스24 티켓 모바일)]]></title>
@@ -207,11 +214,12 @@
             <content:encoded><![CDATA[2022-03-22(화) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE : NCT DREAM - DREAM STAGE 〈GLITCH MODE〉 온라인 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11637&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11637&amp;order=1</guid>
-            <pubDate>Fri, 18 Mar 2022 06:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-21(월) 15:00]]></content:encoded>
+            <title><![CDATA[연극 <내가 멜론을 얼마나 좋아하는데> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41498</link>
+            <guid>http://ticket.yes24.com/Perf/41498</guid>
+            <pubDate>Mon, 21 Mar 2022 01:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>15,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202203/20220321/20220321-41498.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <싯다르타> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -220,14 +228,6 @@
             <pubDate>Mon, 21 Mar 2022 01:06:37 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									110,000원								</td>								<td class="dc_price">									<em>→</em>63,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202203/20220321/20220321-41262.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <내가 멜론을 얼마나 좋아하는데> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41498</link>
-            <guid>http://ticket.yes24.com/Perf/41498</guid>
-            <pubDate>Mon, 21 Mar 2022 01:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>15,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202203/20220321/20220321-41498.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <싯다르타> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -253,6 +253,14 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202203/20220321/20220321-41498.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <렛미플라이> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41421&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41421&amp;Tab=2</guid>
+            <pubDate>Thu, 24 Mar 2022 06:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.24 ~ 2022.05.31 | 2022.06.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220324/20220324-a2436559-55bb-4d0d-8338-25a8f8646a45.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <내가 멜론을 얼마나 좋아하는데> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -318,11 +326,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
-            <pubDate>Mon, 21 Mar 2022 12:30:21 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+            <title><![CDATA[이벤트 기간2022.03.24 ~ 2022.05.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41421</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41421</guid>
+            <pubDate>Thu, 24 Mar 2022 06:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;렛미플라이&gt; 배우 사인 프로그램북]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220324/20220324-a2436559-55bb-4d0d-8338-25a8f8646a45.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.03.22 ~ 2022.03.27 (YES24 티켓 ─ 이벤트 모바일)]]></title>
