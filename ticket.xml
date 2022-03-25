@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-25T08:22:23.197Z</updated>
+    <updated>2022-03-25T09:19:02.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저축은행 시스템 작업에 따른 결제 서비스 중단 안내(03/27)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11653</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11653"/>
+        <updated>2022-03-25T09:17:59.305Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 - 문화지원 프로그램 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11651</id>
@@ -134,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11633"/>
         <updated>2022-03-17T04:22:44.370Z</updated>
         <content type="html"><![CDATA[2022.03.21(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11632</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11632"/>
-        <updated>2022-03-17T06:20:56.065Z</updated>
-        <content type="html"><![CDATA[2022.03.24(목) 14:00]]></content>
     </entry>
 </feed>
