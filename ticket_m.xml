@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-25T09:19:02.724Z</updated>
+    <updated>2022-03-25T10:22:37.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dreamcatcher 2nd Album [Apocalypse : Save us] Mini Concert 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11652&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11652&amp;order=1"/>
+        <updated>2022-03-25T10:21:47.509Z</updated>
+        <content type="html"><![CDATA[2022-03-31(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 - 문화지원 프로그램 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11651&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11642&amp;order=1"/>
         <updated>2022-03-21T09:20:43.067Z</updated>
         <content type="html"><![CDATA[2022-03-25(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [스톤 THE STONE] 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11640&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11640&amp;order=1"/>
-        <updated>2022-03-21T05:16:13.132Z</updated>
-        <content type="html"><![CDATA[2022-03-23(수) 15:00]]></content>
     </entry>
 </feed>

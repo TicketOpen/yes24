@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-25T09:19:02.720Z</updated>
+    <updated>2022-03-25T10:22:37.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11653</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11653"/>
         <updated>2022-03-25T09:17:59.305Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dreamcatcher 2nd Album [Apocalypse : Save us] Mini Concert 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11652</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11652"/>
+        <updated>2022-03-25T10:21:37.933Z</updated>
+        <content type="html"><![CDATA[2022.03.31(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 - 문화지원 프로그램 티켓오픈 안내]]></title>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11634"/>
         <updated>2022-03-18T05:16:26.593Z</updated>
         <content type="html"><![CDATA[2022.03.28(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매“2022 Debut Anniversary Fan Event : EXO” 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11633</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11633"/>
-        <updated>2022-03-17T04:22:44.370Z</updated>
-        <content type="html"><![CDATA[2022.03.21(월) 20:00]]></content>
     </entry>
 </feed>
