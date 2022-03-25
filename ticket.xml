@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-25T01:07:58.480Z</updated>
+    <updated>2022-03-25T02:46:23.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 - 문화지원 프로그램 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11651</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11651"/>
+        <updated>2022-03-25T02:45:22.515Z</updated>
+        <content type="html"><![CDATA[2022.03.28(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드미트리 마슬레예프 피아노 리사이틀 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11650</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11632"/>
         <updated>2022-03-17T06:20:56.065Z</updated>
         <content type="html"><![CDATA[2022.03.24(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <킹아더> 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11631</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11631"/>
-        <updated>2022-03-17T06:20:56.065Z</updated>
-        <content type="html"><![CDATA[2022.03.22(화) 14:00]]></content>
     </entry>
 </feed>

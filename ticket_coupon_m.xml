@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2022-03-25T01:07:58.477Z</updated>
+    <updated>2022-03-25T02:46:23.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
     <entry>
@@ -81,5 +81,19 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40498"/>
         <updated>2022-03-11T10:19:39.455Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 1,969원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 빈센트 반 고흐] 평생에 걸친 우리 대화]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40618</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40618"/>
+        <updated>2022-03-25T02:46:22.715Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 1,853원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 빈센트 반 고흐] 그 안에 우리가 있어]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40619</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40619"/>
+        <updated>2022-03-25T02:46:22.717Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 1,890원]]></content>
     </entry>
 </feed>
