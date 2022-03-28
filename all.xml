@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 01:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 02:58:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -221,18 +221,23 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202203/20220328/20220328-41421.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <내가 멜론을 얼마나 좋아하는데> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/41498</link>
-            <guid>http://m.ticket.yes24.com/Perf/41498</guid>
-            <pubDate>Mon, 21 Mar 2022 01:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 &lt;내가 멜론을 얼마나 좋아하는데&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">15,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/22 ~ 3/27공연
-1인 4매
-
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202203/20220328/20220328-41498.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <렛미플라이> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/41421</link>
+            <guid>http://m.ticket.yes24.com/Perf/41421</guid>
+            <pubDate>Mon, 28 Mar 2022 02:58:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;렛미플라이&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">43, 800원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">4/1 ~ 4/17 공연, 1인 4매</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202203/20220328/20220328-41421.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <더 쓰리> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41725&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41725&amp;Tab=3</guid>
+            <pubDate>Mon, 28 Mar 2022 02:58:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.28 ~ 2022.04.13 | 2022.04.15 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220328/20220328-c8357182-8ce1-4258-bde1-55c33f8d026e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <렛미플라이> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -298,11 +303,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
-            <pubDate>Sun, 27 Mar 2022 15:18:57 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+            <title><![CDATA[이벤트 기간2022.03.28 ~ 2022.04.13 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41725</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41725</guid>
+            <pubDate>Mon, 28 Mar 2022 02:58:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2022년 4월 17일(일) 오후 3시 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220328/20220328-c8357182-8ce1-4258-bde1-55c33f8d026e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.03.24 ~ 2022.05.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
