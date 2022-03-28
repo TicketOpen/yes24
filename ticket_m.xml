@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-28T07:20:29.307Z</updated>
+    <updated>2022-03-28T08:23:45.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 신유 콘서트 [더 라이브] - 고양 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11658&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11658&amp;order=1"/>
+        <updated>2022-03-28T08:22:46.357Z</updated>
+        <content type="html"><![CDATA[2022-03-31(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 뮤지컬 [레베카] OP석 추가오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11657&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11646&amp;order=1"/>
         <updated>2022-03-23T02:55:47.538Z</updated>
         <content type="html"><![CDATA[2022-03-30(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷰티풀 민트 라이프 2022 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11645&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11645&amp;order=1"/>
-        <updated>2022-03-22T09:17:56.365Z</updated>
-        <content type="html"><![CDATA[2022-03-29(화) 18:00]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 07:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 08:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 신유 콘서트 [더 라이브] - 고양 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11658</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11658</guid>
+            <pubDate>Mon, 28 Mar 2022 08:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.31(목) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[대전] 뮤지컬 [레베카] OP석 추가오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11657</link>
@@ -137,11 +144,11 @@
             <content:encoded><![CDATA[2022.03.22(화) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE : NCT DREAM - DREAM STAGE 〈GLITCH MODE〉 온라인 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11637</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11637</guid>
-            <pubDate>Fri, 18 Mar 2022 06:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.21(월) 15:00]]></content:encoded>
+            <title><![CDATA[2022 신유 콘서트 [더 라이브] - 고양 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11658&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11658&amp;order=1</guid>
+            <pubDate>Mon, 28 Mar 2022 08:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-31(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대전] 뮤지컬 [레베카] OP석 추가오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -204,13 +211,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11646&amp;order=1</guid>
             <pubDate>Wed, 23 Mar 2022 02:55:47 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-30(수) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뷰티풀 민트 라이프 2022 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11645&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11645&amp;order=1</guid>
-            <pubDate>Tue, 22 Mar 2022 09:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-29(화) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [렛미플라이] (YES24 티켓 ─ 엔젤티켓)]]></title>
