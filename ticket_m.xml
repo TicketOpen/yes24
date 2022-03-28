@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-28T08:23:45.117Z</updated>
+    <updated>2022-03-28T09:20:10.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11655&amp;order=1"/>
         <updated>2022-03-28T05:17:16.063Z</updated>
         <content type="html"><![CDATA[2022-03-31(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제 9회 김사월 쇼: 사월을 기다리는 노래들 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11654&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11654&amp;order=1"/>
+        <updated>2022-03-28T09:19:17.118Z</updated>
+        <content type="html"><![CDATA[2022-03-31(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dreamcatcher 2nd Album [Apocalypse : Save us] Mini Concert 티켓오픈안내]]></title>
@@ -66,12 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11647&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11647&amp;order=1"/>
         <updated>2022-03-23T02:55:47.538Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [렛미플라이] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11646&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11646&amp;order=1"/>
-        <updated>2022-03-23T02:55:47.538Z</updated>
-        <content type="html"><![CDATA[2022-03-30(수) 16:00]]></content>
     </entry>
 </feed>
