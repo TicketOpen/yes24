@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-28T04:23:38.295Z</updated>
+    <updated>2022-03-28T05:18:09.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［피아졸라 서거 30주년］ 아디오스 피아졸라, 라이브 탱고 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11655</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11655"/>
+        <updated>2022-03-28T05:17:06.570Z</updated>
+        <content type="html"><![CDATA[2022.03.31(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저축은행 시스템 작업에 따른 결제 서비스 중단 안내(03/27)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11653</id>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11635"/>
         <updated>2022-03-18T05:16:26.585Z</updated>
         <content type="html"><![CDATA[2022.03.28(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천안] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11634</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11634"/>
-        <updated>2022-03-18T05:16:26.593Z</updated>
-        <content type="html"><![CDATA[2022.03.28(월) 14:00]]></content>
     </entry>
 </feed>
