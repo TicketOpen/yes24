@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-28T05:18:09.200Z</updated>
+    <updated>2022-03-28T06:22:44.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 뮤지컬 [레베카] OP석 추가오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11657</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11657"/>
+        <updated>2022-03-28T06:21:46.204Z</updated>
+        <content type="html"><![CDATA[2022.03.29(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 뮤지컬 [레베카] 가변석(거리두기석) 및 OP석 추가오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11656</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11656"/>
+        <updated>2022-03-28T06:21:46.220Z</updated>
+        <content type="html"><![CDATA[2022.03.29(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［피아졸라 서거 30주년］ 아디오스 피아졸라, 라이브 탱고 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11655</id>
@@ -126,19 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11637"/>
         <updated>2022-03-18T06:20:22.070Z</updated>
         <content type="html"><![CDATA[2022.03.21(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11636</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11636"/>
-        <updated>2022-03-18T05:16:26.576Z</updated>
-        <content type="html"><![CDATA[2022.03.28(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 뮤지컬 [레베카] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11635</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11635"/>
-        <updated>2022-03-18T05:16:26.585Z</updated>
-        <content type="html"><![CDATA[2022.03.28(월) 16:00]]></content>
     </entry>
 </feed>

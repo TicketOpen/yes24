@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-28T05:18:09.205Z</updated>
+    <updated>2022-03-28T06:22:44.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 뮤지컬 [레베카] OP석 추가오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11657&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11657&amp;order=1"/>
+        <updated>2022-03-28T06:21:55.777Z</updated>
+        <content type="html"><![CDATA[2022-03-29(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 뮤지컬 [레베카] 가변석(거리두기석) 및 OP석 추가오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11656&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11656&amp;order=1"/>
+        <updated>2022-03-28T06:21:55.780Z</updated>
+        <content type="html"><![CDATA[2022-03-29(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［피아졸라 서거 30주년］ 아디오스 피아졸라, 라이브 탱고 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11655&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11645&amp;order=1"/>
         <updated>2022-03-22T09:17:56.365Z</updated>
         <content type="html"><![CDATA[2022-03-29(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <광주> 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11644&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11644&amp;order=1"/>
-        <updated>2022-03-22T04:21:53.447Z</updated>
-        <content type="html"><![CDATA[2022-03-30(수) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼팽과 함께 떠나는 스페인 마요르카 기행 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11643&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11643&amp;order=1"/>
-        <updated>2022-03-22T02:53:32.272Z</updated>
-        <content type="html"><![CDATA[2022-03-25(금) 14:00]]></content>
     </entry>
 </feed>
