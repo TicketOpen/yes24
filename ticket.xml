@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-28T23:18:50.091Z</updated>
+    <updated>2022-03-29T01:14:58.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매Stray Kids 2nd World Tour “MANIAC” in SEOUL 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11659</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11659"/>
+        <updated>2022-03-29T01:13:57.157Z</updated>
+        <content type="html"><![CDATA[2022.04.11(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.04.08(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 신유 콘서트 [더 라이브] - 고양 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11658</id>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11640"/>
         <updated>2022-03-21T05:16:02.144Z</updated>
         <content type="html"><![CDATA[2022.03.23(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 WEi CONCERT - FIRST LOVE 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11639</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11639"/>
-        <updated>2022-03-21T02:51:28.930Z</updated>
-        <content type="html"><![CDATA[2022.03.25(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.03.24(목) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

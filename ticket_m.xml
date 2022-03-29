@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-28T23:18:50.094Z</updated>
+    <updated>2022-03-29T01:14:58.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids 2nd World Tour “MANIAC” in SEOUL 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11659&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11659&amp;order=1"/>
+        <updated>2022-03-29T01:14:05.022Z</updated>
+        <content type="html"><![CDATA[2022-04-11(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 신유 콘서트 [더 라이브] - 고양 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11658&amp;order=1</id>
@@ -67,11 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11649&amp;order=1"/>
         <updated>2022-03-24T06:21:36.493Z</updated>
         <content type="html"><![CDATA[2022-03-31(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ 연기안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11647&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11647&amp;order=1"/>
-        <updated>2022-03-23T02:55:47.538Z</updated>
     </entry>
 </feed>
