@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-29T01:14:58.738Z</updated>
+    <updated>2022-03-29T03:00:17.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매다큐멘터리음악극 [1919필라델피아]]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11661</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11661"/>
+        <updated>2022-03-29T02:59:09.167Z</updated>
+        <content type="html"><![CDATA[2022.03.30(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Stray Kids 2nd World Tour “MANIAC” in SEOUL 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11659</id>
@@ -133,12 +140,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11641</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11641"/>
         <updated>2022-03-21T06:22:13.378Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [스톤 THE STONE] 3차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11640</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11640"/>
-        <updated>2022-03-21T05:16:02.144Z</updated>
-        <content type="html"><![CDATA[2022.03.23(수) 15:00]]></content>
     </entry>
 </feed>
