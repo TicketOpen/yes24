@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-03-29T04:24:12.849Z</updated>
+    <updated>2022-03-29T05:19:22.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11661&amp;order=1"/>
         <updated>2022-03-29T02:59:20.058Z</updated>
         <content type="html"><![CDATA[2022-03-30(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈은하철도의 밤 - 앵콜〉 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11660&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11660&amp;order=1"/>
+        <updated>2022-03-29T05:18:32.864Z</updated>
+        <content type="html"><![CDATA[2022-04-05(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids 2nd World Tour “MANIAC” in SEOUL 티켓오픈안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11651&amp;order=1"/>
         <updated>2022-03-25T02:45:30.395Z</updated>
         <content type="html"><![CDATA[2022-03-28(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드미트리 마슬레예프 피아노 리사이틀 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11650&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11650&amp;order=1"/>
-        <updated>2022-03-24T08:20:32.810Z</updated>
-        <content type="html"><![CDATA[2022-03-30(수) 15:00]]></content>
     </entry>
 </feed>

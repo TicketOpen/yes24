@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-29T04:24:12.852Z</updated>
+    <updated>2022-03-29T05:19:22.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11661"/>
         <updated>2022-03-29T02:59:09.167Z</updated>
         <content type="html"><![CDATA[2022.03.30(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈은하철도의 밤 - 앵콜〉 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11660</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11660"/>
+        <updated>2022-03-29T05:18:24.178Z</updated>
+        <content type="html"><![CDATA[2022.04.05(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Stray Kids 2nd World Tour “MANIAC” in SEOUL 티켓오픈안내]]></title>
@@ -134,11 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11642"/>
         <updated>2022-03-21T09:20:33.355Z</updated>
         <content type="html"><![CDATA[2022.03.25(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래에셋 시스템 작업에 따른 결제 서비스 중단 안내(03/27)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11641</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11641"/>
-        <updated>2022-03-21T06:22:13.378Z</updated>
     </entry>
 </feed>
