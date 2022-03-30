@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-30T07:18:16.638Z</updated>
+    <updated>2022-03-30T08:22:00.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 4차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11675</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11675"/>
+        <updated>2022-03-30T08:21:07.600Z</updated>
+        <content type="html"><![CDATA[2022.04.01(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2022 임영웅 콘서트 - 대구 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11674</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11650"/>
         <updated>2022-03-24T08:20:19.159Z</updated>
         <content type="html"><![CDATA[2022.03.30(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11649</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11649"/>
-        <updated>2022-03-24T06:21:26.828Z</updated>
-        <content type="html"><![CDATA[2022.03.31(목) 14:00]]></content>
     </entry>
 </feed>
