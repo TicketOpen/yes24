@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 14:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 15:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220324/20220324-a2436559-55bb-4d0d-8338-25a8f8646a45.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이벤트 기간2022.03.18 ~ 2022.03.31]]></title>
-            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3273</link>
-            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3273</guid>
-            <pubDate>Fri, 18 Mar 2022 07:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em>당첨자 발표</em>2022.04.06]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220318/20220318-8ef90649-068e-4569-b1d1-dbc407f40ead.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이벤트 기간2022.03.16 ~ 2022.05.01]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41431</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41431</guid>
@@ -46,22 +38,6 @@
             <pubDate>Sun, 13 Mar 2022 15:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2022년 4월 12일(화) 오후 8시 공연]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220311/20220311-7f8bb33f-a821-4a32-993a-dafefe146b4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.03.07 ~ 2022.03.31]]></title>
-            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3265</link>
-            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3265</guid>
-            <pubDate>Sun, 06 Mar 2022 15:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202203/20220304/20220304-81bcc433-0edf-4fc3-ab97-291a21082131.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.02.16 ~ 2022.03.31]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41440</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41440</guid>
-            <pubDate>Sat, 19 Feb 2022 21:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;라이온 킹&gt; 오리지널 OST]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202202/20220218/20220218-1a2fd267-c9ae-4c16-9fbc-a3417339fbcb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2021.10.19 ~ 2022.05.01]]></title>
