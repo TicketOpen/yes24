@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-03-31T08:20:32.514Z</updated>
+    <updated>2022-03-31T09:18:59.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11678"/>
         <updated>2022-03-31T06:20:45.682Z</updated>
         <content type="html"><![CDATA[2022.04.11(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SURL（설）concert  ‘preview of us’ 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11677</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11677"/>
+        <updated>2022-03-31T09:17:57.438Z</updated>
+        <content type="html"><![CDATA[2022.04.04(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll&Hyde) - 부산 티켓오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11653</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11653"/>
         <updated>2022-03-25T09:17:59.305Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreamcatcher 2nd Album [Apocalypse : Save us] Mini Concert 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11652</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11652"/>
-        <updated>2022-03-25T10:21:37.933Z</updated>
-        <content type="html"><![CDATA[2022.03.31(목) 20:00]]></content>
     </entry>
 </feed>
