@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-01T06:22:52.660Z</updated>
+    <updated>2022-04-01T07:18:16.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11685&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11685&amp;order=1"/>
+        <updated>2022-04-01T07:17:25.294Z</updated>
+        <content type="html"><![CDATA[2022-04-06(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제43회 서울연극제 공식선정작 [타자기 치는 남자] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11684&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11676&amp;order=1"/>
         <updated>2022-03-31T05:16:00.116Z</updated>
         <content type="html"><![CDATA[2022-04-08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 4차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11675&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11675&amp;order=1"/>
-        <updated>2022-03-30T08:21:16.870Z</updated>
-        <content type="html"><![CDATA[2022-04-01(금) 14:00]]></content>
     </entry>
 </feed>
