@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-01T01:21:52.114Z</updated>
+    <updated>2022-04-01T03:17:44.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [돌아온다] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11683</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11683"/>
+        <updated>2022-04-01T03:16:43.699Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[부산] KNN 방송교향악단 제 4회 정기연주회 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11678</id>
@@ -137,11 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11654"/>
         <updated>2022-03-28T09:19:06.715Z</updated>
         <content type="html"><![CDATA[2022.03.31(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저축은행 시스템 작업에 따른 결제 서비스 중단 안내(03/27)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11653</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11653"/>
-        <updated>2022-03-25T09:17:59.305Z</updated>
     </entry>
 </feed>
