@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-01T05:16:48.488Z</updated>
+    <updated>2022-04-01T06:22:52.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제43회 서울연극제 공식선정작 [타자기 치는 남자] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11684&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11684&amp;order=1"/>
+        <updated>2022-04-01T06:22:10.654Z</updated>
+        <content type="html"><![CDATA[2022-04-07(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [돌아온다] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11683&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11675&amp;order=1"/>
         <updated>2022-03-30T08:21:16.870Z</updated>
         <content type="html"><![CDATA[2022-04-01(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 임영웅 콘서트 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11674&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11674&amp;order=1"/>
-        <updated>2022-03-30T05:16:31.442Z</updated>
-        <content type="html"><![CDATA[2022-06-09(목) 20:00]]></content>
     </entry>
 </feed>
