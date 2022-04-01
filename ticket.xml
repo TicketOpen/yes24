@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-01T04:24:54.773Z</updated>
+    <updated>2022-04-01T05:16:48.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,34 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11683"/>
         <updated>2022-04-01T03:16:43.699Z</updated>
         <content type="html"><![CDATA[2022.04.06(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 빅마마 전국투어 콘서트 [ReBorn] - 울산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11682</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11682"/>
+        <updated>2022-04-01T05:15:42.687Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 빅마마 전국투어 콘서트 [ReBorn] - 전주 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11681</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11681"/>
+        <updated>2022-04-01T05:15:42.692Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 빅마마 전국투어 콘서트 [ReBorn] - 대구 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11680</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11680"/>
+        <updated>2022-04-01T05:15:42.692Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 빅마마 전국투어 콘서트 [ReBorn] - 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11679</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11679"/>
+        <updated>2022-04-01T05:15:42.693Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[부산] KNN 방송교향악단 제 4회 정기연주회 티켓오픈안내]]></title>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11658"/>
         <updated>2022-03-28T08:22:35.430Z</updated>
         <content type="html"><![CDATA[2022.03.31(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 뮤지컬 [레베카] OP석 추가오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11657</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11657"/>
-        <updated>2022-03-28T06:21:46.204Z</updated>
-        <content type="html"><![CDATA[2022.03.29(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 뮤지컬 [레베카] 가변석(거리두기석) 및 OP석 추가오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11656</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11656"/>
-        <updated>2022-03-28T06:21:46.220Z</updated>
-        <content type="html"><![CDATA[2022.03.29(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［피아졸라 서거 30주년］ 아디오스 피아졸라, 라이브 탱고 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11655</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11655"/>
-        <updated>2022-03-28T05:17:06.570Z</updated>
-        <content type="html"><![CDATA[2022.03.31(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매제 9회 김사월 쇼: 사월을 기다리는 노래들 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11654</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11654"/>
-        <updated>2022-03-28T09:19:06.715Z</updated>
-        <content type="html"><![CDATA[2022.03.31(목) 20:00]]></content>
     </entry>
 </feed>

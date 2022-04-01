@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-01T04:24:54.777Z</updated>
+    <updated>2022-04-01T05:16:48.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,34 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11683&amp;order=1"/>
         <updated>2022-04-01T03:16:53.488Z</updated>
         <content type="html"><![CDATA[2022-04-06(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 빅마마 전국투어 콘서트 [ReBorn] - 울산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11682&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11682&amp;order=1"/>
+        <updated>2022-04-01T05:15:52.635Z</updated>
+        <content type="html"><![CDATA[2022-04-06(수) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 빅마마 전국투어 콘서트 [ReBorn] - 전주 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11681&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11681&amp;order=1"/>
+        <updated>2022-04-01T05:15:52.643Z</updated>
+        <content type="html"><![CDATA[2022-04-06(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 빅마마 전국투어 콘서트 [ReBorn] - 대구 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11680&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11680&amp;order=1"/>
+        <updated>2022-04-01T05:15:52.643Z</updated>
+        <content type="html"><![CDATA[2022-04-06(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 빅마마 전국투어 콘서트 [ReBorn] - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11679&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11679&amp;order=1"/>
+        <updated>2022-04-01T05:15:52.646Z</updated>
+        <content type="html"><![CDATA[2022-04-06(수) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[부산] KNN 방송교향악단 제 4회 정기연주회 티켓오픈안내]]></title>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11674&amp;order=1"/>
         <updated>2022-03-30T05:16:31.442Z</updated>
         <content type="html"><![CDATA[2022-06-09(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 임영웅 콘서트 - 인천 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11673&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11673&amp;order=1"/>
-        <updated>2022-03-30T05:16:31.442Z</updated>
-        <content type="html"><![CDATA[2022-06-02(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 임영웅 콘서트 - 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11672&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11672&amp;order=1"/>
-        <updated>2022-03-30T05:16:31.442Z</updated>
-        <content type="html"><![CDATA[2022-05-12(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 임영웅 콘서트 - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11671&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11671&amp;order=1"/>
-        <updated>2022-03-30T05:16:31.455Z</updated>
-        <content type="html"><![CDATA[2022-04-28(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 임영웅 콘서트 - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11670&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11670&amp;order=1"/>
-        <updated>2022-03-30T05:16:31.455Z</updated>
-        <content type="html"><![CDATA[2022-04-14(목) 20:00]]></content>
     </entry>
 </feed>
