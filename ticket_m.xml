@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-03T23:17:07.337Z</updated>
+    <updated>2022-04-04T01:19:12.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시향과 함께하는 [오케스트라 여행] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11687&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11687&amp;order=1"/>
+        <updated>2022-04-04T01:18:15.293Z</updated>
+        <content type="html"><![CDATA[2022-04-06(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빈센트 반 고흐: 향기를 만나다 展 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11686&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11678&amp;order=1"/>
         <updated>2022-03-31T06:20:55.899Z</updated>
         <content type="html"><![CDATA[2022-04-11(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SURL（설）concert  ‘preview of us’ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11677&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11677&amp;order=1"/>
-        <updated>2022-03-31T09:18:07.576Z</updated>
-        <content type="html"><![CDATA[2022-04-04(월) 18:00]]></content>
     </entry>
 </feed>
