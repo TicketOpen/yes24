@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-04T04:22:08.989Z</updated>
+    <updated>2022-04-04T05:17:06.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11689&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11689&amp;order=1"/>
         <updated>2022-04-04T03:03:07.186Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 WHEE IN FANMEETING [D-DAY] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11688&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11688&amp;order=1"/>
+        <updated>2022-04-04T05:16:21.763Z</updated>
+        <content type="html"><![CDATA[2022-04-05(화) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울시향과 함께하는 [오케스트라 여행] 티켓오픈안내]]></title>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11680&amp;order=1"/>
         <updated>2022-04-01T05:15:52.643Z</updated>
         <content type="html"><![CDATA[2022-04-06(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 빅마마 전국투어 콘서트 [ReBorn] - 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11679&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11679&amp;order=1"/>
-        <updated>2022-04-01T05:15:52.646Z</updated>
-        <content type="html"><![CDATA[2022-04-06(수) 14:00]]></content>
     </entry>
 </feed>
