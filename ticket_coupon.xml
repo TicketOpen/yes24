@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2022-04-04T08:21:48.128Z</updated>
+    <updated>2022-04-04T09:18:10.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
     <entry>
@@ -12,6 +12,13 @@
         <updated>2022-02-19T21:15:46.938Z</updated>
         <content type="html"><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[눈을 뜻하는 수백가지 단어들] 트롬쇠 북극 박물관]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2022-02-19T21:15:46.938Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.04.04 ~ 2022.04.17</dd><dt>사용기간</dt><dd>2022.04.05 ~ 2022.04.17</dd>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[음악극 1919 필라델피아] 독립은 시대의 뜻]]></title>
@@ -47,12 +54,5 @@
         <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
         <updated>2022-02-19T21:15:46.938Z</updated>
         <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.03.02 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.03.02 ~ 2022.12.31</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 레베카] 5천원 할인 쿠폰_2022]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2022-02-19T21:15:46.938Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.01.28 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.01.28 ~ 2022.12.31</dd>]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 08:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 09:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,12 +215,12 @@
             <content:encoded><![CDATA[2022-04-06(수) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <지킬앤하이드> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/39997</link>
-            <guid>http://ticket.yes24.com/Perf/39997</guid>
+            <title><![CDATA[뮤지컬 <빈센트 반 고흐> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41497</link>
+            <guid>http://ticket.yes24.com/Perf/41497</guid>
             <pubDate>Mon, 04 Apr 2022 01:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220404/20220404-39997_1.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>54,000원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220404/20220404-41497.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <라이온 킹>-부산(BC카드 결제시) (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -231,12 +231,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220404/20220404-41440.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <빈센트 반 고흐> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41497</link>
-            <guid>http://ticket.yes24.com/Perf/41497</guid>
+            <title><![CDATA[뮤지컬 <지킬앤하이드> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/39997</link>
+            <guid>http://ticket.yes24.com/Perf/39997</guid>
             <pubDate>Mon, 04 Apr 2022 01:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>54,000원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220404/20220404-41497.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220404/20220404-39997_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <라이온 킹> - 부산 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -426,6 +426,13 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[눈을 뜻하는 수백가지 단어들] 트롬쇠 북극 박물관 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Sat, 19 Feb 2022 21:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.04.04 ~ 2022.04.17</dd><dt>사용기간</dt><dd>2022.04.05 ~ 2022.04.17</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[음악극 1919 필라델피아] 독립은 시대의 뜻 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -459,13 +466,6 @@
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
             <pubDate>Sat, 19 Feb 2022 21:15:46 GMT</pubDate>
             <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.03.02 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.03.02 ~ 2022.12.31</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 레베카] 5천원 할인 쿠폰_2022 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Sat, 19 Feb 2022 21:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.01.28 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.01.28 ~ 2022.12.31</dd>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
@@ -557,6 +557,13 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40670</guid>
             <pubDate>Fri, 01 Apr 2022 10:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 1,919원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[눈을 뜻하는 수백가지 단어들] 트롬쇠 북극 박물관 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40681</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40681</guid>
+            <pubDate>Mon, 04 Apr 2022 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 4,855원]]></content:encoded>
         </item>
     </channel>
 </rss>
