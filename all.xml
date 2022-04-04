@@ -4,9 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 01:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 03:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）공연 연기 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11689</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11689</guid>
+            <pubDate>Mon, 04 Apr 2022 03:02:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[서울시향과 함께하는 [오케스트라 여행] 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11687</link>
@@ -141,11 +147,10 @@
             <content:encoded><![CDATA[2022.04.07(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 마지막 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11668</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11668</guid>
-            <pubDate>Wed, 30 Mar 2022 05:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06(수) 14:00]]></content:encoded>
+            <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）공연 연기 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11689&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11689&amp;order=1</guid>
+            <pubDate>Mon, 04 Apr 2022 03:03:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[서울시향과 함께하는 [오케스트라 여행] 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -211,14 +216,7 @@
             <content:encoded><![CDATA[2022-04-06(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[부산] KNN 방송교향악단 제 4회 정기연주회 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11678&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11678&amp;order=1</guid>
-            <pubDate>Thu, 31 Mar 2022 06:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022-04-11(월) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <라이온 킹> - 부산 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <title><![CDATA[뮤지컬 <라이온 킹>-부산(BC카드 결제시) (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/41440</link>
             <guid>http://ticket.yes24.com/Perf/41440</guid>
             <pubDate>Mon, 04 Apr 2022 01:18:24 GMT</pubDate>
@@ -232,6 +230,14 @@
             <pubDate>Mon, 04 Apr 2022 01:18:24 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>54,000원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220404/20220404-41497.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <라이온 킹> - 부산 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41440</link>
+            <guid>http://ticket.yes24.com/Perf/41440</guid>
+            <pubDate>Mon, 04 Apr 2022 01:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									120,000원								</td>								<td class="dc_price">									<em>→</em>105,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220404/20220404-41440.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <지킬앤하이드> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -264,6 +270,20 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220404/20220404-41497.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <라이온 킹> - 부산 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/41440</link>
+            <guid>http://m.ticket.yes24.com/Perf/41440</guid>
+            <pubDate>Mon, 04 Apr 2022 03:03:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;라이온 킹&gt; - 부산 </p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">10</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">70,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">60.600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">4/5 ~ 4/24 공연 1인 4매
+
+
+</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220404/20220404-41440.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <더 쓰리> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>

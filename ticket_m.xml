@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-04T01:19:12.514Z</updated>
+    <updated>2022-04-04T03:03:51.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）공연 연기 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11689&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11689&amp;order=1"/>
+        <updated>2022-04-04T03:03:07.186Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시향과 함께하는 [오케스트라 여행] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11687&amp;order=1</id>
@@ -67,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11679&amp;order=1"/>
         <updated>2022-04-01T05:15:52.646Z</updated>
         <content type="html"><![CDATA[2022-04-06(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] KNN 방송교향악단 제 4회 정기연주회 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11678&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11678&amp;order=1"/>
-        <updated>2022-03-31T06:20:55.899Z</updated>
-        <content type="html"><![CDATA[2022-04-11(월) 14:00]]></content>
     </entry>
 </feed>
