@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-04T06:24:25.102Z</updated>
+    <updated>2022-04-04T07:18:44.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찰리 채플린 라이브 콘서트 [CITY LIGHTS] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11691&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11691&amp;order=1"/>
+        <updated>2022-04-04T07:17:49.290Z</updated>
+        <content type="html"><![CDATA[2022-04-07(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）공연 연기 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11689&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11681&amp;order=1"/>
         <updated>2022-04-01T05:15:52.643Z</updated>
         <content type="html"><![CDATA[2022-04-06(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 빅마마 전국투어 콘서트 [ReBorn] - 대구 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11680&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11680&amp;order=1"/>
-        <updated>2022-04-01T05:15:52.643Z</updated>
-        <content type="html"><![CDATA[2022-04-06(수) 15:00]]></content>
     </entry>
 </feed>
