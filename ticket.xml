@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-04T03:03:51.582Z</updated>
+    <updated>2022-04-04T04:22:08.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내(4/10, 4/17, 4/18)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11690</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11690"/>
+        <updated>2022-04-04T04:21:01.417Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）공연 연기 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11689</id>
@@ -136,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11670"/>
         <updated>2022-03-30T05:16:21.188Z</updated>
         <content type="html"><![CDATA[2022.04.14(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 임영웅 콘서트 - 고양 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11669</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11669"/>
-        <updated>2022-03-30T05:16:21.190Z</updated>
-        <content type="html"><![CDATA[2022.04.07(목) 20:00]]></content>
     </entry>
 </feed>
