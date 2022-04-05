@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-05T03:29:54.253Z</updated>
+    <updated>2022-04-05T04:22:10.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 뮤지컬 [레베카] 거리두기 좌석 추가 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11693</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11693"/>
+        <updated>2022-04-05T04:21:06.714Z</updated>
+        <content type="html"><![CDATA[2022.04.07(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[찰리 채플린 라이브 콘서트 [CITY LIGHTS] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11691</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11673"/>
         <updated>2022-03-30T05:16:21.180Z</updated>
         <content type="html"><![CDATA[2022.06.02(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 임영웅 콘서트 - 대전 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11672</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11672"/>
-        <updated>2022-03-30T05:16:21.187Z</updated>
-        <content type="html"><![CDATA[2022.05.12(목) 20:00]]></content>
     </entry>
 </feed>
