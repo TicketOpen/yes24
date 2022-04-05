@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-05T07:18:30.104Z</updated>
+    <updated>2022-04-05T08:21:40.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[일간 이슬아] 이슬아 작가에게 배우는 매일 새 마음으로 글쓰기 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11695</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11695"/>
+        <updated>2022-04-05T08:20:49.440Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [스톤 THE STONE] 4차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11694</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11676"/>
         <updated>2022-03-31T05:15:50.818Z</updated>
         <content type="html"><![CDATA[2022.04.08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 4차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11675</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11675"/>
-        <updated>2022-03-30T08:21:07.600Z</updated>
-        <content type="html"><![CDATA[2022.04.01(금) 14:00]]></content>
     </entry>
 </feed>
