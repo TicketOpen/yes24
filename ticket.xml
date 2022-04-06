@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-06T08:21:32.259Z</updated>
+    <updated>2022-04-06T09:17:32.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 황치열 청음회 [우리.봄] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11698</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11698"/>
+        <updated>2022-04-06T09:16:30.120Z</updated>
+        <content type="html"><![CDATA[2022.04.08(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매live SUM 2022 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11697</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11679"/>
         <updated>2022-04-01T05:15:42.693Z</updated>
         <content type="html"><![CDATA[2022.04.06(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] KNN 방송교향악단 제 4회 정기연주회 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11678</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11678"/>
-        <updated>2022-03-31T06:20:45.682Z</updated>
-        <content type="html"><![CDATA[2022.04.15(금) 14:00]]></content>
     </entry>
 </feed>
