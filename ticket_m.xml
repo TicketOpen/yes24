@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-06T04:21:58.207Z</updated>
+    <updated>2022-04-06T05:16:43.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[live SUM 2022 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11697&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11697&amp;order=1"/>
+        <updated>2022-04-06T05:15:46.531Z</updated>
+        <content type="html"><![CDATA[2022-04-07(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11696&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11696&amp;order=1"/>
+        <updated>2022-04-06T05:15:46.537Z</updated>
+        <content type="html"><![CDATA[2022-04-12(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[일간 이슬아] 이슬아 작가에게 배우는 매일 새 마음으로 글쓰기 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11695&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11687&amp;order=1"/>
         <updated>2022-04-04T01:18:15.293Z</updated>
         <content type="html"><![CDATA[2022-04-06(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈센트 반 고흐: 향기를 만나다 展 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11686&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11686&amp;order=1"/>
-        <updated>2022-04-01T08:21:40.871Z</updated>
-        <content type="html"><![CDATA[2022-04-07(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11685&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11685&amp;order=1"/>
-        <updated>2022-04-01T07:17:25.294Z</updated>
-        <content type="html"><![CDATA[2022-04-06(수) 16:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-06T04:21:58.203Z</updated>
+    <updated>2022-04-06T05:16:43.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매live SUM 2022 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11697</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11697"/>
+        <updated>2022-04-06T05:15:36.264Z</updated>
+        <content type="html"><![CDATA[2022.04.07(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11696</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11696"/>
+        <updated>2022-04-06T05:15:36.280Z</updated>
+        <content type="html"><![CDATA[2022.04.12(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.04.11(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[일간 이슬아] 이슬아 작가에게 배우는 매일 새 마음으로 글쓰기 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11695</id>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11678"/>
         <updated>2022-03-31T06:20:45.682Z</updated>
         <content type="html"><![CDATA[2022.04.15(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SURL（설）concert  ‘preview of us’ 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11677</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11677"/>
-        <updated>2022-03-31T09:17:57.438Z</updated>
-        <content type="html"><![CDATA[2022.04.04(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll&Hyde) - 부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11676</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11676"/>
-        <updated>2022-03-31T05:15:50.818Z</updated>
-        <content type="html"><![CDATA[2022.04.08(금) 14:00]]></content>
     </entry>
 </feed>
