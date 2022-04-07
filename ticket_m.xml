@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-07T06:21:27.269Z</updated>
+    <updated>2022-04-07T07:17:39.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [카파이즘] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11702&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11702&amp;order=1"/>
+        <updated>2022-04-07T07:16:44.876Z</updated>
+        <content type="html"><![CDATA[2022-04-12(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <킹아더> 3차, 5월 시즌 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11701&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11693&amp;order=1"/>
         <updated>2022-04-05T04:21:16.399Z</updated>
         <content type="html"><![CDATA[2022-04-07(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <차미> 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11692&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11692&amp;order=1"/>
-        <updated>2022-04-05T05:15:56.362Z</updated>
-        <content type="html"><![CDATA[2022-04-11(월) 14:00]]></content>
     </entry>
 </feed>
