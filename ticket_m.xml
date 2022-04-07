@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-06T23:18:32.983Z</updated>
+    <updated>2022-04-07T01:13:51.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [빈센트 반 고흐] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11699&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11699&amp;order=1"/>
+        <updated>2022-04-07T01:13:09.509Z</updated>
+        <content type="html"><![CDATA[2022-04-12(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 황치열 청음회 [우리.봄] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11698&amp;order=1</id>
@@ -66,12 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11689&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11689&amp;order=1"/>
         <updated>2022-04-04T03:03:07.186Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 WHEE IN FANMEETING [D-DAY] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11688&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11688&amp;order=1"/>
-        <updated>2022-04-04T05:16:21.763Z</updated>
-        <content type="html"><![CDATA[2022-04-05(화) 19:00]]></content>
     </entry>
 </feed>
