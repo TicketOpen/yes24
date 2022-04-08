@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-07T23:17:46.490Z</updated>
+    <updated>2022-04-08T01:11:39.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 부활 콘서트 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11703</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11703"/>
+        <updated>2022-04-08T01:10:37.643Z</updated>
+        <content type="html"><![CDATA[2022.04.12(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [카파이즘] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11702</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11684"/>
         <updated>2022-04-07T13:27:38.134Z</updated>
         <content type="html"><![CDATA[2022.04.07(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [돌아온다] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11683</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11683"/>
-        <updated>2022-04-07T13:27:38.135Z</updated>
-        <content type="html"><![CDATA[2022.04.06(수) 11:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-07T23:17:46.503Z</updated>
+    <updated>2022-04-08T01:11:39.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 부활 콘서트 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11703&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11703&amp;order=1"/>
+        <updated>2022-04-08T01:10:47.773Z</updated>
+        <content type="html"><![CDATA[2022-04-12(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [카파이즘] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11702&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11694&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11694&amp;order=1"/>
         <updated>2022-04-07T13:28:00.419Z</updated>
-        <content type="html"><![CDATA[2022-04-07(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 뮤지컬 [레베카] 거리두기 좌석 추가 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11693&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11693&amp;order=1"/>
-        <updated>2022-04-07T13:28:00.421Z</updated>
         <content type="html"><![CDATA[2022-04-07(목) 15:00]]></content>
     </entry>
 </feed>
