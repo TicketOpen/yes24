@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-09T05:15:56.816Z</updated>
+    <updated>2022-04-09T06:21:44.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이직 땡기는 날 김나이에게 물어포차 | 이직조언 필요한 사람들을 위한 커리어 라이브 토크쇼 오..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11705</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11705"/>
+        <updated>2022-04-09T06:20:43.320Z</updated>
+        <content type="html"><![CDATA[2022.04.11(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매태성과 해봄의 첫 팬미팅 “FULL BLOOM” 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11704</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11686"/>
         <updated>2022-04-07T13:27:38.124Z</updated>
         <content type="html"><![CDATA[2022.04.07(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11685</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11685"/>
-        <updated>2022-04-07T13:27:38.124Z</updated>
-        <content type="html"><![CDATA[2022.04.06(수) 16:00]]></content>
     </entry>
 </feed>
