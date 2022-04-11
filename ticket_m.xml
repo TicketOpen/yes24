@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-11T04:22:53.249Z</updated>
+    <updated>2022-04-11T05:18:04.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 RAVI CONCERT [REVOIR] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11708&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11708&amp;order=1"/>
+        <updated>2022-04-11T05:17:14.067Z</updated>
+        <content type="html"><![CDATA[2022-04-13(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 장윤정 LIVE CONCERT - 강릉 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11707&amp;order=1</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[2022-04-11(월) 19:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 부활 콘서트 티켓오픈안내]]></title>
+        <title type="html"><![CDATA[2022 부활 서울 콘서트 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11703&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11703&amp;order=1"/>
         <updated>2022-04-08T01:10:47.773Z</updated>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11699&amp;order=1"/>
         <updated>2022-04-07T13:28:00.418Z</updated>
         <content type="html"><![CDATA[2022-04-12(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 황치열 청음회 [우리.봄] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11698&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11698&amp;order=1"/>
-        <updated>2022-04-07T13:28:00.419Z</updated>
-        <content type="html"><![CDATA[2022-04-08(금) 15:00]]></content>
     </entry>
 </feed>
