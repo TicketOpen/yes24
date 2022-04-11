@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-11T03:08:52.746Z</updated>
+    <updated>2022-04-11T04:22:53.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 LIVE CONCERT - 강릉 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11707&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11707&amp;order=1"/>
+        <updated>2022-04-11T04:22:00.305Z</updated>
+        <content type="html"><![CDATA[2022-04-14(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - Stray Kids 2nd World Tour “MANIAC” in SEOUL 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11706&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11706&amp;order=1"/>
+        <updated>2022-04-11T04:22:00.307Z</updated>
+        <content type="html"><![CDATA[2022-04-12(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이직 땡기는 날 김나이에게 물어포차 | 이직조언 필요한 사람들을 위한 커리어 라이브 토크쇼 오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11705&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11698&amp;order=1"/>
         <updated>2022-04-07T13:28:00.419Z</updated>
         <content type="html"><![CDATA[2022-04-08(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[live SUM 2022 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11697&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11697&amp;order=1"/>
-        <updated>2022-04-07T13:28:00.419Z</updated>
-        <content type="html"><![CDATA[2022-04-07(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11696&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11696&amp;order=1"/>
-        <updated>2022-04-07T13:28:00.419Z</updated>
-        <content type="html"><![CDATA[2022-04-12(화) 20:00]]></content>
     </entry>
 </feed>
