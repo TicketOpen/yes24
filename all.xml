@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 08:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,6 +27,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11710</guid>
             <pubDate>Mon, 11 Apr 2022 07:17:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.15(금) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뷰티풀 민트 라이프 2022 추가오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11709</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11709</guid>
+            <pubDate>Mon, 11 Apr 2022 09:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.18(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매2022 RAVI CONCERT [REVOIR] 티켓오픈안내 (예스24 티켓)]]></title>
@@ -141,13 +148,6 @@
             <content:encoded><![CDATA[2022.04.07(목) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <차미> 2차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11692</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11692</guid>
-            <pubDate>Thu, 07 Apr 2022 13:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.11(월) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 대전 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11712&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11712&amp;order=1</guid>
@@ -167,6 +167,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11710&amp;order=1</guid>
             <pubDate>Mon, 11 Apr 2022 07:17:48 GMT</pubDate>
             <content:encoded><![CDATA[2022-04-15(금) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뷰티풀 민트 라이프 2022 추가오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11709&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11709&amp;order=1</guid>
+            <pubDate>Mon, 11 Apr 2022 09:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022-04-18(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 RAVI CONCERT [REVOIR] 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -208,13 +215,6 @@
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11703&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11703&amp;order=1</guid>
             <pubDate>Fri, 08 Apr 2022 01:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022-04-12(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [카파이즘] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11702&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11702&amp;order=1</guid>
-            <pubDate>Thu, 07 Apr 2022 13:28:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-04-12(화) 14:00]]></content:encoded>
         </item>
         <item>

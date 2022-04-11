@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-11T08:21:47.520Z</updated>
+    <updated>2022-04-11T09:18:04.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11710"/>
         <updated>2022-04-11T07:17:39.380Z</updated>
         <content type="html"><![CDATA[2022.04.15(금) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뷰티풀 민트 라이프 2022 추가오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11709</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11709"/>
+        <updated>2022-04-11T09:17:15.581Z</updated>
+        <content type="html"><![CDATA[2022.04.18(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2022 RAVI CONCERT [REVOIR] 티켓오픈안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11693"/>
         <updated>2022-04-07T13:27:38.110Z</updated>
         <content type="html"><![CDATA[2022.04.07(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <차미> 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11692</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11692"/>
-        <updated>2022-04-07T13:27:38.115Z</updated>
-        <content type="html"><![CDATA[2022.04.11(월) 14:00]]></content>
     </entry>
 </feed>
