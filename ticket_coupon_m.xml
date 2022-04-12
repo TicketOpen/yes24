@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2022-04-12T14:16:58.466Z</updated>
+    <updated>2022-04-12T15:20:24.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
     <entry>
@@ -130,5 +130,12 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40745"/>
         <updated>2022-04-12T08:21:55.371Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,300원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 지붕 위의 바이올린] 5,000원 할인 쿠폰]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40749</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40749"/>
+        <updated>2022-04-12T15:20:24.114Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
     </entry>
 </feed>
