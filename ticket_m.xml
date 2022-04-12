@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-12T04:21:50.836Z</updated>
+    <updated>2022-04-12T05:16:34.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 드디어 부산 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11718&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11718&amp;order=1"/>
+        <updated>2022-04-12T05:15:38.992Z</updated>
+        <content type="html"><![CDATA[2022-04-20(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남심포니오케스트라 제143회 클래식품격콘서트 〈Great CONCERTO Series- H. Pfitzner & S.Rachmaninoff〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11717&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11717&amp;order=1"/>
         <updated>2022-04-12T01:14:44.350Z</updated>
         <content type="html"><![CDATA[2022-04-15(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11716&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11716&amp;order=1"/>
+        <updated>2022-04-12T05:15:38.998Z</updated>
+        <content type="html"><![CDATA[2022-04-19(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [렛미플라이] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11715&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11715&amp;order=1"/>
+        <updated>2022-04-12T05:15:38.998Z</updated>
+        <content type="html"><![CDATA[2022-04-19(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디어 슈베르트（Dear Schubert）티켓오픈안내]]></title>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11709&amp;order=1"/>
         <updated>2022-04-11T09:17:22.733Z</updated>
         <content type="html"><![CDATA[2022-04-18(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 RAVI CONCERT [REVOIR] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11708&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11708&amp;order=1"/>
-        <updated>2022-04-11T05:17:14.067Z</updated>
-        <content type="html"><![CDATA[2022-04-13(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 LIVE CONCERT - 강릉 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11707&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11707&amp;order=1"/>
-        <updated>2022-04-11T04:22:00.305Z</updated>
-        <content type="html"><![CDATA[2022-04-14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE - Stray Kids 2nd World Tour “MANIAC” in SEOUL 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11706&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11706&amp;order=1"/>
-        <updated>2022-04-11T04:22:00.307Z</updated>
-        <content type="html"><![CDATA[2022-04-12(화) 15:00]]></content>
     </entry>
 </feed>

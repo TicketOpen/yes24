@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-12T04:21:50.830Z</updated>
+    <updated>2022-04-12T05:16:34.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 드디어 부산 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11718</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11718"/>
+        <updated>2022-04-12T05:15:28.443Z</updated>
+        <content type="html"><![CDATA[2022.04.20(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남심포니오케스트라 제143회 클래식품격콘서트 〈Great CONCERTO Series- H. Pfitzner & S.Rac..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11717</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11717"/>
         <updated>2022-04-12T01:14:35.463Z</updated>
         <content type="html"><![CDATA[2022.04.15(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 4차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11716</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11716"/>
+        <updated>2022-04-12T05:15:28.444Z</updated>
+        <content type="html"><![CDATA[2022.04.19(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [렛미플라이] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11715</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11715"/>
+        <updated>2022-04-12T05:15:28.444Z</updated>
+        <content type="html"><![CDATA[2022.04.19(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디어 슈베르트（Dear Schubert）티켓오픈안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11699"/>
         <updated>2022-04-07T13:27:38.106Z</updated>
         <content type="html"><![CDATA[2022.04.12(화) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2022.04.12(화) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 황치열 청음회 [우리.봄] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11698</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11698"/>
-        <updated>2022-04-07T13:27:38.106Z</updated>
-        <content type="html"><![CDATA[2022.04.08(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매live SUM 2022 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11697</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11697"/>
-        <updated>2022-04-07T13:27:38.106Z</updated>
-        <content type="html"><![CDATA[2022.04.07(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11696</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11696"/>
-        <updated>2022-04-07T13:27:38.106Z</updated>
-        <content type="html"><![CDATA[2022.04.12(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.04.11(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
