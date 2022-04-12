@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-12T07:18:04.937Z</updated>
+    <updated>2022-04-12T08:21:56.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [원더의 공룡대모험] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11720&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11720&amp;order=1"/>
+        <updated>2022-04-12T08:21:12.254Z</updated>
+        <content type="html"><![CDATA[2022-04-14(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 드디어 부산 티켓 오픈! (Musical Hadestown)]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11718&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11710&amp;order=1"/>
         <updated>2022-04-11T07:17:48.418Z</updated>
         <content type="html"><![CDATA[2022-04-15(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷰티풀 민트 라이프 2022 추가오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11709&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11709&amp;order=1"/>
-        <updated>2022-04-11T09:17:22.733Z</updated>
-        <content type="html"><![CDATA[2022-04-18(월) 18:00]]></content>
     </entry>
 </feed>
