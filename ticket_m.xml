@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-11T23:18:53.361Z</updated>
+    <updated>2022-04-12T01:15:28.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남심포니오케스트라 제143회 클래식품격콘서트 〈Great CONCERTO Series- H. Pfitzner & S.Rachmaninoff〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11717&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11717&amp;order=1"/>
+        <updated>2022-04-12T01:14:44.350Z</updated>
+        <content type="html"><![CDATA[2022-04-15(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디어 슈베르트（Dear Schubert）티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11714&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11714&amp;order=1"/>
         <updated>2022-04-11T23:17:57.837Z</updated>
-        <content type="html"><![CDATA[2022-04-13(수) 11:00]]></content>
+        <content type="html"><![CDATA[2022-04-13(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have A Nice Day x 전주국제영화제 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11713&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11713&amp;order=1"/>
+        <updated>2022-04-12T01:14:44.353Z</updated>
+        <content type="html"><![CDATA[2022-04-15(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 대전 티켓오픈안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11706&amp;order=1"/>
         <updated>2022-04-11T04:22:00.307Z</updated>
         <content type="html"><![CDATA[2022-04-12(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이직 땡기는 날 김나이에게 물어포차 | 이직조언 필요한 사람들을 위한 커리어 라이브 토크쇼 오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11705&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11705&amp;order=1"/>
-        <updated>2022-04-09T06:20:52.909Z</updated>
-        <content type="html"><![CDATA[2022-04-11(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태성과 해봄의 첫 팬미팅 “FULL BLOOM” 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11704&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11704&amp;order=1"/>
-        <updated>2022-04-08T09:17:04.290Z</updated>
-        <content type="html"><![CDATA[2022-04-11(월) 19:00]]></content>
     </entry>
 </feed>
