@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-12T08:21:56.038Z</updated>
+    <updated>2022-04-12T09:17:54.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11720"/>
         <updated>2022-04-12T08:21:03.289Z</updated>
         <content type="html"><![CDATA[2022.04.14(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플라워 콘서트 [고백데이] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11719</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11719"/>
+        <updated>2022-04-12T09:16:53.868Z</updated>
+        <content type="html"><![CDATA[2022.04.18(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 드디어 부산 티켓 오픈! (Musical Hadestown)]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11701"/>
         <updated>2022-04-07T13:27:38.105Z</updated>
         <content type="html"><![CDATA[2022.04.12(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 ＜은밀하게 위대하게：THE LAST＞ 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11700</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11700"/>
-        <updated>2022-04-07T13:27:38.105Z</updated>
-        <content type="html"><![CDATA[2022.04.14(목) 14:00]]></content>
     </entry>
 </feed>
