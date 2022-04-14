@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-14T01:25:21.779Z</updated>
+    <updated>2022-04-14T03:05:58.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈은하철도의 밤 - 앵콜〉 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11721&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11721&amp;order=1"/>
+        <updated>2022-04-14T03:05:01.798Z</updated>
+        <content type="html"><![CDATA[2022-04-19(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 뮤지컬 [원더의 공룡대모험] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11720&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11712&amp;order=1"/>
         <updated>2022-04-13T12:30:54.326Z</updated>
         <content type="html"><![CDATA[2022-04-15(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 광주 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11711&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11711&amp;order=1"/>
-        <updated>2022-04-13T12:30:54.327Z</updated>
-        <content type="html"><![CDATA[2022-04-15(금) 14:00]]></content>
     </entry>
 </feed>
