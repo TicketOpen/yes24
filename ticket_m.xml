@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-14T07:18:09.620Z</updated>
+    <updated>2022-04-14T08:23:21.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앙상블 콘서트 : Strings Ⅱ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11726&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11726&amp;order=1"/>
+        <updated>2022-04-14T08:22:33.309Z</updated>
+        <content type="html"><![CDATA[2022-04-15(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 - 문화지원 프로그램 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11724&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11715&amp;order=1"/>
         <updated>2022-04-13T12:30:54.323Z</updated>
         <content type="html"><![CDATA[2022-04-19(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디어 슈베르트（Dear Schubert）티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11714&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11714&amp;order=1"/>
-        <updated>2022-04-13T12:30:54.323Z</updated>
-        <content type="html"><![CDATA[2022-04-13(수) 14:00]]></content>
     </entry>
 </feed>
