@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-14T04:21:52.465Z</updated>
+    <updated>2022-04-14T05:17:04.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너의 이름은. 필름 콘서트 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11722</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11722"/>
+        <updated>2022-04-14T05:16:01.122Z</updated>
+        <content type="html"><![CDATA[2022.04.21(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈은하철도의 밤 - 앵콜〉 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11721</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11703</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11703"/>
         <updated>2022-04-13T13:27:47.387Z</updated>
-        <content type="html"><![CDATA[2022.04.12(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [카파이즘] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11702</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11702"/>
-        <updated>2022-04-13T13:27:47.388Z</updated>
         <content type="html"><![CDATA[2022.04.12(화) 14:00]]></content>
     </entry>
 </feed>
