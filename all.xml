@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 08:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 09:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11726</guid>
             <pubDate>Thu, 14 Apr 2022 08:22:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.15(금) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 오존 단독공연 [Homecoming] 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11725</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11725</guid>
+            <pubDate>Thu, 14 Apr 2022 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.18(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 - 문화지원 프로그램 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -141,18 +148,18 @@
             <content:encoded><![CDATA[2022.04.12(화) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이직 땡기는 날 김나이에게 물어포차 | 이직조언 필요한 사람들을 위한 커리어 라이브 토크쇼 오.. (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11705</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11705</guid>
-            <pubDate>Wed, 13 Apr 2022 13:27:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.11(월) 15:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[앙상블 콘서트 : Strings Ⅱ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11726&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11726&amp;order=1</guid>
             <pubDate>Thu, 14 Apr 2022 08:22:33 GMT</pubDate>
             <content:encoded><![CDATA[2022-04-15(금) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 오존 단독공연 [Homecoming] 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11725&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11725&amp;order=1</guid>
+            <pubDate>Thu, 14 Apr 2022 09:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022-04-18(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 - 문화지원 프로그램 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -207,13 +214,6 @@
             <title><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 4차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11716&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11716&amp;order=1</guid>
-            <pubDate>Wed, 13 Apr 2022 12:30:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022-04-19(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [렛미플라이] 3차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11715&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11715&amp;order=1</guid>
             <pubDate>Wed, 13 Apr 2022 12:30:54 GMT</pubDate>
             <content:encoded><![CDATA[2022-04-19(화) 14:00]]></content:encoded>
         </item>

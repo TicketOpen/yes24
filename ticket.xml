@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-14T08:23:21.907Z</updated>
+    <updated>2022-04-14T09:18:54.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11726"/>
         <updated>2022-04-14T08:22:23.555Z</updated>
         <content type="html"><![CDATA[2022.04.15(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 오존 단독공연 [Homecoming] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11725</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11725"/>
+        <updated>2022-04-14T09:17:52.060Z</updated>
+        <content type="html"><![CDATA[2022.04.18(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 - 문화지원 프로그램 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11706"/>
         <updated>2022-04-13T13:27:47.385Z</updated>
         <content type="html"><![CDATA[2022.04.12(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이직 땡기는 날 김나이에게 물어포차 | 이직조언 필요한 사람들을 위한 커리어 라이브 토크쇼 오..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11705</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11705"/>
-        <updated>2022-04-13T13:27:47.385Z</updated>
-        <content type="html"><![CDATA[2022.04.11(월) 15:00]]></content>
     </entry>
 </feed>
