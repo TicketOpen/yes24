@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-14T06:22:43.042Z</updated>
+    <updated>2022-04-14T07:18:09.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 - 문화지원 프로그램 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11724</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11724"/>
+        <updated>2022-04-14T07:17:18.254Z</updated>
+        <content type="html"><![CDATA[2022.04.18(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[너의 이름은. 필름 콘서트 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11722</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11704"/>
         <updated>2022-04-13T13:27:47.385Z</updated>
         <content type="html"><![CDATA[2022.04.11(월) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 부활 서울 콘서트 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11703</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11703"/>
-        <updated>2022-04-13T13:27:47.387Z</updated>
-        <content type="html"><![CDATA[2022.04.12(화) 14:00]]></content>
     </entry>
 </feed>
