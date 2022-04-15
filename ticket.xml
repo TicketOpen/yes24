@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-14T23:18:19.444Z</updated>
+    <updated>2022-04-15T01:17:20.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [모래시계] 1차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11727</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11727"/>
+        <updated>2022-04-15T01:16:14.928Z</updated>
+        <content type="html"><![CDATA[2022.04.19(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앙상블 콘서트 : Strings Ⅱ 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11726</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11707"/>
         <updated>2022-04-14T12:33:53.511Z</updated>
         <content type="html"><![CDATA[2022.04.14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE - Stray Kids 2nd World Tour “MANIAC” in SEOUL 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11706</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11706"/>
-        <updated>2022-04-14T12:33:53.512Z</updated>
-        <content type="html"><![CDATA[2022.04.12(화) 15:00]]></content>
     </entry>
 </feed>
