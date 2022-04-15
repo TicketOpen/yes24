@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-15T06:22:12.742Z</updated>
+    <updated>2022-04-15T07:17:40.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설렘파이터 아이키의 THE MOMENT 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11729&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11729&amp;order=1"/>
+        <updated>2022-04-15T07:16:49.959Z</updated>
+        <content type="html"><![CDATA[2022-04-18(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔로 탈출부터, 연애 만렙까지! [모두의지인 연애상담소] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11728&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11720&amp;order=1"/>
         <updated>2022-04-14T12:34:04.042Z</updated>
         <content type="html"><![CDATA[2022-04-14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플라워 콘서트 [고백데이] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11719&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11719&amp;order=1"/>
-        <updated>2022-04-14T12:34:04.042Z</updated>
-        <content type="html"><![CDATA[2022-04-18(월) 18:00]]></content>
     </entry>
 </feed>
