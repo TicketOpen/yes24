@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-15T04:37:19.272Z</updated>
+    <updated>2022-04-15T05:22:31.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[솔로 탈출부터, 연애 만렙까지! [모두의지인 연애상담소] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11728&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11728&amp;order=1"/>
+        <updated>2022-04-15T05:21:48.632Z</updated>
+        <content type="html"><![CDATA[2022-04-18(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [모래시계] 1차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11727&amp;order=1</id>
@@ -34,6 +41,13 @@
         <content type="html"><![CDATA[2022-04-18(월) 14:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔니오 모리꼬네 영화음악 콘서트 WITH 라포엠 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11723&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11723&amp;order=1"/>
+        <updated>2022-04-15T05:21:48.641Z</updated>
+        <content type="html"><![CDATA[2022-04-22(금) 14:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[너의 이름은. 필름 콘서트 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11722&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11722&amp;order=1"/>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11719&amp;order=1"/>
         <updated>2022-04-14T12:34:04.042Z</updated>
         <content type="html"><![CDATA[2022-04-18(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 드디어 부산 티켓 오픈! (Musical Hadestown)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11718&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11718&amp;order=1"/>
-        <updated>2022-04-14T12:34:04.047Z</updated>
-        <content type="html"><![CDATA[2022-04-20(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남심포니오케스트라 제144회 클래식품격콘서트 〈Great CONCERTO Series- H. Pfitzner & S.Rachmaninoff〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11717&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11717&amp;order=1"/>
-        <updated>2022-04-14T12:34:04.057Z</updated>
-        <content type="html"><![CDATA[2022-04-15(금) 10:00]]></content>
     </entry>
 </feed>

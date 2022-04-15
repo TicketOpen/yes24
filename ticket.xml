@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-15T04:37:19.266Z</updated>
+    <updated>2022-04-15T05:22:31.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[솔로 탈출부터, 연애 만렙까지! [모두의지인 연애상담소] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11728</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11728"/>
+        <updated>2022-04-15T05:21:39.638Z</updated>
+        <content type="html"><![CDATA[2022.04.18(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [모래시계] 1차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11727</id>
@@ -32,6 +39,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11724"/>
         <updated>2022-04-14T12:33:53.481Z</updated>
         <content type="html"><![CDATA[2022.04.18(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔니오 모리꼬네 영화음악 콘서트 WITH 라포엠 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11723</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11723"/>
+        <updated>2022-04-15T05:21:39.642Z</updated>
+        <content type="html"><![CDATA[2022.04.22(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[너의 이름은. 필름 콘서트 티켓오픈 안내]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11709"/>
         <updated>2022-04-14T12:33:53.509Z</updated>
         <content type="html"><![CDATA[2022.04.18(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 RAVI CONCERT [REVOIR] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11708</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11708"/>
-        <updated>2022-04-14T12:33:53.510Z</updated>
-        <content type="html"><![CDATA[2022.04.13(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 LIVE CONCERT - 강릉 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11707</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11707"/>
-        <updated>2022-04-14T12:33:53.511Z</updated>
-        <content type="html"><![CDATA[2022.04.14(목) 14:00]]></content>
     </entry>
 </feed>
