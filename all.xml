@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 14:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 15:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,14 +218,6 @@
             <content:encoded><![CDATA[2022-04-14(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <빈센트 반 고흐> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41497</link>
-            <guid>http://ticket.yes24.com/Perf/41497</guid>
-            <pubDate>Thu, 14 Apr 2022 12:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>54,000원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220411/20220411-41497.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <빈센트 반 고흐> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/41497</link>
             <guid>http://m.ticket.yes24.com/Perf/41497</guid>
@@ -398,20 +390,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[뮤지컬 지붕 위의 바이올린] 5,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Thu, 14 Apr 2022 12:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.04.13 ~ 2022.04.17</dd><dt>사용기간</dt><dd>2022.04.13 ~ 2022.04.17</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 렛미플라이] 선희야 백세까지 살아보자 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Thu, 14 Apr 2022 12:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.04.11 ~ 2022.04.17</dd><dt>사용기간</dt><dd>2022.04.12 ~ 2022.04.17</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[뮤지컬 지킬앤하이드 OST] 2,400원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -433,11 +411,25 @@
             <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.04.07 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.04.07 ~ 2022.12.31</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[눈을 뜻하는 수백가지 단어들] 트롬쇠 북극 박물관 (YES24 티켓 ─ 쿠폰)]]></title>
+            <title><![CDATA[[음악극 1919 필라델피아] 독립은 시대의 뜻 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
             <pubDate>Thu, 14 Apr 2022 12:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.04.04 ~ 2022.04.17</dd><dt>사용기간</dt><dd>2022.04.05 ~ 2022.04.17</dd>]]></content:encoded>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.04.01 ~ 2022.04.30</dd><dt>사용기간</dt><dd>2022.04.01 ~ 2022.04.30</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[연극 눈을 뜻하는 수백 가지 단어들] 핑크색 섹션 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 14 Apr 2022 12:34:50 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.04.01 ~ 2022.04.30</dd><dt>사용기간</dt><dd>2022.04.01 ~ 2022.04.30</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 빈센트 반 고흐] 그 안에 우리가 있어 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 14 Apr 2022 12:34:50 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.03.24 ~ 2022.04.30</dd><dt>사용기간</dt><dd>2022.03.24 ~ 2022.04.30</dd>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
@@ -531,13 +523,6 @@
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 1,919원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[눈을 뜻하는 수백가지 단어들] 트롬쇠 북극 박물관 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40681</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40681</guid>
-            <pubDate>Thu, 14 Apr 2022 12:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 4,855원]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[뮤지컬 지킬앤하이드] 하이드가 찢어버린 1만원 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
             <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40713</link>
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40713</guid>
@@ -557,20 +542,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40732</guid>
             <pubDate>Thu, 14 Apr 2022 12:35:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 렛미플라이] 선희야 백세까지 살아보자 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40745</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40745</guid>
-            <pubDate>Thu, 14 Apr 2022 12:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,300원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 지붕 위의 바이올린] 5,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40749</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40749</guid>
-            <pubDate>Thu, 14 Apr 2022 12:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
