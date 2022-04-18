@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-18T04:26:09.118Z</updated>
+    <updated>2022-04-18T05:18:11.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 창원 거리두기 좌석 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11732</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11732"/>
+        <updated>2022-04-18T05:17:14.927Z</updated>
+        <content type="html"><![CDATA[2022.04.19(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인천] 뮤지컬 [레베카] 추가 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11731</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11731"/>
+        <updated>2022-04-18T05:17:14.932Z</updated>
+        <content type="html"><![CDATA[2022.04.19(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [스톤 THE STONE] 마지막 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11730</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11713"/>
         <updated>2022-04-14T12:33:53.504Z</updated>
         <content type="html"><![CDATA[2022.04.15(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 대전 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11712</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11712"/>
-        <updated>2022-04-14T12:33:53.505Z</updated>
-        <content type="html"><![CDATA[2022.04.15(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 광주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11711</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11711"/>
-        <updated>2022-04-14T12:33:53.507Z</updated>
-        <content type="html"><![CDATA[2022.04.15(금) 14:00]]></content>
     </entry>
 </feed>
