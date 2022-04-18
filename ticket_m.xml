@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-18T08:22:36.941Z</updated>
+    <updated>2022-04-18T09:18:32.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11734&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11734&amp;order=1"/>
+        <updated>2022-04-18T09:17:33.905Z</updated>
+        <content type="html"><![CDATA[2022-04-22(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 창원 거리두기 좌석 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11732&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11724&amp;order=1"/>
         <updated>2022-04-14T12:34:04.032Z</updated>
         <content type="html"><![CDATA[2022-04-18(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔니오 모리꼬네 영화음악 콘서트 WITH 라포엠 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11723&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11723&amp;order=1"/>
-        <updated>2022-04-15T05:21:48.641Z</updated>
-        <content type="html"><![CDATA[2022-04-22(금) 14:00]]></content>
     </entry>
 </feed>
