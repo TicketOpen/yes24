@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-17T23:18:28.347Z</updated>
+    <updated>2022-04-18T01:40:01.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [스톤 THE STONE] 마지막 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11730</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11730"/>
+        <updated>2022-04-18T01:38:55.159Z</updated>
+        <content type="html"><![CDATA[2022.04.20(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설렘파이터 아이키의 THE MOMENT 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11729</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11711"/>
         <updated>2022-04-14T12:33:53.507Z</updated>
         <content type="html"><![CDATA[2022.04.15(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 수원 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11710</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11710"/>
-        <updated>2022-04-14T12:33:53.508Z</updated>
-        <content type="html"><![CDATA[2022.04.15(금) 13:00]]></content>
     </entry>
 </feed>
