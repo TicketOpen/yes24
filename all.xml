@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 07:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 08:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하우스비전 HOUSE VISION 2022 KOREA EXHIBITION 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11737</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11737</guid>
+            <pubDate>Tue, 19 Apr 2022 08:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.21(목) 13:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[포르테 디 콰트로 콘서트〈메타포닉〉- 부산 공연 가변석 추가 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11736</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2022.04.20(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강남심포니오케스트라 제144회 클래식품격콘서트 〈Great CONCERTO Series- H. Pfitzner & S.Rac.. (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11717</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11717</guid>
-            <pubDate>Thu, 14 Apr 2022 12:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.15(금) 10:00]]></content:encoded>
+            <title><![CDATA[하우스비전 HOUSE VISION 2022 KOREA EXHIBITION 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11737&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11737&amp;order=1</guid>
+            <pubDate>Tue, 19 Apr 2022 08:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022-04-21(목) 13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[포르테 디 콰트로 콘서트〈메타포닉〉- 부산 공연 가변석 추가 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,13 +218,6 @@
             <content:encoded><![CDATA[2022-04-18(월) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [모래시계] 1차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11727&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11727&amp;order=1</guid>
-            <pubDate>Fri, 15 Apr 2022 01:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022-04-19(화) 10:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[연극 <소라별 이야기> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/41654</link>
             <guid>http://ticket.yes24.com/Perf/41654</guid>
@@ -234,12 +234,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220418/20220418-41141.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <렛미플라이> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41421</link>
-            <guid>http://ticket.yes24.com/Perf/41421</guid>
-            <pubDate>Mon, 18 Apr 2022 01:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220418/20220418-41421.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연극 <반쪼가리 자작> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41751</link>
+            <guid>http://ticket.yes24.com/Perf/41751</guid>
+            <pubDate>Mon, 18 Apr 2022 03:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>12,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220418/20220418-41751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈광주〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -250,12 +250,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220418/20220418-41702.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <반쪼가리 자작> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41751</link>
-            <guid>http://ticket.yes24.com/Perf/41751</guid>
-            <pubDate>Mon, 18 Apr 2022 03:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>12,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220418/20220418-41751.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <렛미플라이> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41421</link>
+            <guid>http://ticket.yes24.com/Perf/41421</guid>
+            <pubDate>Mon, 18 Apr 2022 01:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220418/20220418-41421.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <광주> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
