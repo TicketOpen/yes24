@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-19T06:22:27.810Z</updated>
+    <updated>2022-04-19T07:17:46.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11734&amp;order=1"/>
         <updated>2022-04-18T09:17:33.905Z</updated>
         <content type="html"><![CDATA[2022-04-22(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김사월 부산 단독 공연 : 오랫동안 너를 좋아했지 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11733&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11733&amp;order=1"/>
+        <updated>2022-04-19T07:17:04.754Z</updated>
+        <content type="html"><![CDATA[2022-04-20(수) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 창원 거리두기 좌석 티켓오픈안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11727&amp;order=1"/>
         <updated>2022-04-15T01:16:25.453Z</updated>
         <content type="html"><![CDATA[2022-04-19(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앙상블 콘서트 : Strings Ⅱ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11726&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11726&amp;order=1"/>
-        <updated>2022-04-14T12:34:04.030Z</updated>
-        <content type="html"><![CDATA[2022-04-15(금) 16:00]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-19T06:22:27.811Z</updated>
+    <updated>2022-04-19T07:17:46.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11734"/>
         <updated>2022-04-18T09:17:22.950Z</updated>
         <content type="html"><![CDATA[2022.04.22(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김사월 부산 단독 공연 : 오랫동안 너를 좋아했지 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11733</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11733"/>
+        <updated>2022-04-19T07:16:55.843Z</updated>
+        <content type="html"><![CDATA[2022.04.20(수) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 창원 거리두기 좌석 티켓오픈안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11717"/>
         <updated>2022-04-14T12:33:53.497Z</updated>
         <content type="html"><![CDATA[2022.04.15(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 4차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11716</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11716"/>
-        <updated>2022-04-14T12:33:53.498Z</updated>
-        <content type="html"><![CDATA[2022.04.19(화) 14:00]]></content>
     </entry>
 </feed>
