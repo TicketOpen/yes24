@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-19T01:27:27.255Z</updated>
+    <updated>2022-04-19T03:24:45.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포르테 디 콰트로 콘서트〈메타포닉〉- 부산 공연 가변석 추가 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11736</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11736"/>
+        <updated>2022-04-19T03:23:50.918Z</updated>
+        <content type="html"><![CDATA[2022.04.19(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11734</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11715"/>
         <updated>2022-04-14T12:33:53.500Z</updated>
         <content type="html"><![CDATA[2022.04.19(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디어 슈베르트（Dear Schubert）티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11714</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11714"/>
-        <updated>2022-04-14T12:33:53.503Z</updated>
-        <content type="html"><![CDATA[2022.04.13(수) 14:00]]></content>
     </entry>
 </feed>
