@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-20T06:49:05.666Z</updated>
+    <updated>2022-04-20T07:18:52.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 일산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11748</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11748"/>
+        <updated>2022-04-20T07:17:51.077Z</updated>
+        <content type="html"><![CDATA[2022.04.25(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코리아 하우스비전 HOUSE VISION 2022 KOREA EXHIBITION 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11737</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11719"/>
         <updated>2022-04-14T12:33:53.495Z</updated>
         <content type="html"><![CDATA[2022.04.18(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 드디어 부산 티켓 오픈! (Musical Hadestown)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11718</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11718"/>
-        <updated>2022-04-14T12:33:53.496Z</updated>
-        <content type="html"><![CDATA[2022.04.20(수) 14:00]]></content>
     </entry>
 </feed>

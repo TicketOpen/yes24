@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-20T06:49:05.662Z</updated>
+    <updated>2022-04-20T07:18:52.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 일산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11748&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11748&amp;order=1"/>
+        <updated>2022-04-20T07:18:01.239Z</updated>
+        <content type="html"><![CDATA[2022-04-25(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코리아 하우스비전 HOUSE VISION 2022 KOREA EXHIBITION 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11737&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11729&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11729&amp;order=1"/>
         <updated>2022-04-15T07:16:49.959Z</updated>
-        <content type="html"><![CDATA[2022-04-18(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔로 탈출부터, 연애 만렙까지! [모두의지인 연애상담소] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11728&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11728&amp;order=1"/>
-        <updated>2022-04-15T05:21:48.632Z</updated>
         <content type="html"><![CDATA[2022-04-18(월) 10:00]]></content>
     </entry>
 </feed>
