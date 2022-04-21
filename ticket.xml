@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-21T04:45:15.167Z</updated>
+    <updated>2022-04-21T05:37:15.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [백조왕자] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11749</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11749"/>
+        <updated>2022-04-21T05:36:12.607Z</updated>
+        <content type="html"><![CDATA[2022.04.25(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 일산 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11748</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11720"/>
         <updated>2022-04-14T12:33:53.494Z</updated>
         <content type="html"><![CDATA[2022.04.14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플라워 콘서트 [고백데이] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11719</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11719"/>
-        <updated>2022-04-14T12:33:53.495Z</updated>
-        <content type="html"><![CDATA[2022.04.18(월) 18:00]]></content>
     </entry>
 </feed>
