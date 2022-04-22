@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-22T09:19:21.809Z</updated>
+    <updated>2022-04-22T10:21:41.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[2022.05.24(화) 10:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[단독판매2022년 ‘Dream 55’ 나훈아 콘서트 - 대전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11739</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11739"/>
+        <updated>2022-04-22T10:20:35.216Z</updated>
+        <content type="html"><![CDATA[2022.05.17(화) 10:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[단독판매2022년 ‘Dream 55’ 나훈아 콘서트 - 부산 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11738</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11738"/>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11730"/>
         <updated>2022-04-18T01:38:55.159Z</updated>
         <content type="html"><![CDATA[2022.04.20(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설렘파이터 아이키의 THE MOMENT 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11729</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11729"/>
-        <updated>2022-04-15T07:16:39.732Z</updated>
-        <content type="html"><![CDATA[2022.04.18(월) 10:00]]></content>
     </entry>
 </feed>
