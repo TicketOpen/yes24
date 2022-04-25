@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-25T08:24:09.770Z</updated>
+    <updated>2022-04-25T09:19:15.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뷰티풀 민트 라이프 2022 : Special Night 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11750&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11750&amp;order=1"/>
+        <updated>2022-04-25T09:18:19.335Z</updated>
+        <content type="html"><![CDATA[2022-04-29(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 뮤지컬 [백조왕자] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11749&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11741&amp;order=1"/>
         <updated>2022-04-22T06:21:54.085Z</updated>
         <content type="html"><![CDATA[2022-05-31(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 ‘Dream 55’ 나훈아 콘서트 - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11740&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11740&amp;order=1"/>
-        <updated>2022-04-22T06:21:54.086Z</updated>
-        <content type="html"><![CDATA[2022-05-24(화) 10:00]]></content>
     </entry>
 </feed>

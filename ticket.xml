@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-25T08:24:09.915Z</updated>
+    <updated>2022-04-25T09:19:15.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뷰티풀 민트 라이프 2022 : Special Night 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11750</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11750"/>
+        <updated>2022-04-25T09:18:08.549Z</updated>
+        <content type="html"><![CDATA[2022.04.29(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 뮤지컬 [백조왕자] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11749</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11731"/>
         <updated>2022-04-18T05:17:14.932Z</updated>
         <content type="html"><![CDATA[2022.04.19(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [스톤 THE STONE] 마지막 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11730</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11730"/>
-        <updated>2022-04-18T01:38:55.159Z</updated>
-        <content type="html"><![CDATA[2022.04.20(수) 14:00]]></content>
     </entry>
 </feed>
