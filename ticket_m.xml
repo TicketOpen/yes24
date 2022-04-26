@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-26T07:18:25.818Z</updated>
+    <updated>2022-04-26T08:22:35.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [볼륨업] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11754&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11754&amp;order=1"/>
+        <updated>2022-04-26T08:21:41.444Z</updated>
+        <content type="html"><![CDATA[2022-04-29(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [카파이즘] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11753&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11745&amp;order=1"/>
         <updated>2022-04-22T06:21:54.083Z</updated>
         <content type="html"><![CDATA[2022-06-28(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 ‘Dream 55’ 나훈아 콘서트 - 고양 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11744&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11744&amp;order=1"/>
-        <updated>2022-04-22T06:21:54.083Z</updated>
-        <content type="html"><![CDATA[2022-06-21(화) 10:00]]></content>
     </entry>
 </feed>
