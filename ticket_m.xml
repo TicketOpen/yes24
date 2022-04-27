@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-27T09:19:12.145Z</updated>
+    <updated>2022-04-27T10:21:18.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영재국악회 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11761&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11761&amp;order=1"/>
+        <updated>2022-04-27T10:20:18.626Z</updated>
+        <content type="html"><![CDATA[2022-05-02(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[성남] 뮤지컬 [레베카] 거리두기석 추가오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11760&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11752&amp;order=1"/>
         <updated>2022-04-26T05:19:13.598Z</updated>
         <content type="html"><![CDATA[2022-05-02(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [오아시스] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11751&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11751&amp;order=1"/>
-        <updated>2022-04-26T01:26:07.286Z</updated>
-        <content type="html"><![CDATA[2022-04-28(목) 14:00]]></content>
     </entry>
 </feed>

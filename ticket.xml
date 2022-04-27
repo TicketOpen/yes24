@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-27T09:19:12.146Z</updated>
+    <updated>2022-04-27T10:21:18.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영재국악회 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11761</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11761"/>
+        <updated>2022-04-27T10:20:08.128Z</updated>
+        <content type="html"><![CDATA[2022.05.02(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[성남] 뮤지컬 [레베카] 거리두기석 추가오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11760</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11742"/>
         <updated>2022-04-22T06:21:44.722Z</updated>
         <content type="html"><![CDATA[2022.06.08(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022년 ‘Dream 55’ 나훈아 콘서트 - 인천 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11741</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11741"/>
-        <updated>2022-04-22T06:21:44.724Z</updated>
-        <content type="html"><![CDATA[2022.05.31(화) 10:00]]></content>
     </entry>
 </feed>
