@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-04-26T23:19:14.103Z</updated>
+    <updated>2022-04-27T01:40:09.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 컨템포러리 시즌 [싱크 넥스트 22] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11756&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11756&amp;order=1"/>
+        <updated>2022-04-27T01:39:24.565Z</updated>
+        <content type="html"><![CDATA[2022-05-03(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [빈센트 반 고흐] 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11755&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11755&amp;order=1"/>
+        <updated>2022-04-27T01:39:24.567Z</updated>
+        <content type="html"><![CDATA[2022-05-03(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [볼륨업] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11754&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11747&amp;order=1"/>
         <updated>2022-04-22T06:21:54.083Z</updated>
         <content type="html"><![CDATA[2022-07-12(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 ‘Dream 55’ 나훈아 콘서트 - 천안 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11746&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11746&amp;order=1"/>
-        <updated>2022-04-22T06:21:54.083Z</updated>
-        <content type="html"><![CDATA[2022-07-05(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 ‘Dream 55’ 나훈아 콘서트 - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11745&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11745&amp;order=1"/>
-        <updated>2022-04-22T06:21:54.083Z</updated>
-        <content type="html"><![CDATA[2022-06-28(화) 10:00]]></content>
     </entry>
 </feed>
