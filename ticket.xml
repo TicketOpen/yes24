@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-04-27T04:44:49.082Z</updated>
+    <updated>2022-04-27T05:28:32.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[성남] 뮤지컬 [레베카] 거리두기석 추가오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11760</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11760"/>
+        <updated>2022-04-27T05:27:39.384Z</updated>
+        <content type="html"><![CDATA[2022.04.29(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양] 뮤지컬 [레베카] 거리두기석 추가오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11759</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11759"/>
+        <updated>2022-04-27T05:27:39.388Z</updated>
+        <content type="html"><![CDATA[2022.04.29(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천안] 뮤지컬 [레베카] 거리두기석 추가오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11758</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11758"/>
+        <updated>2022-04-27T05:27:39.388Z</updated>
+        <content type="html"><![CDATA[2022.04.28(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진주] 뮤지컬 [레베카] 거리두기석 추가오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11757</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11757"/>
+        <updated>2022-04-27T05:27:39.388Z</updated>
+        <content type="html"><![CDATA[2022.04.28(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종문화회관 컨템포러리 시즌 [싱크 넥스트 22] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11756</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11741"/>
         <updated>2022-04-22T06:21:44.724Z</updated>
         <content type="html"><![CDATA[2022.05.31(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022년 ‘Dream 55’ 나훈아 콘서트 - 창원 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11740</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11740"/>
-        <updated>2022-04-22T06:21:44.725Z</updated>
-        <content type="html"><![CDATA[2022.05.24(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022년 ‘Dream 55’ 나훈아 콘서트 - 대전 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11739</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11739"/>
-        <updated>2022-04-22T10:20:35.216Z</updated>
-        <content type="html"><![CDATA[2022.05.17(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022년 ‘Dream 55’ 나훈아 콘서트 - 부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11738</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11738"/>
-        <updated>2022-04-22T06:21:44.726Z</updated>
-        <content type="html"><![CDATA[2022.05.10(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코리아 하우스비전 HOUSE VISION 2022 KOREA EXHIBITION 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11737</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11737"/>
-        <updated>2022-04-19T08:21:19.171Z</updated>
-        <content type="html"><![CDATA[2022.04.22(금) 13:00]]></content>
     </entry>
 </feed>
