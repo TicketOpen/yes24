@@ -4,16 +4,16 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 15:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 16:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 <지붕위의 바이올린>]]></title>
-            <link>http://ticket.yes24.com/Perf/41504</link>
-            <guid>http://ticket.yes24.com/Perf/41504</guid>
+            <title><![CDATA[뮤지컬 <지킬앤하이드>]]></title>
+            <link>http://ticket.yes24.com/Perf/39997</link>
+            <guid>http://ticket.yes24.com/Perf/39997</guid>
             <pubDate>Mon, 25 Apr 2022 01:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									100,000원								</td>								<td class="dc_price">									<em>→</em>62,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220425/20220425-41504.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									130,000원								</td>								<td class="dc_price">									<em>→</em>88,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220425/20220425-39997.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코믹연극 <딜리버리>]]></title>
@@ -24,12 +24,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220425/20220425-41762.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <지킬앤하이드>]]></title>
-            <link>http://ticket.yes24.com/Perf/39997</link>
-            <guid>http://ticket.yes24.com/Perf/39997</guid>
+            <title><![CDATA[뮤지컬 <지붕위의 바이올린>]]></title>
+            <link>http://ticket.yes24.com/Perf/41504</link>
+            <guid>http://ticket.yes24.com/Perf/41504</guid>
             <pubDate>Mon, 25 Apr 2022 01:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									130,000원								</td>								<td class="dc_price">									<em>→</em>88,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220425/20220425-39997.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									100,000원								</td>								<td class="dc_price">									<em>→</em>62,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220425/20220425-41504.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
