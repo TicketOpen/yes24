@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 22:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 23:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,6 +259,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202204/20220425/20220425-1ad2ad35-bf85-4e12-b6e0-6c6f077d7514.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[5월 프로모션 <당신은 나의 넘버원> (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3283</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3283</guid>
+            <pubDate>Sun, 01 May 2022 23:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.02 ~ 2022.05.31 | 2022.06.08 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220502/20220502-41737264-2d1c-4d5c-8225-3d7c51eb9101.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <모래시계> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41982&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41982&amp;Tab=3</guid>
@@ -312,19 +320,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[예술의전당 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
-            <pubDate>Sun, 01 May 2022 15:19:17 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[이벤트 기간2022.04.25 ~ 2022.07.16 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41685</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41685</guid>
             <pubDate>Mon, 25 Apr 2022 01:19:40 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>전 배우 사인플북]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202204/20220425/20220425-1ad2ad35-bf85-4e12-b6e0-6c6f077d7514.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2022.05.02 ~ 2022.05.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3283</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3283</guid>
+            <pubDate>Sun, 01 May 2022 23:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>2022.06.08]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220502/20220502-41737264-2d1c-4d5c-8225-3d7c51eb9101.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.04.19 ~ 2022.05.20 (YES24 티켓 ─ 이벤트 모바일)]]></title>
