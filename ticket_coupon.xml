@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2022-05-01T14:17:17.747Z</updated>
+    <updated>2022-05-01T15:19:45.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
     <entry>
@@ -12,13 +12,6 @@
         <updated>2022-04-14T12:34:50.875Z</updated>
         <content type="html"><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 최후진술] 별의 속삭임 칸타빌레]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2022-04-14T12:34:50.875Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.04.22 ~ 2022.05.01</dd><dt>사용기간</dt><dd>2022.04.23 ~ 2022.05.01</dd>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뮤지컬 지킬앤하이드] 하이드가 찢어버린 5천원 쿠폰]]></title>
@@ -54,5 +47,12 @@
         <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
         <updated>2022-04-14T12:34:50.875Z</updated>
         <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.01.28 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.01.28 ~ 2022.12.31</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 젠틀맨스 가이드] 5천원 할인쿠폰_2022]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2022-04-14T12:34:50.875Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.01.24 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.01.24 ~ 2022.12.31</dd>]]></content>
     </entry>
 </feed>
