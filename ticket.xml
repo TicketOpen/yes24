@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-02T08:24:26.429Z</updated>
+    <updated>2022-05-02T09:19:38.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내(5/3, 5/8, 5/15, 5/16)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11771</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11771"/>
+        <updated>2022-05-02T09:18:34.490Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [비더슈탄트] 프리뷰 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11769</id>
@@ -25,6 +31,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11767"/>
         <updated>2022-05-02T07:17:08.065Z</updated>
         <content type="html"><![CDATA[2022.05.04(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현대카드 Curated 75 기리보이 : 2252 CONCERT 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11766</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11766"/>
+        <updated>2022-05-02T09:18:34.498Z</updated>
+        <content type="html"><![CDATA[2022.05.04(수) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매효도앤베이스와 봉제인간 콘서트 티켓오픈안내]]></title>
@@ -130,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11751"/>
         <updated>2022-04-26T01:25:57.053Z</updated>
         <content type="html"><![CDATA[2022.04.28(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷰티풀 민트 라이프 2022 : Special Night 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11750</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11750"/>
-        <updated>2022-04-25T11:15:24.580Z</updated>
-        <content type="html"><![CDATA[2022.04.29(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤지컬 [백조왕자] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11749</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11749"/>
-        <updated>2022-04-21T05:36:12.607Z</updated>
-        <content type="html"><![CDATA[2022.04.25(월) 09:00]]></content>
     </entry>
 </feed>

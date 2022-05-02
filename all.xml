@@ -4,9 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 08:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 09:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내(5/3, 5/8, 5/15, 5/16) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11771</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11771</guid>
+            <pubDate>Mon, 02 May 2022 09:18:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 [비더슈탄트] 프리뷰 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11769</link>
@@ -27,6 +33,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11767</guid>
             <pubDate>Mon, 02 May 2022 07:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.04(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현대카드 Curated 75 기리보이 : 2252 CONCERT 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11766</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11766</guid>
+            <pubDate>Mon, 02 May 2022 09:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.04(수) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매효도앤베이스와 봉제인간 콘서트 티켓오픈안내 (예스24 티켓)]]></title>
@@ -134,20 +147,6 @@
             <content:encoded><![CDATA[2022.04.28(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뷰티풀 민트 라이프 2022 : Special Night 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11750</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11750</guid>
-            <pubDate>Mon, 25 Apr 2022 11:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.29(금) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부산] 뮤지컬 [백조왕자] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11749</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11749</guid>
-            <pubDate>Thu, 21 Apr 2022 05:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.25(월) 09:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [비더슈탄트] 프리뷰 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11769&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11769&amp;order=1</guid>
@@ -167,6 +166,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11767&amp;order=1</guid>
             <pubDate>Mon, 02 May 2022 07:17:20 GMT</pubDate>
             <content:encoded><![CDATA[2022-05-04(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현대카드 Curated 75 기리보이 : 2252 CONCERT 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11766&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11766&amp;order=1</guid>
+            <pubDate>Mon, 02 May 2022 09:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022-05-04(수) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[효도앤베이스와 봉제인간 콘서트 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -209,13 +215,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11760&amp;order=1</guid>
             <pubDate>Wed, 27 Apr 2022 05:27:48 GMT</pubDate>
             <content:encoded><![CDATA[2022-04-29(금) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[고양] 뮤지컬 [레베카] 거리두기석 추가오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11759&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11759&amp;order=1</guid>
-            <pubDate>Wed, 27 Apr 2022 05:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022-04-29(금) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 [연애하기좋은날] - 대학로 아티스탄홀 (YES24 티켓 ─ 엔젤티켓)]]></title>
