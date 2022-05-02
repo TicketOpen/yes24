@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 01:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 03:55:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,33 @@
             <content:encoded><![CDATA[2022-04-29(금) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 [연애하기좋은날] - 대학로 아티스탄홀 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/34882</link>
+            <guid>http://ticket.yes24.com/Perf/34882</guid>
+            <pubDate>Mon, 02 May 2022 03:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220214/20220214-34882.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <연애하기좋은날> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/34882</link>
+            <guid>http://m.ticket.yes24.com/Perf/34882</guid>
+            <pubDate>Mon, 02 May 2022 03:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 &lt;연애하기좋은날&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">71</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">35,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">7,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5월 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202202/20220214/20220214-34882.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <오아시스> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42081&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42081&amp;Tab=3</guid>
+            <pubDate>Mon, 02 May 2022 03:55:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.02 ~ 2022.05.24 | 2022.05.27 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220502/20220502-8343a66d-71ec-4195-8000-999f97d70f35.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <차미> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41685&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41685&amp;Tab=2</guid>
@@ -280,11 +307,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Sun, 01 May 2022 15:19:17 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
+            <title><![CDATA[이벤트 기간2022.05.02 ~ 2022.05.24 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42081</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42081</guid>
+            <pubDate>Mon, 02 May 2022 03:55:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2022년 6월 4일(토) 오후 6시 30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220502/20220502-8343a66d-71ec-4195-8000-999f97d70f35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.04.25 ~ 2022.07.16 (YES24 티켓 ─ 이벤트 모바일)]]></title>
