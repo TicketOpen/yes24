@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-02T07:18:24.003Z</updated>
+    <updated>2022-05-02T08:24:26.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [비더슈탄트] 프리뷰 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11769&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11769&amp;order=1"/>
+        <updated>2022-05-02T08:23:32.679Z</updated>
+        <content type="html"><![CDATA[2022-05-09(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 롯데콘서트홀 키즈콘서트〈콩순이와 친구들의 음악여행〉티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11768&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11759&amp;order=1"/>
         <updated>2022-04-27T05:27:48.631Z</updated>
         <content type="html"><![CDATA[2022-04-29(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천안] 뮤지컬 [레베카] 거리두기석 추가오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11758&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11758&amp;order=1"/>
-        <updated>2022-04-27T05:27:48.631Z</updated>
-        <content type="html"><![CDATA[2022-04-28(목) 16:00]]></content>
     </entry>
 </feed>

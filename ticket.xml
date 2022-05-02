@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-02T07:18:24.000Z</updated>
+    <updated>2022-05-02T08:24:26.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [비더슈탄트] 프리뷰 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11769</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11769"/>
+        <updated>2022-05-02T08:23:22.751Z</updated>
+        <content type="html"><![CDATA[2022.05.09(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 롯데콘서트홀 키즈콘서트〈콩순이와 친구들의 음악여행〉티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11768</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11749"/>
         <updated>2022-04-21T05:36:12.607Z</updated>
         <content type="html"><![CDATA[2022.04.25(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 일산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11748</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11748"/>
-        <updated>2022-04-20T07:17:51.077Z</updated>
-        <content type="html"><![CDATA[2022.04.25(월) 14:00]]></content>
     </entry>
 </feed>
