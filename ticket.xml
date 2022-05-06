@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-06T06:25:13.834Z</updated>
+    <updated>2022-05-06T07:18:06.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘트롯특전사’ 박군의 첫번째 팬 콘서트 - 울산/대구/부산 취소안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11787</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11787"/>
+        <updated>2022-05-06T07:16:45.909Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제19회 부산국제연극제 - 룸메이트 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11786</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11786"/>
+        <updated>2022-05-06T07:16:45.909Z</updated>
+        <content type="html"><![CDATA[2022.05.16(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제19회 부산국제연극제 - 복녀씨 이야기 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11785</id>
@@ -25,6 +38,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11783"/>
         <updated>2022-05-06T06:24:14.804Z</updated>
         <content type="html"><![CDATA[2022.05.16(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <은하철도의 밤 - 앵콜> 마지막 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11782</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11782"/>
+        <updated>2022-05-06T07:16:45.913Z</updated>
+        <content type="html"><![CDATA[2022.05.10(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제19회 부산국제연극제 - 파 한 단, 두부 한 모 티켓오픈안내]]></title>
@@ -122,26 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11767"/>
         <updated>2022-05-02T07:17:08.065Z</updated>
         <content type="html"><![CDATA[2022.05.04(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대카드 Curated 75 기리보이 : 2252 CONCERT 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11766</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11766"/>
-        <updated>2022-05-02T09:18:34.498Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매효도앤베이스와 봉제인간 콘서트 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11765</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11765"/>
-        <updated>2022-05-02T05:30:15.776Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 5차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11764</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11764"/>
-        <updated>2022-05-02T05:30:15.778Z</updated>
-        <content type="html"><![CDATA[2022.05.06(금) 14:00]]></content>
     </entry>
 </feed>

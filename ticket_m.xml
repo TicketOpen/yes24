@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-06T06:25:13.831Z</updated>
+    <updated>2022-05-06T07:18:06.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘트롯특전사’ 박군의 첫번째 팬 콘서트 - 울산/대구/부산 취소안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11787&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11787&amp;order=1"/>
+        <updated>2022-05-06T07:17:04.412Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제19회 부산국제연극제 - 룸메이트 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11786&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11786&amp;order=1"/>
+        <updated>2022-05-06T07:17:04.412Z</updated>
+        <content type="html"><![CDATA[2022-05-16(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제19회 부산국제연극제 - 복녀씨 이야기 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11785&amp;order=1</id>
@@ -25,6 +38,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11783&amp;order=1"/>
         <updated>2022-05-06T06:24:24.613Z</updated>
         <content type="html"><![CDATA[2022-05-16(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <은하철도의 밤 - 앵콜> 마지막 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11782&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11782&amp;order=1"/>
+        <updated>2022-05-06T07:17:04.417Z</updated>
+        <content type="html"><![CDATA[2022-05-10(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제19회 부산국제연극제 - 파 한 단, 두부 한 모 티켓오픈안내]]></title>
@@ -53,26 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11778&amp;order=1"/>
         <updated>2022-05-06T01:15:56.967Z</updated>
         <content type="html"><![CDATA[2022-05-13(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <하데스타운> 부산 연장 공연 확정, 추가 티켓 오픈! (Musical Hadestown)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11777&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11777&amp;order=1"/>
-        <updated>2022-05-06T01:15:56.971Z</updated>
-        <content type="html"><![CDATA[2022-05-12(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 AB6IX FAN MEETING [AB_NEW AREA] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11776&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11776&amp;order=1"/>
-        <updated>2022-05-04T11:14:35.116Z</updated>
-        <content type="html"><![CDATA[2022-05-10(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 B.N.F Festival 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11775&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11775&amp;order=1"/>
-        <updated>2022-05-03T09:17:44.559Z</updated>
-        <content type="html"><![CDATA[2022-05-09(월) 20:00]]></content>
     </entry>
 </feed>
