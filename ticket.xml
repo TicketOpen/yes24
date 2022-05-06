@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-05T23:19:19.434Z</updated>
+    <updated>2022-05-06T01:16:51.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [클림트] 3차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11778</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11778"/>
+        <updated>2022-05-06T01:15:46.416Z</updated>
+        <content type="html"><![CDATA[2022.05.13(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 부산 연장 공연 확정, 추가 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11777</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11777"/>
+        <updated>2022-05-06T01:15:46.416Z</updated>
+        <content type="html"><![CDATA[2022.05.12(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2022 AB6IX FAN MEETING [AB_NEW AREA] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11776</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11758"/>
         <updated>2022-04-27T05:27:39.388Z</updated>
         <content type="html"><![CDATA[2022.04.28(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진주] 뮤지컬 [레베카] 거리두기석 추가오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11757</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11757"/>
-        <updated>2022-04-27T05:27:39.388Z</updated>
-        <content type="html"><![CDATA[2022.04.28(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종문화회관 Sync Next 22 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11756</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11756"/>
-        <updated>2022-04-27T01:39:15.351Z</updated>
-        <content type="html"><![CDATA[2022.05.03(화) 14:00]]></content>
     </entry>
 </feed>

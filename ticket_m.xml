@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-05T23:19:19.417Z</updated>
+    <updated>2022-05-06T01:16:51.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [클림트] 3차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11778&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11778&amp;order=1"/>
+        <updated>2022-05-06T01:15:56.967Z</updated>
+        <content type="html"><![CDATA[2022-05-13(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 부산 연장 공연 확정, 추가 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11777&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11777&amp;order=1"/>
+        <updated>2022-05-06T01:15:56.971Z</updated>
+        <content type="html"><![CDATA[2022-05-12(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 AB6IX FAN MEETING [AB_NEW AREA] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11776&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11767&amp;order=1"/>
         <updated>2022-05-02T07:17:20.260Z</updated>
         <content type="html"><![CDATA[2022-05-04(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대카드 Curated 75 기리보이 : 2252 CONCERT 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11766&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11766&amp;order=1"/>
-        <updated>2022-05-02T09:18:44.531Z</updated>
-        <content type="html"><![CDATA[2022-05-04(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[효도앤베이스와 봉제인간 콘서트 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11765&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11765&amp;order=1"/>
-        <updated>2022-05-02T05:30:24.657Z</updated>
-        <content type="html"><![CDATA[2022-05-04(수) 14:00]]></content>
     </entry>
 </feed>
