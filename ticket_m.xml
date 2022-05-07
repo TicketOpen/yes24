@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-07T04:22:57.386Z</updated>
+    <updated>2022-05-07T05:16:30.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 시스템 점검 안내(5/9)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11788&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11788&amp;order=1"/>
+        <updated>2022-05-07T05:15:33.087Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘트롯특전사’ 박군의 첫번째 팬 콘서트 - 울산/대구/부산 취소안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11787&amp;order=1</id>
@@ -66,12 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11779&amp;order=1"/>
         <updated>2022-05-06T06:24:24.624Z</updated>
         <content type="html"><![CDATA[2022-05-16(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [클림트] 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11778&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11778&amp;order=1"/>
-        <updated>2022-05-06T01:15:56.967Z</updated>
-        <content type="html"><![CDATA[2022-05-13(금) 14:00]]></content>
     </entry>
 </feed>

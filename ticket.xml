@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-07T04:22:57.380Z</updated>
+    <updated>2022-05-07T05:16:29.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 시스템 점검 안내(5/9)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11788</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11788"/>
+        <updated>2022-05-07T05:15:22.107Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘트롯특전사’ 박군의 첫번째 팬 콘서트 - 울산/대구/부산 취소안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11787</id>
@@ -135,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11768"/>
         <updated>2022-05-02T05:30:15.776Z</updated>
         <content type="html"><![CDATA[2022.05.04(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매festival SUM 2022 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11767</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11767"/>
-        <updated>2022-05-02T07:17:08.065Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 20:00]]></content>
     </entry>
 </feed>
