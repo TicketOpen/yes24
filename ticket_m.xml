@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-09T05:21:23.699Z</updated>
+    <updated>2022-05-09T06:23:39.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -71,6 +71,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11782&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11782&amp;order=1"/>
         <updated>2022-05-06T07:17:04.417Z</updated>
-        <content type="html"><![CDATA[2022-05-10(화) 11:00]]></content>
+        <content type="html"><![CDATA[2022-05-13(금) 11:00]]></content>
     </entry>
 </feed>
