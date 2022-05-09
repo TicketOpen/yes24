@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-09T01:26:46.500Z</updated>
+    <updated>2022-05-09T03:21:53.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11789</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11789"/>
+        <updated>2022-05-09T03:20:46.404Z</updated>
+        <content type="html"><![CDATA[2022.05.12(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종문화회관 시스템 점검 안내(5/9)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11788</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11769"/>
         <updated>2022-05-02T08:23:22.751Z</updated>
         <content type="html"><![CDATA[2022.05.09(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 롯데콘서트홀 키즈콘서트〈콩순이와 친구들의 음악여행〉티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11768</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11768"/>
-        <updated>2022-05-02T05:30:15.776Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 14:00]]></content>
     </entry>
 </feed>

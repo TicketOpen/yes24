@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-09T01:26:46.501Z</updated>
+    <updated>2022-05-09T03:21:53.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11789&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11789&amp;order=1"/>
+        <updated>2022-05-09T03:20:57.021Z</updated>
+        <content type="html"><![CDATA[2022-05-12(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종문화회관 시스템 점검 안내(5/9)]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11788&amp;order=1</id>
@@ -63,13 +70,6 @@
         <title type="html"><![CDATA[제19회 부산국제연극제 - 막차 타고 노을 보다 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11780&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11780&amp;order=1"/>
-        <updated>2022-05-06T06:24:24.624Z</updated>
-        <content type="html"><![CDATA[2022-05-16(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제19회 부산국제연극제 - 귀여운 여인 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11779&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11779&amp;order=1"/>
         <updated>2022-05-06T06:24:24.624Z</updated>
         <content type="html"><![CDATA[2022-05-16(월) 10:00]]></content>
     </entry>
