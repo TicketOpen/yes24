@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-09T04:32:15.211Z</updated>
+    <updated>2022-05-09T05:21:23.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 ‘3 STAR’ 신유,홍자,양지원 - 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11791</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11791"/>
+        <updated>2022-05-09T05:20:29.954Z</updated>
+        <content type="html"><![CDATA[2022.05.12(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 노을 콘서트 [Cafe 유월] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11790</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11790"/>
+        <updated>2022-05-09T05:20:29.959Z</updated>
+        <content type="html"><![CDATA[2022.05.11(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 마지막 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11789</id>
@@ -128,18 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11772"/>
         <updated>2022-05-03T03:24:08.653Z</updated>
         <content type="html"><![CDATA[2022.05.04(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내(5/3, 5/8, 5/9, 5/10, 5/15, 5/16)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11771</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11771"/>
-        <updated>2022-05-02T09:18:34.490Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [비더슈탄트] 프리뷰 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11769</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11769"/>
-        <updated>2022-05-02T08:23:22.751Z</updated>
-        <content type="html"><![CDATA[2022.05.09(월) 15:00]]></content>
     </entry>
 </feed>
