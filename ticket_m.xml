@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-10T04:23:19.197Z</updated>
+    <updated>2022-05-10T05:18:18.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PARK JIHOON BIRTHDAY PARTY [May I meet you?] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11796&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11796&amp;order=1"/>
+        <updated>2022-05-10T05:17:26.789Z</updated>
+        <content type="html"><![CDATA[2022-05-18(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 차학연 팬미팅 [돌아온 A! 차학연] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11795&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11795&amp;order=1"/>
+        <updated>2022-05-10T05:17:26.793Z</updated>
+        <content type="html"><![CDATA[2022-05-13(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 3차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11794&amp;order=1</id>
@@ -58,19 +72,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11787&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11787&amp;order=1"/>
         <updated>2022-05-06T07:17:04.412Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제19회 부산국제연극제 - 룸메이트 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11786&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11786&amp;order=1"/>
-        <updated>2022-05-06T07:17:04.412Z</updated>
-        <content type="html"><![CDATA[2022-05-16(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제19회 부산국제연극제 - 복녀씨 이야기 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11785&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11785&amp;order=1"/>
-        <updated>2022-05-06T06:24:24.611Z</updated>
-        <content type="html"><![CDATA[2022-05-16(월) 10:00]]></content>
     </entry>
 </feed>
