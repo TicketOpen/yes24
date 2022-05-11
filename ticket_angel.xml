@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 11:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 12:37:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 09 May 2022 01:26:04 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202205/20220509/20220509-41908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <친정엄마와 2박 3일> - 강릉]]></title>
-            <link>http://ticket.yes24.com/Perf/41629</link>
-            <guid>http://ticket.yes24.com/Perf/41629</guid>
-            <pubDate>Mon, 09 May 2022 03:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>59,200원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202205/20220509/20220509-41629.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <렛미플라이>]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Mon, 09 May 2022 01:26:04 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202205/20220509/20220509-29162.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <친정엄마와 2박 3일> - 강릉]]></title>
+            <link>http://ticket.yes24.com/Perf/41629</link>
+            <guid>http://ticket.yes24.com/Perf/41629</guid>
+            <pubDate>Mon, 09 May 2022 03:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>59,200원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202205/20220509/20220509-41629.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
