@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-11T07:22:06.236Z</updated>
+    <updated>2022-05-11T08:25:44.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1회 메타범즈 힙합 페스티벌 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11799</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11799"/>
+        <updated>2022-05-11T08:24:43.289Z</updated>
+        <content type="html"><![CDATA[2022.05.17(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KB금융 리브챔피언십 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11798</id>
@@ -133,13 +140,6 @@
         <title type="html"><![CDATA[제19회 부산국제연극제 - 막차 타고 노을 보다 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11780</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11780"/>
-        <updated>2022-05-06T06:24:14.812Z</updated>
-        <content type="html"><![CDATA[2022.05.16(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제19회 부산국제연극제 - 귀여운 여인 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11779</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11779"/>
         <updated>2022-05-06T06:24:14.812Z</updated>
         <content type="html"><![CDATA[2022.05.16(월) 10:00]]></content>
     </entry>

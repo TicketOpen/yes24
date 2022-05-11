@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-11T07:22:06.252Z</updated>
+    <updated>2022-05-11T08:25:44.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1회 메타범즈 힙합 페스티벌 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11799&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11799&amp;order=1"/>
+        <updated>2022-05-11T08:24:53.376Z</updated>
+        <content type="html"><![CDATA[2022-05-17(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KB금융 리브챔피언십 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11798&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11790&amp;order=1"/>
         <updated>2022-05-09T05:20:39.040Z</updated>
         <content type="html"><![CDATA[2022-05-11(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11789&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11789&amp;order=1"/>
-        <updated>2022-05-09T03:20:57.021Z</updated>
-        <content type="html"><![CDATA[2022-05-12(목) 14:00]]></content>
     </entry>
 </feed>
