@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-12T04:31:53.985Z</updated>
+    <updated>2022-05-12T05:25:14.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 브레드이발소 [대결! 최고의 이발사] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11801&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11801&amp;order=1"/>
+        <updated>2022-05-12T05:24:30.841Z</updated>
+        <content type="html"><![CDATA[2022-05-18(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소란 여름 콘서트 ‘Surf!’ 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11800&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11792&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11792&amp;order=1"/>
         <updated>2022-05-09T08:23:23.318Z</updated>
-        <content type="html"><![CDATA[2022-05-12(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 ‘3 STAR’ 신유,홍자,양지원 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11791&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11791&amp;order=1"/>
-        <updated>2022-05-09T05:20:39.040Z</updated>
         <content type="html"><![CDATA[2022-05-12(목) 14:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-12T04:31:53.971Z</updated>
+    <updated>2022-05-12T05:25:14.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 브레드이발소 [대결! 최고의 이발사] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11801</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11801"/>
+        <updated>2022-05-12T05:24:21.774Z</updated>
+        <content type="html"><![CDATA[2022.05.18(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소란 여름 콘서트 ‘Surf!’ 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11800</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11782"/>
         <updated>2022-05-06T07:16:45.913Z</updated>
         <content type="html"><![CDATA[2022.05.13(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제19회 부산국제연극제 - 파 한 단, 두부 한 모 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11781</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11781"/>
-        <updated>2022-05-06T06:24:14.805Z</updated>
-        <content type="html"><![CDATA[2022.05.16(월) 10:00]]></content>
     </entry>
 </feed>
