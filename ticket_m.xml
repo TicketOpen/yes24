@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-12T07:18:27.869Z</updated>
+    <updated>2022-05-12T08:24:10.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sync Next 22 - 박다울 ‘ㄱㅓㅁㅜㄴㄱㅗ’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11802&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11802&amp;order=1"/>
+        <updated>2022-05-12T08:23:20.988Z</updated>
+        <content type="html"><![CDATA[2022-05-18(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 뮤지컬 브레드이발소 [대결! 최고의 이발사] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11801&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11793&amp;order=1"/>
         <updated>2022-05-10T01:12:18.015Z</updated>
         <content type="html"><![CDATA[2022-05-13(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 초선의원 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11792&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11792&amp;order=1"/>
-        <updated>2022-05-09T08:23:23.318Z</updated>
-        <content type="html"><![CDATA[2022-05-12(목) 14:00]]></content>
     </entry>
 </feed>
