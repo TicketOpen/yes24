@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 02:44:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2022.05.17 ~ 2022.07.04]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41898</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41898</guid>
+            <pubDate>Sun, 22 May 2022 02:43:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>전 배우 사인프로그램북]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220517/20220517-e10ed98f-0e4a-49fd-b1d1-537f4eaf54f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2022.05.02 ~ 2022.05.24]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42081</link>
@@ -30,22 +38,6 @@
             <pubDate>Sun, 01 May 2022 23:18:12 GMT</pubDate>
             <content:encoded><![CDATA[<em>당첨자 발표</em>2022.06.08]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220502/20220502-41737264-2d1c-4d5c-8225-3d7c51eb9101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.04.19 ~ 2022.05.20]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41982</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=41982</guid>
-            <pubDate>Wed, 20 Apr 2022 03:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2022년 6월 2일(목) 오후 7시 30분 공연 R석]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202204/20220420/20220420-76ba4726-ced1-44f6-abc1-a65a3a86c8ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.04.13 ~ 2022.05.20]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41654</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=41654</guid>
-            <pubDate>Thu, 14 Apr 2022 12:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>연극 &lt;신바람 삼대&gt; 2022년 5월 26일(목) 오후 7시 30분 공연]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202204/20220413/20220413-cad9304d-b090-48ba-88d1-ac940b5bf78e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.03.24 ~ 2022.05.31]]></title>

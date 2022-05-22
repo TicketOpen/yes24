@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2022-05-12T23:19:56.556Z</updated>
+    <updated>2022-05-22T02:44:18.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
     <entry>
@@ -80,6 +80,13 @@
         <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40714</id>
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40714"/>
         <updated>2022-04-14T12:35:00.781Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 넥스트 투 노멀] 개막 기념 5천원 할인 쿠폰]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40934</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40934"/>
+        <updated>2022-05-22T02:44:17.541Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
     </entry>
 </feed>
