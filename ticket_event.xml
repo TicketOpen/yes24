@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 May 2022 23:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 01:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <나도 이제 결혼하고 싶다> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42233&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42233&amp;Tab=3</guid>
+            <pubDate>Mon, 23 May 2022 01:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.23 ~ 2022.06.06 | 2022.06.09 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220523/20220523-cffc4418-48b6-4798-9886-ca0ba69391ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <비평가> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42265&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42265&amp;Tab=3</guid>
+            <pubDate>Mon, 23 May 2022 01:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.23 ~ 2022.06.09 | 2022.06.10 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220523/20220523-9003f42e-6faa-43ca-976a-b2488eb1d21a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST> 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41898&amp;Tab=2</link>
@@ -60,20 +76,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Thu, 12 May 2022 12:35:17 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예스24스테이지]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Thu, 12 May 2022 12:35:17 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예술의전당]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
-            <pubDate>Sun, 22 May 2022 02:43:51 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
