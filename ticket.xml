@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-23T06:25:45.993Z</updated>
+    <updated>2022-05-23T07:20:10.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 서울앵콜 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11827</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11827"/>
+        <updated>2022-05-23T07:19:18.388Z</updated>
+        <content type="html"><![CDATA[2022.05.27(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매태성과 해봄의 두번째 팬미팅 [Forever with you] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11826</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11808"/>
         <updated>2022-05-22T02:43:12.397Z</updated>
         <content type="html"><![CDATA[2022.05.23(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [미아 파밀리아] 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11807</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11807"/>
-        <updated>2022-05-22T02:43:12.397Z</updated>
-        <content type="html"><![CDATA[2022.05.24(화) 14:00]]></content>
     </entry>
 </feed>
