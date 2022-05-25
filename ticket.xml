@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-25T07:18:06.777Z</updated>
+    <updated>2022-05-25T08:23:44.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[바다의 첫번째 글로벌 팬미팅 [시크릿 오션뷰] 티켓 오픈안내]]></title>
+        <title type="html"><![CDATA[애니메이션 첼로 페스티벌 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11830</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11830"/>
+        <updated>2022-05-25T08:22:33.149Z</updated>
+        <content type="html"><![CDATA[2022.05.26(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바다의 첫번째 글로벌 팬미팅 [프라이빗 오션뷰] 티켓 오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11829</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11829"/>
         <updated>2022-05-25T05:21:14.295Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11811"/>
         <updated>2022-05-22T02:43:12.386Z</updated>
         <content type="html"><![CDATA[2022.05.20(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [비평가] 프리뷰 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11810</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11810"/>
-        <updated>2022-05-22T02:43:12.387Z</updated>
-        <content type="html"><![CDATA[2022.05.19(목) 15:00]]></content>
     </entry>
 </feed>
