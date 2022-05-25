@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-25T08:23:44.028Z</updated>
+    <updated>2022-05-25T09:20:34.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈2022 클래식 레볼루션〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11831&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11831&amp;order=1"/>
+        <updated>2022-05-25T09:19:43.556Z</updated>
+        <content type="html"><![CDATA[2022-06-02(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애니메이션 첼로 페스티벌 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11830&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11822&amp;order=1"/>
         <updated>2022-05-22T02:43:22.975Z</updated>
         <content type="html"><![CDATA[2022-05-25(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레이 첸 ＆ 선우예권 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11821&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11821&amp;order=1"/>
-        <updated>2022-05-22T02:43:22.975Z</updated>
-        <content type="html"><![CDATA[2022-05-26(목) 16:00]]></content>
     </entry>
 </feed>
