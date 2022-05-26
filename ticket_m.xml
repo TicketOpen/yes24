@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-26T07:18:44.882Z</updated>
+    <updated>2022-05-26T08:25:38.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [클림트] 4차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11835&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11835&amp;order=1"/>
+        <updated>2022-05-26T08:24:42.828Z</updated>
+        <content type="html"><![CDATA[2022-05-31(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제17회 부산국제매직페스티벌 일년내내 마술로 -북구편- 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11834&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11826&amp;order=1"/>
         <updated>2022-05-23T01:19:35.008Z</updated>
         <content type="html"><![CDATA[2022-05-25(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양성원＆ 엔리코 파체 [베토벤 첼로 소나타 전곡] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11825&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11825&amp;order=1"/>
-        <updated>2022-05-22T02:43:22.960Z</updated>
-        <content type="html"><![CDATA[2022-05-26(목) 14:00]]></content>
     </entry>
 </feed>
