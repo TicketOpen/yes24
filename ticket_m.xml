@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-26T06:23:36.618Z</updated>
+    <updated>2022-05-26T07:18:44.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제17회 부산국제매직페스티벌 일년내내 마술로 -북구편- 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11834&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11834&amp;order=1"/>
+        <updated>2022-05-26T07:17:48.511Z</updated>
+        <content type="html"><![CDATA[2022-05-27(금) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 6차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11833&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11825&amp;order=1"/>
         <updated>2022-05-22T02:43:22.960Z</updated>
         <content type="html"><![CDATA[2022-05-26(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [더 와일드의 변론 - 거짓의 쇠락, 도리안 그레이의 초상] 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11824&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11824&amp;order=1"/>
-        <updated>2022-05-22T02:43:22.961Z</updated>
-        <content type="html"><![CDATA[2022-05-27(금) 15:00]]></content>
     </entry>
 </feed>
