@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 11:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 12:35:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <렛미플라이>]]></title>
-            <link>http://ticket.yes24.com/Perf/41421</link>
-            <guid>http://ticket.yes24.com/Perf/41421</guid>
-            <pubDate>Mon, 23 May 2022 01:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>40,500원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202205/20220523/20220523-41421.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <하데스타운> - 부산]]></title>
             <link>http://ticket.yes24.com/Perf/41970</link>
@@ -22,6 +14,14 @@
             <pubDate>Mon, 23 May 2022 01:19:43 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									130,000원								</td>								<td class="dc_price">									<em>→</em>88,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202205/20220523/20220523-41970.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <렛미플라이>]]></title>
+            <link>http://ticket.yes24.com/Perf/41421</link>
+            <guid>http://ticket.yes24.com/Perf/41421</guid>
+            <pubDate>Mon, 23 May 2022 01:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>40,500원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202205/20220523/20220523-41421.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <은하철도의 밤> 앵콜]]></title>
