@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-26T04:33:09.548Z</updated>
+    <updated>2022-05-26T05:22:37.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 6차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11833&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11833&amp;order=1"/>
+        <updated>2022-05-26T05:21:47.959Z</updated>
+        <content type="html"><![CDATA[2022-05-31(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOOSUNG - MOTH EP SHOWCASE LIVE FROM SEOUL SPECIAL STAGE THE ROSE 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11832&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11824&amp;order=1"/>
         <updated>2022-05-22T02:43:22.961Z</updated>
         <content type="html"><![CDATA[2022-05-27(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [괴테의 변론 - 젊은 베르테르의 슬픔] 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11823&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11823&amp;order=1"/>
-        <updated>2022-05-22T02:43:22.975Z</updated>
-        <content type="html"><![CDATA[2022-05-26(목) 15:00]]></content>
     </entry>
 </feed>
