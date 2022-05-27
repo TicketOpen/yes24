@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-27T03:26:59.617Z</updated>
+    <updated>2022-05-27T04:56:48.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 ＜은밀하게 위대하게：THE LAST＞ 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11836&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11836&amp;order=1"/>
+        <updated>2022-05-27T04:55:46.400Z</updated>
+        <content type="html"><![CDATA[2022-05-31(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [클림트] 4차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11835&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11827&amp;order=1"/>
         <updated>2022-05-23T07:19:27.564Z</updated>
         <content type="html"><![CDATA[2022-05-27(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태성과 해봄의 두번째 팬미팅 [Forever with you] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11826&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11826&amp;order=1"/>
-        <updated>2022-05-23T01:19:35.008Z</updated>
-        <content type="html"><![CDATA[2022-05-25(수) 20:00]]></content>
     </entry>
 </feed>
