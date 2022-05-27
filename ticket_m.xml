@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-27T07:18:10.620Z</updated>
+    <updated>2022-05-27T08:32:24.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 [백조마을의 차이콥스키] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11839&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11839&amp;order=1"/>
+        <updated>2022-05-27T08:31:29.220Z</updated>
+        <content type="html"><![CDATA[2022-06-03(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 ＜은밀하게 위대하게：THE LAST＞ 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11836&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11828&amp;order=1"/>
         <updated>2022-05-24T04:34:39.683Z</updated>
         <content type="html"><![CDATA[2022-05-26(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 서울앵콜 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11827&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11827&amp;order=1"/>
-        <updated>2022-05-23T07:19:27.564Z</updated>
-        <content type="html"><![CDATA[2022-05-27(금) 16:00]]></content>
     </entry>
 </feed>
