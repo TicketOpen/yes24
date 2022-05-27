@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-27T08:32:24.724Z</updated>
+    <updated>2022-05-27T09:24:30.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11839"/>
         <updated>2022-05-27T08:31:18.692Z</updated>
         <content type="html"><![CDATA[2022.06.03(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Cutie Pie 1st Global Fanmeeting in Korea [Be My Cutie Pie] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11838</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11838"/>
+        <updated>2022-05-27T09:23:22.816Z</updated>
+        <content type="html"><![CDATA[2022.06.02(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 ＜은밀하게 위대하게：THE LAST＞ 마지막 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11819"/>
         <updated>2022-05-22T02:43:12.376Z</updated>
         <content type="html"><![CDATA[2022.05.23(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 3 seconds left’ 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11818</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11818"/>
-        <updated>2022-05-22T02:43:12.377Z</updated>
-        <content type="html"><![CDATA[2022.05.20(금) 20:00]]></content>
     </entry>
 </feed>
