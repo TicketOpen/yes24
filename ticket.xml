@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-05-28T06:24:21.894Z</updated>
+    <updated>2022-05-28T07:17:47.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[행위퍼포먼스공연 (SAVE ME) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11840</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11840"/>
+        <updated>2022-05-28T07:16:54.326Z</updated>
+        <content type="html"><![CDATA[2022.05.31(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 [백조마을의 차이콥스키] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11839</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11820"/>
         <updated>2022-05-22T02:43:12.374Z</updated>
         <content type="html"><![CDATA[2022.05.26(목) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조환지 단독 콘서트,〈Tell me Spring, love〉티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11819</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11819"/>
-        <updated>2022-05-22T02:43:12.376Z</updated>
-        <content type="html"><![CDATA[2022.05.23(월) 16:00]]></content>
     </entry>
 </feed>
