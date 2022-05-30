@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-30T01:39:41.156Z</updated>
+    <updated>2022-05-30T03:37:42.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SUPERNOVA! 부산 : 너드커넥션 단독 공연 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11841&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11841&amp;order=1"/>
+        <updated>2022-05-30T03:36:55.591Z</updated>
+        <content type="html"><![CDATA[2022-05-31(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행위퍼포먼스공연 (SAVE ME) 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11840&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11831&amp;order=1"/>
         <updated>2022-05-25T09:19:43.556Z</updated>
         <content type="html"><![CDATA[2022-06-02(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애니메이션 첼로 페스티벌 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11830&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11830&amp;order=1"/>
-        <updated>2022-05-25T08:22:43.807Z</updated>
-        <content type="html"><![CDATA[2022-05-26(목) 14:00]]></content>
     </entry>
 </feed>
