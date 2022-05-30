@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 14:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 15:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -442,6 +442,13 @@
             <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.05.30 ~ 2022.06.06</dd><dt>사용기간</dt><dd>2022.05.31 ~ 2022.06.06</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[뮤지컬 최후진술] 무대의 조명빛이 하나둘씩 꺼지면 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 14 Apr 2022 12:34:50 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.05.31 ~ 2022.06.05</dd><dt>사용기간</dt><dd>2022.05.31 ~ 2022.06.05</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[뮤지컬 렛미플라이] 남원이가 옷 팔아 벌어온 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -468,13 +475,6 @@
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
             <pubDate>Thu, 14 Apr 2022 12:34:50 GMT</pubDate>
             <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.03.02 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.03.02 ~ 2022.12.31</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 레베카] 5천원 할인 쿠폰_2022 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Thu, 14 Apr 2022 12:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.01.28 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.01.28 ~ 2022.12.31</dd>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
@@ -566,6 +566,13 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41037</guid>
             <pubDate>Mon, 30 May 2022 09:22:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 2,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 최후진술] 무대의 조명빛이 하나둘씩 꺼지면 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41036</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41036</guid>
+            <pubDate>Mon, 30 May 2022 15:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
