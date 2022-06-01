@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-05-31T23:20:17.422Z</updated>
+    <updated>2022-06-01T01:51:55.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남심포니오케스트라 제146회 클래식품격콘서트〈Great CONCERTO Series-L.v.Beethoven & W.A.Mozart〉티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11843&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11843&amp;order=1"/>
+        <updated>2022-06-01T01:50:58.173Z</updated>
+        <content type="html"><![CDATA[2022-06-02(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코믹반전스릴러연극 [그녀가산다] - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11842&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11833&amp;order=1"/>
         <updated>2022-05-26T05:21:47.959Z</updated>
         <content type="html"><![CDATA[2022-05-31(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOOSUNG - MOTH EP SHOWCASE LIVE FROM SEOUL SPECIAL STAGE THE ROSE 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11832&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11832&amp;order=1"/>
-        <updated>2022-05-26T03:24:27.642Z</updated>
-        <content type="html"><![CDATA[2022-06-03(금) 20:00]]></content>
     </entry>
 </feed>
