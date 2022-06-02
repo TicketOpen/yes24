@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-02T07:20:11.576Z</updated>
+    <updated>2022-06-02T08:24:58.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LA POEM 1st FAN MEETING [2022 라포엠 비전 선포식] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11844&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11844&amp;order=1"/>
+        <updated>2022-06-02T08:24:15.406Z</updated>
+        <content type="html"><![CDATA[2022-06-10(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남심포니오케스트라 제146회 클래식품격콘서트〈Great CONCERTO Series-L.v.Beethoven & W.A.Mozart〉티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11843&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11834&amp;order=1"/>
         <updated>2022-05-26T07:17:48.511Z</updated>
         <content type="html"><![CDATA[2022-05-27(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 6차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11833&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11833&amp;order=1"/>
-        <updated>2022-05-26T05:21:47.959Z</updated>
-        <content type="html"><![CDATA[2022-05-31(화) 14:00]]></content>
     </entry>
 </feed>
