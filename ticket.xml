@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-03T08:21:49.041Z</updated>
+    <updated>2022-06-03T09:19:00.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방용국 글로벌 팬밋업 [Bangstergram] 온라인중계 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11853</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11853"/>
+        <updated>2022-06-03T09:17:48.915Z</updated>
+        <content type="html"><![CDATA[2022.06.09(목) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[춘하추동 [디톡스 콘서트] - 부산 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11852</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11831"/>
         <updated>2022-06-02T12:38:36.240Z</updated>
         <content type="html"><![CDATA[2022.06.02(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애니메이션 첼로 페스티벌 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11830</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11830"/>
-        <updated>2022-06-02T12:38:36.240Z</updated>
-        <content type="html"><![CDATA[2022.05.26(목) 14:00]]></content>
     </entry>
 </feed>
