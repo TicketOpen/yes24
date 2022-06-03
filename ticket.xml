@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-03T03:13:26.688Z</updated>
+    <updated>2022-06-03T04:22:11.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이올리니스트김응수와 함께하는 비발디&피아졸라의 사계 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11848</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11848"/>
+        <updated>2022-06-03T04:21:19.143Z</updated>
+        <content type="html"><![CDATA[2022.06.07(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD 오프라인 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11847</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11826"/>
         <updated>2022-06-02T12:38:36.246Z</updated>
         <content type="html"><![CDATA[2022.05.25(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양성원＆ 엔리코 파체 [베토벤 첼로 소나타 전곡] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11825</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11825"/>
-        <updated>2022-06-02T12:38:36.254Z</updated>
-        <content type="html"><![CDATA[2022.05.26(목) 14:00]]></content>
     </entry>
 </feed>
