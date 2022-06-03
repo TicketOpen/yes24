@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-03T01:16:29.389Z</updated>
+    <updated>2022-06-03T03:13:26.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD 오프라인 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11847&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11847&amp;order=1"/>
+        <updated>2022-06-03T03:12:32.553Z</updated>
+        <content type="html"><![CDATA[2022-06-13(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LA POEM 1st FAN MEETING [2022 라포엠 비전 선포식] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11844&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11835&amp;order=1"/>
         <updated>2022-05-26T08:24:42.828Z</updated>
         <content type="html"><![CDATA[2022-05-31(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제17회 부산국제매직페스티벌 일년내내 마술로 -북구편- 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11834&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11834&amp;order=1"/>
-        <updated>2022-05-26T07:17:48.511Z</updated>
-        <content type="html"><![CDATA[2022-05-27(금) 17:00]]></content>
     </entry>
 </feed>
