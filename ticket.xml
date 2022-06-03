@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-03T06:22:15.215Z</updated>
+    <updated>2022-06-03T07:17:26.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[춘하추동 [디톡스 콘서트] - 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11852</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11852"/>
+        <updated>2022-06-03T07:16:17.045Z</updated>
+        <content type="html"><![CDATA[2022.06.13(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이올리니스트김응수와 함께하는 비발디&피아졸라의 사계 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11848</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11829"/>
         <updated>2022-06-02T12:38:36.242Z</updated>
         <content type="html"><![CDATA[2022.05.26(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[까브라더쑈 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11828</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11828"/>
-        <updated>2022-06-02T12:38:36.242Z</updated>
-        <content type="html"><![CDATA[2022.05.26(목) 20:00]]></content>
     </entry>
 </feed>

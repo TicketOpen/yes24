@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-03T06:22:15.207Z</updated>
+    <updated>2022-06-03T07:17:26.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[춘하추동 [디톡스 콘서트] - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11852&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11852&amp;order=1"/>
+        <updated>2022-06-03T07:16:28.168Z</updated>
+        <content type="html"><![CDATA[2022-06-13(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이올리니스트김응수와 함께하는 비발디&피아졸라의 사계 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11848&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11840&amp;order=1"/>
         <updated>2022-05-28T07:17:03.137Z</updated>
         <content type="html"><![CDATA[2022-05-31(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 [백조마을의 차이콥스키] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11839&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11839&amp;order=1"/>
-        <updated>2022-05-27T08:31:29.220Z</updated>
-        <content type="html"><![CDATA[2022-06-03(금) 16:00]]></content>
     </entry>
 </feed>
