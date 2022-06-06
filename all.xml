@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 15:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,14 +288,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220523/20220523-dd47eb22-f284-4af4-afb5-f220ce196858.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <나도 이제 결혼하고 싶다> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42233&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42233&amp;Tab=3</guid>
-            <pubDate>Thu, 02 Jun 2022 12:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.23 ~ 2022.06.06 | 2022.06.09 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220523/20220523-cffc4418-48b6-4798-9886-ca0ba69391ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <비평가> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42265&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42265&amp;Tab=3</guid>
@@ -325,6 +317,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Thu, 02 Jun 2022 12:39:16 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Mon, 06 Jun 2022 15:19:19 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.06.02 ~ 2022.07.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -357,14 +356,6 @@
             <pubDate>Thu, 02 Jun 2022 12:39:28 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2022년 7월 10일(일) 오후 6시]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220523/20220523-dd47eb22-f284-4af4-afb5-f220ce196858.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.05.23 ~ 2022.06.06 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42233</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42233</guid>
-            <pubDate>Thu, 02 Jun 2022 12:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2022년 6월 15일(수) 2명, 16일(목) 2명]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220523/20220523-cffc4418-48b6-4798-9886-ca0ba69391ca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.05.23 ~ 2022.06.09 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -429,13 +420,6 @@
             <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.06.06 ~ 2022.06.17</dd><dt>사용기간</dt><dd>2022.06.06 ~ 2022.06.17</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[루이비통 트렁크전] 2,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Thu, 14 Apr 2022 12:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.05.30 ~ 2022.06.06</dd><dt>사용기간</dt><dd>2022.05.31 ~ 2022.06.06</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[뮤지컬 지킬앤하이드] 하이드가 찢어버린 5천원 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -455,6 +439,13 @@
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
             <pubDate>Thu, 14 Apr 2022 12:34:50 GMT</pubDate>
             <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.03.02 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.03.02 ~ 2022.12.31</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 레베카] 5천원 할인 쿠폰_2022 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 14 Apr 2022 12:34:50 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.01.28 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.01.28 ~ 2022.12.31</dd>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
@@ -532,13 +523,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40714</guid>
             <pubDate>Thu, 14 Apr 2022 12:35:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[루이비통 트렁크전] 2,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41037</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41037</guid>
-            <pubDate>Mon, 30 May 2022 09:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 2,000원]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[뮤지컬 렛미플라이] 선희네 유기농 야채 종합세트 (YES24 티켓 ─ 쿠폰 )]]></title>
