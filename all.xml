@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 01:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 03:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,6 +27,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11851</guid>
             <pubDate>Fri, 03 Jun 2022 08:20:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.09(목) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Christian Kuria Live in Seoul 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11849</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11849</guid>
+            <pubDate>Mon, 06 Jun 2022 03:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[바이올리니스트김응수와 함께하는 비발디&피아졸라의 사계 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -141,13 +148,6 @@
             <content:encoded><![CDATA[2022.06.03(금) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[〈2022 클래식 레볼루션〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11831</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11831</guid>
-            <pubDate>Thu, 02 Jun 2022 12:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.02(목) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[방용국 글로벌 팬밋업 [Bangstergram] 온라인중계 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11853&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11853&amp;order=1</guid>
@@ -167,6 +167,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11851&amp;order=1</guid>
             <pubDate>Fri, 03 Jun 2022 08:20:41 GMT</pubDate>
             <content:encoded><![CDATA[2022-06-09(목) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Christian Kuria Live in Seoul 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11849&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11849&amp;order=1</guid>
+            <pubDate>Mon, 06 Jun 2022 03:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022-06-08(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[바이올리니스트김응수와 함께하는 비발디&피아졸라의 사계 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,11 +218,12 @@
             <content:encoded><![CDATA[2022-06-02(목) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코믹반전스릴러연극 [그녀가산다] - 대구 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11842&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11842&amp;order=1</guid>
-            <pubDate>Tue, 31 May 2022 01:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022-06-02(목) 10:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <모래시계> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41982</link>
+            <guid>http://ticket.yes24.com/Perf/41982</guid>
+            <pubDate>Mon, 06 Jun 2022 01:26:41 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>102,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202205/20220523/20220523-41982.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <은밀하게 위대하게 : THE LAST> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -224,14 +232,6 @@
             <pubDate>Mon, 06 Jun 2022 01:26:41 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>63,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202204/20220407/20220407-41898.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <모래시계> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41982</link>
-            <guid>http://ticket.yes24.com/Perf/41982</guid>
-            <pubDate>Mon, 06 Jun 2022 01:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>102,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202205/20220523/20220523-41982.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <모래시계> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
