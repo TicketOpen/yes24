@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-07T05:16:24.224Z</updated>
+    <updated>2022-06-07T06:21:55.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내(6/11, 6/12, 6/18, 6/19, 6/20)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11856</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11856"/>
+        <updated>2022-06-07T06:20:53.543Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매OUTLIVE Concert Vol.2 My OUTLIVE [Malibu] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11855</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11835"/>
         <updated>2022-06-02T12:38:36.233Z</updated>
         <content type="html"><![CDATA[2022.05.31(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제17회 부산국제매직페스티벌 일년내내 마술로 -북구편- 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11834</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11834"/>
-        <updated>2022-06-02T12:38:36.235Z</updated>
-        <content type="html"><![CDATA[2022.05.27(금) 17:00]]></content>
     </entry>
 </feed>
