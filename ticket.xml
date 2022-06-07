@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-07T07:18:10.554Z</updated>
+    <updated>2022-06-07T08:23:19.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[Light Up] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11857</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11857"/>
+        <updated>2022-06-07T08:22:23.274Z</updated>
+        <content type="html"><![CDATA[2022.06.13(월) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내(6/11, 6/12, 6/18, 6/19, 6/20)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11856</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11836"/>
         <updated>2022-06-02T12:38:36.231Z</updated>
         <content type="html"><![CDATA[2022.05.31(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [클림트] 4차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11835</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11835"/>
-        <updated>2022-06-02T12:38:36.233Z</updated>
-        <content type="html"><![CDATA[2022.05.31(화) 15:00]]></content>
     </entry>
 </feed>
