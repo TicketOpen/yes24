@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-08T04:31:34.964Z</updated>
+    <updated>2022-06-08T05:17:19.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <차미> 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11861&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11861&amp;order=1"/>
+        <updated>2022-06-08T05:16:33.861Z</updated>
+        <content type="html"><![CDATA[2022-06-14(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [더 와일드의 변론 - 거짓의 쇠락, 도리안 그레이의 초상] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11860&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11860&amp;order=1"/>
+        <updated>2022-06-08T05:16:33.862Z</updated>
+        <content type="html"><![CDATA[2022-06-17(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [괴테의 변론 - 젊은 베르테르의 슬픔] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11859&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11859&amp;order=1"/>
+        <updated>2022-06-08T05:16:33.865Z</updated>
+        <content type="html"><![CDATA[2022-06-16(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Light Up Concert] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11858&amp;order=1</id>
@@ -52,27 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11850&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11850&amp;order=1"/>
         <updated>2022-06-07T09:17:06.763Z</updated>
-        <content type="html"><![CDATA[2022-06-13(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Kuria Live in Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11849&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11849&amp;order=1"/>
-        <updated>2022-06-06T03:20:25.871Z</updated>
-        <content type="html"><![CDATA[2022-06-08(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이올리니스트김응수와 함께하는 비발디&피아졸라의 사계 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11848&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11848&amp;order=1"/>
-        <updated>2022-06-03T04:21:28.059Z</updated>
-        <content type="html"><![CDATA[2022-06-07(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD 오프라인 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11847&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11847&amp;order=1"/>
-        <updated>2022-06-03T03:12:32.553Z</updated>
         <content type="html"><![CDATA[2022-06-13(월) 20:00]]></content>
     </entry>
 </feed>
