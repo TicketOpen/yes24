@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-08T07:18:31.300Z</updated>
+    <updated>2022-06-08T08:25:17.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노을진 한강, 돌아온 웃음, 네온빛 음악. 스마일러브위크엔드! 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11862</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11862"/>
+        <updated>2022-06-08T08:24:16.603Z</updated>
+        <content type="html"><![CDATA[2022.06.10(금) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <차미> 마지막 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11861</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11842"/>
         <updated>2022-06-02T12:38:36.228Z</updated>
         <content type="html"><![CDATA[2022.06.02(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매SUPERNOVA! 부산 : 너드커넥션 단독 공연 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11841</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11841"/>
-        <updated>2022-06-02T12:38:36.228Z</updated>
-        <content type="html"><![CDATA[2022.05.31(화) 20:00]]></content>
     </entry>
 </feed>
