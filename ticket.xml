@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-09T05:17:10.532Z</updated>
+    <updated>2022-06-09T06:22:48.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전자금융공동망 점검 작업에 따른 결제 서비스 중단 안내(6/18, 6/19)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11865</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11865"/>
+        <updated>2022-06-09T06:21:38.382Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 프리뷰 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11864</id>
@@ -136,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11844"/>
         <updated>2022-06-02T12:38:36.218Z</updated>
         <content type="html"><![CDATA[2022.06.10(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남심포니오케스트라 제146회 클래식품격콘서트〈Great CONCERTO Series-L.v.Beethoven & W.A.M..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11843</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11843"/>
-        <updated>2022-06-02T12:38:36.224Z</updated>
-        <content type="html"><![CDATA[2022.06.02(목) 10:00]]></content>
     </entry>
 </feed>
