@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-09T04:30:32.881Z</updated>
+    <updated>2022-06-09T05:17:10.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 프리뷰 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11864</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11864"/>
+        <updated>2022-06-09T05:16:04.131Z</updated>
+        <content type="html"><![CDATA[2022.06.16(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노을진 한강, 돌아온 웃음, 네온빛 음악. 스마일러브위크엔드! 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11862</id>
@@ -135,13 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11843</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11843"/>
         <updated>2022-06-02T12:38:36.224Z</updated>
-        <content type="html"><![CDATA[2022.06.02(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코믹반전스릴러연극 [그녀가산다] - 대구 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11842</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11842"/>
-        <updated>2022-06-02T12:38:36.228Z</updated>
         <content type="html"><![CDATA[2022.06.02(목) 10:00]]></content>
     </entry>
 </feed>
