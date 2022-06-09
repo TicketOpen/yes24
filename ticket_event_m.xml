@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 14:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 15:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Thu, 02 Jun 2022 12:39:28 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2022년 7월 10일(일) 오후 6시]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220523/20220523-dd47eb22-f284-4af4-afb5-f220ce196858.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.05.23 ~ 2022.06.09]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42265</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42265</guid>
-            <pubDate>Thu, 02 Jun 2022 12:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>6월 14일(화) 8시 2명, 6월 15일(수) 8시 3명, 6월 16일(목) 8시 2명, 6월 17일(금) 8시 3명]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220523/20220523-9003f42e-6faa-43ca-976a-b2488eb1d21a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.05.17 ~ 2022.07.04]]></title>
