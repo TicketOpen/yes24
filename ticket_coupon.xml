@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2022-06-09T11:22:58.645Z</updated>
+    <updated>2022-06-09T12:36:23.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
     <entry>
@@ -12,5 +12,47 @@
         <updated>2022-04-14T12:34:50.875Z</updated>
         <content type="html"><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 점박이 공룡대모험] 점박이가 물고 온 쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2022-04-14T12:34:50.875Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.06.07 ~ 2022.06.12</dd><dt>사용기간</dt><dd>2022.06.07 ~ 2022.06.12</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 렛미플라이] 장터가는 남원이 버스비]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2022-04-14T12:34:50.875Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.06.06 ~ 2022.06.17</dd><dt>사용기간</dt><dd>2022.06.06 ~ 2022.06.17</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 렛미플라이] 선희네 유기농 야채 종합세트]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2022-04-14T12:34:50.875Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.06.06 ~ 2022.06.17</dd><dt>사용기간</dt><dd>2022.06.06 ~ 2022.06.17</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 지킬앤하이드] 하이드가 찢어버린 5천원 쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2022-04-14T12:34:50.875Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.04.07 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.04.07 ~ 2022.12.31</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 지킬앤하이드] 하이드가 찢어버린 1만원 쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2022-04-14T12:34:50.875Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.04.07 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.04.07 ~ 2022.12.31</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 잭더리퍼 - 고양] 5,000원 할인 쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2022-04-14T12:34:50.875Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.03.02 ~ 2022.12.31</dd><dt>사용기간</dt><dd>2022.03.02 ~ 2022.12.31</dd>]]></content>
     </entry>
 </feed>
