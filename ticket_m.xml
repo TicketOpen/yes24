@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-09T06:22:48.041Z</updated>
+    <updated>2022-06-09T07:18:05.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11866&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11866&amp;order=1"/>
+        <updated>2022-06-09T07:17:02.988Z</updated>
+        <content type="html"><![CDATA[2022-06-14(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 프리뷰 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11864&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11853&amp;order=1"/>
         <updated>2022-06-03T09:18:00.031Z</updated>
         <content type="html"><![CDATA[2022-06-09(목) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춘하추동 [디톡스 콘서트] - 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11852&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11852&amp;order=1"/>
-        <updated>2022-06-03T07:16:28.168Z</updated>
-        <content type="html"><![CDATA[2022-06-13(월) 14:00]]></content>
     </entry>
 </feed>
