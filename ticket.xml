@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-10T01:30:01.129Z</updated>
+    <updated>2022-06-10T03:21:53.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 케니 지(Kenny G) 월드투어 내한공연 - 서울 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11868</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11868"/>
+        <updated>2022-06-10T03:20:50.131Z</updated>
+        <content type="html"><![CDATA[2022.06.17(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 케니 지(Kenny G) 월드투어 내한공연 - 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11867</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11867"/>
+        <updated>2022-06-10T03:20:50.131Z</updated>
+        <content type="html"><![CDATA[2022.06.17(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11866</id>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11847"/>
         <updated>2022-06-09T08:24:53.178Z</updated>
         <content type="html"><![CDATA[2022.06.13(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽선예매 " presaletit2="" presaletime1="2022.06.10(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 [점박이 공룡대모험 : 뒤섞인 세계] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11846</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11846"/>
-        <updated>2022-06-09T08:24:53.179Z</updated>
-        <content type="html"><![CDATA[2022.06.08(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 김종현 팬미팅 [Hi 하이] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11845</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11845"/>
-        <updated>2022-06-09T08:24:53.180Z</updated>
-        <content type="html"><![CDATA[2022.06.08(수) 20:00]]></content>
     </entry>
 </feed>

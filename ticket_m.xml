@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-10T01:30:01.123Z</updated>
+    <updated>2022-06-10T03:21:53.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 케니 지(Kenny G) 월드투어 내한공연 - 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11868&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11868&amp;order=1"/>
+        <updated>2022-06-10T03:21:00.262Z</updated>
+        <content type="html"><![CDATA[2022-06-17(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 케니 지(Kenny G) 월드투어 내한공연 - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11867&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11867&amp;order=1"/>
+        <updated>2022-06-10T03:21:00.265Z</updated>
+        <content type="html"><![CDATA[2022-06-17(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11866&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11855&amp;order=1"/>
         <updated>2022-06-07T05:15:20.447Z</updated>
         <content type="html"><![CDATA[2022-06-09(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [미아 파밀리아] 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11854&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11854&amp;order=1"/>
-        <updated>2022-06-07T03:18:20.773Z</updated>
-        <content type="html"><![CDATA[2022-06-15(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방용국 글로벌 팬밋업 [Bangstergram] 온라인중계 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11853&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11853&amp;order=1"/>
-        <updated>2022-06-03T09:18:00.031Z</updated>
-        <content type="html"><![CDATA[2022-06-09(목) 17:00]]></content>
     </entry>
 </feed>
