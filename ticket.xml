@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-10T04:26:17.825Z</updated>
+    <updated>2022-06-10T05:16:19.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11869</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11869"/>
+        <updated>2022-06-10T05:15:10.199Z</updated>
+        <content type="html"><![CDATA[2022.06.17(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 케니 지(Kenny G) 월드투어 내한공연 - 서울 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11868</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11848"/>
         <updated>2022-06-09T08:24:53.175Z</updated>
         <content type="html"><![CDATA[2022.06.07(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD 오프라인 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11847</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11847"/>
-        <updated>2022-06-09T08:24:53.178Z</updated>
-        <content type="html"><![CDATA[2022.06.13(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽선예매 " presaletit2="" presaletime1="2022.06.10(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

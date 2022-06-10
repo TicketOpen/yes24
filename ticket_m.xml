@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-10T04:26:17.826Z</updated>
+    <updated>2022-06-10T05:16:19.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11869&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11869&amp;order=1"/>
+        <updated>2022-06-10T05:15:22.502Z</updated>
+        <content type="html"><![CDATA[2022-06-17(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 케니 지(Kenny G) 월드투어 내한공연 - 서울 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11868&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11858&amp;order=1"/>
         <updated>2022-06-08T01:23:39.152Z</updated>
         <content type="html"><![CDATA[2022-06-13(월) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OUTLIVE Concert Vol.2 My OUTLIVE [Malibu] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11855&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11855&amp;order=1"/>
-        <updated>2022-06-07T05:15:20.447Z</updated>
-        <content type="html"><![CDATA[2022-06-09(목) 14:00]]></content>
     </entry>
 </feed>
