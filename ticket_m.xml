@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-13T05:23:10.487Z</updated>
+    <updated>2022-06-13T06:25:22.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [카파이즘] 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11873&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11873&amp;order=1"/>
+        <updated>2022-06-13T06:24:27.163Z</updated>
+        <content type="html"><![CDATA[2022-06-15(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 THE신승훈SHOW 〈미소속에 비친 그대〉-부산 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11872&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11862&amp;order=1"/>
         <updated>2022-06-08T08:24:26.823Z</updated>
         <content type="html"><![CDATA[2022-06-10(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <차미> 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11861&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11861&amp;order=1"/>
-        <updated>2022-06-08T05:16:33.861Z</updated>
-        <content type="html"><![CDATA[2022-06-14(화) 11:00]]></content>
     </entry>
 </feed>
