@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-13T07:17:43.151Z</updated>
+    <updated>2022-06-13T08:23:20.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [말리의 어제보다 특별한 오늘] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11874</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11874"/>
+        <updated>2022-06-13T08:22:11.396Z</updated>
+        <content type="html"><![CDATA[2022.06.16(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매뮤지컬 [카파이즘] 4차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11873</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11853"/>
         <updated>2022-06-09T08:24:53.175Z</updated>
         <content type="html"><![CDATA[2022.06.09(목) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매춘하추동 [디톡스 콘서트] - 부산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11852</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11852"/>
-        <updated>2022-06-09T08:24:53.175Z</updated>
-        <content type="html"><![CDATA[2022.06.13(월) 14:00]]></content>
     </entry>
 </feed>
