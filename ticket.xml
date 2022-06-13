@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-13T04:39:50.999Z</updated>
+    <updated>2022-06-13T05:23:10.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 THE신승훈SHOW 〈미소속에 비친 그대〉-부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11872</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11872"/>
+        <updated>2022-06-13T05:22:07.960Z</updated>
+        <content type="html"><![CDATA[2022.06.17(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [모래시계] 마지막 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11871</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11871"/>
+        <updated>2022-06-13T05:22:07.966Z</updated>
+        <content type="html"><![CDATA[2022.06.17(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [빈센트 리버] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11870</id>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11851"/>
         <updated>2022-06-09T08:24:53.175Z</updated>
         <content type="html"><![CDATA[2022.06.09(목) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[you.will.knovv] THE DIE IS CASTTT; Capsule live 6 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11850</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11850"/>
-        <updated>2022-06-09T08:24:53.175Z</updated>
-        <content type="html"><![CDATA[2022.06.13(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Kuria Live in Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11849</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11849"/>
-        <updated>2022-06-09T08:24:53.175Z</updated>
-        <content type="html"><![CDATA[2022.06.08(수) 14:00]]></content>
     </entry>
 </feed>
