@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-13T23:18:46.542Z</updated>
+    <updated>2022-06-14T01:49:40.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심포니 오브 메이플스토리 전국투어 - 서울 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11876</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11876"/>
+        <updated>2022-06-14T01:48:34.693Z</updated>
+        <content type="html"><![CDATA[2022.06.17(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2022 서인국 팬미팅 ‘하(夏)루 : HEART & LOVE’ 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11875</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11875"/>
+        <updated>2022-06-14T01:48:34.695Z</updated>
+        <content type="html"><![CDATA[2022.06.28(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.06.17(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [말리의 어제보다 특별한 오늘] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11874</id>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11855"/>
         <updated>2022-06-09T08:24:53.155Z</updated>
         <content type="html"><![CDATA[2022.06.09(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [미아 파밀리아] 3차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11854</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11854"/>
-        <updated>2022-06-09T08:24:53.175Z</updated>
-        <content type="html"><![CDATA[2022.06.15(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방용국 글로벌 팬밋업 [Bangstergram] 온라인중계 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11853</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11853"/>
-        <updated>2022-06-09T08:24:53.175Z</updated>
-        <content type="html"><![CDATA[2022.06.09(목) 17:00]]></content>
     </entry>
 </feed>
