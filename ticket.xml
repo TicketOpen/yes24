@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-15T01:30:17.082Z</updated>
+    <updated>2022-06-15T03:41:05.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [서편제] 프리뷰 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11877</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11877"/>
+        <updated>2022-06-15T03:39:52.774Z</updated>
+        <content type="html"><![CDATA[2022.06.17(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심포니 오브 메이플스토리 전국투어 - 서울 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11876</id>
@@ -135,12 +142,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11856</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11856"/>
         <updated>2022-06-09T08:24:53.153Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매OUTLIVE Concert Vol.2 My OUTLIVE [Malibu] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11855</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11855"/>
-        <updated>2022-06-09T08:24:53.155Z</updated>
-        <content type="html"><![CDATA[2022.06.09(목) 14:00]]></content>
     </entry>
 </feed>
