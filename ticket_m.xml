@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-16T06:21:58.975Z</updated>
+    <updated>2022-06-16T07:18:03.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 4차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11882&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11882&amp;order=1"/>
+        <updated>2022-06-16T07:17:10.080Z</updated>
+        <content type="html"><![CDATA[2022-06-21(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 임영웅 콘서트 [IM HERO] - 서울 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11881&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11872&amp;order=1"/>
         <updated>2022-06-13T05:22:18.392Z</updated>
         <content type="html"><![CDATA[2022-06-17(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [모래시계] 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11871&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11871&amp;order=1"/>
-        <updated>2022-06-13T05:22:18.392Z</updated>
-        <content type="html"><![CDATA[2022-06-17(금) 11:00]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 06:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 07:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 [넥스트 투 노멀] 4차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11882</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11882</guid>
+            <pubDate>Thu, 16 Jun 2022 07:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.21(화) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[단독판매2022 임영웅 콘서트 [IM HERO] - 서울 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11881</link>
@@ -139,11 +146,11 @@
             <content:encoded><![CDATA[2022.06.10(금) 17:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <차미> 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11861</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11861</guid>
-            <pubDate>Thu, 09 Jun 2022 08:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.14(화) 11:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [넥스트 투 노멀] 4차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11882&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11882&amp;order=1</guid>
+            <pubDate>Thu, 16 Jun 2022 07:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022-06-21(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 임영웅 콘서트 [IM HERO] - 서울 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -209,19 +216,12 @@
             <content:encoded><![CDATA[2022-06-17(금) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [모래시계] 마지막 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11871&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11871&amp;order=1</guid>
-            <pubDate>Mon, 13 Jun 2022 05:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022-06-17(금) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 <이 구역의 이기적인X> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42321</link>
-            <guid>http://ticket.yes24.com/Perf/42321</guid>
+            <title><![CDATA[공포 연극 <흉터> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42179</link>
+            <guid>http://ticket.yes24.com/Perf/42179</guid>
             <pubDate>Mon, 13 Jun 2022 01:43:29 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>5,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220613/20220613-42321.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220613/20220613-42179.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <빈센트 반 고흐> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -232,12 +232,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220613/20220613-41497.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공포 연극 <흉터> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42179</link>
-            <guid>http://ticket.yes24.com/Perf/42179</guid>
+            <title><![CDATA[연극 <이 구역의 이기적인X> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42321</link>
+            <guid>http://ticket.yes24.com/Perf/42321</guid>
             <pubDate>Mon, 13 Jun 2022 01:43:29 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>5,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220613/20220613-42179.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220613/20220613-42321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <빈센트 반 고흐> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
