@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-16T04:33:41.171Z</updated>
+    <updated>2022-06-16T05:19:54.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 임영웅 콘서트 [IM HERO] - 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11881&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11881&amp;order=1"/>
+        <updated>2022-06-16T05:19:02.624Z</updated>
+        <content type="html"><![CDATA[2022-07-07(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 7차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11880&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11880&amp;order=1"/>
+        <updated>2022-06-16T05:19:02.625Z</updated>
+        <content type="html"><![CDATA[2022-06-23(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 김종현 팬미팅 [Hi 하이] 추가 좌석 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11879&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11871&amp;order=1"/>
         <updated>2022-06-13T05:22:18.392Z</updated>
         <content type="html"><![CDATA[2022-06-17(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [빈센트 리버] 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11870&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11870&amp;order=1"/>
-        <updated>2022-06-13T03:36:37.609Z</updated>
-        <content type="html"><![CDATA[2022-06-16(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11869&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11869&amp;order=1"/>
-        <updated>2022-06-10T05:15:22.502Z</updated>
-        <content type="html"><![CDATA[2022-06-17(금) 14:00]]></content>
     </entry>
 </feed>
