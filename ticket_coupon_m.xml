@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2022-06-16T14:16:44.156Z</updated>
+    <updated>2022-06-16T15:18:32.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
     <entry>
@@ -101,6 +101,13 @@
         <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41158</id>
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41158"/>
         <updated>2022-06-16T01:27:33.197Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 더 와일드의 변론] 예매수수료 면제 쿠폰]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41174</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41174"/>
+        <updated>2022-06-16T15:18:32.428Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content>
     </entry>
 </feed>
