@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 16:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 17:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,14 +217,6 @@
             <content:encoded><![CDATA[2022-06-17(금) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 <이 구역의 이기적인X> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42321</link>
-            <guid>http://ticket.yes24.com/Perf/42321</guid>
-            <pubDate>Mon, 13 Jun 2022 01:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>5,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220613/20220613-42321.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[공포 연극 <흉터> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/42179</link>
             <guid>http://ticket.yes24.com/Perf/42179</guid>
@@ -239,6 +231,14 @@
             <pubDate>Mon, 13 Jun 2022 01:43:29 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>50,400원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220613/20220613-41497.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <이 구역의 이기적인X> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42321</link>
+            <guid>http://ticket.yes24.com/Perf/42321</guid>
+            <pubDate>Mon, 13 Jun 2022 01:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>5,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220613/20220613-42321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <빈센트 반 고흐> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
