@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-17T04:33:14.230Z</updated>
+    <updated>2022-06-17T05:19:21.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 2 seconds left’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11885&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11885&amp;order=1"/>
+        <updated>2022-06-17T05:18:25.196Z</updated>
+        <content type="html"><![CDATA[2022-06-27(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [볼륨업] 4차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11884&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11875&amp;order=1"/>
         <updated>2022-06-14T01:48:45.187Z</updated>
         <content type="html"><![CDATA[2022-06-28(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [말리의 어제보다 특별한 오늘] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11874&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11874&amp;order=1"/>
-        <updated>2022-06-13T08:22:22.187Z</updated>
-        <content type="html"><![CDATA[2022-06-16(목) 11:00]]></content>
     </entry>
 </feed>
