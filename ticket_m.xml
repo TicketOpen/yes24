@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-17T09:19:53.788Z</updated>
+    <updated>2022-06-17T10:19:43.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김예지 TURNED 콘서트 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11887&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11887&amp;order=1"/>
+        <updated>2022-06-17T10:18:44.143Z</updated>
+        <content type="html"><![CDATA[2022-06-20(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond LIVE - SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD  온라인 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11886&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11877&amp;order=1"/>
         <updated>2022-06-15T03:40:01.061Z</updated>
         <content type="html"><![CDATA[2022-06-17(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심포니 오브 메이플스토리 전국투어 - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11876&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11876&amp;order=1"/>
-        <updated>2022-06-14T01:48:45.187Z</updated>
-        <content type="html"><![CDATA[2022-06-17(금) 14:00]]></content>
     </entry>
 </feed>
