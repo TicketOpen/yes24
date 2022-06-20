@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-20T01:38:33.093Z</updated>
+    <updated>2022-06-20T03:16:58.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 이성열 팬미팅 [The loeYeol] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11888&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11888&amp;order=1"/>
+        <updated>2022-06-20T03:16:03.346Z</updated>
+        <content type="html"><![CDATA[2022-06-23(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김예지 TURNED 콘서트 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11887&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11879&amp;order=1"/>
         <updated>2022-06-15T09:17:04.083Z</updated>
         <content type="html"><![CDATA[2022-06-20(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [서편제] 프리뷰 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11877&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11877&amp;order=1"/>
-        <updated>2022-06-15T03:40:01.061Z</updated>
-        <content type="html"><![CDATA[2022-06-17(금) 16:00]]></content>
     </entry>
 </feed>

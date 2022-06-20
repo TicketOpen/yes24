@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-20T01:38:33.024Z</updated>
+    <updated>2022-06-20T03:16:58.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2022 이성열 팬미팅 [The loeYeol] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11888</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11888"/>
+        <updated>2022-06-20T03:15:54.496Z</updated>
+        <content type="html"><![CDATA[2022.06.23(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김예지 TURNED 콘서트 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11887</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11869"/>
         <updated>2022-06-10T05:15:10.199Z</updated>
         <content type="html"><![CDATA[2022.06.17(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 케니 지(Kenny G) 월드투어 내한공연 - 서울 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11868</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11868"/>
-        <updated>2022-06-10T03:20:50.131Z</updated>
-        <content type="html"><![CDATA[2022.06.17(금) 11:00]]></content>
     </entry>
 </feed>
