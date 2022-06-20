@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-20T09:23:15.681Z</updated>
+    <updated>2022-06-20T10:21:26.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매드라마 미스터하트 원상하 첫 팬미팅 ~너가 멈추지 않으면 ing야~ 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11891</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11891"/>
+        <updated>2022-06-20T10:20:19.509Z</updated>
+        <content type="html"><![CDATA[2022.06.28(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매박소은 정규 앨범 발매 기념 단독 공연 [RECYCLE] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11890</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11872"/>
         <updated>2022-06-13T05:22:07.960Z</updated>
         <content type="html"><![CDATA[2022.06.17(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [모래시계] 마지막 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11871</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11871"/>
-        <updated>2022-06-13T05:22:07.966Z</updated>
-        <content type="html"><![CDATA[2022.06.17(금) 11:00]]></content>
     </entry>
 </feed>
