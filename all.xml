@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 23:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 01:38:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,38 +217,69 @@
             <content:encoded><![CDATA[2022-06-17(금) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <빈센트 반 고흐> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/41497</link>
-            <guid>http://m.ticket.yes24.com/Perf/41497</guid>
-            <pubDate>Mon, 13 Jun 2022 01:43:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;빈센트 반 고흐&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">20</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">32,800원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220613/20220613-41497.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <클림트> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42181</link>
+            <guid>http://ticket.yes24.com/Perf/42181</guid>
+            <pubDate>Mon, 20 Jun 2022 01:37:54 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>50,400원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-42181.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <이 구역의 이기적인X> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/42321</link>
-            <guid>http://m.ticket.yes24.com/Perf/42321</guid>
-            <pubDate>Mon, 13 Jun 2022 01:43:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 &lt;이 구역의 이기적인X&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">77</em>%<em class="blind">할인</em></span><span class="txt_num">
+            <title><![CDATA[연극 <나의PS파트너> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/29162</link>
+            <guid>http://ticket.yes24.com/Perf/29162</guid>
+            <pubDate>Mon, 20 Jun 2022 01:37:54 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-29162.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <초선의원> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42182</link>
+            <guid>http://ticket.yes24.com/Perf/42182</guid>
+            <pubDate>Mon, 20 Jun 2022 01:37:54 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-42182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <클림트> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/42181</link>
+            <guid>http://m.ticket.yes24.com/Perf/42181</guid>
+            <pubDate>Mon, 20 Jun 2022 01:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;클림트&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">32,200원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">6/21 ~ 7/3 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-42181.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <초선의원> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/42182</link>
+            <guid>http://m.ticket.yes24.com/Perf/42182</guid>
+            <pubDate>Mon, 20 Jun 2022 01:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 &lt;초선의원&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">50,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">22,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-42182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <나의PS파트너> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/29162</link>
+            <guid>http://m.ticket.yes24.com/Perf/29162</guid>
+            <pubDate>Mon, 20 Jun 2022 01:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 &lt;나의PS파트너&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">71</em>%<em class="blind">할인</em></span><span class="txt_num">
 																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">35,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">5,600원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">7,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220613/20220613-42321.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-29162.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <흉터> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/42179</link>
-            <guid>http://m.ticket.yes24.com/Perf/42179</guid>
-            <pubDate>Mon, 13 Jun 2022 01:43:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 &lt;흉터&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">77</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">35,000원
-</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">5,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220613/20220613-42179.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[어린이 뮤지컬 <점박이 공룡대모험 : 뒤섞인 세계> (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42433&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42433&amp;Tab=3</guid>
+            <pubDate>Mon, 20 Jun 2022 01:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20 ~ 2022.07.15 | 2022.07.18 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202206/20220620/20220620-d0abdea9-297e-4493-8636-ae9b901e2546.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <넥스트 투 노멀> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -312,11 +343,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[예술의전당 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
-            <pubDate>Sun, 19 Jun 2022 15:16:49 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
+            <title><![CDATA[이벤트 기간2022.06.20 ~ 2022.07.15 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42433</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42433</guid>
+            <pubDate>Mon, 20 Jun 2022 01:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2022년 7월 28일(목) 오후 2시 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202206/20220620/20220620-d0abdea9-297e-4493-8636-ae9b901e2546.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.06.02 ~ 2022.07.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
