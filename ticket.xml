@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-20T08:25:37.240Z</updated>
+    <updated>2022-06-20T09:23:15.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2022 아이비 콘서트 : Next Page 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[단독판매박소은 정규 앨범 발매 기념 단독 공연 [RECYCLE] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11890</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11890"/>
+        <updated>2022-06-20T09:22:16.122Z</updated>
+        <content type="html"><![CDATA[2022.06.23(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 아이비 콘서트 : NEXT PAGE 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11889</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11889"/>
         <updated>2022-06-20T05:16:24.371Z</updated>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11871"/>
         <updated>2022-06-13T05:22:07.966Z</updated>
         <content type="html"><![CDATA[2022.06.17(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [빈센트 리버] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11870</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11870"/>
-        <updated>2022-06-13T03:36:27.782Z</updated>
-        <content type="html"><![CDATA[2022.06.16(목) 16:00]]></content>
     </entry>
 </feed>
