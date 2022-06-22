@@ -2,11 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-22T06:22:12.385Z</updated>
+    <updated>2022-06-22T07:17:31.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[ITZY THE 1ST WORLD TOUR 〈CHECKMATE〉 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[시스템 점검으로 인한 서비스 일부 제한 안내(6/27)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11895</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11895"/>
+        <updated>2022-06-22T07:16:14.887Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매ITZY THE 1ST WORLD TOUR 〈CHECKMATE〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11894</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11894"/>
         <updated>2022-06-22T06:20:57.238Z</updated>
@@ -136,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11876"/>
         <updated>2022-06-14T01:48:34.693Z</updated>
         <content type="html"><![CDATA[2022.06.17(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 서인국 팬미팅 ‘하(夏)루 : HEART & LOVE’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11875</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11875"/>
-        <updated>2022-06-14T01:48:34.695Z</updated>
-        <content type="html"><![CDATA[2022.06.28(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.06.17(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
