@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-22T23:18:32.763Z</updated>
+    <updated>2022-06-23T01:33:05.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시(Billie Eilish) 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11896</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11896"/>
+        <updated>2022-06-23T01:32:10.884Z</updated>
+        <content type="html"><![CDATA[2022.07.06(수) 12:00<a class="noti-btn-pop" presaletit1="현대카드 선예매" presaletit2="" presaletime1="2022.07.05(화) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시스템 점검으로 인한 서비스 일시 중지 안내(6/27)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11895</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11877"/>
         <updated>2022-06-15T03:39:52.774Z</updated>
         <content type="html"><![CDATA[2022.06.17(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심포니 오브 메이플스토리 전국투어 - 서울 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11876</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11876"/>
-        <updated>2022-06-14T01:48:34.693Z</updated>
-        <content type="html"><![CDATA[2022.06.17(금) 14:00]]></content>
     </entry>
 </feed>
