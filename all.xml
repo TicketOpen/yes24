@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 06:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,11 +35,11 @@
             <content:encoded><![CDATA[2022.06.24(금) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유채훈 첫 단독 콘서트〈Podium〉- 부산 티켓오픈안내 (예스24 티켓)]]></title>
+            <title><![CDATA[[오픈시간변경] 유채훈 첫 단독 콘서트〈Podium〉- 부산 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11892</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11892</guid>
             <pubDate>Wed, 22 Jun 2022 05:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.28(화) 14:00]]></content:encoded>
+            <content:encoded><![CDATA[2022.06.28(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매드라마 미스터하트 원상하 첫 팬미팅 ~너가 멈추지 않으면 ing야~ 티켓오픈안내 (예스24 티켓)]]></title>
@@ -167,11 +167,11 @@
             <content:encoded><![CDATA[2022-06-24(금) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유채훈 첫 단독 콘서트〈Podium〉- 부산 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <title><![CDATA[[오픈시간변경] 유채훈 첫 단독 콘서트〈Podium〉- 부산 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11892&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11892&amp;order=1</guid>
             <pubDate>Wed, 22 Jun 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022-06-28(화) 14:00]]></content:encoded>
+            <content:encoded><![CDATA[2022-06-28(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[드라마 미스터하트 원상하 첫 팬미팅 ~너가 멈추지 않으면 ing야~ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -224,20 +224,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-42181.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <초선의원> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42182</link>
-            <guid>http://ticket.yes24.com/Perf/42182</guid>
-            <pubDate>Mon, 20 Jun 2022 01:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-42182.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <나의PS파트너> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/29162</link>
             <guid>http://ticket.yes24.com/Perf/29162</guid>
             <pubDate>Mon, 20 Jun 2022 01:37:54 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-29162.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <초선의원> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42182</link>
+            <guid>http://ticket.yes24.com/Perf/42182</guid>
+            <pubDate>Mon, 20 Jun 2022 01:37:54 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-42182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <클림트> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
