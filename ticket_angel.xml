@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 01:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 03:43:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-42181.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <초선의원>]]></title>
-            <link>http://ticket.yes24.com/Perf/42182</link>
-            <guid>http://ticket.yes24.com/Perf/42182</guid>
-            <pubDate>Mon, 20 Jun 2022 01:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-42182.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <나의PS파트너>]]></title>
             <link>http://ticket.yes24.com/Perf/29162</link>
             <guid>http://ticket.yes24.com/Perf/29162</guid>
             <pubDate>Mon, 20 Jun 2022 01:37:54 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-29162.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <초선의원>]]></title>
+            <link>http://ticket.yes24.com/Perf/42182</link>
+            <guid>http://ticket.yes24.com/Perf/42182</guid>
+            <pubDate>Mon, 20 Jun 2022 01:37:54 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220620/20220620-42182.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
