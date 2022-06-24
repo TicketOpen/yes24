@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-24T04:39:09.145Z</updated>
+    <updated>2022-06-24T05:22:51.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 aespa FAN MEETING “MY SYNK. aespa” 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11898&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11898&amp;order=1"/>
+        <updated>2022-06-24T05:21:55.839Z</updated>
+        <content type="html"><![CDATA[2022-07-06(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11897&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11897&amp;order=1"/>
+        <updated>2022-06-24T05:21:55.839Z</updated>
+        <content type="html"><![CDATA[2022-06-30(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시(Billie Eilish) 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11896&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11888&amp;order=1"/>
         <updated>2022-06-20T03:16:03.346Z</updated>
         <content type="html"><![CDATA[2022-06-23(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김예지 TURNED 콘서트 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11887&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11887&amp;order=1"/>
-        <updated>2022-06-17T10:18:44.143Z</updated>
-        <content type="html"><![CDATA[2022-06-20(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE - SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD  온라인 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11886&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11886&amp;order=1"/>
-        <updated>2022-06-17T06:24:23.946Z</updated>
-        <content type="html"><![CDATA[2022-06-23(목) 15:00]]></content>
     </entry>
 </feed>
