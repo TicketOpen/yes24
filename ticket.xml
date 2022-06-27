@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-27T04:52:33.928Z</updated>
+    <updated>2022-06-27T05:29:08.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2022 나이트레이스 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11901</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11901"/>
+        <updated>2022-06-27T05:27:59.392Z</updated>
+        <content type="html"><![CDATA[2022.06.28(화) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매BAEKHO FAN MEETING〈BAEKATION〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11900</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11900"/>
+        <updated>2022-06-27T05:27:59.393Z</updated>
+        <content type="html"><![CDATA[2022.07.12(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.07.06(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매NCT DREAM TOUR ‘THE DREAM SHOW2: In A DREAM’ 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11899</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11882"/>
         <updated>2022-06-26T21:14:06.721Z</updated>
         <content type="html"><![CDATA[2022.06.21(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 임영웅 콘서트 [IM HERO] - 서울 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11881</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11881"/>
-        <updated>2022-06-26T21:14:06.722Z</updated>
-        <content type="html"><![CDATA[2022.07.07(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 7차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11880</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11880"/>
-        <updated>2022-06-26T21:14:06.723Z</updated>
-        <content type="html"><![CDATA[2022.06.23(목) 14:00]]></content>
     </entry>
 </feed>
