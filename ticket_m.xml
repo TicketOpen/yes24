@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-27T08:25:31.489Z</updated>
+    <updated>2022-06-27T09:18:30.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [렛미플라이] OST 판매 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11902&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11902&amp;order=1"/>
+        <updated>2022-06-27T09:17:33.817Z</updated>
+        <content type="html"><![CDATA[2022-06-30(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 나이트레이스 부산 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11901&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11892&amp;order=1"/>
         <updated>2022-06-26T21:14:16.808Z</updated>
         <content type="html"><![CDATA[2022-06-28(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드라마 미스터하트 원상하 첫 팬미팅 ~너가 멈추지 않으면 ing야~ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11891&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11891&amp;order=1"/>
-        <updated>2022-06-26T21:14:16.811Z</updated>
-        <content type="html"><![CDATA[2022-06-28(화) 20:00]]></content>
     </entry>
 </feed>
