@@ -1,80 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 ─ 이벤트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 23:17:56 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[어린이 뮤지컬 <점박이 공룡대모험 : 뒤섞인 세계>]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42433&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42433&amp;Tab=3</guid>
-            <pubDate>Sun, 26 Jun 2022 21:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20 ~ 2022.07.15 | 2022.07.18 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202206/20220620/20220620-d0abdea9-297e-4493-8636-ae9b901e2546.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <넥스트 투 노멀> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41835&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41835&amp;Tab=2</guid>
-            <pubDate>Sun, 26 Jun 2022 21:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.02 ~ 2022.07.31 | 2022.08.02 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202206/20220602/20220602-85b2812e-8e38-4cb4-abf3-e97196283dfd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영주세계풍기인삼엑스포 X 교촌치킨]]></title>
-            <link>https://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3296</link>
-            <guid>https://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3296</guid>
-            <pubDate>Sun, 26 Jun 2022 21:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.02 ~ 2022.07.31 | 2022.08.05 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202206/20220602/20220602-55261206-1f71-4eeb-9126-32f35afd52af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <비더슈탄트> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42155&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42155&amp;Tab=3</guid>
-            <pubDate>Sun, 26 Jun 2022 21:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.23 ~ 2022.06.29 | 2022.07.01 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220523/20220523-dd47eb22-f284-4af4-afb5-f220ce196858.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41898&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41898&amp;Tab=2</guid>
-            <pubDate>Sun, 26 Jun 2022 21:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.17 ~ 2022.07.04 | 2022.07.07 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220517/20220517-e10ed98f-0e4a-49fd-b1d1-537f4eaf54f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <차미> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41685&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41685&amp;Tab=2</guid>
-            <pubDate>Sun, 26 Jun 2022 21:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.25 ~ 2022.07.16 | 2022.07.18 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202204/20220425/20220425-1ad2ad35-bf85-4e12-b6e0-6c6f077d7514.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Sun, 26 Jun 2022 21:14:40 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 보호 캠페인]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
-            <pubDate>Sun, 26 Jun 2022 21:14:40 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예스24스테이지]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Sun, 26 Jun 2022 21:14:40 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
+    <title>YES24 티켓 ─ 이벤트</title>
+    <updated>2022-06-28T01:43:17.775Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
+</feed>
