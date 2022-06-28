@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-28T04:42:31.563Z</updated>
+    <updated>2022-06-28T05:26:35.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 나이트레이스 부산 티켓 재오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11905&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11905&amp;order=1"/>
+        <updated>2022-06-28T05:25:43.688Z</updated>
+        <content type="html"><![CDATA[2022-06-28(화) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 부산국제록페스티벌 블라인드 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11904&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11904&amp;order=1"/>
+        <updated>2022-06-28T05:25:43.690Z</updated>
+        <content type="html"><![CDATA[2022-06-29(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제4회 슬로우 라이프 슬로우 라이브 2022 2차 라인업 및 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11903&amp;order=1</id>
@@ -18,13 +32,6 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11902&amp;order=1"/>
         <updated>2022-06-27T09:17:33.817Z</updated>
         <content type="html"><![CDATA[2022-06-30(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 나이트레이스 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11901&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11901&amp;order=1"/>
-        <updated>2022-06-27T05:28:10.258Z</updated>
-        <content type="html"><![CDATA[2022-06-28(화) 13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BAEKHO FAN MEETING〈BAEKATION〉티켓오픈안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11894&amp;order=1"/>
         <updated>2022-06-26T21:14:16.808Z</updated>
         <content type="html"><![CDATA[2022-07-12(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haus of Wonder 일반예매 2차 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11893&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11893&amp;order=1"/>
-        <updated>2022-06-26T21:14:16.808Z</updated>
-        <content type="html"><![CDATA[2022-06-24(금) 12:00]]></content>
     </entry>
 </feed>
