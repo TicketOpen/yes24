@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-28T01:43:17.787Z</updated>
+    <updated>2022-06-28T03:44:27.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제4회 슬로우 라이프 슬로우 라이브 2022 2차 라인업 및 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11903&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11903&amp;order=1"/>
+        <updated>2022-06-28T03:43:40.568Z</updated>
+        <content type="html"><![CDATA[2022-07-04(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [렛미플라이] OST 판매 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11902&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11893&amp;order=1"/>
         <updated>2022-06-26T21:14:16.808Z</updated>
         <content type="html"><![CDATA[2022-06-24(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오픈시간변경] 유채훈 첫 단독 콘서트〈Podium〉- 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11892&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11892&amp;order=1"/>
-        <updated>2022-06-26T21:14:16.808Z</updated>
-        <content type="html"><![CDATA[2022-06-28(화) 16:00]]></content>
     </entry>
 </feed>

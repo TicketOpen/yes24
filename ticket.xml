@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-28T01:43:17.780Z</updated>
+    <updated>2022-06-28T03:44:27.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제4회 슬로우 라이프 슬로우 라이브 2022 2차 라인업 및 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11903</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11903"/>
+        <updated>2022-06-28T03:43:30.962Z</updated>
+        <content type="html"><![CDATA[2022.07.04(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [렛미플라이] OST 판매 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11902</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11884"/>
         <updated>2022-06-26T21:14:06.719Z</updated>
         <content type="html"><![CDATA[2022.06.22(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [클림트] 마지막 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11883</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11883"/>
-        <updated>2022-06-26T21:14:06.720Z</updated>
-        <content type="html"><![CDATA[2022.06.22(수) 15:00]]></content>
     </entry>
 </feed>
