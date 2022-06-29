@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 14:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 15:50:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,22 +215,6 @@
             <content:encoded><![CDATA[2022-07-06(수) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 <비평가> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42265</link>
-            <guid>http://ticket.yes24.com/Perf/42265</guid>
-            <pubDate>Wed, 29 Jun 2022 14:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42265.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <카파이즘> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41903</link>
-            <guid>http://ticket.yes24.com/Perf/41903</guid>
-            <pubDate>Wed, 29 Jun 2022 14:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-41903.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <사춘기메들리> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/42709</link>
             <guid>http://ticket.yes24.com/Perf/42709</guid>
@@ -245,6 +229,22 @@
             <pubDate>Wed, 29 Jun 2022 14:14:53 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42705.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <비평가> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42265</link>
+            <guid>http://ticket.yes24.com/Perf/42265</guid>
+            <pubDate>Wed, 29 Jun 2022 14:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42265.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <카파이즘> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41903</link>
+            <guid>http://ticket.yes24.com/Perf/41903</guid>
+            <pubDate>Wed, 29 Jun 2022 14:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-41903.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <카파이즘> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -315,14 +315,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202206/20220602/20220602-55261206-1f71-4eeb-9126-32f35afd52af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <비더슈탄트> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42155&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42155&amp;Tab=3</guid>
-            <pubDate>Wed, 29 Jun 2022 14:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.23 ~ 2022.06.29 | 2022.07.01 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220523/20220523-dd47eb22-f284-4af4-afb5-f220ce196858.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41898&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=41898&amp;Tab=2</guid>
@@ -360,6 +352,13 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[예술의전당 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
+            <pubDate>Wed, 29 Jun 2022 15:49:34 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[이벤트 기간2022.06.20 ~ 2022.07.15 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42433</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42433</guid>
@@ -382,14 +381,6 @@
             <pubDate>Wed, 29 Jun 2022 14:15:17 GMT</pubDate>
             <content:encoded><![CDATA[<em>당첨자 발표</em>2022.08.05]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202206/20220602/20220602-55261206-1f71-4eeb-9126-32f35afd52af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.05.23 ~ 2022.06.29 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42155</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42155</guid>
-            <pubDate>Wed, 29 Jun 2022 14:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2022년 7월 10일(일) 오후 6시]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202205/20220523/20220523-dd47eb22-f284-4af4-afb5-f220ce196858.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.05.17 ~ 2022.07.04 (YES24 티켓 ─ 이벤트 모바일)]]></title>
