@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-29T04:47:56.441Z</updated>
+    <updated>2022-06-29T05:26:48.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매AB6IX OFFICIAL FANCLUB ABNEW 4TH RECRUITMENT 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11907</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11907"/>
+        <updated>2022-06-29T05:25:43.470Z</updated>
+        <content type="html"><![CDATA[2022.07.01(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 나이트레이스 부산 예매 오픈 연기 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11906</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11886"/>
         <updated>2022-06-26T21:14:06.717Z</updated>
         <content type="html"><![CDATA[2022.06.23(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 2 seconds left’ 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11885</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11885"/>
-        <updated>2022-06-26T21:14:06.718Z</updated>
-        <content type="html"><![CDATA[2022.06.27(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.06.24(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

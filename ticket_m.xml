@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-29T04:47:56.449Z</updated>
+    <updated>2022-06-29T05:26:48.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AB6IX OFFICIAL FANCLUB ABNEW 4TH RECRUITMENT 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11907&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11907&amp;order=1"/>
+        <updated>2022-06-29T05:25:53.093Z</updated>
+        <content type="html"><![CDATA[2022-07-01(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 나이트레이스 부산 예매 오픈 연기 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11906&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11896&amp;order=1"/>
         <updated>2022-06-26T21:14:16.808Z</updated>
         <content type="html"><![CDATA[2022-07-06(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY THE 1ST WORLD TOUR 〈CHECKMATE〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11894&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11894&amp;order=1"/>
-        <updated>2022-06-26T21:14:16.808Z</updated>
-        <content type="html"><![CDATA[2022-07-12(화) 20:00]]></content>
     </entry>
 </feed>
