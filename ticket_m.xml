@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-30T01:41:43.497Z</updated>
+    <updated>2022-06-30T03:43:45.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE X] 뮤지컬 [은하철도의 밤] 온라인 공연 7/18, 7/25, 8/1 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11908&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11908&amp;order=1"/>
+        <updated>2022-06-30T03:42:55.564Z</updated>
+        <content type="html"><![CDATA[2022-07-01(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX OFFICIAL FANCLUB ABNEW 4TH RECRUITMENT 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11907&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11897&amp;order=1"/>
         <updated>2022-06-29T14:14:44.092Z</updated>
         <content type="html"><![CDATA[2022-06-30(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시(Billie Eilish) 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11896&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11896&amp;order=1"/>
-        <updated>2022-06-29T14:14:44.093Z</updated>
-        <content type="html"><![CDATA[2022-07-06(수) 12:00]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 01:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 03:43:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STAGE X] 뮤지컬 [은하철도의 밤] 온라인 공연 7/18, 7/25, 8/1 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11908</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11908</guid>
+            <pubDate>Thu, 30 Jun 2022 03:42:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01(금) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[단독판매AB6IX OFFICIAL FANCLUB ABNEW 4TH RECRUITMENT 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11907</link>
@@ -139,11 +146,11 @@
             <content:encoded><![CDATA[2022.06.20(월) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD  온라인 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11886</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11886</guid>
-            <pubDate>Wed, 29 Jun 2022 14:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23(목) 15:00]]></content:encoded>
+            <title><![CDATA[[STAGE X] 뮤지컬 [은하철도의 밤] 온라인 공연 7/18, 7/25, 8/1 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11908&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11908&amp;order=1</guid>
+            <pubDate>Thu, 30 Jun 2022 03:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-01(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[AB6IX OFFICIAL FANCLUB ABNEW 4TH RECRUITMENT 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -208,19 +215,12 @@
             <content:encoded><![CDATA[2022-06-30(목) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시(Billie Eilish) 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11896&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11896&amp;order=1</guid>
-            <pubDate>Wed, 29 Jun 2022 14:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022-07-06(수) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 <비평가> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42265</link>
-            <guid>http://ticket.yes24.com/Perf/42265</guid>
+            <title><![CDATA[뮤지컬 <카파이즘> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41903</link>
+            <guid>http://ticket.yes24.com/Perf/41903</guid>
             <pubDate>Wed, 29 Jun 2022 14:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42265.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-41903.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <연애하기좋은날> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -231,20 +231,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42705.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <카파이즘> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41903</link>
-            <guid>http://ticket.yes24.com/Perf/41903</guid>
-            <pubDate>Wed, 29 Jun 2022 14:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-41903.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <사춘기메들리> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/42709</link>
             <guid>http://ticket.yes24.com/Perf/42709</guid>
             <pubDate>Wed, 29 Jun 2022 14:14:53 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42709.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <비평가> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42265</link>
+            <guid>http://ticket.yes24.com/Perf/42265</guid>
+            <pubDate>Wed, 29 Jun 2022 14:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42265.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <카파이즘> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
