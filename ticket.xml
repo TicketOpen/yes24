@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-30T09:17:43.337Z</updated>
+    <updated>2022-06-30T10:24:34.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[긴급] 시스템 점검으로 인한 서비스 일시 중지 안내(7/1)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11909</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11909"/>
+        <updated>2022-06-30T10:23:27.977Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE X] 뮤지컬 [은하철도의 밤] 온라인 공연 7/18, 7/25, 8/1 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11908</id>
@@ -135,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11888"/>
         <updated>2022-06-29T14:14:34.226Z</updated>
         <content type="html"><![CDATA[2022.06.23(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김예지 TURNED 콘서트 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11887</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11887"/>
-        <updated>2022-06-29T14:14:34.227Z</updated>
-        <content type="html"><![CDATA[2022.06.20(월) 18:00]]></content>
     </entry>
 </feed>

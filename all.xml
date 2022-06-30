@@ -4,9 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 09:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 10:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[긴급] 시스템 점검으로 인한 서비스 일시 중지 안내(7/1) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11909</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11909</guid>
+            <pubDate>Thu, 30 Jun 2022 10:23:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[STAGE X] 뮤지컬 [은하철도의 밤] 온라인 공연 7/18, 7/25, 8/1 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11908</link>
@@ -139,13 +145,6 @@
             <content:encoded><![CDATA[2022.06.23(목) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김예지 TURNED 콘서트 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11887</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11887</guid>
-            <pubDate>Wed, 29 Jun 2022 14:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20(월) 18:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[STAGE X] 뮤지컬 [은하철도의 밤] 온라인 공연 7/18, 7/25, 8/1 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11908&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11908&amp;order=1</guid>
@@ -215,6 +214,14 @@
             <content:encoded><![CDATA[2022-06-30(목) 15:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 <사춘기메들리> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42709</link>
+            <guid>http://ticket.yes24.com/Perf/42709</guid>
+            <pubDate>Wed, 29 Jun 2022 14:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42709.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 <비평가> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/42265</link>
             <guid>http://ticket.yes24.com/Perf/42265</guid>
@@ -229,14 +236,6 @@
             <pubDate>Wed, 29 Jun 2022 14:14:53 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42705.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <사춘기메들리> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42709</link>
-            <guid>http://ticket.yes24.com/Perf/42709</guid>
-            <pubDate>Wed, 29 Jun 2022 14:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42709.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <카파이즘> (YES24 티켓 ─ 엔젤티켓)]]></title>
