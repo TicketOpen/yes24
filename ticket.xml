@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-01T08:23:56.743Z</updated>
+    <updated>2022-07-01T09:18:34.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 이럴때 이런음악 ‘해설이 있는 청소년음악회’ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11915</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11915"/>
+        <updated>2022-07-01T09:17:23.576Z</updated>
+        <content type="html"><![CDATA[2022.07.05(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2022 N.Flying LIVE ‘&CON2’ 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11914</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11893"/>
         <updated>2022-06-30T22:17:16.848Z</updated>
         <content type="html"><![CDATA[2022.06.24(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오픈시간변경] 유채훈 첫 단독 콘서트〈Podium〉- 부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11892</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11892"/>
-        <updated>2022-06-30T22:17:16.851Z</updated>
-        <content type="html"><![CDATA[2022.06.28(화) 16:00]]></content>
     </entry>
 </feed>
