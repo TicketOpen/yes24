@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 05:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 06:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <사춘기메들리>]]></title>
+            <link>http://ticket.yes24.com/Perf/42709</link>
+            <guid>http://ticket.yes24.com/Perf/42709</guid>
+            <pubDate>Fri, 01 Jul 2022 12:36:32 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42709.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <카파이즘>]]></title>
             <link>http://ticket.yes24.com/Perf/41903</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 01 Jul 2022 12:36:32 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42265.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <사춘기메들리>]]></title>
-            <link>http://ticket.yes24.com/Perf/42709</link>
-            <guid>http://ticket.yes24.com/Perf/42709</guid>
-            <pubDate>Fri, 01 Jul 2022 12:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202206/20220627/20220627-42709.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <연애하기좋은날>]]></title>
