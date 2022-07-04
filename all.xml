@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 01:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 03:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 서울시뮤지컬단 뮤지컬 [원더보이] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11917</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11917</guid>
+            <pubDate>Mon, 04 Jul 2022 03:49:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.06(수) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[단독판매2022 나이트레이스 부산 티켓 재오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11916</link>
@@ -138,11 +145,11 @@
             <pubDate>Sat, 02 Jul 2022 16:22:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[단독판매ITZY THE 1ST WORLD TOUR 〈CHECKMATE〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11894</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11894</guid>
-            <pubDate>Sat, 02 Jul 2022 16:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.12(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽선예매" presaletit2="" presaletime1="2022.07.05(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+            <title><![CDATA[2022 서울시뮤지컬단 뮤지컬 [원더보이] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11917&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11917&amp;order=1</guid>
+            <pubDate>Mon, 04 Jul 2022 03:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-06(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 나이트레이스 부산 티켓 재오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -207,11 +214,20 @@
             <pubDate>Sat, 02 Jul 2022 16:22:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2022 부산국제록페스티벌 블라인드 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11904&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11904&amp;order=1</guid>
-            <pubDate>Sat, 02 Jul 2022 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022-06-29(수) 14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <모래시계> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41982</link>
+            <guid>http://ticket.yes24.com/Perf/41982</guid>
+            <pubDate>Mon, 04 Jul 2022 01:53:19 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>102,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220704/20220704-41982.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <괴테의 변론> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42309</link>
+            <guid>http://ticket.yes24.com/Perf/42309</guid>
+            <pubDate>Mon, 04 Jul 2022 01:53:19 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>32,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220704/20220704-42309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <미아 파밀리아> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -228,22 +244,6 @@
             <pubDate>Mon, 04 Jul 2022 01:53:19 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>32,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220704/20220704-42310.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <괴테의 변론> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42309</link>
-            <guid>http://ticket.yes24.com/Perf/42309</guid>
-            <pubDate>Mon, 04 Jul 2022 01:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>32,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220704/20220704-42309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <모래시계> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41982</link>
-            <guid>http://ticket.yes24.com/Perf/41982</guid>
-            <pubDate>Mon, 04 Jul 2022 01:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>102,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220704/20220704-41982.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <모래시계> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>

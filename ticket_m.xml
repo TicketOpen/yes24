@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-04T01:54:07.470Z</updated>
+    <updated>2022-07-04T03:50:54.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 서울시뮤지컬단 뮤지컬 [원더보이] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11917&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11917&amp;order=1"/>
+        <updated>2022-07-04T03:50:03.247Z</updated>
+        <content type="html"><![CDATA[2022-07-06(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 나이트레이스 부산 티켓 재오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11916&amp;order=1</id>
@@ -66,12 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11906&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11906&amp;order=1"/>
         <updated>2022-07-02T16:22:22.302Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 부산국제록페스티벌 블라인드 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11904&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11904&amp;order=1"/>
-        <updated>2022-07-02T16:22:22.303Z</updated>
-        <content type="html"><![CDATA[2022-06-29(수) 14:00]]></content>
     </entry>
 </feed>
