@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-04T05:29:07.633Z</updated>
+    <updated>2022-07-04T06:28:08.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 〈더데빌 콘서트(THE DEVIL CONCERT)〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11919&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11919&amp;order=1"/>
+        <updated>2022-07-04T06:27:18.144Z</updated>
+        <content type="html"><![CDATA[2022-07-08(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [볼륨업] 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11918&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11908&amp;order=1"/>
         <updated>2022-07-02T16:22:22.300Z</updated>
         <content type="html"><![CDATA[2022-07-01(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX OFFICIAL FANCLUB ABNEW 4TH RECRUITMENT 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11907&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11907&amp;order=1"/>
-        <updated>2022-07-02T16:22:22.302Z</updated>
-        <content type="html"><![CDATA[2022-07-01(금) 12:00]]></content>
     </entry>
 </feed>
