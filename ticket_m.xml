@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-03T23:17:44.639Z</updated>
+    <updated>2022-07-04T01:54:07.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 나이트레이스 부산 티켓 재오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11916&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11916&amp;order=1"/>
+        <updated>2022-07-04T01:53:09.443Z</updated>
+        <content type="html"><![CDATA[2022-07-06(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 이럴때 이런음악 ‘해설이 있는 청소년음악회’ 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11915&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11904&amp;order=1"/>
         <updated>2022-07-02T16:22:22.303Z</updated>
         <content type="html"><![CDATA[2022-06-29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제4회 슬로우 라이프 슬로우 라이브 2022 2차 라인업 및 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11903&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11903&amp;order=1"/>
-        <updated>2022-07-02T16:22:22.304Z</updated>
-        <content type="html"><![CDATA[2022-07-04(월) 12:00]]></content>
     </entry>
 </feed>
