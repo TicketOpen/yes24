@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-04T07:17:50.191Z</updated>
+    <updated>2022-07-04T08:23:56.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE BOYZ WORLD TOUR : THE B-ZONE IN SEOUL ENCORE 오프라인 공연 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11922&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11922&amp;order=1"/>
+        <updated>2022-07-04T08:22:59.586Z</updated>
+        <content type="html"><![CDATA[2022-07-11(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [더 와일드의 변론 - 거짓의 쇠락, 도리안 그레이의 초상] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11921&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11921&amp;order=1"/>
+        <updated>2022-07-04T08:22:59.586Z</updated>
+        <content type="html"><![CDATA[2022-07-08(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [괴테의 변론 - 젊은 베르테르의 슬픔] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11920&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11920&amp;order=1"/>
+        <updated>2022-07-04T08:22:59.587Z</updated>
+        <content type="html"><![CDATA[2022-07-07(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 〈더데빌 콘서트(THE DEVIL CONCERT)〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11919&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11913&amp;order=1"/>
         <updated>2022-07-02T16:22:22.297Z</updated>
         <content type="html"><![CDATA[2022-07-06(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11912&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11912&amp;order=1"/>
-        <updated>2022-07-02T16:22:22.299Z</updated>
-        <content type="html"><![CDATA[2022-07-08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 LOVESOME 블라인드 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11911&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11911&amp;order=1"/>
-        <updated>2022-07-02T16:22:22.300Z</updated>
-        <content type="html"><![CDATA[2022-07-08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE X] 뮤지컬 [은하철도의 밤] 온라인 공연 7/18, 7/25, 8/1 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11908&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11908&amp;order=1"/>
-        <updated>2022-07-02T16:22:22.300Z</updated>
-        <content type="html"><![CDATA[2022-07-01(금) 14:00]]></content>
     </entry>
 </feed>
