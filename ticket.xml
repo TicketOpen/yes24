@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-05T04:37:24.045Z</updated>
+    <updated>2022-07-05T05:22:05.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 하반기 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11924</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11924"/>
+        <updated>2022-07-05T05:20:58.894Z</updated>
+        <content type="html"><![CDATA[2022.07.11(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행사 시스템 작업에 따른 결제 서비스 중단 안내(7/10, 7/17, 7/18, 7/24)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11923</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11903"/>
         <updated>2022-07-02T16:22:10.929Z</updated>
         <content type="html"><![CDATA[2022.07.04(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [렛미플라이] OST 판매 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11902</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11902"/>
-        <updated>2022-07-02T16:22:10.930Z</updated>
-        <content type="html"><![CDATA[2022.06.30(목) 14:00]]></content>
     </entry>
 </feed>
