@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 04:49:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 05:29:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈부산시립교향악단 & 양인모〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11928</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11928</guid>
+            <pubDate>Wed, 06 Jul 2022 05:28:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14(목) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 하반기 1차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11924</link>
@@ -138,11 +145,11 @@
             <content:encoded><![CDATA[2022.06.29(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제4회 슬로우 라이프 슬로우 라이브 2022 2차 라인업 및 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11903</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11903</guid>
-            <pubDate>Sat, 02 Jul 2022 16:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.04(월) 12:00]]></content:encoded>
+            <title><![CDATA[〈부산시립교향악단 & 양인모〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11928&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11928&amp;order=1</guid>
+            <pubDate>Wed, 06 Jul 2022 05:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-14(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 하반기 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -208,21 +215,6 @@
             <content:encoded><![CDATA[2022-07-05(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 N.Flying LIVE ‘&CON2’ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11914&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11914&amp;order=1</guid>
-            <pubDate>Sat, 02 Jul 2022 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022-07-14(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <미아 파밀리아> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42029</link>
-            <guid>http://ticket.yes24.com/Perf/42029</guid>
-            <pubDate>Mon, 04 Jul 2022 01:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>40,500원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220704/20220704-42029.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <더 와일드의 변론> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/42310</link>
             <guid>http://ticket.yes24.com/Perf/42310</guid>
@@ -245,6 +237,14 @@
             <pubDate>Mon, 04 Jul 2022 01:53:19 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>102,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220704/20220704-41982.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <미아 파밀리아> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42029</link>
+            <guid>http://ticket.yes24.com/Perf/42029</guid>
+            <pubDate>Mon, 04 Jul 2022 01:53:19 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>40,500원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220704/20220704-42029.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <모래시계> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
