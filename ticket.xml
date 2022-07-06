@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-06T05:29:37.203Z</updated>
+    <updated>2022-07-06T06:22:39.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [안나, 차이코프스키] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11931</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11931"/>
+        <updated>2022-07-06T06:21:34.490Z</updated>
+        <content type="html"><![CDATA[2022.07.12(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [미아 파밀리아] 4차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11929</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11929"/>
+        <updated>2022-07-06T06:21:34.498Z</updated>
+        <content type="html"><![CDATA[2022.07.13(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈부산시립교향악단 & 양인모〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11928</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11928"/>
         <updated>2022-07-06T05:28:25.774Z</updated>
         <content type="html"><![CDATA[2022.07.14(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [비더슈탄트] 본공연 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11927</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11927"/>
+        <updated>2022-07-06T06:21:34.504Z</updated>
+        <content type="html"><![CDATA[2022.07.11(월) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 하반기 1차 티켓오픈 안내]]></title>
@@ -121,25 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11908"/>
         <updated>2022-07-02T16:22:10.923Z</updated>
         <content type="html"><![CDATA[2022.07.01(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매AB6IX OFFICIAL FANCLUB ABNEW 4TH RECRUITMENT 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11907</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11907"/>
-        <updated>2022-07-02T16:22:10.924Z</updated>
-        <content type="html"><![CDATA[2022.07.01(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 나이트레이스 부산 예매 오픈 연기 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11906</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11906"/>
-        <updated>2022-07-02T16:22:10.926Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 부산국제록페스티벌 블라인드 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11904</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11904"/>
-        <updated>2022-07-02T16:22:10.927Z</updated>
-        <content type="html"><![CDATA[2022.06.29(수) 14:00]]></content>
     </entry>
 </feed>
