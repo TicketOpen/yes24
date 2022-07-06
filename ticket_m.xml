@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-06T08:23:07.105Z</updated>
+    <updated>2022-07-06T09:20:25.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데이브레이크 ‘SUMMER MADNESS 2022 : SPARK’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11932&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11932&amp;order=1"/>
+        <updated>2022-07-06T09:19:24.545Z</updated>
+        <content type="html"><![CDATA[2022-07-14(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [안나, 차이코프스키] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11931&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11931&amp;order=1"/>
         <updated>2022-07-06T06:21:44.960Z</updated>
         <content type="html"><![CDATA[2022-07-12(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#SSAP CONCERT Return to indi Music 신현희 X 김성준 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11930&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11930&amp;order=1"/>
+        <updated>2022-07-06T09:19:24.547Z</updated>
+        <content type="html"><![CDATA[2022-07-11(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [미아 파밀리아] 4차 티켓 오픈 안내]]></title>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11920&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11920&amp;order=1"/>
         <updated>2022-07-04T08:22:59.587Z</updated>
-        <content type="html"><![CDATA[2022-07-07(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 〈더데빌 콘서트(THE DEVIL CONCERT)〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11919&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11919&amp;order=1"/>
-        <updated>2022-07-04T06:27:18.144Z</updated>
-        <content type="html"><![CDATA[2022-07-08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [볼륨업] 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11918&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11918&amp;order=1"/>
-        <updated>2022-07-04T05:28:24.279Z</updated>
         <content type="html"><![CDATA[2022-07-07(목) 15:00]]></content>
     </entry>
 </feed>

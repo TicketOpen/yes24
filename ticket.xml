@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-06T08:23:07.096Z</updated>
+    <updated>2022-07-06T09:20:25.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데이브레이크 ‘SUMMER MADNESS 2022 : SPARK’ 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11932</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11932"/>
+        <updated>2022-07-06T09:19:13.647Z</updated>
+        <content type="html"><![CDATA[2022.07.14(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [안나, 차이코프스키] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11931</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11931"/>
         <updated>2022-07-06T06:21:34.490Z</updated>
         <content type="html"><![CDATA[2022.07.12(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#SSAP CONCERT Return to indi Music 신현희 X 김성준 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11930</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11930"/>
+        <updated>2022-07-06T09:19:13.650Z</updated>
+        <content type="html"><![CDATA[2022.07.11(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [미아 파밀리아] 4차 티켓 오픈 안내]]></title>
@@ -129,18 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11911"/>
         <updated>2022-07-02T16:22:10.920Z</updated>
         <content type="html"><![CDATA[2022.07.08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[긴급] 시스템 점검으로 인한 서비스 일시 중지 안내(7/1)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11909</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11909"/>
-        <updated>2022-07-02T16:22:10.921Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE X] 뮤지컬 [은하철도의 밤] 온라인 공연 7/18, 7/25, 8/1 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11908</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11908"/>
-        <updated>2022-07-02T16:22:10.923Z</updated>
-        <content type="html"><![CDATA[2022.07.01(금) 14:00]]></content>
     </entry>
 </feed>
