@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-07T08:24:43.993Z</updated>
+    <updated>2022-07-07T09:18:21.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [빈센트 리버] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11937</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11937"/>
+        <updated>2022-07-07T09:17:14.517Z</updated>
+        <content type="html"><![CDATA[2022.07.08(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행사 시스템 작업에 따른 결제 서비스 중단 안내(7/10, 7/12, 7/17, 7/18, 7/24)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11936</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11916"/>
         <updated>2022-07-04T01:52:58.659Z</updated>
         <content type="html"><![CDATA[2022.07.06(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 이럴때 이런음악 ‘해설이 있는 청소년음악회’ 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11915</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11915"/>
-        <updated>2022-07-02T16:22:10.911Z</updated>
-        <content type="html"><![CDATA[2022.07.05(화) 14:00]]></content>
     </entry>
 </feed>
