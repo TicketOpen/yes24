@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-07T01:48:02.342Z</updated>
+    <updated>2022-07-07T03:49:03.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프렙 내한공연（PREP LIVE IN SEOUL）티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11933</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11933"/>
+        <updated>2022-07-07T03:48:00.497Z</updated>
+        <content type="html"><![CDATA[2022.07.13(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이브레이크 ‘SUMMER MADNESS 2022 : SPARK’ 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11932</id>
@@ -135,13 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11912</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11912"/>
         <updated>2022-07-02T16:22:10.918Z</updated>
-        <content type="html"><![CDATA[2022.07.08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 LOVESOME 블라인드 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11911</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11911"/>
-        <updated>2022-07-02T16:22:10.920Z</updated>
         <content type="html"><![CDATA[2022.07.08(금) 14:00]]></content>
     </entry>
 </feed>
