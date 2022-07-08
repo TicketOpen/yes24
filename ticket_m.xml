@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-08T04:41:39.103Z</updated>
+    <updated>2022-07-08T05:24:46.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11938&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11938&amp;order=1"/>
+        <updated>2022-07-08T05:23:57.146Z</updated>
+        <content type="html"><![CDATA[2022-07-15(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [빈센트 리버] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11937&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11927&amp;order=1"/>
         <updated>2022-07-06T06:21:44.970Z</updated>
         <content type="html"><![CDATA[2022-07-11(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 하반기 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11924&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11924&amp;order=1"/>
-        <updated>2022-07-05T05:21:09.608Z</updated>
-        <content type="html"><![CDATA[2022-07-11(월) 14:00]]></content>
     </entry>
 </feed>
