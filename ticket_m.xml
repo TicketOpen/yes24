@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-12T01:48:41.585Z</updated>
+    <updated>2022-07-12T04:00:53.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시（Billie Eilish）프로덕션 유보석 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11943&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11943&amp;order=1"/>
+        <updated>2022-07-12T03:59:57.053Z</updated>
+        <content type="html"><![CDATA[2022-07-13(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11942&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11932&amp;order=1"/>
         <updated>2022-07-06T09:19:24.545Z</updated>
         <content type="html"><![CDATA[2022-07-18(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [안나, 차이코프스키] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11931&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11931&amp;order=1"/>
-        <updated>2022-07-06T06:21:44.960Z</updated>
-        <content type="html"><![CDATA[2022-07-12(화) 14:00]]></content>
     </entry>
 </feed>
