@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-11T23:18:31.880Z</updated>
+    <updated>2022-07-12T01:48:41.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11942&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11942&amp;order=1"/>
+        <updated>2022-07-12T01:47:45.781Z</updated>
+        <content type="html"><![CDATA[2022-07-28(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴 인 클래식 콘서트(Fall in Classic Concert) 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11941&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11931&amp;order=1"/>
         <updated>2022-07-06T06:21:44.960Z</updated>
         <content type="html"><![CDATA[2022-07-12(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#SSAP CONCERT Return to indi Music 신현희 X 김성준 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11930&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11930&amp;order=1"/>
-        <updated>2022-07-06T09:19:24.547Z</updated>
-        <content type="html"><![CDATA[2022-07-11(월) 18:00]]></content>
     </entry>
 </feed>
