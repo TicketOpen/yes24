@@ -4,9 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 05:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 06:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은행사 시스템 작업에 따른 결제 서비스 중단 안내(7/10, 7/12, 7/16, 7/17, 7/18, 7/24) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11944</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11944</guid>
+            <pubDate>Tue, 12 Jul 2022 06:21:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시（Billie Eilish）프로덕션 유보석 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11943</link>
@@ -55,12 +61,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11937</guid>
             <pubDate>Thu, 07 Jul 2022 09:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.08(금) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[은행사 시스템 작업에 따른 결제 서비스 중단 안내(7/10, 7/12, 7/17, 7/18, 7/24) (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11936</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11936</guid>
-            <pubDate>Thu, 07 Jul 2022 07:16:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[신한은행 시스템 작업에 따른 결제 서비스 중단 안내(7/12) (예스24 티켓)]]></title>
@@ -215,12 +215,12 @@
             <content:encoded><![CDATA[2022-07-18(월) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 <비평가> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42265</link>
-            <guid>http://ticket.yes24.com/Perf/42265</guid>
+            <title><![CDATA[뮤지컬 <넥스트 투 노멀> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41835</link>
+            <guid>http://ticket.yes24.com/Perf/41835</guid>
             <pubDate>Mon, 11 Jul 2022 01:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>25,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220711/20220711-42265.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									110,000원								</td>								<td class="dc_price">									<em>→</em>63,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220711/20220711-41835.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <볼륨업> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -231,12 +231,45 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220711/20220711-42079.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <넥스트 투 노멀> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41835</link>
-            <guid>http://ticket.yes24.com/Perf/41835</guid>
+            <title><![CDATA[연극 <비평가> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42265</link>
+            <guid>http://ticket.yes24.com/Perf/42265</guid>
             <pubDate>Mon, 11 Jul 2022 01:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									110,000원								</td>								<td class="dc_price">									<em>→</em>63,600원								</td>]]></content:encoded>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>25,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220711/20220711-42265.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <넥스트 투 노멀> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/41835</link>
+            <guid>http://m.ticket.yes24.com/Perf/41835</guid>
+            <pubDate>Tue, 12 Jul 2022 06:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;넥스트 투 노멀&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">50,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">27,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">7/12 ~ 7/24 공연 (일부회차 제외)</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220711/20220711-41835.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <볼륨업> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/42079</link>
+            <guid>http://m.ticket.yes24.com/Perf/42079</guid>
+            <pubDate>Tue, 12 Jul 2022 06:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;볼륨업&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">88,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">59,200원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">7/12 ~ 7/24 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220711/20220711-42079.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <비평가> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/42265</link>
+            <guid>http://m.ticket.yes24.com/Perf/42265</guid>
+            <pubDate>Tue, 12 Jul 2022 06:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 &lt;비평가&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">25,100원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">7/12 ~ 7/24 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220711/20220711-42265.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <비평가> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
