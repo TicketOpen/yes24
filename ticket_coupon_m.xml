@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2022-07-13T07:17:32.888Z</updated>
+    <updated>2022-07-13T08:23:48.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
     <entry>
@@ -20,34 +20,6 @@
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뮤지컬 라이온킹] 심바가 물고 온 5천원 할인쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=39854</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=39854"/>
-        <updated>2022-07-02T16:23:19.079Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 라이온킹] 심바가 물고 온 1만원 할인쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=39853</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=39853"/>
-        <updated>2022-07-02T16:23:19.080Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 젠틀맨스 가이드] 5천원 할인쿠폰_2022]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40241</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40241"/>
-        <updated>2022-07-02T16:23:19.081Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 젠틀맨스 가이드] 1만원 할인쿠폰_2022]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40240</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40240"/>
-        <updated>2022-07-02T16:23:19.084Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[뮤지컬 레베카] 1만원 할인 쿠폰_2022]]></title>
         <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40273</id>
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40273"/>
@@ -59,13 +31,6 @@
         <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40274</id>
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40274"/>
         <updated>2022-07-02T16:23:19.086Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 잭더리퍼 - 고양] 5,000원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40440</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40440"/>
-        <updated>2022-07-02T16:23:19.087Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
     </entry>
     <entry>
@@ -95,5 +60,19 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41370"/>
         <updated>2022-07-08T01:49:05.566Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[케니 지 내한공연] 1만원 할인 쿠폰]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41402</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41402"/>
+        <updated>2022-07-13T08:23:47.894Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[케니 지 내한공연] 5천원 할인 쿠폰]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41403</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41403"/>
+        <updated>2022-07-13T08:23:47.895Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
     </entry>
 </feed>
