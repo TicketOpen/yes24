@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2022-07-13T09:18:37.523Z</updated>
+    <updated>2022-07-13T10:23:01.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
     <entry>
@@ -18,34 +18,6 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056"/>
         <updated>2022-07-02T16:23:19.076Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 레베카] 1만원 할인 쿠폰_2022]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40273</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40273"/>
-        <updated>2022-07-02T16:23:19.085Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 레베카] 5천원 할인 쿠폰_2022]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40274</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40274"/>
-        <updated>2022-07-02T16:23:19.086Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 지킬앤하이드] 하이드가 찢어버린 1만원 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40713</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40713"/>
-        <updated>2022-07-02T16:23:19.089Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 지킬앤하이드] 하이드가 찢어버린 5천원 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40714</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=40714"/>
-        <updated>2022-07-02T16:23:19.090Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뮤지컬 괴테의 변론] 3차 티켓오픈 예매수수료 쿠폰]]></title>
