@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-12T23:18:57.938Z</updated>
+    <updated>2022-07-13T01:43:07.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE BOYZ WORLD TOUR : THE B-ZONE IN SEOUL ENCORE 온라인 공연 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11947&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11947&amp;order=1"/>
+        <updated>2022-07-13T01:42:16.179Z</updated>
+        <content type="html"><![CDATA[2022-07-18(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 VIVIZ FANMEETING [THE 1ST VIVID DAYZ] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11945&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11934&amp;order=1"/>
         <updated>2022-07-07T06:23:10.057Z</updated>
         <content type="html"><![CDATA[2022-07-11(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프렙 내한공연（PREP LIVE IN SEOUL）티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11933&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11933&amp;order=1"/>
-        <updated>2022-07-07T03:48:10.819Z</updated>
-        <content type="html"><![CDATA[2022-07-13(수) 12:00]]></content>
     </entry>
 </feed>

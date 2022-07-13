@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-12T23:18:57.942Z</updated>
+    <updated>2022-07-13T01:43:07.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE BOYZ WORLD TOUR : THE B-ZONE IN SEOUL ENCORE 온라인 공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11947</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11947"/>
+        <updated>2022-07-13T01:42:06.551Z</updated>
+        <content type="html"><![CDATA[2022.07.18(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2022 VIVIZ FANMEETING [THE 1ST VIVID DAYZ] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11945</id>
@@ -135,11 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11924"/>
         <updated>2022-07-05T05:20:58.894Z</updated>
         <content type="html"><![CDATA[2022.07.11(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행사 시스템 작업에 따른 결제 서비스 중단 안내(7/10, 7/17, 7/18, 7/24)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11923</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11923"/>
-        <updated>2022-07-04T09:18:00.855Z</updated>
     </entry>
 </feed>
