@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-14T01:54:15.205Z</updated>
+    <updated>2022-07-14T03:52:51.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크루앙빈 내한공연（Khruangbin Live in Seoul）티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11950&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11950&amp;order=1"/>
+        <updated>2022-07-14T03:51:59.684Z</updated>
+        <content type="html"><![CDATA[2022-07-21(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[체험 전시 〈다이노스 어라이브 제주〉 - Dinos Alive Jeju 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11949&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11949&amp;order=1"/>
+        <updated>2022-07-14T03:51:59.685Z</updated>
+        <content type="html"><![CDATA[2022-07-14(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RUSS 첫 내한공연 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11948&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11948&amp;order=1"/>
+        <updated>2022-07-14T03:51:59.687Z</updated>
+        <content type="html"><![CDATA[2022-07-15(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE BOYZ WORLD TOUR : THE B-ZONE IN SEOUL ENCORE 온라인 공연 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11947&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11940&amp;order=1"/>
         <updated>2022-07-11T08:23:56.249Z</updated>
         <content type="html"><![CDATA[2022-07-14(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케시 내한공연 [keshi Live in Seoul] - 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11939&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11939&amp;order=1"/>
-        <updated>2022-07-11T05:24:17.136Z</updated>
-        <content type="html"><![CDATA[2022-07-20(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11938&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11938&amp;order=1"/>
-        <updated>2022-07-08T05:23:57.146Z</updated>
-        <content type="html"><![CDATA[2022-07-15(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [빈센트 리버] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11937&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11937&amp;order=1"/>
-        <updated>2022-07-07T09:17:24.655Z</updated>
-        <content type="html"><![CDATA[2022-07-08(금) 15:00]]></content>
     </entry>
 </feed>
