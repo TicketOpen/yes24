@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-14T06:23:11.382Z</updated>
+    <updated>2022-07-14T07:18:24.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트 - 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11954&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11954&amp;order=1"/>
+        <updated>2022-07-14T07:17:31.548Z</updated>
+        <content type="html"><![CDATA[2022-07-22(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11953&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11953&amp;order=1"/>
+        <updated>2022-07-14T07:17:31.548Z</updated>
+        <content type="html"><![CDATA[2022-07-22(금) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트 - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11952&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11952&amp;order=1"/>
+        <updated>2022-07-14T07:17:31.548Z</updated>
+        <content type="html"><![CDATA[2022-07-22(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG아트센터 서울 개관 페스티벌 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11951&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11945&amp;order=1"/>
         <updated>2022-07-12T09:27:07.002Z</updated>
         <content type="html"><![CDATA[2022-07-18(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시（Billie Eilish）프로덕션 유보석 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11943&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11943&amp;order=1"/>
-        <updated>2022-07-12T03:59:57.053Z</updated>
-        <content type="html"><![CDATA[2022-07-13(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11942&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11942&amp;order=1"/>
-        <updated>2022-07-12T01:47:45.781Z</updated>
-        <content type="html"><![CDATA[2022-07-28(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴 인 클래식 콘서트(Fall in Classic Concert) 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11941&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11941&amp;order=1"/>
-        <updated>2022-07-11T09:18:12.312Z</updated>
-        <content type="html"><![CDATA[2022-07-21(목) 15:00]]></content>
     </entry>
 </feed>
