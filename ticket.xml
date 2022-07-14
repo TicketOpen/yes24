@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-14T11:16:25.657Z</updated>
+    <updated>2022-07-14T12:35:53.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태양의서커스 〈뉴 알레그리아〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11955</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11955"/>
+        <updated>2022-07-14T12:34:41.446Z</updated>
+        <content type="html"><![CDATA[2022.07.20(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트 - 서울 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11954</id>
@@ -135,12 +142,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11935</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11935"/>
         <updated>2022-07-07T06:22:58.967Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11934</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11934"/>
-        <updated>2022-07-07T06:22:58.968Z</updated>
-        <content type="html"><![CDATA[2022.07.11(월) 15:00]]></content>
     </entry>
 </feed>
