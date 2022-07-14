@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-14T03:52:51.446Z</updated>
+    <updated>2022-07-14T04:51:33.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG아트센터 서울 개관 페스티벌 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11951&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11951&amp;order=1"/>
+        <updated>2022-07-14T04:50:46.990Z</updated>
+        <content type="html"><![CDATA[2022-07-14(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크루앙빈 내한공연（Khruangbin Live in Seoul）티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11950&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11941&amp;order=1"/>
         <updated>2022-07-11T09:18:12.312Z</updated>
         <content type="html"><![CDATA[2022-07-21(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 송골매 전국 투어 콘서트 : 열망（熱望）- 서울 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11940&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11940&amp;order=1"/>
-        <updated>2022-07-11T08:23:56.249Z</updated>
-        <content type="html"><![CDATA[2022-07-14(목) 20:00]]></content>
     </entry>
 </feed>
