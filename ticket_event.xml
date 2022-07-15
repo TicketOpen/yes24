@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 14:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 15:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 14 Jul 2022 12:35:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.01 ~ 2022.07.31 | 2022.08.02 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202207/20220701/20220701-16ee1249-0a36-4934-977c-f3ff1d6a06d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이 뮤지컬 <점박이 공룡대모험 : 뒤섞인 세계>]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42433&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42433&amp;Tab=3</guid>
-            <pubDate>Thu, 14 Jul 2022 12:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20 ~ 2022.07.15 | 2022.07.18 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202206/20220620/20220620-d0abdea9-297e-4493-8636-ae9b901e2546.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <넥스트 투 노멀> 관람후기 이벤트]]></title>
@@ -74,6 +66,14 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
             <pubDate>Thu, 14 Jul 2022 12:35:22 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[관람후기, YES포인트로 받아가세요]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2450</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2450</guid>
+            <pubDate>Fri, 15 Jul 2022 15:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[2016.01.01 ~ 2030.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202010/20201027/20201027-ev_list_guide_review.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
