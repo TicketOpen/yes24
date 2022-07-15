@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-15T07:18:42.695Z</updated>
+    <updated>2022-07-15T08:23:41.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10CM Summer Concert ‘Kwon Jeongyeol’ 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11961&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11961&amp;order=1"/>
+        <updated>2022-07-15T08:22:44.702Z</updated>
+        <content type="html"><![CDATA[2022-07-20(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11960&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11960&amp;order=1"/>
         <updated>2022-07-15T07:17:40.704Z</updated>
         <content type="html"><![CDATA[2022-07-18(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 FTISLAND LIVE ‘RE: FTISLAND’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11959&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11959&amp;order=1"/>
+        <updated>2022-07-15T08:22:44.705Z</updated>
+        <content type="html"><![CDATA[2022-07-22(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 [더 테이블 The Table] 1차 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11952&amp;order=1"/>
         <updated>2022-07-14T07:17:31.548Z</updated>
         <content type="html"><![CDATA[2022-07-22(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG아트센터 서울 개관 페스티벌 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11951&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11951&amp;order=1"/>
-        <updated>2022-07-14T04:50:46.990Z</updated>
-        <content type="html"><![CDATA[2022-07-14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크루앙빈 내한공연（Khruangbin Live in Seoul）티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11950&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11950&amp;order=1"/>
-        <updated>2022-07-14T03:51:59.684Z</updated>
-        <content type="html"><![CDATA[2022-07-21(목) 12:00]]></content>
     </entry>
 </feed>

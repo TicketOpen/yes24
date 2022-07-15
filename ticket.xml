@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-15T07:18:42.691Z</updated>
+    <updated>2022-07-15T08:23:41.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10CM Summer Concert ‘Kwon Jeongyeol’ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11961</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11961"/>
+        <updated>2022-07-15T08:22:33.155Z</updated>
+        <content type="html"><![CDATA[2022.07.20(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 대구 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11960</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11960"/>
         <updated>2022-07-15T07:17:29.893Z</updated>
         <content type="html"><![CDATA[2022.07.18(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2022 FTISLAND LIVE ‘RE: FTISLAND’ 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11959</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11959"/>
+        <updated>2022-07-15T08:22:33.157Z</updated>
+        <content type="html"><![CDATA[2022.07.22(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 [더 테이블 The Table] 1차 티켓 오픈 안내]]></title>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11942"/>
         <updated>2022-07-12T01:47:34.662Z</updated>
         <content type="html"><![CDATA[2022.07.28(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.07.26(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴 인 클래식 콘서트(Fall in Classic Concert) 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11941</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11941"/>
-        <updated>2022-07-11T09:18:01.147Z</updated>
-        <content type="html"><![CDATA[2022.07.21(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 송골매 전국 투어 콘서트 : 열망（熱望）- 서울 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11940</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11940"/>
-        <updated>2022-07-11T08:23:47.326Z</updated>
-        <content type="html"><![CDATA[2022.07.14(목) 20:00]]></content>
     </entry>
 </feed>
