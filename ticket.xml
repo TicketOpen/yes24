@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-15T06:22:52.956Z</updated>
+    <updated>2022-07-15T07:18:42.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11960</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11960"/>
+        <updated>2022-07-15T07:17:29.893Z</updated>
+        <content type="html"><![CDATA[2022.07.18(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [더 테이블 The Table] 1차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11958</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11940"/>
         <updated>2022-07-11T08:23:47.326Z</updated>
         <content type="html"><![CDATA[2022.07.14(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매케시 내한공연 [keshi Live in Seoul] - 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11939</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11939"/>
-        <updated>2022-07-11T05:24:06.162Z</updated>
-        <content type="html"><![CDATA[2022.07.20(수) 12:00<a class="noti-btn-pop" presaletit1="아티스트 선예매" presaletit2="라이브네이션 선예매" presaletime1="2022.07.18(월) 12:00" presaletime2="2022.07.19(화) 12:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
