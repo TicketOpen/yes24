@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-15T13:46:45.180Z</updated>
+    <updated>2022-07-15T14:22:14.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 대전국제와인페스티벌 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11963</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11963"/>
+        <updated>2022-07-15T14:21:02.482Z</updated>
+        <content type="html"><![CDATA[2022.07.19(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 춘천 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11962</id>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11944</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11944"/>
         <updated>2022-07-12T06:21:25.899Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시（Billie Eilish）프로덕션 유보석 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11943</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11943"/>
-        <updated>2022-07-12T03:59:46.457Z</updated>
-        <content type="html"><![CDATA[2022.07.13(수) 12:00]]></content>
     </entry>
 </feed>
