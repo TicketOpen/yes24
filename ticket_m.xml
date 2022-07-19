@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-19T08:23:07.563Z</updated>
+    <updated>2022-07-19T09:28:01.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 MAX&NAT 1st FanMeeting [PIT-A-PAT] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11972&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11972&amp;order=1"/>
+        <updated>2022-07-19T09:27:03.597Z</updated>
+        <content type="html"><![CDATA[2022-07-25(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈클라우스 메켈레 & 파리 오케스트라〉티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11971&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11963&amp;order=1"/>
         <updated>2022-07-15T14:21:13.340Z</updated>
         <content type="html"><![CDATA[2022-07-19(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 춘천 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11962&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11962&amp;order=1"/>
-        <updated>2022-07-15T10:20:24.650Z</updated>
-        <content type="html"><![CDATA[2022-07-18(월) 10:00]]></content>
     </entry>
 </feed>
