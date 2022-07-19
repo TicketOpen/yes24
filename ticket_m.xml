@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-19T10:21:31.544Z</updated>
+    <updated>2022-07-19T11:17:20.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남문화재단 제147회 클래식품격콘서트 〈Great CONCERTO Series-H.Wieniawski & I.Stravinsky〉티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11973&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11973&amp;order=1"/>
+        <updated>2022-07-19T11:16:21.045Z</updated>
+        <content type="html"><![CDATA[2022-07-20(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 MAX&NAT 1st FanMeeting [PIT-A-PAT] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11972&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11964&amp;order=1"/>
         <updated>2022-07-18T08:28:49.914Z</updated>
         <content type="html"><![CDATA[2022-07-22(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 대전국제와인페스티벌 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11963&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11963&amp;order=1"/>
-        <updated>2022-07-15T14:21:13.340Z</updated>
-        <content type="html"><![CDATA[2022-07-19(화) 16:00]]></content>
     </entry>
 </feed>
