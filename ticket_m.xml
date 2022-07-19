@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-18T23:18:46.618Z</updated>
+    <updated>2022-07-19T01:59:16.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 서울국제음악제 SIMF오케스트라 폐막음악회 with 오코 카무 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11970&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11970&amp;order=1"/>
+        <updated>2022-07-19T01:58:15.787Z</updated>
+        <content type="html"><![CDATA[2022-07-28(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 서울국제음악제 실내악 시리즈 3 : 파가니니 · 모차르트 · 김지향 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11969&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11969&amp;order=1"/>
+        <updated>2022-07-19T01:58:15.788Z</updated>
+        <content type="html"><![CDATA[2022-07-28(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 서울국제음악제 실내악 시리즈 2 : 프랑크 · 드뷔시 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11968&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11968&amp;order=1"/>
+        <updated>2022-07-19T01:58:15.789Z</updated>
+        <content type="html"><![CDATA[2022-07-28(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 서울국제음악제 실내악 시리즈 1 : 모차르트 · 클럭하르트 · 브람스 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11967&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11967&amp;order=1"/>
+        <updated>2022-07-19T01:58:15.792Z</updated>
+        <content type="html"><![CDATA[2022-07-28(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제17회 부산불꽃축제 얼리버드 티켓 오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11966&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11961&amp;order=1"/>
         <updated>2022-07-15T08:22:44.702Z</updated>
         <content type="html"><![CDATA[2022-07-20(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11960&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11960&amp;order=1"/>
-        <updated>2022-07-15T07:17:40.704Z</updated>
-        <content type="html"><![CDATA[2022-07-18(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 FTISLAND LIVE ‘RE: FTISLAND’ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11959&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11959&amp;order=1"/>
-        <updated>2022-07-15T08:22:44.705Z</updated>
-        <content type="html"><![CDATA[2022-07-22(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [더 테이블 The Table] 1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11958&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11958&amp;order=1"/>
-        <updated>2022-07-15T03:57:01.747Z</updated>
-        <content type="html"><![CDATA[2022-07-20(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [더 와일드의 변론 - 거짓의 쇠락, 도리안 그레이의 초상] 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11957&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11957&amp;order=1"/>
-        <updated>2022-07-15T03:57:01.747Z</updated>
-        <content type="html"><![CDATA[2022-07-22(금) 15:00]]></content>
     </entry>
 </feed>
