@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-19T05:14:50.750Z</updated>
+    <updated>2022-07-19T06:23:56.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈클라우스 메켈레 & 파리 오케스트라〉티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11971</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11971"/>
+        <updated>2022-07-19T06:22:49.624Z</updated>
+        <content type="html"><![CDATA[2022.07.22(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 서울국제음악제 SIMF오케스트라 폐막음악회 with 오코 카무 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11970</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11952"/>
         <updated>2022-07-14T07:17:20.871Z</updated>
         <content type="html"><![CDATA[2022.07.22(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG아트센터 서울 개관 페스티벌 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11951</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11951"/>
-        <updated>2022-07-14T04:50:37.940Z</updated>
-        <content type="html"><![CDATA[2022.07.14(목) 14:00]]></content>
     </entry>
 </feed>
