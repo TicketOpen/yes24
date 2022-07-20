@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 11:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 12:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,20 +218,12 @@
             <content:encoded><![CDATA[2022-07-28(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 <한성의 이발사> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42731</link>
-            <guid>http://ticket.yes24.com/Perf/42731</guid>
+            <title><![CDATA[뮤지컬 <쓰릴 미> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42439</link>
+            <guid>http://ticket.yes24.com/Perf/42439</guid>
             <pubDate>Mon, 18 Jul 2022 01:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42731_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <자연빵> - 싱크넥스트22 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42122</link>
-            <guid>http://ticket.yes24.com/Perf/42122</guid>
-            <pubDate>Mon, 18 Jul 2022 01:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42122.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42439.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <말리의 어제보다 특별한 오늘> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -242,12 +234,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42549.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <쓰릴 미> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42439</link>
-            <guid>http://ticket.yes24.com/Perf/42439</guid>
+            <title><![CDATA[연극 <자연빵> - 싱크넥스트22 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42122</link>
+            <guid>http://ticket.yes24.com/Perf/42122</guid>
             <pubDate>Mon, 18 Jul 2022 01:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42439.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42122.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <한성의 이발사> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42731</link>
+            <guid>http://ticket.yes24.com/Perf/42731</guid>
+            <pubDate>Mon, 18 Jul 2022 01:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42731_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <쓰릴 미> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
