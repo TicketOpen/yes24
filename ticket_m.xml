@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-20T05:24:50.839Z</updated>
+    <updated>2022-07-20T06:23:54.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[추가] 케시 내한공연 [keshi Live in Seoul] - 추가공연 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11976&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11976&amp;order=1"/>
+        <updated>2022-07-20T06:23:02.156Z</updated>
+        <content type="html"><![CDATA[2022-07-21(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [82년생 김지영] 프리뷰 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11975&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11967&amp;order=1"/>
         <updated>2022-07-19T01:58:15.792Z</updated>
         <content type="html"><![CDATA[2022-07-28(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제17회 부산불꽃축제 얼리버드 티켓 오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11966&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11966&amp;order=1"/>
-        <updated>2022-07-18T08:28:49.912Z</updated>
-        <content type="html"><![CDATA[2022-07-20(수) 14:00]]></content>
     </entry>
 </feed>
