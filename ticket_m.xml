@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-20T04:42:00.265Z</updated>
+    <updated>2022-07-20T05:24:50.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [82년생 김지영] 프리뷰 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11975&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11975&amp;order=1"/>
+        <updated>2022-07-20T05:23:51.193Z</updated>
+        <content type="html"><![CDATA[2022-07-27(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [패밀리 M의 병] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11974&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11966&amp;order=1"/>
         <updated>2022-07-18T08:28:49.912Z</updated>
         <content type="html"><![CDATA[2022-07-20(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2022 LOVESOME’ - 보통의 언어들 1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11965&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11965&amp;order=1"/>
-        <updated>2022-07-18T05:30:21.173Z</updated>
-        <content type="html"><![CDATA[2022-07-25(월) 14:00]]></content>
     </entry>
 </feed>
