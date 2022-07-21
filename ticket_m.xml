@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-21T06:24:17.303Z</updated>
+    <updated>2022-07-21T07:17:17.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11978&amp;order=1"/>
         <updated>2022-07-21T05:28:17.430Z</updated>
         <content type="html"><![CDATA[2022-07-28(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [비평가] 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11977&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11977&amp;order=1"/>
+        <updated>2022-07-21T07:16:19.326Z</updated>
+        <content type="html"><![CDATA[2022-07-26(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[추가] 케시 내한공연 [keshi Live in Seoul] - 추가공연 티켓오픈안내]]></title>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11969&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11969&amp;order=1"/>
         <updated>2022-07-19T01:58:15.788Z</updated>
-        <content type="html"><![CDATA[2022-07-28(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 서울국제음악제 실내악 시리즈 2 : 프랑크 · 드뷔시 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11968&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11968&amp;order=1"/>
-        <updated>2022-07-19T01:58:15.789Z</updated>
         <content type="html"><![CDATA[2022-07-28(목) 14:00]]></content>
     </entry>
 </feed>
