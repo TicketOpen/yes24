@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 08:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 09:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리,재즈를 만나다 - 서울 강남 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11979</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11979</guid>
+            <pubDate>Thu, 21 Jul 2022 09:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28(목) 12:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[〈사이먼 래틀 & 런던 심포니 오케스트라〉 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11978</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2022.07.18(월) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매2022 FTISLAND LIVE ‘RE: FTISLAND’ 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11959</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11959</guid>
-            <pubDate>Fri, 15 Jul 2022 08:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.22(금) 20:00]]></content:encoded>
+            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리,재즈를 만나다 - 서울 강남 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11979&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11979&amp;order=1</guid>
+            <pubDate>Thu, 21 Jul 2022 09:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-28(목) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[〈사이먼 래틀 & 런던 심포니 오케스트라〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,21 +218,6 @@
             <content:encoded><![CDATA[2022-07-28(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 서울국제음악제 실내악 시리즈 3 : 파가니니 · 모차르트 · 김지향 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11969&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11969&amp;order=1</guid>
-            <pubDate>Tue, 19 Jul 2022 01:58:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022-07-28(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <쓰릴 미> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42439</link>
-            <guid>http://ticket.yes24.com/Perf/42439</guid>
-            <pubDate>Mon, 18 Jul 2022 01:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42439.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <한성의 이발사> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/42731</link>
             <guid>http://ticket.yes24.com/Perf/42731</guid>
@@ -248,6 +240,14 @@
             <pubDate>Mon, 18 Jul 2022 01:46:46 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42122.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <쓰릴 미> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42439</link>
+            <guid>http://ticket.yes24.com/Perf/42439</guid>
+            <pubDate>Mon, 18 Jul 2022 01:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42439.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <쓰릴 미> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>

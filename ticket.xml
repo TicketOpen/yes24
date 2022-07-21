@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-21T08:23:57.257Z</updated>
+    <updated>2022-07-21T09:18:25.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리,재즈를 만나다 - 서울 강남 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11979</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11979"/>
+        <updated>2022-07-21T09:17:12.213Z</updated>
+        <content type="html"><![CDATA[2022.07.28(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈사이먼 래틀 & 런던 심포니 오케스트라〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11978</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11960"/>
         <updated>2022-07-15T07:17:29.893Z</updated>
         <content type="html"><![CDATA[2022.07.18(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 FTISLAND LIVE ‘RE: FTISLAND’ 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11959</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11959"/>
-        <updated>2022-07-15T08:22:33.157Z</updated>
-        <content type="html"><![CDATA[2022.07.22(금) 20:00]]></content>
     </entry>
 </feed>
