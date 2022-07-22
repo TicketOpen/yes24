@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-21T23:20:07.971Z</updated>
+    <updated>2022-07-22T01:48:50.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샘 핸쇼 내한공연 (Samm Henshaw Live in Seoul) 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11980&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11980&amp;order=1"/>
+        <updated>2022-07-22T01:47:39.418Z</updated>
+        <content type="html"><![CDATA[2022-07-26(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리,재즈를 만나다 - 서울 강남 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11979&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11971&amp;order=1"/>
         <updated>2022-07-19T06:23:00.841Z</updated>
         <content type="html"><![CDATA[2022-07-22(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 서울국제음악제 SIMF오케스트라 폐막음악회 with 오코 카무 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11970&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11970&amp;order=1"/>
-        <updated>2022-07-19T01:58:15.787Z</updated>
-        <content type="html"><![CDATA[2022-07-28(목) 14:00]]></content>
     </entry>
 </feed>
