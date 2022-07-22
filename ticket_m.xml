@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-22T04:45:42.653Z</updated>
+    <updated>2022-07-22T05:27:16.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 TOP7 콘서트 - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11981&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11981&amp;order=1"/>
+        <updated>2022-07-22T05:26:20.362Z</updated>
+        <content type="html"><![CDATA[2022-07-28(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샘 핸쇼 내한공연 (Samm Henshaw Live in Seoul) 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11980&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11972&amp;order=1"/>
         <updated>2022-07-19T09:27:03.597Z</updated>
         <content type="html"><![CDATA[2022-07-25(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈클라우스 메켈레 & 파리 오케스트라〉티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11971&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11971&amp;order=1"/>
-        <updated>2022-07-19T06:23:00.841Z</updated>
-        <content type="html"><![CDATA[2022-07-22(금) 14:00]]></content>
     </entry>
 </feed>
