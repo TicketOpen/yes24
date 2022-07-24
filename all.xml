@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 14:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 15:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,38 +218,6 @@
             <content:encoded><![CDATA[2022-07-27(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 <한성의 이발사> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42731</link>
-            <guid>http://ticket.yes24.com/Perf/42731</guid>
-            <pubDate>Mon, 18 Jul 2022 01:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42731_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <말리의 어제보다 특별한 오늘> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42549</link>
-            <guid>http://ticket.yes24.com/Perf/42549</guid>
-            <pubDate>Mon, 18 Jul 2022 01:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>27,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42549.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <자연빵> - 싱크넥스트22 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42122</link>
-            <guid>http://ticket.yes24.com/Perf/42122</guid>
-            <pubDate>Mon, 18 Jul 2022 01:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <쓰릴 미> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42439</link>
-            <guid>http://ticket.yes24.com/Perf/42439</guid>
-            <pubDate>Mon, 18 Jul 2022 01:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220718/20220718-42439.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <쓰릴 미> (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/42439</link>
             <guid>http://m.ticket.yes24.com/Perf/42439</guid>
@@ -418,13 +386,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[연극 비평가] 찍먹권장 5,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Sat, 02 Jul 2022 16:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.07.22 ~ 2022.07.24</dd><dt>사용기간</dt><dd>2022.07.22 ~ 2022.07.24</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[뮤지컬 더 와일드의 변론] 4차 예매수수료 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -458,6 +419,13 @@
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
             <pubDate>Sat, 02 Jul 2022 16:23:09 GMT</pubDate>
             <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.07.13 ~ 2022.09.17</dd><dt>사용기간</dt><dd>2022.07.13 ~ 2022.09.17</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Sat, 02 Jul 2022 16:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2017.10.01 ~ 2022.12.31</dd><dt>사용기간</dt><dd>발급일로 부터 30일</dd>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
@@ -507,13 +475,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41465</guid>
             <pubDate>Thu, 21 Jul 2022 15:36:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[연극 비평가] 찍먹권장 5,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41474</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41474</guid>
-            <pubDate>Fri, 22 Jul 2022 09:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
