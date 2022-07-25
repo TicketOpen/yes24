@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-25T04:50:24.685Z</updated>
+    <updated>2022-07-25T05:28:22.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11986&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11986&amp;order=1"/>
+        <updated>2022-07-25T05:27:25.474Z</updated>
+        <content type="html"><![CDATA[2022-07-29(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TUNE UP STAGE : Dear My Playlist 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11985&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11977&amp;order=1"/>
         <updated>2022-07-21T07:16:19.326Z</updated>
         <content type="html"><![CDATA[2022-07-26(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[추가] 케시 내한공연 [keshi Live in Seoul] - 추가공연 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11976&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11976&amp;order=1"/>
-        <updated>2022-07-20T06:23:02.156Z</updated>
-        <content type="html"><![CDATA[2022-07-21(목) 12:00]]></content>
     </entry>
 </feed>

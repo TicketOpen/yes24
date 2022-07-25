@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-25T04:50:24.503Z</updated>
+    <updated>2022-07-25T05:28:22.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11986</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11986"/>
+        <updated>2022-07-25T05:27:14.443Z</updated>
+        <content type="html"><![CDATA[2022.07.29(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TUNE UP STAGE : Dear My Playlist 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11985</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11967"/>
         <updated>2022-07-19T01:58:04.097Z</updated>
         <content type="html"><![CDATA[2022.07.28(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매제17회 부산불꽃축제 얼리버드 티켓 오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11966</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11966"/>
-        <updated>2022-07-18T08:28:39.369Z</updated>
-        <content type="html"><![CDATA[2022.07.20(수) 14:00]]></content>
     </entry>
 </feed>
