@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-25T05:28:22.410Z</updated>
+    <updated>2022-07-25T06:24:45.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SEJONG SEASON 2022 Fall-Winter 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11987</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11987"/>
+        <updated>2022-07-25T06:23:41.326Z</updated>
+        <content type="html"><![CDATA[2022.08.02(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 부산 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11986</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[2022 서울국제음악제 실내악 시리즈 2 : 프랑크 · 드뷔시 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11968</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11968"/>
-        <updated>2022-07-19T01:58:04.097Z</updated>
-        <content type="html"><![CDATA[2022.07.28(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 서울국제음악제 실내악 시리즈 1 : 모차르트 · 클럭하르트 · 브람스 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11967</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11967"/>
         <updated>2022-07-19T01:58:04.097Z</updated>
         <content type="html"><![CDATA[2022.07.28(목) 14:00]]></content>
     </entry>
