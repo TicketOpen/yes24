@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-25T08:25:47.364Z</updated>
+    <updated>2022-07-25T09:19:06.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김지웅,윤서빈의 “깨물고 싶은” 팬미팅 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11988</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11988"/>
+        <updated>2022-07-25T09:17:58.732Z</updated>
+        <content type="html"><![CDATA[2022.07.28(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEJONG SEASON 2022 Fall-Winter 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11987</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11969</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11969"/>
         <updated>2022-07-19T01:58:04.093Z</updated>
-        <content type="html"><![CDATA[2022.07.28(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 서울국제음악제 실내악 시리즈 2 : 프랑크 · 드뷔시 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11968</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11968"/>
-        <updated>2022-07-19T01:58:04.097Z</updated>
         <content type="html"><![CDATA[2022.07.28(목) 14:00]]></content>
     </entry>
 </feed>

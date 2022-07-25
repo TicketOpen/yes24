@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-25T08:25:47.351Z</updated>
+    <updated>2022-07-25T09:19:06.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김지웅,윤서빈의 “깨물고 싶은” 팬미팅 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11988&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11988&amp;order=1"/>
+        <updated>2022-07-25T09:18:08.684Z</updated>
+        <content type="html"><![CDATA[2022-07-28(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEJONG SEASON 2022 Fall-Winter 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11987&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11979&amp;order=1"/>
         <updated>2022-07-21T09:17:23.220Z</updated>
         <content type="html"><![CDATA[2022-07-28(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈사이먼 래틀 & 런던 심포니 오케스트라〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11978&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11978&amp;order=1"/>
-        <updated>2022-07-21T05:28:17.430Z</updated>
-        <content type="html"><![CDATA[2022-07-28(목) 14:00]]></content>
     </entry>
 </feed>
