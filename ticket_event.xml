@@ -4,16 +4,24 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 06:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 07:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <시데레우스> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42489&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42489&amp;Tab=2</guid>
+            <pubDate>Tue, 26 Jul 2022 07:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.26 ~ 2022.08.15 | 2022.08.19 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202207/20220726/20220726-604dd2f8-6837-4932-9d50-d5363db4fab4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 LOVESOME]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3308</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3308</guid>
             <pubDate>Mon, 25 Jul 2022 03:48:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.25 ~ 2022.09.18]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/images/common/defaultimg.gif" length="0" type="image/gif"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202207/20220726/20220726-e8297842-8a83-46d0-88d9-dc95699cba18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어린이 뮤지컬 <점박이 공룡대모험:뒤섞인 세계> 관람후기 이벤트]]></title>
@@ -67,13 +75,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
             <pubDate>Thu, 14 Jul 2022 12:35:22 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예술의전당]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
-            <pubDate>Thu, 14 Jul 2022 12:35:22 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
