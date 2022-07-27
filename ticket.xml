@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-26T23:18:29.786Z</updated>
+    <updated>2022-07-27T01:49:51.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2022 이승환밴드 ‘914특공대’ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11993</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11993"/>
+        <updated>2022-07-27T01:48:46.864Z</updated>
+        <content type="html"><![CDATA[2022.07.27(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [삼총사] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11991</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11973"/>
         <updated>2022-07-19T11:16:10.589Z</updated>
         <content type="html"><![CDATA[2022.07.20(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 MAX&NAT 1st FanMeeting [PIT-A-PAT] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11972</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11972"/>
-        <updated>2022-07-19T09:26:53.093Z</updated>
-        <content type="html"><![CDATA[2022.07.25(월) 20:00]]></content>
     </entry>
 </feed>
