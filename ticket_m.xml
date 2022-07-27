@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-27T04:54:31.534Z</updated>
+    <updated>2022-07-27T05:34:15.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11993&amp;order=1"/>
         <updated>2022-07-27T01:48:57.039Z</updated>
         <content type="html"><![CDATA[2022-07-27(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 KIMHYUNJOONG CONCERT 'COUNTDOWN 1 second left' 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11992&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11992&amp;order=1"/>
+        <updated>2022-07-27T05:33:19.363Z</updated>
+        <content type="html"><![CDATA[2022-08-01(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [삼총사] 1차 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11984&amp;order=1"/>
         <updated>2022-07-22T07:17:38.663Z</updated>
         <content type="html"><![CDATA[2022-07-28(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 TOP7 콘서트 - 대구 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11983&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11983&amp;order=1"/>
-        <updated>2022-07-22T07:17:38.663Z</updated>
-        <content type="html"><![CDATA[2022-07-28(목) 17:00]]></content>
     </entry>
 </feed>

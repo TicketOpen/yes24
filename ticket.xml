@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-27T04:54:31.543Z</updated>
+    <updated>2022-07-27T05:34:15.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11993"/>
         <updated>2022-07-27T01:48:46.864Z</updated>
         <content type="html"><![CDATA[2022.07.27(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 KIMHYUNJOONG CONCERT 'COUNTDOWN 1 second left' 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11992</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11992"/>
+        <updated>2022-07-27T05:33:10.771Z</updated>
+        <content type="html"><![CDATA[2022.08.01(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.07.29(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [삼총사] 1차 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11974"/>
         <updated>2022-07-20T03:44:34.814Z</updated>
         <content type="html"><![CDATA[2022.07.22(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남문화재단 제147회 클래식품격콘서트 〈Great CONCERTO Series-H.Wieniawski & I.Stravinsky..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11973</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11973"/>
-        <updated>2022-07-19T11:16:10.589Z</updated>
-        <content type="html"><![CDATA[2022.07.20(수) 10:00]]></content>
     </entry>
 </feed>
