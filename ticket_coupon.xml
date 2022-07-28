@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2022-07-28T10:21:34.261Z</updated>
+    <updated>2022-07-28T11:17:45.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
     <entry>
@@ -12,47 +12,5 @@
         <updated>2022-07-02T16:23:09.511Z</updated>
         <content type="html"><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 시데레우스] 지동설이 꼭 필요한 상황이라면?]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2022-07-02T16:23:09.511Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.07.26 ~ 2022.07.31</dd><dt>사용기간</dt><dd>2022.07.26 ~ 2022.07.31</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 더 와일드의 변론] 4차 예매수수료 쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2022-07-02T16:23:09.511Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.07.22 ~ 2022.08.01</dd><dt>사용기간</dt><dd>2022.07.22 ~ 2022.08.01</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 괴테의 변론] 4차 티켓오픈 예매수수료 쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2022-07-02T16:23:09.511Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.07.21 ~ 2022.08.01</dd><dt>사용기간</dt><dd>2022.07.21 ~ 2022.08.01</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴 알레그리아] 4년만의 내한 기념 5천원 할인 쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2022-07-02T16:23:09.511Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.07.19 ~ 2022.07.31</dd><dt>사용기간</dt><dd>2022.07.19 ~ 2022.07.31</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[케니 지 내한공연] 5천원 할인 쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2022-07-02T16:23:09.511Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.07.13 ~ 2022.09.17</dd><dt>사용기간</dt><dd>2022.07.13 ~ 2022.09.17</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[케니 지 내한공연] 1만원 할인 쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2022-07-02T16:23:09.511Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.07.13 ~ 2022.09.17</dd><dt>사용기간</dt><dd>2022.07.13 ~ 2022.09.17</dd>]]></content>
     </entry>
 </feed>
