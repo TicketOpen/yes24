@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-28T04:44:30.003Z</updated>
+    <updated>2022-07-28T05:26:43.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울숲재즈페스티벌 2022 - 공식 티켓 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11995</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11995"/>
+        <updated>2022-07-28T05:25:50.400Z</updated>
+        <content type="html"><![CDATA[2022.08.02(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ 공연 취소 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11994</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11976"/>
         <updated>2022-07-20T06:22:52.831Z</updated>
         <content type="html"><![CDATA[2022.07.21(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [82년생 김지영] 프리뷰 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11975</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11975"/>
-        <updated>2022-07-20T05:23:39.829Z</updated>
-        <content type="html"><![CDATA[2022.07.27(수) 14:00]]></content>
     </entry>
 </feed>

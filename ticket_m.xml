@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-28T04:44:29.999Z</updated>
+    <updated>2022-07-28T05:26:43.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울숲재즈페스티벌 2022 - 공식 티켓 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11995&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11995&amp;order=1"/>
+        <updated>2022-07-28T05:25:58.673Z</updated>
+        <content type="html"><![CDATA[2022-08-02(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ 공연 취소 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11994&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11986&amp;order=1"/>
         <updated>2022-07-25T05:27:25.474Z</updated>
         <content type="html"><![CDATA[2022-07-29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TUNE UP STAGE : Dear My Playlist 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11985&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11985&amp;order=1"/>
-        <updated>2022-07-25T03:47:35.302Z</updated>
-        <content type="html"><![CDATA[2022-07-26(화) 14:00]]></content>
     </entry>
 </feed>
