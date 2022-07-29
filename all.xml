@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 08:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 09:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12000</guid>
             <pubDate>Fri, 29 Jul 2022 08:21:57 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.03(수) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LIVE.ON Special Concert with GREAT SEOUL INVASION 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11999</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11999</guid>
+            <pubDate>Fri, 29 Jul 2022 09:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.02(화) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[PARK JIHOON Official Fanclub 〈MAY〉3기 모집안내 (예스24 티켓)]]></title>
@@ -140,18 +147,18 @@
             <content:encoded><![CDATA[2022.07.28(목) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[샘 핸쇼 내한공연 (Samm Henshaw Live in Seoul) 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11980</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11980</guid>
-            <pubDate>Fri, 22 Jul 2022 01:47:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.26(화) 18:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [서편제] 2차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12000&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12000&amp;order=1</guid>
             <pubDate>Fri, 29 Jul 2022 08:22:09 GMT</pubDate>
             <content:encoded><![CDATA[2022-08-03(수) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LIVE.ON Special Concert with GREAT SEOUL INVASION 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11999&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11999&amp;order=1</guid>
+            <pubDate>Fri, 29 Jul 2022 09:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022-08-02(화) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[PARK JIHOON Official Fanclub 〈MAY〉3기 모집안내 (예스24 티켓 모바일)]]></title>
@@ -207,13 +214,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11991&amp;order=1</guid>
             <pubDate>Tue, 26 Jul 2022 05:40:16 GMT</pubDate>
             <content:encoded><![CDATA[2022-08-02(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [미아 파밀리아] 마지막 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11990&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11990&amp;order=1</guid>
-            <pubDate>Tue, 26 Jul 2022 04:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022-08-03(수) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] (YES24 티켓 ─ 엔젤티켓)]]></title>

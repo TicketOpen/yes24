@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-29T08:23:15.875Z</updated>
+    <updated>2022-07-29T09:19:09.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12000&amp;order=1"/>
         <updated>2022-07-29T08:22:09.284Z</updated>
         <content type="html"><![CDATA[2022-08-03(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE.ON Special Concert with GREAT SEOUL INVASION 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11999&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11999&amp;order=1"/>
+        <updated>2022-07-29T09:18:10.679Z</updated>
+        <content type="html"><![CDATA[2022-08-02(화) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PARK JIHOON Official Fanclub 〈MAY〉3기 모집안내]]></title>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11991&amp;order=1"/>
         <updated>2022-07-26T05:40:16.619Z</updated>
         <content type="html"><![CDATA[2022-08-02(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [미아 파밀리아] 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11990&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11990&amp;order=1"/>
-        <updated>2022-07-26T04:09:47.264Z</updated>
-        <content type="html"><![CDATA[2022-08-03(수) 11:00]]></content>
     </entry>
 </feed>
