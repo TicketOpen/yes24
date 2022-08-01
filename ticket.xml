@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-01T08:24:13.719Z</updated>
+    <updated>2022-08-01T09:21:00.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈GAME ON! 게임음악콘서트〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12004</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12004"/>
+        <updated>2022-08-01T09:19:56.676Z</updated>
+        <content type="html"><![CDATA[2022.08.04(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매‘2022 LOVESOME - 보통의 언어들’ 2차 라인업 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12003</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11984"/>
         <updated>2022-07-22T07:17:27.572Z</updated>
         <content type="html"><![CDATA[2022.07.28(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 TOP7 콘서트 - 대구 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11983</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11983"/>
-        <updated>2022-07-22T07:17:27.576Z</updated>
-        <content type="html"><![CDATA[2022.07.28(목) 17:00]]></content>
     </entry>
 </feed>

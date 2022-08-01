@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-01T08:24:13.723Z</updated>
+    <updated>2022-08-01T09:21:00.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈GAME ON! 게임음악콘서트〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12004&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12004&amp;order=1"/>
+        <updated>2022-08-01T09:20:07.958Z</updated>
+        <content type="html"><![CDATA[2022-08-04(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘2022 LOVESOME - 보통의 언어들’ 2차 라인업 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12003&amp;order=1</id>
@@ -66,12 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11994&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11994&amp;order=1"/>
         <updated>2022-07-27T13:44:51.742Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 이승환밴드 ‘914특공대’ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11993&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11993&amp;order=1"/>
-        <updated>2022-07-27T01:48:57.039Z</updated>
-        <content type="html"><![CDATA[2022-07-27(수) 20:00]]></content>
     </entry>
 </feed>
