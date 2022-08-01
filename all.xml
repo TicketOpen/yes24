@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 14:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 15:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,20 +308,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[뮤지컬 더 와일드의 변론] 4차 예매수수료 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Sat, 02 Jul 2022 16:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.07.22 ~ 2022.08.01</dd><dt>사용기간</dt><dd>2022.07.22 ~ 2022.08.01</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 괴테의 변론] 4차 티켓오픈 예매수수료 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Sat, 02 Jul 2022 16:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.07.21 ~ 2022.08.01</dd><dt>사용기간</dt><dd>2022.07.21 ~ 2022.08.01</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[케니 지 내한공연] 5천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -376,20 +362,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41403</guid>
             <pubDate>Wed, 13 Jul 2022 08:23:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 괴테의 변론] 4차 티켓오픈 예매수수료 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41455</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41455</guid>
-            <pubDate>Wed, 20 Jul 2022 15:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 더 와일드의 변론] 4차 예매수수료 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41465</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41465</guid>
-            <pubDate>Thu, 21 Jul 2022 15:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
         </item>
     </channel>
 </rss>
