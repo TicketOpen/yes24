@@ -1,33 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 23:19:22 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <모래시계> - 최대 50%할인]]></title>
-            <link>http://m.ticket.yes24.com/Perf/41982</link>
-            <guid>http://m.ticket.yes24.com/Perf/41982</guid>
-            <pubDate>Mon, 25 Jul 2022 01:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;모래시계&gt; - 최대 50%할인</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">60,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">27,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8/12 공연까지(일부회차 제외)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220725/20220725-41982.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <미드나잇: 액터뮤지션>]]></title>
-            <link>http://m.ticket.yes24.com/Perf/41141</link>
-            <guid>http://m.ticket.yes24.com/Perf/41141</guid>
-            <pubDate>Mon, 25 Jul 2022 01:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 &lt;미드나잇: 액터뮤지션&gt;</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">60,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">27,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">7/27 ~ 7/31 공연, 1인 4매</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202207/20220725/20220725-41141.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://m.ticket.yes24.com/Discount/Angel.aspx</id>
+    <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
+    <updated>2022-08-01T01:59:31.162Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
+</feed>
