@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-01T04:09:50.744Z</updated>
+    <updated>2022-08-01T05:53:45.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘2022 LOVESOME - 보통의 언어들’ 2차 라인업 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12003&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12003&amp;order=1"/>
+        <updated>2022-08-01T05:52:49.264Z</updated>
+        <content type="html"><![CDATA[2022-08-01(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 부산국제록페스티벌 얼리버드 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12002&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12002&amp;order=1"/>
+        <updated>2022-08-01T05:52:49.268Z</updated>
+        <content type="html"><![CDATA[2022-08-02(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [서편제] 2차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12000&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11993&amp;order=1"/>
         <updated>2022-07-27T01:48:57.039Z</updated>
         <content type="html"><![CDATA[2022-07-27(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 KIMHYUNJOONG CONCERT 'COUNTDOWN 1 second left' 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11992&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11992&amp;order=1"/>
-        <updated>2022-07-27T05:33:19.363Z</updated>
-        <content type="html"><![CDATA[2022-08-01(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [삼총사] 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11991&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11991&amp;order=1"/>
-        <updated>2022-07-26T05:40:16.619Z</updated>
-        <content type="html"><![CDATA[2022-08-02(화) 14:00]]></content>
     </entry>
 </feed>
