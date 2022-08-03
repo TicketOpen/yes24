@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 06:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2022.08.03 ~ 2022.08.30]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=42155</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=42155</guid>
+            <pubDate>Wed, 03 Aug 2022 06:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>프로필 촬영 현장의 폴라로이드 사진(6매, 1set)]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220803/20220803-e58da142-aef7-496e-b9a3-ce2b2f63bb03.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2022.08.03 ~ 2022.08.31]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43004</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43004</guid>
+            <pubDate>Wed, 03 Aug 2022 06:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>당첨자 발표 후 추후 전달 예정]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220803/20220803-27da5902-1d56-4ffd-84da-6ea035fa6a5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2022.07.26 ~ 2022.08.15]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=42489</link>
