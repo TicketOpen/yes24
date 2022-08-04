@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-04T01:44:05.100Z</updated>
+    <updated>2022-08-04T03:27:56.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12012&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12012&amp;order=1"/>
+        <updated>2022-08-04T03:26:54.688Z</updated>
+        <content type="html"><![CDATA[2022-08-09(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON 좌석 추가 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12010&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12002&amp;order=1"/>
         <updated>2022-08-01T05:52:49.268Z</updated>
         <content type="html"><![CDATA[2022-08-02(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [서편제] 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12000&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12000&amp;order=1"/>
-        <updated>2022-07-29T08:22:09.284Z</updated>
-        <content type="html"><![CDATA[2022-08-03(수) 16:00]]></content>
     </entry>
 </feed>
