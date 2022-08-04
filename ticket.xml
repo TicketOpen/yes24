@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-04T05:30:37.492Z</updated>
+    <updated>2022-08-04T06:26:06.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [빈센트 리버] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12016</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12016"/>
+        <updated>2022-08-04T06:24:47.527Z</updated>
+        <content type="html"><![CDATA[2022.08.09(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [클림트] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12015</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11996"/>
         <updated>2022-07-29T03:51:49.788Z</updated>
         <content type="html"><![CDATA[2022.08.01(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울숲재즈페스티벌 2022 - 공식 티켓 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11995</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11995"/>
-        <updated>2022-07-28T05:25:50.400Z</updated>
-        <content type="html"><![CDATA[2022.08.02(화) 18:00]]></content>
     </entry>
 </feed>
