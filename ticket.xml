@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-04T09:18:18.527Z</updated>
+    <updated>2022-08-04T10:20:32.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 부산마루국제음악제 초청공연 프롬나드 콘서트2 [금난새의 Carnival of Music 생상스(Saint..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12018</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12018"/>
+        <updated>2022-08-04T10:19:22.229Z</updated>
+        <content type="html"><![CDATA[2022.08.05(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 송골매 전국 투어 콘서트 : 열망（熱望）- 부산 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12017</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11998"/>
         <updated>2022-07-29T05:28:52.283Z</updated>
         <content type="html"><![CDATA[2022.08.01(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [82년생 김지영] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11997</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11997"/>
-        <updated>2022-07-29T05:28:52.285Z</updated>
-        <content type="html"><![CDATA[2022.08.03(수) 14:00]]></content>
     </entry>
 </feed>

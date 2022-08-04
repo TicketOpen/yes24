@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-04T09:18:18.666Z</updated>
+    <updated>2022-08-04T10:20:32.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 부산마루국제음악제 초청공연 프롬나드 콘서트2 [금난새의 Carnival of Music 생상스(Saint Saens)] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12018&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12018&amp;order=1"/>
+        <updated>2022-08-04T10:19:34.943Z</updated>
+        <content type="html"><![CDATA[2022-08-05(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 송골매 전국 투어 콘서트 : 열망（熱望）- 부산 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12017&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12008&amp;order=1"/>
         <updated>2022-08-02T09:17:08.146Z</updated>
         <content type="html"><![CDATA[2022-08-12(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제17회 부산국제매직페스티벌 일년내내 마술로 -동구편- 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12007&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12007&amp;order=1"/>
-        <updated>2022-08-02T08:23:45.790Z</updated>
-        <content type="html"><![CDATA[2022-08-04(목) 14:00]]></content>
     </entry>
 </feed>
