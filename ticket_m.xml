@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-04T04:44:47.152Z</updated>
+    <updated>2022-08-04T05:30:37.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [클림트] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12015&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12015&amp;order=1"/>
+        <updated>2022-08-04T05:29:29.876Z</updated>
+        <content type="html"><![CDATA[2022-08-08(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [비더슈탄트] 본공연 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12014&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12014&amp;order=1"/>
         <updated>2022-08-04T04:44:04.154Z</updated>
         <content type="html"><![CDATA[2022-08-09(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 여수 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12013&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12013&amp;order=1"/>
+        <updated>2022-08-04T05:29:29.885Z</updated>
+        <content type="html"><![CDATA[2022-08-11(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 2차 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12005&amp;order=1"/>
         <updated>2022-08-02T04:09:43.235Z</updated>
         <content type="html"><![CDATA[2022-08-09(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈GAME ON! 게임음악콘서트〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12004&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12004&amp;order=1"/>
-        <updated>2022-08-01T09:20:07.958Z</updated>
-        <content type="html"><![CDATA[2022-08-04(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2022 LOVESOME - 보통의 언어들’ 2차 라인업 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12003&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12003&amp;order=1"/>
-        <updated>2022-08-01T05:52:49.264Z</updated>
-        <content type="html"><![CDATA[2022-08-01(월) 14:00]]></content>
     </entry>
 </feed>
