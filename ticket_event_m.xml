@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 14:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 15:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2022.08.05 ~ 2022.08.11]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42974</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=42974</guid>
+            <pubDate>Thu, 04 Aug 2022 15:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2022년 8월 19일(금) 오후 7시 30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220804/20220804-c52923e9-9f8b-4026-a62d-6129a3f10f18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2022.08.03 ~ 2022.08.30]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=42155</link>
