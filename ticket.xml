@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-05T08:23:15.129Z</updated>
+    <updated>2022-08-05T09:18:37.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12022</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12022"/>
+        <updated>2022-08-05T09:17:31.315Z</updated>
+        <content type="html"><![CDATA[2022.08.11(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 롯데워터파크 풀파티 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12021</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12003"/>
         <updated>2022-08-01T05:52:38.672Z</updated>
         <content type="html"><![CDATA[2022.08.01(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 부산국제록페스티벌 얼리버드 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12002</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12002"/>
-        <updated>2022-08-01T05:52:38.679Z</updated>
-        <content type="html"><![CDATA[2022.08.02(화) 14:00]]></content>
     </entry>
 </feed>
