@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-05T04:46:33.108Z</updated>
+    <updated>2022-08-05T05:33:18.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 롯데워터파크 풀파티 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12021&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12021&amp;order=1"/>
+        <updated>2022-08-05T05:32:15.000Z</updated>
+        <content type="html"><![CDATA[2022-08-10(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[STAGE X] 뮤지컬 [박열] 온라인 공연 8/29, 9/5, 9/19 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12020&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12020&amp;order=1"/>
+        <updated>2022-08-05T05:32:15.000Z</updated>
+        <content type="html"><![CDATA[2022-08-08(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제4회 76FESTIVAL 연극 [나의 전쟁] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12019&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12019&amp;order=1"/>
+        <updated>2022-08-05T05:32:15.003Z</updated>
+        <content type="html"><![CDATA[2022-08-08(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 부산마루국제음악제 초청공연 프롬나드 콘서트2 [금난새의 Carnival of Music 생상스(Saint Saens)] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12018&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12012&amp;order=1"/>
         <updated>2022-08-04T03:26:54.688Z</updated>
         <content type="html"><![CDATA[2022-08-09(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON 좌석 추가 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12010&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12010&amp;order=1"/>
-        <updated>2022-08-03T01:47:03.679Z</updated>
-        <content type="html"><![CDATA[2022-08-05(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남심포니오케스트라 제148회 클래식품격콘서트 〈Great CONCERTO Series-F.J.Haydn& F.Liszt〉티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12009&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12009&amp;order=1"/>
-        <updated>2022-08-03T01:47:03.681Z</updated>
-        <content type="html"><![CDATA[2022-08-04(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SK 배틀 오브 더 이어 코리아] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12008&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12008&amp;order=1"/>
-        <updated>2022-08-02T09:17:08.146Z</updated>
-        <content type="html"><![CDATA[2022-08-12(금) 12:00]]></content>
     </entry>
 </feed>

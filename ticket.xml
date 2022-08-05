@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-05T04:46:33.111Z</updated>
+    <updated>2022-08-05T05:33:18.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 롯데워터파크 풀파티 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12021</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12021"/>
+        <updated>2022-08-05T05:32:01.556Z</updated>
+        <content type="html"><![CDATA[2022.08.10(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[STAGE X] 뮤지컬 [박열] 온라인 공연 8/29, 9/5, 9/19 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12020</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12020"/>
+        <updated>2022-08-05T05:32:01.557Z</updated>
+        <content type="html"><![CDATA[2022.08.08(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제4회 76FESTIVAL 연극 [나의 전쟁] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12019</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12019"/>
+        <updated>2022-08-05T05:32:01.557Z</updated>
+        <content type="html"><![CDATA[2022.08.08(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 부산마루국제음악제 초청공연 프롬나드 콘서트2 [금난새의 Carnival of Music 생상스(Saint..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12018</id>
@@ -122,26 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12002"/>
         <updated>2022-08-01T05:52:38.679Z</updated>
         <content type="html"><![CDATA[2022.08.02(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [서편제] 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12000</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12000"/>
-        <updated>2022-07-29T08:21:57.769Z</updated>
-        <content type="html"><![CDATA[2022.08.03(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE.ON Special Concert with GREAT SEOUL INVASION 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11999</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11999"/>
-        <updated>2022-07-29T09:17:59.964Z</updated>
-        <content type="html"><![CDATA[2022.08.02(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PARK JIHOON Official Fanclub 〈MAY〉3기 모집안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11998</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11998"/>
-        <updated>2022-07-29T05:28:52.283Z</updated>
-        <content type="html"><![CDATA[2022.08.01(월) 20:00]]></content>
     </entry>
 </feed>
