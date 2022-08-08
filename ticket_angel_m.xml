@@ -1,8 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://m.ticket.yes24.com/Discount/Angel.aspx</id>
-    <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
-    <updated>2022-08-08T01:40:08.047Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 08 Aug 2022 03:41:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 원더보이]]></title>
+            <link>http://m.ticket.yes24.com/Perf/42816</link>
+            <guid>http://m.ticket.yes24.com/Perf/42816</guid>
+            <pubDate>Mon, 08 Aug 2022 03:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 원더보이</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">45</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">19,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220808/20220808-42816.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 점박이 공룡대모험]]></title>
+            <link>http://m.ticket.yes24.com/Perf/42433</link>
+            <guid>http://m.ticket.yes24.com/Perf/42433</guid>
+            <pubDate>Mon, 08 Aug 2022 03:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 점박이 공룡대모험</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">62</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">22,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8/9~8/19 공연, 1인 4매</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220808/20220808-42433.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 괴테의 변론]]></title>
+            <link>http://m.ticket.yes24.com/Perf/42309</link>
+            <guid>http://m.ticket.yes24.com/Perf/42309</guid>
+            <pubDate>Mon, 08 Aug 2022 03:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 괴테의 변론</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">18,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220808/20220808-42309.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 더 와일드의 변론]]></title>
+            <link>http://m.ticket.yes24.com/Perf/42310</link>
+            <guid>http://m.ticket.yes24.com/Perf/42310</guid>
+            <pubDate>Mon, 08 Aug 2022 03:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 더 와일드의 변론</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">18,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220808/20220808-42310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 기억의 숲]]></title>
+            <link>http://m.ticket.yes24.com/Perf/42699</link>
+            <guid>http://m.ticket.yes24.com/Perf/42699</guid>
+            <pubDate>Mon, 08 Aug 2022 03:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 기억의 숲</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">58</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">17,000원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220808/20220808-42699.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
