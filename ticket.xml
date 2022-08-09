@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-09T05:25:04.184Z</updated>
+    <updated>2022-08-09T06:24:56.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금난새와 함께하는 프롬나드콘서트III 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12028</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12028"/>
+        <updated>2022-08-09T06:24:00.137Z</updated>
+        <content type="html"><![CDATA[2022.08.11(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [볼륨업] 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12027</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12027"/>
+        <updated>2022-08-09T06:24:00.140Z</updated>
+        <content type="html"><![CDATA[2022.08.12(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉－광주 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12026</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12009"/>
         <updated>2022-08-03T01:46:52.927Z</updated>
         <content type="html"><![CDATA[2022.08.04(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SK 배틀 오브 더 이어 코리아] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12008</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12008"/>
-        <updated>2022-08-02T09:16:56.712Z</updated>
-        <content type="html"><![CDATA[2022.08.12(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제17회 부산국제매직페스티벌 일년내내 마술로 -동구편- 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12007</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12007"/>
-        <updated>2022-08-02T08:23:34.672Z</updated>
-        <content type="html"><![CDATA[2022.08.04(목) 14:00]]></content>
     </entry>
 </feed>

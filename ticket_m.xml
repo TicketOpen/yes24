@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-09T05:25:04.176Z</updated>
+    <updated>2022-08-09T06:24:56.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금난새와 함께하는 프롬나드콘서트III 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12028&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12028&amp;order=1"/>
+        <updated>2022-08-09T06:24:07.189Z</updated>
+        <content type="html"><![CDATA[2022-08-11(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [볼륨업] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12027&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12027&amp;order=1"/>
+        <updated>2022-08-09T06:24:07.190Z</updated>
+        <content type="html"><![CDATA[2022-08-12(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉－광주 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12026&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12019&amp;order=1"/>
         <updated>2022-08-05T05:32:15.003Z</updated>
         <content type="html"><![CDATA[2022-08-08(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 부산마루국제음악제 초청공연 프롬나드 콘서트2 [금난새의 Carnival of Music 생상스(Saint Saens)] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12018&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12018&amp;order=1"/>
-        <updated>2022-08-04T10:19:34.943Z</updated>
-        <content type="html"><![CDATA[2022-08-05(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 송골매 전국 투어 콘서트 : 열망（熱望）- 부산 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12017&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12017&amp;order=1"/>
-        <updated>2022-08-04T08:26:36.114Z</updated>
-        <content type="html"><![CDATA[2022-08-11(목) 20:00]]></content>
     </entry>
 </feed>
