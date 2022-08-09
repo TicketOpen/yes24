@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-09T08:28:30.129Z</updated>
+    <updated>2022-08-09T09:20:40.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제4회 어텀실내악페스티벌 2022 〈Dear; 친애하는〉 - I 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12029</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12029"/>
+        <updated>2022-08-09T09:19:31.734Z</updated>
+        <content type="html"><![CDATA[2022.08.18(목) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금난새와 함께하는 프롬나드콘서트III 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12028</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12010"/>
         <updated>2022-08-03T01:46:52.922Z</updated>
         <content type="html"><![CDATA[2022.08.05(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남심포니오케스트라 제148회 클래식품격콘서트 〈Great CONCERTO Series-F.J.Haydn& F.Liszt〉..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12009</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12009"/>
-        <updated>2022-08-03T01:46:52.927Z</updated>
-        <content type="html"><![CDATA[2022.08.04(목) 10:00]]></content>
     </entry>
 </feed>

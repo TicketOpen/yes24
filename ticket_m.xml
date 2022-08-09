@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-09T08:28:30.120Z</updated>
+    <updated>2022-08-09T09:20:40.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제4회 어텀실내악페스티벌 2022 〈Dear; 친애하는〉 - I 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12029&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12029&amp;order=1"/>
+        <updated>2022-08-09T09:19:42.847Z</updated>
+        <content type="html"><![CDATA[2022-08-18(목) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금난새와 함께하는 프롬나드콘서트III 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12028&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12020&amp;order=1"/>
         <updated>2022-08-05T05:32:15.000Z</updated>
         <content type="html"><![CDATA[2022-08-08(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제4회 76FESTIVAL 연극 [나의 전쟁] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12019&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12019&amp;order=1"/>
-        <updated>2022-08-05T05:32:15.003Z</updated>
-        <content type="html"><![CDATA[2022-08-08(월) 11:00]]></content>
     </entry>
 </feed>
