@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-10T05:17:07.296Z</updated>
+    <updated>2022-08-10T06:24:38.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [서편제] OP석 추가 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12033</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12033"/>
+        <updated>2022-08-10T06:23:26.884Z</updated>
+        <content type="html"><![CDATA[2022.08.11(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12032</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12032"/>
+        <updated>2022-08-10T06:23:26.894Z</updated>
+        <content type="html"><![CDATA[2022.08.24(수) 20:00<a class="noti-btn-pop" presaletit1="기예매자 선예매" presaletit2="팬클럽 선예매" presaletime1="2022.08.17(수) 20:00" presaletime2="2022.08.22(월) 20:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2022 Girls’ Generation Special Event - Long Lasting Love 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12031</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12014"/>
         <updated>2022-08-04T04:43:52.488Z</updated>
         <content type="html"><![CDATA[2022.08.09(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 여수 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12013</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12013"/>
-        <updated>2022-08-04T05:29:15.572Z</updated>
-        <content type="html"><![CDATA[2022.08.11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12012</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12012"/>
-        <updated>2022-08-04T03:26:44.310Z</updated>
-        <content type="html"><![CDATA[2022.08.09(화) 11:00]]></content>
     </entry>
 </feed>
