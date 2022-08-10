@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-09T23:19:16.603Z</updated>
+    <updated>2022-08-10T01:29:28.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022 서울바앤스피릿쇼] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12030&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12030&amp;order=1"/>
+        <updated>2022-08-10T01:28:32.250Z</updated>
+        <content type="html"><![CDATA[2022-08-12(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제4회 어텀실내악페스티벌 2022 〈Dear; 친애하는〉 - I 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12029&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12021&amp;order=1"/>
         <updated>2022-08-05T05:32:15.000Z</updated>
         <content type="html"><![CDATA[2022-08-10(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE X] 뮤지컬 [박열] 온라인 공연 8/29, 9/5, 9/19 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12020&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12020&amp;order=1"/>
-        <updated>2022-08-05T05:32:15.000Z</updated>
-        <content type="html"><![CDATA[2022-08-08(월) 14:00]]></content>
     </entry>
 </feed>

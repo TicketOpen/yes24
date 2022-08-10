@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-09T23:19:16.612Z</updated>
+    <updated>2022-08-10T01:29:28.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022 서울바앤스피릿쇼] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12030</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12030"/>
+        <updated>2022-08-10T01:28:21.806Z</updated>
+        <content type="html"><![CDATA[2022.08.12(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제4회 어텀실내악페스티벌 2022 〈Dear; 친애하는〉 - I 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12029</id>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12011</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12011"/>
         <updated>2022-08-03T08:24:19.965Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON 좌석 추가 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12010</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12010"/>
-        <updated>2022-08-03T01:46:52.922Z</updated>
-        <content type="html"><![CDATA[2022.08.05(금) 20:00]]></content>
     </entry>
 </feed>
