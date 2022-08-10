@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-10T04:22:40.992Z</updated>
+    <updated>2022-08-10T05:17:07.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 Girls’ Generation Special Event - Long Lasting Love 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12031&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12031&amp;order=1"/>
+        <updated>2022-08-10T05:16:21.765Z</updated>
+        <content type="html"><![CDATA[2022-08-16(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022 서울바앤스피릿쇼] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12030&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12022&amp;order=1"/>
         <updated>2022-08-05T09:17:42.197Z</updated>
         <content type="html"><![CDATA[2022-08-11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 롯데워터파크 풀파티 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12021&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12021&amp;order=1"/>
-        <updated>2022-08-05T05:32:15.000Z</updated>
-        <content type="html"><![CDATA[2022-08-10(수) 16:00]]></content>
     </entry>
 </feed>
