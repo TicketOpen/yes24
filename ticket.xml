@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-12T07:17:12.032Z</updated>
+    <updated>2022-08-12T08:23:40.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김주원의 탱고발레〈3 Minutes : Su tiempo 그녀의 시간〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12043</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12043"/>
+        <updated>2022-08-12T08:22:34.346Z</updated>
+        <content type="html"><![CDATA[2022.08.17(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매KoN 12주년 기념 콘서트 in SEOUL [The KoNcert-KoNtinue] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12042</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12042"/>
+        <updated>2022-08-12T08:22:34.350Z</updated>
+        <content type="html"><![CDATA[2022.08.18(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 연극 아트(ART) 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12041</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12024"/>
         <updated>2022-08-08T06:24:48.307Z</updated>
         <content type="html"><![CDATA[2022.08.12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 부산국제록페스티벌 2차 얼리버드 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12023</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12023"/>
-        <updated>2022-08-08T01:38:56.152Z</updated>
-        <content type="html"><![CDATA[2022.08.08(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12022</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12022"/>
-        <updated>2022-08-05T09:17:31.315Z</updated>
-        <content type="html"><![CDATA[2022.08.11(목) 14:00]]></content>
     </entry>
 </feed>

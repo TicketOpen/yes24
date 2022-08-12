@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-12T07:17:12.020Z</updated>
+    <updated>2022-08-12T08:23:40.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김주원의 탱고발레〈3 Minutes : Su tiempo 그녀의 시간〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12043&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12043&amp;order=1"/>
+        <updated>2022-08-12T08:22:45.312Z</updated>
+        <content type="html"><![CDATA[2022-08-17(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KoN 12주년 기념 콘서트 in SEOUL [The KoNcert-KoNtinue] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12042&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12042&amp;order=1"/>
+        <updated>2022-08-12T08:22:45.313Z</updated>
+        <content type="html"><![CDATA[2022-08-18(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 연극 아트(ART) 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12041&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12034&amp;order=1"/>
         <updated>2022-08-11T01:27:35.988Z</updated>
         <content type="html"><![CDATA[2022-08-18(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [서편제] OP석 추가 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12033&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12033&amp;order=1"/>
-        <updated>2022-08-10T06:23:38.155Z</updated>
-        <content type="html"><![CDATA[2022-08-11(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12032&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12032&amp;order=1"/>
-        <updated>2022-08-10T06:23:38.156Z</updated>
-        <content type="html"><![CDATA[2022-08-24(수) 20:00]]></content>
     </entry>
 </feed>
