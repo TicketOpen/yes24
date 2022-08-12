@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2022-08-12T01:42:43.739Z</updated>
+    <updated>2022-08-12T03:29:37.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
     <entry>
@@ -32,5 +32,26 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41403"/>
         <updated>2022-07-13T08:23:47.895Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 삼총사] 주말 특별 5천원 할인 쿠폰]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41599</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41599"/>
+        <updated>2022-08-12T03:29:37.178Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연극 비평가] 예매수수료 면제 쿠폰]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41596</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41596"/>
+        <updated>2022-08-12T03:29:37.179Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연극 비평가] 마지막 비평]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41595</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41595"/>
+        <updated>2022-08-12T03:29:37.180Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 1,200원]]></content>
     </entry>
 </feed>
