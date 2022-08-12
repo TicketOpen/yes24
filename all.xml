@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 16:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 17:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,22 +226,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220808/20220808-42310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <기억의 숲> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42699</link>
-            <guid>http://ticket.yes24.com/Perf/42699</guid>
-            <pubDate>Mon, 08 Aug 2022 01:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>17,000원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220808/20220808-42699.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이 뮤지컬 <점박이 공룡대모험> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42433</link>
-            <guid>http://ticket.yes24.com/Perf/42433</guid>
-            <pubDate>Mon, 08 Aug 2022 01:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220808/20220808-42433.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <원더보이> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/42816</link>
             <guid>http://ticket.yes24.com/Perf/42816</guid>
@@ -250,12 +234,28 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220808/20220808-42816.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <기억의 숲> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42699</link>
+            <guid>http://ticket.yes24.com/Perf/42699</guid>
+            <pubDate>Mon, 08 Aug 2022 01:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>17,000원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220808/20220808-42699.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <괴테의 변론> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/42309</link>
             <guid>http://ticket.yes24.com/Perf/42309</guid>
             <pubDate>Mon, 08 Aug 2022 01:39:18 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>32,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220808/20220808-42309.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이 뮤지컬 <점박이 공룡대모험> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42433</link>
+            <guid>http://ticket.yes24.com/Perf/42433</guid>
+            <pubDate>Mon, 08 Aug 2022 01:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220808/20220808-42433.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 원더보이 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
