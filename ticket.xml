@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-12T04:32:26.869Z</updated>
+    <updated>2022-08-12T05:19:08.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 연극 아트(ART) 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12041</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12041"/>
+        <updated>2022-08-12T05:18:08.840Z</updated>
+        <content type="html"><![CDATA[2022.08.18(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈홀연했던 사나이〉 - The Last Session 녹화 중계 (MD패키지)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12040</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12040"/>
+        <updated>2022-08-12T05:18:08.842Z</updated>
+        <content type="html"><![CDATA[2022.08.19(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12039</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12022"/>
         <updated>2022-08-05T09:17:31.315Z</updated>
         <content type="html"><![CDATA[2022.08.11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 롯데워터파크 풀파티 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12021</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12021"/>
-        <updated>2022-08-05T05:32:01.556Z</updated>
-        <content type="html"><![CDATA[2022.08.10(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE X] 뮤지컬 [박열] 온라인 공연 8/29, 9/5, 9/19 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12020</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12020"/>
-        <updated>2022-08-05T05:32:01.557Z</updated>
-        <content type="html"><![CDATA[2022.08.08(월) 14:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-12T04:32:26.864Z</updated>
+    <updated>2022-08-12T05:19:08.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 연극 아트(ART) 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12041&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12041&amp;order=1"/>
+        <updated>2022-08-12T05:18:18.755Z</updated>
+        <content type="html"><![CDATA[2022-08-18(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈홀연했던 사나이〉 - The Last Session 녹화 중계 (MD패키지)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12040&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12040&amp;order=1"/>
+        <updated>2022-08-12T05:18:18.757Z</updated>
+        <content type="html"><![CDATA[2022-08-19(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12039&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12032&amp;order=1"/>
         <updated>2022-08-10T06:23:38.156Z</updated>
         <content type="html"><![CDATA[2022-08-24(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Girls’ Generation Special Event - Long Lasting Love 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12031&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12031&amp;order=1"/>
-        <updated>2022-08-10T05:16:21.765Z</updated>
-        <content type="html"><![CDATA[2022-08-16(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 서울바앤스피릿쇼] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12030&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12030&amp;order=1"/>
-        <updated>2022-08-10T01:28:32.250Z</updated>
-        <content type="html"><![CDATA[2022-08-12(금) 09:00]]></content>
     </entry>
 </feed>
