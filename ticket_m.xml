@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-12T03:29:37.731Z</updated>
+    <updated>2022-08-12T04:32:26.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12039&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12039&amp;order=1"/>
+        <updated>2022-08-12T04:31:33.754Z</updated>
+        <content type="html"><![CDATA[2022-08-17(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그랜드 민트 페스티벌 2022 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12038&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12030&amp;order=1"/>
         <updated>2022-08-10T01:28:32.250Z</updated>
         <content type="html"><![CDATA[2022-08-12(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제4회 어텀실내악페스티벌 2022 〈Dear; 친애하는〉 - I 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12029&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12029&amp;order=1"/>
-        <updated>2022-08-09T09:19:42.847Z</updated>
-        <content type="html"><![CDATA[2022-08-18(목) 13:00]]></content>
     </entry>
 </feed>
