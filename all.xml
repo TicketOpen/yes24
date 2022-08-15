@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 14:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 15:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,14 +218,6 @@
             <content:encoded><![CDATA[2022-08-18(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 말리의 어제보다 특별한 오늘 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42549&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42549&amp;Tab=2</guid>
-            <pubDate>Mon, 08 Aug 2022 01:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.16 ~ 2022.08.15 | 2022.08.17 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220808/20220808-5bc73e7c-a8b8-44e8-bc9b-1371ee384a92.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 삼총사 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43061&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43061&amp;Tab=3</guid>
@@ -248,14 +240,6 @@
             <pubDate>Fri, 05 Aug 2022 14:18:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.03 ~ 2022.08.31 | 2022.09.02 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220803/20220803-27da5902-1d56-4ffd-84da-6ea035fa6a5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <시데레우스> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42489&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42489&amp;Tab=2</guid>
-            <pubDate>Fri, 05 Aug 2022 14:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.26 ~ 2022.08.15 | 2022.08.19 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202207/20220726/20220726-604dd2f8-6837-4932-9d50-d5363db4fab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 LOVESOME (YES24 티켓 ─ 이벤트)]]></title>
@@ -287,12 +271,19 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이벤트 기간2022.07.16 ~ 2022.08.15 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=42549</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=42549</guid>
-            <pubDate>Mon, 08 Aug 2022 01:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em>경품</em>사인 프로그램북과 말리 팀의 특별한 선물]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220808/20220808-5bc73e7c-a8b8-44e8-bc9b-1371ee384a92.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[예술의전당 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
+            <pubDate>Mon, 15 Aug 2022 15:20:52 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[관람후기, YES포인트로 받아가세요 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2450</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2450</guid>
+            <pubDate>Mon, 15 Aug 2022 15:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[2016.01.01 ~ 2030.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202010/20201027/20201027-ev_list_guide_review.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.08.05 ~ 2022.09.15 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -317,14 +308,6 @@
             <pubDate>Wed, 03 Aug 2022 06:21:55 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>당첨자 발표 후 추후 전달 예정]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220803/20220803-27da5902-1d56-4ffd-84da-6ea035fa6a5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.07.26 ~ 2022.08.15 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=42489</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=42489</guid>
-            <pubDate>Tue, 26 Jul 2022 07:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;시데레우스&gt; 배우 사인프로그램북]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202207/20220726/20220726-604dd2f8-6837-4932-9d50-d5363db4fab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.07.25 ~ 2022.09.18 (YES24 티켓 ─ 이벤트 모바일)]]></title>
