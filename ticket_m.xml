@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-16T01:51:53.634Z</updated>
+    <updated>2022-08-16T03:48:24.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핑크스웨츠 내한공연（Pink Sweat$ Presents Pink Moon）티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12044&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12044&amp;order=1"/>
+        <updated>2022-08-16T03:47:25.856Z</updated>
+        <content type="html"><![CDATA[2022-08-23(화) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김주원의 탱고발레〈3 Minutes : Su tiempo 그녀의 시간〉티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12043&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12035&amp;order=1"/>
         <updated>2022-08-11T01:27:35.985Z</updated>
         <content type="html"><![CDATA[2022-08-12(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 송골매 전국 투어 콘서트 : 열망(熱望) - 대구 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12034&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12034&amp;order=1"/>
-        <updated>2022-08-11T01:27:35.988Z</updated>
-        <content type="html"><![CDATA[2022-08-18(목) 20:00]]></content>
     </entry>
 </feed>
