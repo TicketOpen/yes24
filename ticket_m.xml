@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-16T04:41:47.981Z</updated>
+    <updated>2022-08-16T05:20:08.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 인천 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12045&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12045&amp;order=1"/>
+        <updated>2022-08-16T05:19:11.239Z</updated>
+        <content type="html"><![CDATA[2022-08-22(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핑크스웨츠 내한공연（Pink Sweat$ Presents Pink Moon）티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12044&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12036&amp;order=1"/>
         <updated>2022-08-11T03:18:40.382Z</updated>
         <content type="html"><![CDATA[2022-08-23(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 강원세계산림엑스포 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12035&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12035&amp;order=1"/>
-        <updated>2022-08-11T01:27:35.985Z</updated>
-        <content type="html"><![CDATA[2022-08-12(금) 09:00]]></content>
     </entry>
 </feed>
