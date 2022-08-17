@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-16T23:17:15.529Z</updated>
+    <updated>2022-08-17T01:58:21.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 이머시브공연 〈금란방〉_창작가무극 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12047</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12047"/>
+        <updated>2022-08-17T01:57:21.801Z</updated>
+        <content type="html"><![CDATA[2022.09.02(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 인천 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12045</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12027"/>
         <updated>2022-08-09T06:24:00.140Z</updated>
         <content type="html"><![CDATA[2022.08.12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉－광주 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12026</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12026"/>
-        <updated>2022-08-09T01:49:06.502Z</updated>
-        <content type="html"><![CDATA[2022.08.10(수) 10:00]]></content>
     </entry>
 </feed>
