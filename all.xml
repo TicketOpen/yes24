@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 07:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 08:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 데칼 코마니 (리딩쇼케이스) 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12053</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12053</guid>
+            <pubDate>Wed, 17 Aug 2022 08:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19(금) 10:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 전국투어 콘서트〈박창근〉- 창원 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12052</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2022.08.18(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [서편제] OP석 추가 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12033</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12033</guid>
-            <pubDate>Wed, 10 Aug 2022 06:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.11(목) 11:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 데칼 코마니 (리딩쇼케이스) 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12053&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12053&amp;order=1</guid>
+            <pubDate>Wed, 17 Aug 2022 08:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022-08-19(금) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 전국투어 콘서트〈박창근〉- 창원 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,19 +218,20 @@
             <content:encoded><![CDATA[2022-08-23(화) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김주원의 탱고발레〈3 Minutes : Su tiempo 그녀의 시간〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12043&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12043&amp;order=1</guid>
-            <pubDate>Fri, 12 Aug 2022 08:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022-08-17(수) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[리틀잭 콘서트 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/42982</link>
             <guid>http://ticket.yes24.com/Perf/42982</guid>
             <pubDate>Tue, 16 Aug 2022 01:51:06 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>44,350원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220816/20220816-42982.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <나의 PS 파트너> (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/29162</link>
+            <guid>http://ticket.yes24.com/Perf/29162</guid>
+            <pubDate>Tue, 16 Aug 2022 01:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220816/20220816-29162.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <고고보이> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -240,14 +248,6 @@
             <pubDate>Tue, 16 Aug 2022 01:51:06 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220816/20220816-42944.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <나의 PS 파트너> (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/29162</link>
-            <guid>http://ticket.yes24.com/Perf/29162</guid>
-            <pubDate>Tue, 16 Aug 2022 01:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220816/20220816-29162.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 리틀잭 콘서트 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
