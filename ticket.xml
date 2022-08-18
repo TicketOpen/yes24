@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-18T05:35:49.229Z</updated>
+    <updated>2022-08-18T06:23:34.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12056"/>
         <updated>2022-08-18T05:34:32.126Z</updated>
         <content type="html"><![CDATA[2022.08.25(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈볼륨업〉 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12055</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12055"/>
+        <updated>2022-08-18T06:22:26.418Z</updated>
+        <content type="html"><![CDATA[2022.08.24(수) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지브리 페스티벌 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12037"/>
         <updated>2022-08-11T05:16:49.532Z</updated>
         <content type="html"><![CDATA[2022.08.17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Stray Kids 2nd World Tour “MANIAC” Seoul Special (UNVEIL 11) 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12036</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12036"/>
-        <updated>2022-08-11T03:18:31.542Z</updated>
-        <content type="html"><![CDATA[2022.08.23(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.08.19(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
