@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-17T23:19:28.687Z</updated>
+    <updated>2022-08-18T01:53:19.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지브리 페스티벌 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12054</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12054"/>
+        <updated>2022-08-18T01:52:13.226Z</updated>
+        <content type="html"><![CDATA[2022.08.19(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 데칼 코마니 (리딩쇼케이스) 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12053</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12035"/>
         <updated>2022-08-11T01:27:25.334Z</updated>
         <content type="html"><![CDATA[2022.08.12(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 송골매 전국 투어 콘서트 : 열망(熱望) - 대구 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12034</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12034"/>
-        <updated>2022-08-11T01:27:25.335Z</updated>
-        <content type="html"><![CDATA[2022.08.18(목) 20:00]]></content>
     </entry>
 </feed>

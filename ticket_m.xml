@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-17T23:19:28.694Z</updated>
+    <updated>2022-08-18T01:53:19.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지브리 페스티벌 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12054&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12054&amp;order=1"/>
+        <updated>2022-08-18T01:52:23.707Z</updated>
+        <content type="html"><![CDATA[2022-08-19(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 데칼 코마니 (리딩쇼케이스) 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12053&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12045&amp;order=1"/>
         <updated>2022-08-16T05:19:11.239Z</updated>
         <content type="html"><![CDATA[2022-08-22(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핑크스웨츠 내한공연（Pink Sweat$ Presents Pink Moon）티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12044&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12044&amp;order=1"/>
-        <updated>2022-08-16T03:47:25.856Z</updated>
-        <content type="html"><![CDATA[2022-08-23(화) 12:00]]></content>
     </entry>
 </feed>
