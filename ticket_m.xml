@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-19T08:22:58.037Z</updated>
+    <updated>2022-08-19T09:19:06.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈안나, 차이코프스키〉 1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12066&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12066&amp;order=1"/>
+        <updated>2022-08-19T09:18:04.228Z</updated>
+        <content type="html"><![CDATA[2022-08-22(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컨템포러리 S Ⅱ 이희문 쏭폼스토리즈 [강남오아시스] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12065&amp;order=1</id>
@@ -41,6 +48,20 @@
         <content type="html"><![CDATA[2022-08-26(금) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[9/20] 뮤지컬 〈은밀하게 위대하게:THE LAST〉 온라인 공연 및 MD 패키지 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12058&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12058&amp;order=1"/>
+        <updated>2022-08-19T09:18:04.235Z</updated>
+        <content type="html"><![CDATA[2022-08-25(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[9/12] 뮤지컬 〈은밀하게 위대하게:THE LAST〉 온라인 공연 및 MD 패키지 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12057&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12057&amp;order=1"/>
+        <updated>2022-08-19T09:18:04.236Z</updated>
+        <content type="html"><![CDATA[2022-08-25(목) 12:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬 [삼총사] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12056&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12056&amp;order=1"/>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12055&amp;order=1"/>
         <updated>2022-08-18T06:22:37.758Z</updated>
         <content type="html"><![CDATA[2022-08-24(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지브리 페스티벌 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12054&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12054&amp;order=1"/>
-        <updated>2022-08-18T01:52:23.707Z</updated>
-        <content type="html"><![CDATA[2022-08-19(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데칼 코마니 (리딩쇼케이스) 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12053&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12053&amp;order=1"/>
-        <updated>2022-08-17T08:23:35.187Z</updated>
-        <content type="html"><![CDATA[2022-08-19(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12052&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12052&amp;order=1"/>
-        <updated>2022-08-17T06:23:54.357Z</updated>
-        <content type="html"><![CDATA[2022-08-19(금) 17:00]]></content>
     </entry>
 </feed>
