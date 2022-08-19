@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-19T04:52:14.389Z</updated>
+    <updated>2022-08-19T05:29:22.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘2022 LOVESOME - 보통의 언어들’ 최종 라인업 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12061&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12061&amp;order=1"/>
+        <updated>2022-08-19T05:28:22.931Z</updated>
+        <content type="html"><![CDATA[2022-08-19(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제4회 76FESTIVAL 연극 [오레스테이아] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12060&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12060&amp;order=1"/>
+        <updated>2022-08-19T05:28:22.941Z</updated>
+        <content type="html"><![CDATA[2022-08-22(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 SUNMI TOUR [GOOD GIRL GONE MAD] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12059&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12059&amp;order=1"/>
+        <updated>2022-08-19T05:28:22.941Z</updated>
+        <content type="html"><![CDATA[2022-08-26(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [삼총사] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12056&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12050&amp;order=1"/>
         <updated>2022-08-17T06:23:54.359Z</updated>
         <content type="html"><![CDATA[2022-08-23(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-Verbal Mask Theater 〈11월 32일〉티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12049&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12049&amp;order=1"/>
-        <updated>2022-08-17T06:23:54.359Z</updated>
-        <content type="html"><![CDATA[2022-08-18(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최엘비 단독콘서트〈제1회 신입생 환영회〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12048&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12048&amp;order=1"/>
-        <updated>2022-08-17T05:14:13.808Z</updated>
-        <content type="html"><![CDATA[2022-08-24(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 이머시브공연 〈금란방〉_창작가무극 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12047&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12047&amp;order=1"/>
-        <updated>2022-08-17T01:57:31.942Z</updated>
-        <content type="html"><![CDATA[2022-09-02(금) 11:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-19T04:52:14.392Z</updated>
+    <updated>2022-08-19T05:29:22.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매‘2022 LOVESOME - 보통의 언어들’ 최종 라인업 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12061</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12061"/>
+        <updated>2022-08-19T05:28:12.411Z</updated>
+        <content type="html"><![CDATA[2022.08.19(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제4회 76FESTIVAL 연극 [오레스테이아] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12060</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12060"/>
+        <updated>2022-08-19T05:28:12.422Z</updated>
+        <content type="html"><![CDATA[2022.08.22(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2022 SUNMI TOUR [GOOD GIRL GONE MAD] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12059</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12059"/>
+        <updated>2022-08-19T05:28:12.423Z</updated>
+        <content type="html"><![CDATA[2022.08.26(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.08.24(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [삼총사] 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12056</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12040"/>
         <updated>2022-08-12T05:18:08.842Z</updated>
         <content type="html"><![CDATA[2022.08.19(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12039</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12039"/>
-        <updated>2022-08-12T04:31:23.776Z</updated>
-        <content type="html"><![CDATA[2022.08.17(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그랜드 민트 페스티벌 2022 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12038</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12038"/>
-        <updated>2022-08-11T09:17:48.215Z</updated>
-        <content type="html"><![CDATA[2022.08.23(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 제주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12037</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12037"/>
-        <updated>2022-08-11T05:16:49.532Z</updated>
-        <content type="html"><![CDATA[2022.08.17(수) 14:00]]></content>
     </entry>
 </feed>
