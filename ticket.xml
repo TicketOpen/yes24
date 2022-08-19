@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-19T07:18:31.006Z</updated>
+    <updated>2022-08-19T08:22:58.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[컨템포러리 S Ⅱ 이희문 쏭폼스토리즈 [강남오아시스] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12065</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12065"/>
+        <updated>2022-08-19T08:21:49.214Z</updated>
+        <content type="html"><![CDATA[2022.08.25(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [서편제] 3차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12064</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12064"/>
+        <updated>2022-08-19T08:21:49.216Z</updated>
+        <content type="html"><![CDATA[2022.08.24(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매‘2022 LOVESOME - 보통의 언어들’ 최종 라인업 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12061</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12042"/>
         <updated>2022-08-12T08:22:34.350Z</updated>
         <content type="html"><![CDATA[2022.08.18(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 연극 아트(ART) 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12041</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12041"/>
-        <updated>2022-08-12T05:18:08.840Z</updated>
-        <content type="html"><![CDATA[2022.08.18(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈홀연했던 사나이〉 - The Last Session 녹화 중계 (MD패키지)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12040</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12040"/>
-        <updated>2022-08-12T05:18:08.842Z</updated>
-        <content type="html"><![CDATA[2022.08.19(금) 14:00]]></content>
     </entry>
 </feed>
