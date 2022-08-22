@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-22T07:17:19.309Z</updated>
+    <updated>2022-08-22T08:23:51.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[Tay New Fan Meeting in Korea 2022] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12071</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12071"/>
+        <updated>2022-08-22T08:22:40.218Z</updated>
+        <content type="html"><![CDATA[2022.08.25(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매SUPERNOVA! 세종 : 너드커넥션 단독 공연 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12070</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12049"/>
         <updated>2022-08-17T06:23:44.234Z</updated>
         <content type="html"><![CDATA[2022.08.18(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매최엘비 단독콘서트〈제1회 신입생 환영회〉티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12048</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12048"/>
-        <updated>2022-08-17T05:14:03.280Z</updated>
-        <content type="html"><![CDATA[2022.08.24(수) 18:00]]></content>
     </entry>
 </feed>
