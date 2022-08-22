@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 01:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 04:00:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단독판매SUPERNOVA! 세종 : 너드커넥션 단독 공연 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12070</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12070</guid>
+            <pubDate>Mon, 22 Aug 2022 03:59:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30(화) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 [에곤 실레] 2차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12068</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2022.08.24(수) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 이머시브공연 〈금란방〉_창작가무극 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12047</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12047</guid>
-            <pubDate>Wed, 17 Aug 2022 01:57:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.02(금) 11:00]]></content:encoded>
+            <title><![CDATA[SUPERNOVA! 세종 : 너드커넥션 단독 공연 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12070&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12070&amp;order=1</guid>
+            <pubDate>Mon, 22 Aug 2022 04:00:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022-08-30(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [에곤 실레] 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,29 +218,6 @@
             <content:encoded><![CDATA[2022-08-25(목) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[9/12] 뮤지컬 〈은밀하게 위대하게:THE LAST〉 온라인 공연 및 MD 패키지 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12057&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12057&amp;order=1</guid>
-            <pubDate>Fri, 19 Aug 2022 09:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022-08-25(목) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 미드나잇: 액터뮤지션 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42829</link>
-            <guid>http://ticket.yes24.com/Perf/42829</guid>
-            <pubDate>Mon, 22 Aug 2022 01:47:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>V석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42829_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 흉터 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42179</link>
-            <guid>http://ticket.yes24.com/Perf/42179</guid>
-            <pubDate>Mon, 22 Aug 2022 01:47:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42179.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 삼총사 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/43061</link>
             <guid>http://ticket.yes24.com/Perf/43061</guid>
@@ -256,6 +240,22 @@
             <pubDate>Mon, 22 Aug 2022 01:47:24 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>8,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42705.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 흉터 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42179</link>
+            <guid>http://ticket.yes24.com/Perf/42179</guid>
+            <pubDate>Mon, 22 Aug 2022 01:47:24 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42179.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 미드나잇: 액터뮤지션 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42829</link>
+            <guid>http://ticket.yes24.com/Perf/42829</guid>
+            <pubDate>Mon, 22 Aug 2022 01:47:24 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>V석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42829_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 에곤실레 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>

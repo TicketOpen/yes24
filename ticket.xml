@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-22T01:48:13.611Z</updated>
+    <updated>2022-08-22T04:00:57.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매SUPERNOVA! 세종 : 너드커넥션 단독 공연 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12070</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12070"/>
+        <updated>2022-08-22T03:59:55.814Z</updated>
+        <content type="html"><![CDATA[2022.08.30(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [에곤 실레] 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12068</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12048"/>
         <updated>2022-08-17T05:14:03.280Z</updated>
         <content type="html"><![CDATA[2022.08.24(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 이머시브공연 〈금란방〉_창작가무극 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12047</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12047"/>
-        <updated>2022-08-17T01:57:21.801Z</updated>
-        <content type="html"><![CDATA[2022.09.02(금) 11:00]]></content>
     </entry>
 </feed>
