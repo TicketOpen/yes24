@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-23T01:55:12.213Z</updated>
+    <updated>2022-08-23T04:16:18.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어벤져스 히어로즈 VS 빌런즈 영화음악 콘서트 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12072&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12072&amp;order=1"/>
+        <updated>2022-08-23T04:15:21.345Z</updated>
+        <content type="html"><![CDATA[2022-08-25(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Tay New Fan Meeting in Korea 2022] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12071&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12060&amp;order=1"/>
         <updated>2022-08-19T05:28:22.941Z</updated>
         <content type="html"><![CDATA[2022-08-22(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 SUNMI TOUR [GOOD GIRL GONE MAD] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12059&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12059&amp;order=1"/>
-        <updated>2022-08-19T05:28:22.941Z</updated>
-        <content type="html"><![CDATA[2022-08-26(금) 20:00]]></content>
     </entry>
 </feed>
