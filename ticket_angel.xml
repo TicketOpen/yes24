@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 12:36:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 13:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 미드나잇: 액터뮤지션]]></title>
-            <link>http://ticket.yes24.com/Perf/42829</link>
-            <guid>http://ticket.yes24.com/Perf/42829</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>V석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42829_1.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 시데레우스]]></title>
             <link>http://ticket.yes24.com/Perf/42489</link>
@@ -24,12 +16,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42489_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 흉터]]></title>
-            <link>http://ticket.yes24.com/Perf/42179</link>
-            <guid>http://ticket.yes24.com/Perf/42179</guid>
+            <title><![CDATA[뮤지컬 미드나잇: 액터뮤지션]]></title>
+            <link>http://ticket.yes24.com/Perf/42829</link>
+            <guid>http://ticket.yes24.com/Perf/42829</guid>
             <pubDate>Wed, 24 Aug 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42179.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>V석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42829_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 삼총사]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Wed, 24 Aug 2022 09:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-43061_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 흉터]]></title>
+            <link>http://ticket.yes24.com/Perf/42179</link>
+            <guid>http://ticket.yes24.com/Perf/42179</guid>
+            <pubDate>Wed, 24 Aug 2022 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42179.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 연애하기 좋은 날]]></title>
