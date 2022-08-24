@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-24T04:09:57.772Z</updated>
+    <updated>2022-08-24T05:44:22.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12079</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12079"/>
+        <updated>2022-08-24T05:42:43.304Z</updated>
+        <content type="html"><![CDATA[2022.08.26(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [82년생 김지영] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12078</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12078"/>
+        <updated>2022-08-24T05:42:43.314Z</updated>
+        <content type="html"><![CDATA[2022.08.30(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 조항조&진성 [앙상블콘서트] - 천안 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12077</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12077"/>
+        <updated>2022-08-24T05:42:43.314Z</updated>
+        <content type="html"><![CDATA[2022.08.26(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 조항조&진성 [앙상블콘서트] - 전주 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12076</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12076"/>
+        <updated>2022-08-24T05:42:43.314Z</updated>
+        <content type="html"><![CDATA[2022.08.26(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [인질극 X] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12075</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12057"/>
         <updated>2022-08-19T09:17:53.547Z</updated>
         <content type="html"><![CDATA[2022.08.25(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [삼총사] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12056</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12056"/>
-        <updated>2022-08-18T05:34:32.126Z</updated>
-        <content type="html"><![CDATA[2022.08.25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈볼륨업〉 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12055</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12055"/>
-        <updated>2022-08-18T06:22:26.418Z</updated>
-        <content type="html"><![CDATA[2022.08.24(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지브리 페스티벌 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12054</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12054"/>
-        <updated>2022-08-18T01:52:13.226Z</updated>
-        <content type="html"><![CDATA[2022.08.19(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데칼 코마니 (리딩쇼케이스) 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12053</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12053"/>
-        <updated>2022-08-17T08:23:24.197Z</updated>
-        <content type="html"><![CDATA[2022.08.19(금) 10:00]]></content>
     </entry>
 </feed>
