@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 09:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 10:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,14 +218,6 @@
             <content:encoded><![CDATA[2022-08-30(화) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 연애하기 좋은 날 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42705</link>
-            <guid>http://ticket.yes24.com/Perf/42705</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>8,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42705.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 미드나잇: 액터뮤지션 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/42829</link>
             <guid>http://ticket.yes24.com/Perf/42829</guid>
@@ -234,12 +226,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42829_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 흉터 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42179</link>
-            <guid>http://ticket.yes24.com/Perf/42179</guid>
+            <title><![CDATA[뮤지컬 삼총사 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43061</link>
+            <guid>http://ticket.yes24.com/Perf/43061</guid>
             <pubDate>Wed, 24 Aug 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42179.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-43061_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 연애하기 좋은 날 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42705</link>
+            <guid>http://ticket.yes24.com/Perf/42705</guid>
+            <pubDate>Wed, 24 Aug 2022 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>8,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42705.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 시데레우스 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -250,12 +250,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42489_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 삼총사 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43061</link>
-            <guid>http://ticket.yes24.com/Perf/43061</guid>
+            <title><![CDATA[연극 흉터 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42179</link>
+            <guid>http://ticket.yes24.com/Perf/42179</guid>
             <pubDate>Wed, 24 Aug 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-43061_1.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220822/20220822-42179.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 삼총사 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -345,14 +345,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220805/20220805-f6df1910-f71c-4c05-8f54-6916427f9213.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 삼총사 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43061&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43061&amp;Tab=3</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.05 ~ 2022.09.15 | 2022..0.9. 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220805/20220805-440f7d75-cc64-40dd-8ac4-1baa31308e34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 비더슈탄트 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42155&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=42155&amp;Tab=2</guid>
@@ -382,6 +374,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Wed, 24 Aug 2022 09:18:19 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Wed, 24 Aug 2022 10:21:03 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.08.22 ~ 2022.09.13 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -414,14 +413,6 @@
             <pubDate>Wed, 24 Aug 2022 09:18:29 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2022년 9월 20일(화) 오후 7시 30분 공연]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220805/20220805-f6df1910-f71c-4c05-8f54-6916427f9213.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.08.05 ~ 2022.09.15 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43061</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43061</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220805/20220805-440f7d75-cc64-40dd-8ac4-1baa31308e34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.08.03 ~ 2022.08.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
