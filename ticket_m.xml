@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-24T01:53:08.056Z</updated>
+    <updated>2022-08-24T04:09:57.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12075&amp;order=1"/>
         <updated>2022-08-24T01:52:16.424Z</updated>
         <content type="html"><![CDATA[2022-08-26(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[almost monday LIVE IN SEOUL 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12074&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12074&amp;order=1"/>
+        <updated>2022-08-24T04:08:48.563Z</updated>
+        <content type="html"><![CDATA[2022-08-31(수) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 [오만과 편견] 2차 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12065&amp;order=1"/>
         <updated>2022-08-19T08:22:00.018Z</updated>
         <content type="html"><![CDATA[2022-08-25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [서편제] 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12064&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12064&amp;order=1"/>
-        <updated>2022-08-19T08:22:00.018Z</updated>
-        <content type="html"><![CDATA[2022-08-24(수) 12:00]]></content>
     </entry>
 </feed>
