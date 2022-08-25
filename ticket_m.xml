@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-25T04:12:37.101Z</updated>
+    <updated>2022-08-25T05:54:50.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원더티켓 - 수호나무의 부활 (파주) 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12082&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12082&amp;order=1"/>
+        <updated>2022-08-25T05:53:51.661Z</updated>
+        <content type="html"><![CDATA[2022-08-29(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원더티켓 - 수호나무의 부활 (인제) 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12081&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12081&amp;order=1"/>
+        <updated>2022-08-25T05:53:51.663Z</updated>
+        <content type="html"><![CDATA[2022-08-29(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 웰컴대학로-웰컴씨어터 뮤지컬 〈미아 파밀리아〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12080&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12080&amp;order=1"/>
+        <updated>2022-08-25T05:53:51.663Z</updated>
+        <content type="html"><![CDATA[2022-09-01(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12079&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12073&amp;order=1"/>
         <updated>2022-08-23T10:20:07.982Z</updated>
         <content type="html"><![CDATA[2022-08-25(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어벤져스 히어로즈 VS 빌런즈 영화음악 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12072&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12072&amp;order=1"/>
-        <updated>2022-08-23T04:15:21.345Z</updated>
-        <content type="html"><![CDATA[2022-08-25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Tay New Fan Meeting in Korea 2022] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12071&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12071&amp;order=1"/>
-        <updated>2022-08-22T08:22:51.053Z</updated>
-        <content type="html"><![CDATA[2022-08-25(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUPERNOVA! 세종 : 너드커넥션 단독 공연 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12070&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12070&amp;order=1"/>
-        <updated>2022-08-22T04:00:05.446Z</updated>
-        <content type="html"><![CDATA[2022-08-30(화) 20:00]]></content>
     </entry>
 </feed>
