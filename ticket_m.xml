@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-25T05:54:50.826Z</updated>
+    <updated>2022-08-25T06:34:54.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 웰컴대학로-웰컴씨어터 연극 [아버지와 살면] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12084&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12084&amp;order=1"/>
+        <updated>2022-08-25T06:34:01.419Z</updated>
+        <content type="html"><![CDATA[2022-08-26(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RE:FOLK RE:PLAY] 공연 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12083&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12083&amp;order=1"/>
+        <updated>2022-08-25T06:34:01.421Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원더티켓 - 수호나무의 부활 (파주) 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12082&amp;order=1</id>
@@ -60,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12075&amp;order=1"/>
         <updated>2022-08-24T01:52:16.424Z</updated>
         <content type="html"><![CDATA[2022-08-26(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[almost monday LIVE IN SEOUL 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12074&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12074&amp;order=1"/>
-        <updated>2022-08-24T04:08:48.563Z</updated>
-        <content type="html"><![CDATA[2022-08-31(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [오만과 편견] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12073&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12073&amp;order=1"/>
-        <updated>2022-08-23T10:20:07.982Z</updated>
-        <content type="html"><![CDATA[2022-08-25(목) 16:00]]></content>
     </entry>
 </feed>

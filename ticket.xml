@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-25T05:54:50.828Z</updated>
+    <updated>2022-08-25T06:34:54.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 웰컴대학로-웰컴씨어터 연극 [아버지와 살면] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12084</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12084"/>
+        <updated>2022-08-25T06:33:51.621Z</updated>
+        <content type="html"><![CDATA[2022.08.26(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RE:FOLK RE:PLAY] 공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12083</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12083"/>
+        <updated>2022-08-25T06:33:51.624Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원더티켓 - 수호나무의 부활 (파주) 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12082</id>
@@ -130,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12064"/>
         <updated>2022-08-19T08:21:49.216Z</updated>
         <content type="html"><![CDATA[2022.08.24(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매‘2022 LOVESOME - 보통의 언어들’ 최종 라인업 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12061</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12061"/>
-        <updated>2022-08-19T05:28:12.411Z</updated>
-        <content type="html"><![CDATA[2022.08.19(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제4회 76FESTIVAL 연극 [오레스테이아] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12060</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12060"/>
-        <updated>2022-08-19T05:28:12.422Z</updated>
-        <content type="html"><![CDATA[2022.08.22(월) 11:00]]></content>
     </entry>
 </feed>
