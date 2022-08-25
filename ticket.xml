@@ -2,21 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-25T06:34:54.533Z</updated>
+    <updated>2022-08-25T07:23:22.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [그녀를 용서할 수 있을까] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12085</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12085"/>
+        <updated>2022-08-25T07:22:07.779Z</updated>
+        <content type="html"><![CDATA[2022.09.01(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 웰컴대학로-웰컴씨어터 연극 [아버지와 살면] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12084</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12084"/>
         <updated>2022-08-25T06:33:51.621Z</updated>
         <content type="html"><![CDATA[2022.08.26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[RE:FOLK RE:PLAY] 공연 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12083</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12083"/>
-        <updated>2022-08-25T06:33:51.624Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[원더티켓 - 수호나무의 부활 (파주) 티켓오픈 안내]]></title>
