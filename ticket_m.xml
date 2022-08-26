@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-26T07:23:23.569Z</updated>
+    <updated>2022-08-26T08:24:42.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김목경 공연 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12088&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12088&amp;order=1"/>
+        <updated>2022-08-26T08:23:52.120Z</updated>
+        <content type="html"><![CDATA[2022-08-31(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이은결 [더 일루션 - 마스터피스] - 부산 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12087&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12079&amp;order=1"/>
         <updated>2022-08-24T05:42:53.828Z</updated>
         <content type="html"><![CDATA[2022-08-26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [82년생 김지영] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12078&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12078&amp;order=1"/>
-        <updated>2022-08-24T05:42:53.828Z</updated>
-        <content type="html"><![CDATA[2022-08-30(화) 14:00]]></content>
     </entry>
 </feed>
