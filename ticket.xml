@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-25T23:29:55.643Z</updated>
+    <updated>2022-08-26T01:57:21.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이은결 [더 일루션 - 마스터피스] - 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12087</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12087"/>
+        <updated>2022-08-26T01:56:12.089Z</updated>
+        <content type="html"><![CDATA[2022.08.31(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [그녀를 용서할 수 있을까] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12085</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12066"/>
         <updated>2022-08-19T09:17:53.534Z</updated>
         <content type="html"><![CDATA[2022.08.22(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컨템포러리 S Ⅱ 이희문 쏭폼스토리즈 [강남오아시스] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12065</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12065"/>
-        <updated>2022-08-19T08:21:49.214Z</updated>
-        <content type="html"><![CDATA[2022.08.25(목) 14:00]]></content>
     </entry>
 </feed>
