@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-29T07:24:38.378Z</updated>
+    <updated>2022-08-29T08:23:49.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제17회 부산국제매직페스티벌 -매직서커스- 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12092</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12092"/>
+        <updated>2022-08-29T08:22:42.093Z</updated>
+        <content type="html"><![CDATA[2022.09.01(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왕국의 전설 [잃어버린 이야기]  - 부산 티켓 오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12091</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12073"/>
         <updated>2022-08-23T10:19:57.027Z</updated>
         <content type="html"><![CDATA[2022.08.25(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어벤져스 히어로즈 VS 빌런즈 영화음악 콘서트 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12072</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12072"/>
-        <updated>2022-08-23T04:15:11.475Z</updated>
-        <content type="html"><![CDATA[2022.08.25(목) 14:00]]></content>
     </entry>
 </feed>
