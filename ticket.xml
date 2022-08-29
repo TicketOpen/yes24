@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-29T04:42:58.187Z</updated>
+    <updated>2022-08-29T06:08:18.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12091"/>
         <updated>2022-08-29T04:41:52.467Z</updated>
         <content type="html"><![CDATA[2022.08.30(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 류준열 팬미팅〈JUNYEOL's HOME〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12090</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12090"/>
+        <updated>2022-08-29T06:07:00.470Z</updated>
+        <content type="html"><![CDATA[2022.08.31(수) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 송골매 전국 투어 콘서트 : 열망(熱望) - 광주 오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12072"/>
         <updated>2022-08-23T04:15:11.475Z</updated>
         <content type="html"><![CDATA[2022.08.25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[Tay New Fan Meeting in Korea 2022] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12071</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12071"/>
-        <updated>2022-08-22T08:22:40.218Z</updated>
-        <content type="html"><![CDATA[2022.08.25(목) 18:00]]></content>
     </entry>
 </feed>
