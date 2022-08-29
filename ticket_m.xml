@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-28T23:18:32.069Z</updated>
+    <updated>2022-08-29T02:03:13.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 송골매 전국 투어 콘서트 : 열망(熱望) - 광주 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12089&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12089&amp;order=1"/>
+        <updated>2022-08-29T02:02:26.781Z</updated>
+        <content type="html"><![CDATA[2022-09-01(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김목경 공연 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12088&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12080&amp;order=1"/>
         <updated>2022-08-25T05:53:51.663Z</updated>
         <content type="html"><![CDATA[2022-09-01(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12079&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12079&amp;order=1"/>
-        <updated>2022-08-24T05:42:53.828Z</updated>
-        <content type="html"><![CDATA[2022-08-26(금) 14:00]]></content>
     </entry>
 </feed>

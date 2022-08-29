@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 23:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 02:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 송골매 전국 투어 콘서트 : 열망(熱望) - 광주 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12089</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12089</guid>
+            <pubDate>Mon, 29 Aug 2022 02:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01(목) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[김목경 공연 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12088</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2022.08.30(화) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [에곤 실레] 2차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12068</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12068</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.26(금) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2022.08.26(금) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+            <title><![CDATA[2022 송골매 전국 투어 콘서트 : 열망(熱望) - 광주 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12089&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12089&amp;order=1</guid>
+            <pubDate>Mon, 29 Aug 2022 02:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022-09-01(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김목경 공연 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -211,11 +218,61 @@
             <content:encoded><![CDATA[2022-09-01(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12079&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12079&amp;order=1</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022-08-26(금) 14:00]]></content:encoded>
+            <title><![CDATA[연극 사춘기메들리 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42709</link>
+            <guid>http://ticket.yes24.com/Perf/42709</guid>
+            <pubDate>Mon, 29 Aug 2022 02:02:35 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>8,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220829/20220829-42709.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 서편제 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42569</link>
+            <guid>http://ticket.yes24.com/Perf/42569</guid>
+            <pubDate>Mon, 29 Aug 2022 02:02:35 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									130,000원								</td>								<td class="dc_price">									<em>→</em>95,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220829/20220829-42569_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 밀정리스트 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43041</link>
+            <guid>http://ticket.yes24.com/Perf/43041</guid>
+            <pubDate>Mon, 29 Aug 2022 02:02:35 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>18,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220829/20220829-43041.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 서편제 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/42569</link>
+            <guid>http://m.ticket.yes24.com/Perf/42569</guid>
+            <pubDate>Mon, 29 Aug 2022 02:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 서편제</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">60,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">39,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8/31~9/12 공연(일부 회차 제외)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220829/20220829-42569_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 밀정리스트 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/43041</link>
+            <guid>http://m.ticket.yes24.com/Perf/43041</guid>
+            <pubDate>Mon, 29 Aug 2022 02:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 밀정리스트</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">18,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8/30~9/4 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220829/20220829-43041.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 사춘기메들리 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/42709</link>
+            <guid>http://m.ticket.yes24.com/Perf/42709</guid>
+            <pubDate>Mon, 29 Aug 2022 02:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 사춘기메들리</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">69</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">35,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">8,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220829/20220829-42709.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넌버벌 마스크 연극 <11월 32일> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
