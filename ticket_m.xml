@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-29T02:03:13.657Z</updated>
+    <updated>2022-08-29T04:42:58.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왕국의 전설 [잃어버린 이야기]  - 부산 티켓 오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12091&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12091&amp;order=1"/>
+        <updated>2022-08-29T04:42:03.056Z</updated>
+        <content type="html"><![CDATA[2022-08-30(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 송골매 전국 투어 콘서트 : 열망(熱望) - 광주 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12089&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12081&amp;order=1"/>
         <updated>2022-08-25T05:53:51.663Z</updated>
         <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 웰컴대학로-웰컴씨어터 뮤지컬 〈미아 파밀리아〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12080&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12080&amp;order=1"/>
-        <updated>2022-08-25T05:53:51.663Z</updated>
-        <content type="html"><![CDATA[2022-09-01(목) 14:00]]></content>
     </entry>
 </feed>
