@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-30T04:50:03.591Z</updated>
+    <updated>2022-08-30T06:12:21.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피지컬 퍼포먼스 〈잠시 놀다〉_motivated by 구운몽 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12098</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12098"/>
+        <updated>2022-08-30T06:11:23.136Z</updated>
+        <content type="html"><![CDATA[2022.09.07(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈볼륨업〉 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12097</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12097"/>
+        <updated>2022-08-30T06:11:23.146Z</updated>
+        <content type="html"><![CDATA[2022.09.02(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈삼총사〉 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12096</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12096"/>
+        <updated>2022-08-30T06:11:23.146Z</updated>
+        <content type="html"><![CDATA[2022.09.07(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웰컴 대학로 - 웰컴 씨어터 뮤지컬 〈브람스〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12095</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12095"/>
         <updated>2022-08-30T04:48:51.157Z</updated>
         <content type="html"><![CDATA[2022.09.05(월) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [가면산장 살인사건]  한국 초연  1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12094</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12094"/>
+        <updated>2022-08-30T06:11:23.161Z</updated>
+        <content type="html"><![CDATA[2022.09.06(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 영재 팬미팅 [YOUNGJAE’S BIRTHDAY PARTY] 티켓오픈안내]]></title>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12079"/>
         <updated>2022-08-24T05:42:43.304Z</updated>
         <content type="html"><![CDATA[2022.08.26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [82년생 김지영] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12078</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12078"/>
-        <updated>2022-08-24T05:42:43.314Z</updated>
-        <content type="html"><![CDATA[2022.08.30(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 조항조&진성 [앙상블콘서트] - 천안 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12077</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12077"/>
-        <updated>2022-08-24T05:42:43.314Z</updated>
-        <content type="html"><![CDATA[2022.08.26(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 조항조&진성 [앙상블콘서트] - 전주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12076</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12076"/>
-        <updated>2022-08-24T05:42:43.314Z</updated>
-        <content type="html"><![CDATA[2022.08.26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [인질극 X] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12075</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12075"/>
-        <updated>2022-08-24T01:52:05.665Z</updated>
-        <content type="html"><![CDATA[2022.08.26(금) 16:00]]></content>
     </entry>
 </feed>
