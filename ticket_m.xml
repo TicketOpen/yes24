@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-30T02:05:10.941Z</updated>
+    <updated>2022-08-30T04:50:03.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웰컴 대학로 - 웰컴 씨어터 뮤지컬 〈브람스〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12095&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12095&amp;order=1"/>
+        <updated>2022-08-30T04:49:03.156Z</updated>
+        <content type="html"><![CDATA[2022-09-05(월) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 영재 팬미팅 [YOUNGJAE’S BIRTHDAY PARTY] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12093&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12085&amp;order=1"/>
         <updated>2022-08-25T07:22:18.223Z</updated>
         <content type="html"><![CDATA[2022-09-01(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 웰컴대학로-웰컴씨어터 연극 [아버지와 살면] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12084&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12084&amp;order=1"/>
-        <updated>2022-08-25T06:34:01.419Z</updated>
-        <content type="html"><![CDATA[2022-08-26(금) 14:00]]></content>
     </entry>
 </feed>

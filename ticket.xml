@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-30T02:05:10.940Z</updated>
+    <updated>2022-08-30T04:50:03.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웰컴 대학로 - 웰컴 씨어터 뮤지컬 〈브람스〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12095</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12095"/>
+        <updated>2022-08-30T04:48:51.157Z</updated>
+        <content type="html"><![CDATA[2022.09.05(월) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 영재 팬미팅 [YOUNGJAE’S BIRTHDAY PARTY] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12093</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12075"/>
         <updated>2022-08-24T01:52:05.665Z</updated>
         <content type="html"><![CDATA[2022.08.26(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매almost monday LIVE IN SEOUL 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12074</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12074"/>
-        <updated>2022-08-24T04:08:37.608Z</updated>
-        <content type="html"><![CDATA[2022.08.31(수) 12:00]]></content>
     </entry>
 </feed>
