@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-31T06:25:22.073Z</updated>
+    <updated>2022-08-31T07:37:36.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids 2nd World Tour “MANIAC” Seoul Special (UNVEIL 11) 추가 좌석 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12104</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12104"/>
+        <updated>2022-08-31T07:36:38.687Z</updated>
+        <content type="html"><![CDATA[2022.09.07(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 대전 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12102</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12084"/>
         <updated>2022-08-25T06:33:51.621Z</updated>
         <content type="html"><![CDATA[2022.08.26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[RE:FOLK RE:PLAY] 공연 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12083</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12083"/>
-        <updated>2022-08-25T08:24:44.048Z</updated>
-        <content type="html"><![CDATA[2022.08.29(월) 14:00]]></content>
     </entry>
 </feed>
