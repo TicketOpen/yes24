@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 14:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -315,14 +315,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220805/20220805-f6df1910-f71c-4c05-8f54-6916427f9213.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <82년생 김지영> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43004&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43004&amp;Tab=3</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.03 ~ 2022.08.31 | 2022.09.02 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220803/20220803-27da5902-1d56-4ffd-84da-6ea035fa6a5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 LOVESOME (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3308</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3308</guid>
@@ -343,6 +335,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Tue, 30 Aug 2022 15:19:25 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Wed, 31 Aug 2022 15:19:58 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.08.26 ~ 2022.09.07 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -385,14 +384,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220805/20220805-f6df1910-f71c-4c05-8f54-6916427f9213.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이벤트 기간2022.08.03 ~ 2022.08.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43004</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43004</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>당첨자 발표 후 추후 전달 예정]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220803/20220803-27da5902-1d56-4ffd-84da-6ea035fa6a5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이벤트 기간2022.07.25 ~ 2022.09.18 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3308</link>
             <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3308</guid>
@@ -430,13 +421,6 @@
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
             <pubDate>Wed, 24 Aug 2022 09:18:38 GMT</pubDate>
             <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.08.26 ~ 2022.09.02</dd><dt>사용기간</dt><dd>2022.08.26 ~ 2022.09.02</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[울트라 코리아 2022] 2,400원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.08.24 ~ 2022.08.31</dd><dt>사용기간</dt><dd>2022.08.24 ~ 2022.08.31</dd>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[케니 지 내한공연] 5천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
@@ -493,13 +477,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41403</guid>
             <pubDate>Wed, 24 Aug 2022 09:18:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[울트라 코리아 2022] 2,400원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41660</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41660</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[뒤뷔페전] 2,400원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
