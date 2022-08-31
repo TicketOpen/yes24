@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-30T23:20:51.094Z</updated>
+    <updated>2022-08-31T02:12:01.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남심포니오케스트라 제149회 클래식품격콘서트 〈Great CONCERTO Series-P.I.Tchaikovsky〉티..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12099</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12099"/>
+        <updated>2022-08-31T02:10:56.008Z</updated>
+        <content type="html"><![CDATA[2022.09.01(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피지컬 퍼포먼스 〈잠시 놀다〉_motivated by 구운몽 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12098</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12080"/>
         <updated>2022-08-25T05:53:41.602Z</updated>
         <content type="html"><![CDATA[2022.09.01(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12079</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12079"/>
-        <updated>2022-08-24T05:42:43.304Z</updated>
-        <content type="html"><![CDATA[2022.08.26(금) 14:00]]></content>
     </entry>
 </feed>

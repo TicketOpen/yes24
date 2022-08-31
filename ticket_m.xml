@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-30T23:20:51.096Z</updated>
+    <updated>2022-08-31T02:12:01.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남심포니오케스트라 제149회 클래식품격콘서트 〈Great CONCERTO Series-P.I.Tchaikovsky〉티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12099&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12099&amp;order=1"/>
+        <updated>2022-08-31T02:11:06.202Z</updated>
+        <content type="html"><![CDATA[2022-09-01(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피지컬 퍼포먼스 〈잠시 놀다〉_motivated by 구운몽 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12098&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12090&amp;order=1"/>
         <updated>2022-08-29T06:07:11.231Z</updated>
         <content type="html"><![CDATA[2022-08-31(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 송골매 전국 투어 콘서트 : 열망(熱望) - 광주 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12089&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12089&amp;order=1"/>
-        <updated>2022-08-29T02:02:26.781Z</updated>
-        <content type="html"><![CDATA[2022-09-01(목) 20:00]]></content>
     </entry>
 </feed>
