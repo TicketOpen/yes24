@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-31T04:56:52.970Z</updated>
+    <updated>2022-08-31T06:25:22.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 대전 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12102&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12102&amp;order=1"/>
+        <updated>2022-08-31T06:24:22.939Z</updated>
+        <content type="html"><![CDATA[2022-09-05(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 창원 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12101&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12101&amp;order=1"/>
+        <updated>2022-08-31T06:24:22.939Z</updated>
+        <content type="html"><![CDATA[2022-09-05(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킨포르쉐 내한 팬미팅（KINNPORSCHE WORLD TOUR 2022）티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12100&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12093&amp;order=1"/>
         <updated>2022-08-30T02:04:19.026Z</updated>
         <content type="html"><![CDATA[2022-08-31(수) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제17회 부산국제매직페스티벌 -매직서커스- 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12092&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12092&amp;order=1"/>
-        <updated>2022-08-29T08:22:52.929Z</updated>
-        <content type="html"><![CDATA[2022-09-01(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕국의 전설 [잃어버린 이야기]  - 부산 티켓 오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12091&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12091&amp;order=1"/>
-        <updated>2022-08-29T04:42:03.056Z</updated>
-        <content type="html"><![CDATA[2022-08-30(화) 14:00]]></content>
     </entry>
 </feed>
