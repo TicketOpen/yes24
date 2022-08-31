@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-31T02:12:01.241Z</updated>
+    <updated>2022-08-31T04:56:52.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킨포르쉐 내한 팬미팅（KINNPORSCHE WORLD TOUR 2022）티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12100&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12100&amp;order=1"/>
+        <updated>2022-08-31T04:55:55.312Z</updated>
+        <content type="html"><![CDATA[2022-09-07(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남심포니오케스트라 제149회 클래식품격콘서트 〈Great CONCERTO Series-P.I.Tchaikovsky〉티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12099&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12091&amp;order=1"/>
         <updated>2022-08-29T04:42:03.056Z</updated>
         <content type="html"><![CDATA[2022-08-30(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 류준열 팬미팅〈JUNYEOL's HOME〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12090&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12090&amp;order=1"/>
-        <updated>2022-08-29T06:07:11.231Z</updated>
-        <content type="html"><![CDATA[2022-08-31(수) 14:00]]></content>
     </entry>
 </feed>
