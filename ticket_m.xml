@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-31T08:23:10.425Z</updated>
+    <updated>2022-08-31T09:19:22.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12104&amp;order=1"/>
         <updated>2022-08-31T07:36:48.058Z</updated>
         <content type="html"><![CDATA[2022-09-07(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 안예은 단독콘서트 [창고대방출] - 서울 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12103&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12103&amp;order=1"/>
+        <updated>2022-08-31T09:18:33.365Z</updated>
+        <content type="html"><![CDATA[2022-09-02(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 대전 티켓오픈안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12095&amp;order=1"/>
         <updated>2022-08-30T04:49:03.156Z</updated>
         <content type="html"><![CDATA[2022-09-05(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [가면산장 살인사건]  한국 초연  1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12094&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12094&amp;order=1"/>
-        <updated>2022-08-30T06:11:30.522Z</updated>
-        <content type="html"><![CDATA[2022-09-06(화) 14:00]]></content>
     </entry>
 </feed>

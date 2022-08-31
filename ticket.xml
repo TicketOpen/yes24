@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-31T08:23:10.432Z</updated>
+    <updated>2022-08-31T09:19:22.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12104"/>
         <updated>2022-08-31T07:36:38.687Z</updated>
         <content type="html"><![CDATA[2022.09.07(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 안예은 단독콘서트 [창고대방출] - 서울 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12103</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12103"/>
+        <updated>2022-08-31T09:18:23.437Z</updated>
+        <content type="html"><![CDATA[2022.09.02(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 대전 티켓오픈안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12085"/>
         <updated>2022-08-25T07:22:07.779Z</updated>
         <content type="html"><![CDATA[2022.09.01(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 웰컴대학로-웰컴씨어터 연극 [아버지와 살면] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12084</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12084"/>
-        <updated>2022-08-25T06:33:51.621Z</updated>
-        <content type="html"><![CDATA[2022.08.26(금) 14:00]]></content>
     </entry>
 </feed>
