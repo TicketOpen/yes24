@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-01T04:08:32.179Z</updated>
+    <updated>2022-09-01T05:51:41.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 백지영 전국투어 콘서트 [GO BAEK] - 청주 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12111&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12111&amp;order=1"/>
+        <updated>2022-09-01T05:50:46.870Z</updated>
+        <content type="html"><![CDATA[2022-09-06(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 백지영 전국투어 콘서트 [GO BAEK] - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12110&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12110&amp;order=1"/>
+        <updated>2022-09-01T05:50:46.870Z</updated>
+        <content type="html"><![CDATA[2022-09-06(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 백지영 전국투어 콘서트 [GO BAEK] - 대전 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12109&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12109&amp;order=1"/>
+        <updated>2022-09-01T05:50:46.872Z</updated>
+        <content type="html"><![CDATA[2022-09-06(화) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12108&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12108&amp;order=1"/>
+        <updated>2022-09-01T05:50:46.874Z</updated>
+        <content type="html"><![CDATA[2022-09-05(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 연극 아트(ART) 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12107&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12107&amp;order=1"/>
+        <updated>2022-09-01T05:50:46.876Z</updated>
+        <content type="html"><![CDATA[2022-09-07(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [빈센트 리버] 4차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12105&amp;order=1</id>
@@ -39,40 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12101&amp;order=1"/>
         <updated>2022-08-31T06:24:22.939Z</updated>
         <content type="html"><![CDATA[2022-09-05(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킨포르쉐 내한 팬미팅（KINNPORSCHE WORLD TOUR 2022）티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12100&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12100&amp;order=1"/>
-        <updated>2022-08-31T04:55:55.312Z</updated>
-        <content type="html"><![CDATA[2022-09-07(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남심포니오케스트라 제149회 클래식품격콘서트 〈Great CONCERTO Series-P.I.Tchaikovsky〉티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12099&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12099&amp;order=1"/>
-        <updated>2022-08-31T02:11:06.202Z</updated>
-        <content type="html"><![CDATA[2022-09-01(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피지컬 퍼포먼스 〈잠시 놀다〉_motivated by 구운몽 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12098&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12098&amp;order=1"/>
-        <updated>2022-08-30T06:11:30.516Z</updated>
-        <content type="html"><![CDATA[2022-09-07(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈볼륨업〉 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12097&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12097&amp;order=1"/>
-        <updated>2022-08-30T06:11:30.520Z</updated>
-        <content type="html"><![CDATA[2022-09-02(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈삼총사〉 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12096&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12096&amp;order=1"/>
-        <updated>2022-08-30T06:11:30.520Z</updated>
-        <content type="html"><![CDATA[2022-09-07(수) 14:00]]></content>
     </entry>
 </feed>
