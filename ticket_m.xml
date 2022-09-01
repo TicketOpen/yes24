@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-01T08:26:33.030Z</updated>
+    <updated>2022-09-01T09:19:13.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 울산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12114&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12114&amp;order=1"/>
+        <updated>2022-09-01T09:18:18.851Z</updated>
+        <content type="html"><![CDATA[2022-09-07(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 웰컴 대학로-웰컴 씨어터 비보이뮤지컬 〈마리오네트〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12113&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12113&amp;order=1"/>
         <updated>2022-09-01T08:25:40.920Z</updated>
         <content type="html"><![CDATA[2022-09-05(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 다린 단독 콘서트 Orb: 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12112&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12112&amp;order=1"/>
+        <updated>2022-09-01T09:18:18.855Z</updated>
+        <content type="html"><![CDATA[2022-09-05(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 백지영 전국투어 콘서트〈GO BAEK〉- 청주 티켓오픈안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12104&amp;order=1"/>
         <updated>2022-08-31T07:36:48.058Z</updated>
         <content type="html"><![CDATA[2022-09-07(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 안예은 단독콘서트 [창고대방출] - 서울 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12103&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12103&amp;order=1"/>
-        <updated>2022-08-31T09:18:33.365Z</updated>
-        <content type="html"><![CDATA[2022-09-02(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 대전 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12102&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12102&amp;order=1"/>
-        <updated>2022-08-31T06:24:22.939Z</updated>
-        <content type="html"><![CDATA[2022-09-05(월) 15:00]]></content>
     </entry>
 </feed>

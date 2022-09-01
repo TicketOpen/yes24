@@ -4,15 +4,29 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 08:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 09:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 전국투어 콘서트〈박창근〉- 울산 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12114</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12114</guid>
+            <pubDate>Thu, 01 Sep 2022 09:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07(수) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 웰컴 대학로-웰컴 씨어터 비보이뮤지컬 〈마리오네트〉 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12113</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12113</guid>
             <pubDate>Thu, 01 Sep 2022 08:25:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.05(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매2022 다린 단독 콘서트 Orb: 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12112</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12112</guid>
+            <pubDate>Thu, 01 Sep 2022 09:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.05(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 백지영 전국투어 콘서트〈GO BAEK〉- 청주 티켓오픈안내 (예스24 티켓)]]></title>
@@ -134,18 +148,11 @@
             <content:encoded><![CDATA[2022.09.06(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 영재 팬미팅 [YOUNGJAE’S BIRTHDAY PARTY] 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12093</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12093</guid>
-            <pubDate>Tue, 30 Aug 2022 02:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.31(수) 19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제17회 부산국제매직페스티벌 -매직서커스- 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12092</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12092</guid>
-            <pubDate>Mon, 29 Aug 2022 08:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.01(목) 14:00]]></content:encoded>
+            <title><![CDATA[2022 전국투어 콘서트〈박창근〉- 울산 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12114&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12114&amp;order=1</guid>
+            <pubDate>Thu, 01 Sep 2022 09:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022-09-07(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 웰컴 대학로-웰컴 씨어터 비보이뮤지컬 〈마리오네트〉 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -153,6 +160,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12113&amp;order=1</guid>
             <pubDate>Thu, 01 Sep 2022 08:25:40 GMT</pubDate>
             <content:encoded><![CDATA[2022-09-05(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 다린 단독 콘서트 Orb: 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12112&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12112&amp;order=1</guid>
+            <pubDate>Thu, 01 Sep 2022 09:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022-09-05(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 백지영 전국투어 콘서트〈GO BAEK〉- 청주 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -202,20 +216,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12104&amp;order=1</guid>
             <pubDate>Wed, 31 Aug 2022 07:36:48 GMT</pubDate>
             <content:encoded><![CDATA[2022-09-07(수) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 안예은 단독콘서트 [창고대방출] - 서울 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12103&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12103&amp;order=1</guid>
-            <pubDate>Wed, 31 Aug 2022 09:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022-09-02(금) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 대전 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12102&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12102&amp;order=1</guid>
-            <pubDate>Wed, 31 Aug 2022 06:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022-09-05(월) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 서편제 (YES24 티켓 ─ 엔젤티켓)]]></title>

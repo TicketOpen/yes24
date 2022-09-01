@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-01T08:26:33.025Z</updated>
+    <updated>2022-09-01T09:19:13.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 울산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12114</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12114"/>
+        <updated>2022-09-01T09:18:08.605Z</updated>
+        <content type="html"><![CDATA[2022.09.07(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 웰컴 대학로-웰컴 씨어터 비보이뮤지컬 〈마리오네트〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12113</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12113"/>
         <updated>2022-09-01T08:25:31.375Z</updated>
         <content type="html"><![CDATA[2022.09.05(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2022 다린 단독 콘서트 Orb: 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12112</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12112"/>
+        <updated>2022-09-01T09:18:08.606Z</updated>
+        <content type="html"><![CDATA[2022.09.05(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 백지영 전국투어 콘서트〈GO BAEK〉- 청주 티켓오픈안내]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12094"/>
         <updated>2022-08-30T06:11:23.161Z</updated>
         <content type="html"><![CDATA[2022.09.06(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 영재 팬미팅 [YOUNGJAE’S BIRTHDAY PARTY] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12093</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12093"/>
-        <updated>2022-08-30T02:04:09.481Z</updated>
-        <content type="html"><![CDATA[2022.08.31(수) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제17회 부산국제매직페스티벌 -매직서커스- 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12092</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12092"/>
-        <updated>2022-08-29T08:22:42.093Z</updated>
-        <content type="html"><![CDATA[2022.09.01(목) 14:00]]></content>
     </entry>
 </feed>
