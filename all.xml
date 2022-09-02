@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 06:50:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 07:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12122</guid>
             <pubDate>Fri, 02 Sep 2022 06:49:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.05(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12121</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12121</guid>
+            <pubDate>Fri, 02 Sep 2022 07:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[추후공지]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [쓰릴 미] 4차 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -140,18 +147,18 @@
             <content:encoded><![CDATA[2022.09.05(월) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 창원 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12101</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12101</guid>
-            <pubDate>Wed, 31 Aug 2022 06:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.05(월) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022 웰컴 대학로-웰컴 씨어터 창작음악극 [가족음악극 이솝우화] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12122&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12122&amp;order=1</guid>
             <pubDate>Fri, 02 Sep 2022 06:49:30 GMT</pubDate>
             <content:encoded><![CDATA[2022-09-05(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12121&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12121&amp;order=1</guid>
+            <pubDate>Fri, 02 Sep 2022 07:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[추후공지]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [쓰릴 미] 4차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -210,21 +217,6 @@
             <content:encoded><![CDATA[2022-09-05(월) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 백지영 전국투어 콘서트〈GO BAEK〉- 청주 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12111&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12111&amp;order=1</guid>
-            <pubDate>Thu, 01 Sep 2022 05:50:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022-09-06(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 서편제 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42569</link>
-            <guid>http://ticket.yes24.com/Perf/42569</guid>
-            <pubDate>Mon, 29 Aug 2022 02:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									130,000원								</td>								<td class="dc_price">									<em>→</em>95,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220829/20220829-42569_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 사춘기메들리 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/42709</link>
             <guid>http://ticket.yes24.com/Perf/42709</guid>
@@ -239,6 +231,14 @@
             <pubDate>Mon, 29 Aug 2022 02:02:35 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>18,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220829/20220829-43041.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 서편제 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42569</link>
+            <guid>http://ticket.yes24.com/Perf/42569</guid>
+            <pubDate>Mon, 29 Aug 2022 02:02:35 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									130,000원								</td>								<td class="dc_price">									<em>→</em>95,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202208/20220829/20220829-42569_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 서편제 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>

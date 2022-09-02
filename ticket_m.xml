@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-02T06:50:29.181Z</updated>
+    <updated>2022-09-02T07:25:07.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12122&amp;order=1"/>
         <updated>2022-09-02T06:49:30.214Z</updated>
         <content type="html"><![CDATA[2022-09-05(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12121&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12121&amp;order=1"/>
+        <updated>2022-09-02T07:24:20.171Z</updated>
+        <content type="html"><![CDATA[추후공지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 4차 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12112&amp;order=1"/>
         <updated>2022-09-01T09:18:18.855Z</updated>
         <content type="html"><![CDATA[2022-09-05(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 백지영 전국투어 콘서트〈GO BAEK〉- 청주 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12111&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12111&amp;order=1"/>
-        <updated>2022-09-01T05:50:46.870Z</updated>
-        <content type="html"><![CDATA[2022-09-06(화) 14:00]]></content>
     </entry>
 </feed>
