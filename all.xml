@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 07:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 08:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -458,6 +458,13 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[뮤지컬 화가 시리즈] 2,400원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Wed, 24 Aug 2022 09:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.09.02 ~ 2022.09.08</dd><dt>사용기간</dt><dd>2022.09.02 ~ 2022.09.08</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[뒤뷔페전] 2,400원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -525,6 +532,13 @@
             <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41685</link>
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41685</guid>
             <pubDate>Fri, 26 Aug 2022 04:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 화가 시리즈] 2,400원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41750</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41750</guid>
+            <pubDate>Fri, 02 Sep 2022 08:23:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content:encoded>
         </item>
     </channel>
