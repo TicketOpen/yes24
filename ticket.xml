@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-05T06:03:01.563Z</updated>
+    <updated>2022-09-05T07:32:10.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉- 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12125</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12125"/>
+        <updated>2022-09-05T07:31:01.137Z</updated>
+        <content type="html"><![CDATA[2022.09.15(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉- 대구 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12124</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12124"/>
+        <updated>2022-09-05T07:31:01.162Z</updated>
+        <content type="html"><![CDATA[2022.09.15(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 ZeeNuNew FanMeeting in Seoul [PLAYGROUND] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12123</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12105"/>
         <updated>2022-09-01T01:48:42.796Z</updated>
         <content type="html"><![CDATA[2022.09.06(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids 2nd World Tour “MANIAC” Seoul Special (UNVEIL 11) 추가 좌석 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12104</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12104"/>
-        <updated>2022-08-31T07:36:38.687Z</updated>
-        <content type="html"><![CDATA[2022.09.07(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 안예은 단독콘서트 [창고대방출] - 서울 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12103</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12103"/>
-        <updated>2022-08-31T09:18:23.437Z</updated>
-        <content type="html"><![CDATA[2022.09.02(금) 18:00]]></content>
     </entry>
 </feed>

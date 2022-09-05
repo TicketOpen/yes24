@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-05T06:03:01.557Z</updated>
+    <updated>2022-09-05T07:32:10.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉- 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12125&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12125&amp;order=1"/>
+        <updated>2022-09-05T07:31:11.570Z</updated>
+        <content type="html"><![CDATA[2022-09-15(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉- 대구 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12124&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12124&amp;order=1"/>
+        <updated>2022-09-05T07:31:11.571Z</updated>
+        <content type="html"><![CDATA[2022-09-15(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 ZeeNuNew FanMeeting in Seoul [PLAYGROUND] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12123&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12115&amp;order=1"/>
         <updated>2022-09-02T04:16:30.569Z</updated>
         <content type="html"><![CDATA[2022-09-08(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 울산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12114&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12114&amp;order=1"/>
-        <updated>2022-09-01T09:18:18.851Z</updated>
-        <content type="html"><![CDATA[2022-09-07(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 웰컴 대학로-웰컴 씨어터 비보이뮤지컬 〈마리오네트〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12113&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12113&amp;order=1"/>
-        <updated>2022-09-01T08:25:40.920Z</updated>
-        <content type="html"><![CDATA[2022-09-05(월) 14:00]]></content>
     </entry>
 </feed>
