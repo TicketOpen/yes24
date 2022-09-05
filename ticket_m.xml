@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-05T02:02:20.654Z</updated>
+    <updated>2022-09-05T04:25:11.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 ZeeNuNew FanMeeting in Seoul [PLAYGROUND] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12123&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12123&amp;order=1"/>
+        <updated>2022-09-05T04:24:09.584Z</updated>
+        <content type="html"><![CDATA[2022-09-08(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 웰컴 대학로-웰컴 씨어터 창작음악극 [가족음악극 이솝우화] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12122&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12113&amp;order=1"/>
         <updated>2022-09-01T08:25:40.920Z</updated>
         <content type="html"><![CDATA[2022-09-05(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 다린 단독 콘서트 Orb: 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12112&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12112&amp;order=1"/>
-        <updated>2022-09-01T09:18:18.855Z</updated>
-        <content type="html"><![CDATA[2022-09-05(월) 20:00]]></content>
     </entry>
 </feed>
