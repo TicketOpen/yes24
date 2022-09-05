@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-05T09:20:09.731Z</updated>
+    <updated>2022-09-05T10:21:34.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12127</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12127"/>
+        <updated>2022-09-05T10:20:30.570Z</updated>
+        <content type="html"><![CDATA[2022.09.29(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽선예매" presaletit2="" presaletime1="2022.09.27(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉- 부산 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12125</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12107"/>
         <updated>2022-09-01T05:50:36.522Z</updated>
         <content type="html"><![CDATA[2022.09.07(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [빈센트 리버] 4차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12105</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12105"/>
-        <updated>2022-09-01T01:48:42.796Z</updated>
-        <content type="html"><![CDATA[2022.09.06(화) 15:00]]></content>
     </entry>
 </feed>
