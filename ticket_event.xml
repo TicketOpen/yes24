@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 23:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 02:06:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 한가위 열공지원]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3329</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3329</guid>
+            <pubDate>Tue, 06 Sep 2022 02:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.05 ~ 2022.09.12]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220906/20220906-6bf7e9a9-1966-45da-8536-30a384f3f8d7.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[연극 일의 기쁨과 슬픔 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43056&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.16 ~ 2022.09.14 | 2022.09.16 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220816/20220816-8d44ad68-572e-49d8-9864-a6129edfc6a3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 모딜리아니 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43127&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43127&amp;Tab=3</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16 ~ 2022.09.14 | 2022.09.16 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220816/20220816-6b1a3be8-f80d-41aa-8c5f-280352841288.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

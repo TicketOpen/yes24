@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-05T23:21:01.247Z</updated>
+    <updated>2022-09-06T02:06:06.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 키드 라로이 내한공연（The Kid LAROI Live in Seoul）티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12128&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12128&amp;order=1"/>
+        <updated>2022-09-06T02:05:08.135Z</updated>
+        <content type="html"><![CDATA[2022-09-14(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12127&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12117&amp;order=1"/>
         <updated>2022-09-02T04:16:30.564Z</updated>
         <content type="html"><![CDATA[2022-09-14(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사라 브라이트만 내한공연（Sarah Brightman）티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12116&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12116&amp;order=1"/>
-        <updated>2022-09-02T04:16:30.569Z</updated>
-        <content type="html"><![CDATA[2022-09-16(금) 12:00]]></content>
     </entry>
 </feed>

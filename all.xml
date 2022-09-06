@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 23:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 02:06:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 키드 라로이 내한공연（The Kid LAROI Live in Seoul）티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12128</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12128</guid>
+            <pubDate>Tue, 06 Sep 2022 02:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.14(수) 12:00<a class="noti-btn-pop" presaletit1="라이브네이션 선예매" presaletit2="" presaletime1="2022.09.13(화) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12127</link>
@@ -140,11 +147,11 @@
             <content:encoded><![CDATA[2022.09.05(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 연극 아트(ART) 2차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12107</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12107</guid>
-            <pubDate>Thu, 01 Sep 2022 05:50:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.07(수) 14:00]]></content:encoded>
+            <title><![CDATA[더 키드 라로이 내한공연（The Kid LAROI Live in Seoul）티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12128&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12128&amp;order=1</guid>
+            <pubDate>Tue, 06 Sep 2022 02:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022-09-14(수) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -210,21 +217,6 @@
             <content:encoded><![CDATA[2022-09-14(수) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사라 브라이트만 내한공연（Sarah Brightman）티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12116&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12116&amp;order=1</guid>
-            <pubDate>Fri, 02 Sep 2022 04:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022-09-16(금) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [11월 32일] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43209</link>
-            <guid>http://ticket.yes24.com/Perf/43209</guid>
-            <pubDate>Mon, 05 Sep 2022 02:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220905/20220905-43209.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 라흐마니노프 콘서트 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/43051</link>
             <guid>http://ticket.yes24.com/Perf/43051</guid>
@@ -247,6 +239,14 @@
             <pubDate>Mon, 05 Sep 2022 02:01:38 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220905/20220905-42574.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 [11월 32일] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43209</link>
+            <guid>http://ticket.yes24.com/Perf/43209</guid>
+            <pubDate>Mon, 05 Sep 2022 02:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220905/20220905-43209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 라흐마니노프 콘서트 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -291,6 +291,14 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">17,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/15 ~ 9/22 공연</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220905/20220905-43209.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 한가위 열공지원 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3329</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3329</guid>
+            <pubDate>Tue, 06 Sep 2022 02:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.05 ~ 2022.09.12]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220906/20220906-6bf7e9a9-1966-45da-8536-30a384f3f8d7.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[연극 일의 기쁨과 슬픔 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -357,12 +365,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220816/20220816-8d44ad68-572e-49d8-9864-a6129edfc6a3.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 모딜리아니 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43127&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43127&amp;Tab=3</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16 ~ 2022.09.14 | 2022.09.16 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220816/20220816-6b1a3be8-f80d-41aa-8c5f-280352841288.png" length="0" type="image/png"/>
+            <title><![CDATA[이벤트 기간2022.09.05 ~ 2022.09.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3329</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3329</guid>
+            <pubDate>Tue, 06 Sep 2022 02:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220906/20220906-6bf7e9a9-1966-45da-8536-30a384f3f8d7.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.09.02 ~ 2022.10.04 (YES24 티켓 ─ 이벤트 모바일)]]></title>
