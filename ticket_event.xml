@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 06:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 07:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220826/20220826-6492b6bb-06c7-4d61-826e-c7daae3887ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 웰컴대학로]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3322</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3322</guid>
-            <pubDate>Tue, 06 Sep 2022 15:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.07 ~ 2022.10.30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/images/common/defaultimg.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <아트(ART)> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43160&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43160&amp;Tab=3</guid>
             <pubDate>Wed, 24 Aug 2022 09:18:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.22 ~ 2022.09.13 | 2022.09.14 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220822/20220822-e1907109-7fdf-48d0-b10e-0f59fe80fa32.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 에곤실레 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43126&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43126&amp;Tab=3</guid>
+            <pubDate>Wed, 07 Sep 2022 07:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16 ~ 2022.09.14 | 2022.09.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220816/20220816-8d44ad68-572e-49d8-9864-a6129edfc6a3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

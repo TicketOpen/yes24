@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 06:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 07:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Fri, 26 Aug 2022 06:44:09 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2022년 9월 16일(금) 오후 7시 30분 공연]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220826/20220826-6492b6bb-06c7-4d61-826e-c7daae3887ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.09.07 ~ 2022.10.30]]></title>
-            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3322</link>
-            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3322</guid>
-            <pubDate>Tue, 06 Sep 2022 15:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/images/common/defaultimg.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.08.22 ~ 2022.09.13]]></title>
