@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-07T02:00:39.839Z</updated>
+    <updated>2022-09-07T04:33:20.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12133"/>
         <updated>2022-09-07T01:59:31.883Z</updated>
         <content type="html"><![CDATA[2022.09.16(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매JAY B CONCERT ‘Tape : Press Pause’ 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12132</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12132"/>
+        <updated>2022-09-07T04:32:17.894Z</updated>
+        <content type="html"><![CDATA[2022.09.13(화) 21:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해리 포터와 아즈카반의 죄수™ 인 콘서트 - 발코니석 티켓 오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12113"/>
         <updated>2022-09-01T08:25:31.375Z</updated>
         <content type="html"><![CDATA[2022.09.05(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 다린 단독 콘서트 Orb: 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12112</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12112"/>
-        <updated>2022-09-01T09:18:08.606Z</updated>
-        <content type="html"><![CDATA[2022.09.05(월) 20:00]]></content>
     </entry>
 </feed>
