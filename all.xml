@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 08:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 09:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12150</guid>
             <pubDate>Thu, 08 Sep 2022 07:31:56 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.14(수) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[그레이트 서울 인베이전 전국투어 콘서트 - 서울 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12149</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12149</guid>
+            <pubDate>Thu, 08 Sep 2022 09:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.13(화) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈클림트〉 3차 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -141,18 +148,18 @@
             <content:encoded><![CDATA[2022.09.08(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[노을 20주년 전국투어 콘서트〈스물〉티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12130</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12130</guid>
-            <pubDate>Tue, 06 Sep 2022 07:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [서편제] 마지막 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12150&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12150&amp;order=1</guid>
             <pubDate>Thu, 08 Sep 2022 07:32:05 GMT</pubDate>
             <content:encoded><![CDATA[2022-09-14(수) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[그레이트 서울 인베이전 전국투어 콘서트 - 서울 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12149&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12149&amp;order=1</guid>
+            <pubDate>Thu, 08 Sep 2022 09:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022-09-13(화) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈클림트〉 3차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,13 +218,6 @@
             <content:encoded><![CDATA[2022-09-20(화) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022-23 YB TOUR LIGHTS - 창원 오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12140&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12140&amp;order=1</guid>
-            <pubDate>Thu, 08 Sep 2022 04:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022-09-14(수) 13:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈볼륨업〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/43157</link>
             <guid>http://ticket.yes24.com/Perf/43157</guid>
@@ -234,20 +234,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220905/20220905-43051.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 [11월 32일] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43209</link>
-            <guid>http://ticket.yes24.com/Perf/43209</guid>
-            <pubDate>Mon, 05 Sep 2022 02:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220908/20220908-43209.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 [빈센트 리버] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/42574</link>
             <guid>http://ticket.yes24.com/Perf/42574</guid>
             <pubDate>Mon, 05 Sep 2022 02:01:38 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220905/20220905-42574.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 [11월 32일] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43209</link>
+            <guid>http://ticket.yes24.com/Perf/43209</guid>
+            <pubDate>Mon, 05 Sep 2022 02:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220908/20220908-43209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 라흐마니노프 콘서트 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>

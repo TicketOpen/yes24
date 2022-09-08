@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-08T08:24:23.001Z</updated>
+    <updated>2022-09-08T09:21:08.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12150&amp;order=1"/>
         <updated>2022-09-08T07:32:05.605Z</updated>
         <content type="html"><![CDATA[2022-09-14(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그레이트 서울 인베이전 전국투어 콘서트 - 서울 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12149&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12149&amp;order=1"/>
+        <updated>2022-09-08T09:20:11.375Z</updated>
+        <content type="html"><![CDATA[2022-09-13(화) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈클림트〉 3차 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12141&amp;order=1"/>
         <updated>2022-09-08T04:11:39.117Z</updated>
         <content type="html"><![CDATA[2022-09-20(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022-23 YB TOUR LIGHTS - 창원 오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12140&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12140&amp;order=1"/>
-        <updated>2022-09-08T04:11:39.118Z</updated>
-        <content type="html"><![CDATA[2022-09-14(수) 13:00]]></content>
     </entry>
 </feed>
