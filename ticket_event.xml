@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 23:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 01:57:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오페라 로미오와 줄리엣 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43055&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43055&amp;Tab=3</guid>
+            <pubDate>Thu, 08 Sep 2022 01:56:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08 ~ 2022.09.14 | 2022.09.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220908/20220908-52a0c3d8-0406-4c46-a04b-4c5d3ee7d244.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 건달은 개뿔 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43368&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 01 Sep 2022 04:08:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.01 ~ 2022.09.16 | 2022.09.19 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220901/20220901-7b8f0289-f664-4a98-8cf6-a9f7a0318437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <아트(ART)> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43160&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43160&amp;Tab=3</guid>
-            <pubDate>Wed, 07 Sep 2022 15:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.22 ~ 2022.09.13 | 2022.09.14 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220822/20220822-e1907109-7fdf-48d0-b10e-0f59fe80fa32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
