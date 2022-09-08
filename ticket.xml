@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-08T06:55:13.419Z</updated>
+    <updated>2022-09-08T07:33:16.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [서편제] 마지막 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12150</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12150"/>
+        <updated>2022-09-08T07:31:56.299Z</updated>
+        <content type="html"><![CDATA[2022.09.14(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈클림트〉 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12148</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12130"/>
         <updated>2022-09-06T07:37:56.524Z</updated>
         <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 카즈미 타테이시 트리오 내한공연-크리스마스, 재즈를 만나다- 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12129</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12129"/>
-        <updated>2022-09-06T04:49:38.660Z</updated>
-        <content type="html"><![CDATA[2022.09.13(화) 14:00]]></content>
     </entry>
 </feed>
