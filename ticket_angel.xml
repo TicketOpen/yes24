@@ -4,16 +4,16 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 04:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:02:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 〈볼륨업〉]]></title>
-            <link>http://ticket.yes24.com/Perf/43157</link>
-            <guid>http://ticket.yes24.com/Perf/43157</guid>
+            <title><![CDATA[연극 [11월 32일]]]></title>
+            <link>http://ticket.yes24.com/Perf/43209</link>
+            <guid>http://ticket.yes24.com/Perf/43209</guid>
             <pubDate>Mon, 05 Sep 2022 02:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>59,200원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220905/20220905-43157.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220908/20220908-43209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 [빈센트 리버]]]></title>
@@ -24,20 +24,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220905/20220905-42574.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈볼륨업〉]]></title>
+            <link>http://ticket.yes24.com/Perf/43157</link>
+            <guid>http://ticket.yes24.com/Perf/43157</guid>
+            <pubDate>Mon, 05 Sep 2022 02:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>59,200원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220905/20220905-43157.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 라흐마니노프 콘서트]]></title>
             <link>http://ticket.yes24.com/Perf/43051</link>
             <guid>http://ticket.yes24.com/Perf/43051</guid>
             <pubDate>Mon, 05 Sep 2022 02:01:38 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>53,700원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220905/20220905-43051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 [11월 32일]]]></title>
-            <link>http://ticket.yes24.com/Perf/43209</link>
-            <guid>http://ticket.yes24.com/Perf/43209</guid>
-            <pubDate>Mon, 05 Sep 2022 02:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220908/20220908-43209.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

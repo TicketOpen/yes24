@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-08T04:12:31.698Z</updated>
+    <updated>2022-09-08T06:02:26.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈클림트〉 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12148</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12148"/>
+        <updated>2022-09-08T06:01:19.638Z</updated>
+        <content type="html"><![CDATA[2022.09.15(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 마지막 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12147</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12147"/>
         <updated>2022-09-08T04:11:29.852Z</updated>
         <content type="html"><![CDATA[2022.09.14(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매PARK JIHOON 2022 CONCERT [CLUE] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12146</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12146"/>
+        <updated>2022-09-08T06:01:19.648Z</updated>
+        <content type="html"><![CDATA[2022.09.15(목) 20:00<a class="noti-btn-pop" presaletit1="MAY 3기 선예매" presaletit2="" presaletime1="2022.09.13(화) 19:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈안나, 차이코프스키〉 2차 티켓 오픈 안내]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12129"/>
         <updated>2022-09-06T04:49:38.660Z</updated>
         <content type="html"><![CDATA[2022.09.13(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 키드 라로이 내한공연（The Kid LAROI Live in Seoul）티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12128</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12128"/>
-        <updated>2022-09-06T02:04:57.112Z</updated>
-        <content type="html"><![CDATA[2022.09.14(수) 12:00<a class="noti-btn-pop" presaletit1="라이브네이션 선예매" presaletit2="" presaletime1="2022.09.13(화) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12127</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12127"/>
-        <updated>2022-09-05T10:20:30.570Z</updated>
-        <content type="html"><![CDATA[2022.09.29(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽선예매" presaletit2="" presaletime1="2022.09.27(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
