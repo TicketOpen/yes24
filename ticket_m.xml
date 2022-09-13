@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-13T02:02:55.097Z</updated>
+    <updated>2022-09-13T04:48:55.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조니 스팀슨 내한공연（Johnny Stimson Live in Seoul）티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12151&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12151&amp;order=1"/>
+        <updated>2022-09-13T04:47:54.923Z</updated>
+        <content type="html"><![CDATA[2022-09-22(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [서편제] 마지막 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12150&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12142&amp;order=1"/>
         <updated>2022-09-08T04:11:39.116Z</updated>
         <content type="html"><![CDATA[2022-09-15(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [사나이 와타나베] 프리뷰 & 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12141&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12141&amp;order=1"/>
-        <updated>2022-09-08T04:11:39.117Z</updated>
-        <content type="html"><![CDATA[2022-09-20(화) 11:00]]></content>
     </entry>
 </feed>
