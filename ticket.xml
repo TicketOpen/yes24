@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-13T07:37:54.613Z</updated>
+    <updated>2022-09-13T08:25:57.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노을 20주년 전국투어 콘서트〈스물〉- 전주 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12154</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12154"/>
+        <updated>2022-09-13T08:24:49.415Z</updated>
+        <content type="html"><![CDATA[2022.09.16(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노을 20주년 전국투어 콘서트〈스물〉- 창원 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12153</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12153"/>
+        <updated>2022-09-13T08:24:49.416Z</updated>
+        <content type="html"><![CDATA[2022.09.16(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노을 20주년 전국투어 콘서트〈스물〉- 용인 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12152</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12152"/>
+        <updated>2022-09-13T08:24:49.419Z</updated>
+        <content type="html"><![CDATA[2022.09.16(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조니 스팀슨 내한공연（Johnny Stimson Live in Seoul）티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12151</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12135"/>
         <updated>2022-09-07T06:15:20.564Z</updated>
         <content type="html"><![CDATA[2022.09.16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [언택트 커넥션] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12134</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12134"/>
-        <updated>2022-09-07T06:15:20.564Z</updated>
-        <content type="html"><![CDATA[2022.09.14(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [에쿠우스]  1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12133</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12133"/>
-        <updated>2022-09-07T01:59:31.883Z</updated>
-        <content type="html"><![CDATA[2022.09.16(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매JAY B CONCERT ‘Tape : Press Pause’ 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12132</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12132"/>
-        <updated>2022-09-07T04:32:17.894Z</updated>
-        <content type="html"><![CDATA[2022.09.13(화) 21:00]]></content>
     </entry>
 </feed>

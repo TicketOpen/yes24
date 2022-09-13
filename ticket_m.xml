@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-13T07:37:54.612Z</updated>
+    <updated>2022-09-13T08:25:57.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노을 20주년 전국투어 콘서트〈스물〉- 전주 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12154&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12154&amp;order=1"/>
+        <updated>2022-09-13T08:25:00.624Z</updated>
+        <content type="html"><![CDATA[2022-09-16(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노을 20주년 전국투어 콘서트〈스물〉- 창원 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12153&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12153&amp;order=1"/>
+        <updated>2022-09-13T08:25:00.625Z</updated>
+        <content type="html"><![CDATA[2022-09-16(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노을 20주년 전국투어 콘서트〈스물〉- 용인 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12152&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12152&amp;order=1"/>
+        <updated>2022-09-13T08:25:00.626Z</updated>
+        <content type="html"><![CDATA[2022-09-16(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조니 스팀슨 내한공연（Johnny Stimson Live in Seoul）티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12151&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12145&amp;order=1"/>
         <updated>2022-09-08T04:11:39.106Z</updated>
         <content type="html"><![CDATA[2022-09-14(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATEEZ（에이티즈）WORLD TOUR [THE FELLOWSHIP : BREAK THE WALL] IN SEOUL 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12144&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12144&amp;order=1"/>
-        <updated>2022-09-08T04:11:39.116Z</updated>
-        <content type="html"><![CDATA[2022-09-23(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거미 20주년 전국투어 콘서트〈BE ORIGIN〉티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12143&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12143&amp;order=1"/>
-        <updated>2022-09-08T04:11:39.116Z</updated>
-        <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉- 수원 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12142&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12142&amp;order=1"/>
-        <updated>2022-09-08T04:11:39.116Z</updated>
-        <content type="html"><![CDATA[2022-09-15(목) 16:00]]></content>
     </entry>
 </feed>
