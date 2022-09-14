@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 14:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 15:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이벤트 기간2022.09.08 ~ 2022.09.14]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43055</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43055</guid>
-            <pubDate>Thu, 08 Sep 2022 01:57:08 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2022년 9월 22일(목) 공연]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220908/20220908-52a0c3d8-0406-4c46-a04b-4c5d3ee7d244.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[이벤트 기간2022.09.07 ~ 2022.10.21]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43368</link>
@@ -70,22 +62,6 @@
             <pubDate>Thu, 01 Sep 2022 04:08:16 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2022년 9월 25일(일) 오후 4시 공연]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220901/20220901-7b8f0289-f664-4a98-8cf6-a9f7a0318437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.08.16 ~ 2022.09.14]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43126</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43126</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em>경품</em>화가 시리즈 뮤지컬 전 배우 싸인 프로그램북]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220816/20220816-8d44ad68-572e-49d8-9864-a6129edfc6a3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.08.16 ~ 2022.09.14]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43127</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43127</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em>경품</em>화가 시리즈 뮤지컬 전 배우 싸인 프로그램북]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202208/20220816/20220816-6b1a3be8-f80d-41aa-8c5f-280352841288.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.08.05 ~ 2022.09.15]]></title>
