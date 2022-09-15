@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-15T02:05:05.526Z</updated>
+    <updated>2022-09-15T04:48:54.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2022 전국투어 콘서트〈박창근〉- 청주 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12164</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12164"/>
+        <updated>2022-09-15T04:47:46.580Z</updated>
+        <content type="html"><![CDATA[2022.09.21(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매최백호 콘서트 ‘낭만에 대하여’ - 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12163</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12163"/>
+        <updated>2022-09-15T04:47:46.598Z</updated>
+        <content type="html"><![CDATA[2022.09.23(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(9/3, 9/4, 9/11, 9/17, 9/18, 9/19)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12162</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12162"/>
+        <updated>2022-09-15T04:47:46.598Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잭 화이트 내한공연（Jack White Live in Seoul）티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12161</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12161"/>
+        <updated>2022-09-15T04:47:46.598Z</updated>
+        <content type="html"><![CDATA[2022.09.23(금) 12:00<a class="noti-btn-pop" presaletit1="아티스트 선예매" presaletit2="라이브네이션 선예매" presaletime1="2022.09.21(수) 12:00" presaletime2="2022.09.22(목) 12:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [눈을 뜻하는 수백 가지 단어들] 앵콜 공연 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12160</id>
@@ -116,33 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12144"/>
         <updated>2022-09-08T04:11:29.856Z</updated>
         <content type="html"><![CDATA[2022.09.23(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.09.20(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거미 20주년 전국투어 콘서트〈BE ORIGIN〉티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12143</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12143"/>
-        <updated>2022-09-08T04:11:29.857Z</updated>
-        <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉- 수원 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12142</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12142"/>
-        <updated>2022-09-08T04:11:29.859Z</updated>
-        <content type="html"><![CDATA[2022.09.15(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [사나이 와타나베] 프리뷰 & 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12141</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12141"/>
-        <updated>2022-09-08T04:11:29.861Z</updated>
-        <content type="html"><![CDATA[2022.09.20(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022-23 YB TOUR LIGHTS - 창원 오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12140</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12140"/>
-        <updated>2022-09-14T09:20:47.548Z</updated>
-        <content type="html"><![CDATA[2022.09.14(수) 13:00]]></content>
     </entry>
 </feed>
