@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-15T07:31:53.218Z</updated>
+    <updated>2022-09-15T08:29:10.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [오만과 편견] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12166&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12166&amp;order=1"/>
+        <updated>2022-09-15T08:28:12.629Z</updated>
+        <content type="html"><![CDATA[2022-09-20(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 청주 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12164&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12154&amp;order=1"/>
         <updated>2022-09-13T08:25:00.624Z</updated>
         <content type="html"><![CDATA[2022-09-16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노을 20주년 전국투어 콘서트〈스물〉- 창원 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12153&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12153&amp;order=1"/>
-        <updated>2022-09-13T08:25:00.625Z</updated>
-        <content type="html"><![CDATA[2022-09-16(금) 16:00]]></content>
     </entry>
 </feed>

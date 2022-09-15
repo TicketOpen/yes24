@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 07:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 08:29:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 [오만과 편견] 3차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12166</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12166</guid>
+            <pubDate>Thu, 15 Sep 2022 08:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.20(화) 16:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[단독판매2022 전국투어 콘서트〈박창근〉- 청주 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12164</link>
@@ -140,11 +147,11 @@
             <content:encoded><![CDATA[2022.09.14(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매ATEEZ（에이티즈）WORLD TOUR [THE FELLOWSHIP : BREAK THE WALL] IN SEOUL 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12144</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12144</guid>
-            <pubDate>Thu, 08 Sep 2022 04:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.23(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.09.20(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+            <title><![CDATA[연극 [오만과 편견] 3차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12166&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12166&amp;order=1</guid>
+            <pubDate>Thu, 15 Sep 2022 08:28:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022-09-20(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 전국투어 콘서트〈박창근〉- 청주 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -210,11 +217,12 @@
             <content:encoded><![CDATA[2022-09-16(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[노을 20주년 전국투어 콘서트〈스물〉- 창원 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12153&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12153&amp;order=1</guid>
-            <pubDate>Tue, 13 Sep 2022 08:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-09-16(금) 16:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [에곤 실레] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43126</link>
+            <guid>http://ticket.yes24.com/Perf/43126</guid>
+            <pubDate>Mon, 12 Sep 2022 02:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>25,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220913/20220913-43126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [모딜리아니] (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -225,28 +233,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220913/20220913-43127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/42829</link>
-            <guid>http://ticket.yes24.com/Perf/42829</guid>
-            <pubDate>Mon, 12 Sep 2022 02:06:06 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>V석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220913/20220913-42829.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [에곤 실레] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43126</link>
-            <guid>http://ticket.yes24.com/Perf/43126</guid>
-            <pubDate>Mon, 12 Sep 2022 02:06:06 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>25,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220913/20220913-43126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제4회 76FESTIVAL 연극 [나의 전쟁] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/43090</link>
             <guid>http://ticket.yes24.com/Perf/43090</guid>
             <pubDate>Mon, 12 Sep 2022 02:06:06 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>15,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220913/20220913-43090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/42829</link>
+            <guid>http://ticket.yes24.com/Perf/42829</guid>
+            <pubDate>Mon, 12 Sep 2022 02:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>V석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220913/20220913-42829.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 모딜리아니 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -461,6 +461,13 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[울트라 코리아 2022] 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Wed, 24 Aug 2022 09:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.09.15 ~ 2022.09.30</dd><dt>사용기간</dt><dd>2022.09.15 ~ 2022.09.30</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[뮤지컬 화가 시리즈] 개막 기념 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -494,13 +501,6 @@
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
             <pubDate>Wed, 24 Aug 2022 09:18:38 GMT</pubDate>
             <content:encoded><![CDATA[<dt>발급기간</dt><dd>2022.07.13 ~ 2022.09.17</dd><dt>사용기간</dt><dd>2022.07.13 ~ 2022.09.17</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2017.10.01 ~ 2022.12.31</dd><dt>사용기간</dt><dd>발급일로 부터 30일</dd>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
@@ -550,6 +550,13 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41833</guid>
             <pubDate>Wed, 14 Sep 2022 06:07:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[울트라 코리아 2022] 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41840</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41840</guid>
+            <pubDate>Thu, 15 Sep 2022 08:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
 </rss>

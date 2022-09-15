@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-15T07:31:53.209Z</updated>
+    <updated>2022-09-15T08:29:10.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [오만과 편견] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12166</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12166"/>
+        <updated>2022-09-15T08:28:01.657Z</updated>
+        <content type="html"><![CDATA[2022.09.20(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2022 전국투어 콘서트〈박창근〉- 청주 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12164</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12145"/>
         <updated>2022-09-08T04:11:29.854Z</updated>
         <content type="html"><![CDATA[2022.09.14(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매ATEEZ（에이티즈）WORLD TOUR [THE FELLOWSHIP : BREAK THE WALL] IN SEOUL 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12144</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12144"/>
-        <updated>2022-09-08T04:11:29.856Z</updated>
-        <content type="html"><![CDATA[2022.09.23(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.09.20(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
