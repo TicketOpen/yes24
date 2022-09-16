@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 02:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 04:51:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,14 +217,6 @@
             <content:encoded><![CDATA[2022-09-19(월) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제4회 76FESTIVAL 연극 [나의 전쟁] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43090</link>
-            <guid>http://ticket.yes24.com/Perf/43090</guid>
-            <pubDate>Mon, 12 Sep 2022 02:06:06 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>15,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220913/20220913-43090.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [에곤 실레] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/43126</link>
             <guid>http://ticket.yes24.com/Perf/43126</guid>
@@ -239,6 +231,14 @@
             <pubDate>Mon, 12 Sep 2022 02:06:06 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>25,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220913/20220913-43127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제4회 76FESTIVAL 연극 [나의 전쟁] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43090</link>
+            <guid>http://ticket.yes24.com/Perf/43090</guid>
+            <pubDate>Mon, 12 Sep 2022 02:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>15,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220913/20220913-43090.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -291,6 +291,14 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">15,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/13~9/18 공연, 1인 4매</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202209/20220913/20220913-43090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 언택트 커넥션 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43479&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43479&amp;Tab=3</guid>
+            <pubDate>Fri, 16 Sep 2022 04:51:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.16 ~ 2022.09.30 | 2022.10.04 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220916/20220916-4f0dc1e1-9aa3-4a2a-a71e-3e3172a93b16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 11월 32일 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -357,12 +365,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220901/20220901-7b8f0289-f664-4a98-8cf6-a9f7a0318437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 LOVESOME (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3308</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3308</guid>
-            <pubDate>Wed, 14 Sep 2022 15:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.25 ~ 2022.09.18]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202207/20220726/20220726-e8297842-8a83-46d0-88d9-dc95699cba18.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2022.09.16 ~ 2022.09.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43479</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43479</guid>
+            <pubDate>Fri, 16 Sep 2022 04:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2022년 10월 7일(금) 오후 7시 30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220916/20220916-4f0dc1e1-9aa3-4a2a-a71e-3e3172a93b16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.09.16 ~ 2022.09.28 (YES24 티켓 ─ 이벤트 모바일)]]></title>
