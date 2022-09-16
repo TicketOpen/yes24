@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 14:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 15:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,19 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220902/20220902-116ba157-746f-4c44-a3f0-7be98e09d61e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 푸에르자부르타 웨이라 인 서울 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43293&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43293&amp;Tab=3</guid>
-            <pubDate>Thu, 01 Sep 2022 04:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.01 ~ 2022.09.16 | 2022.09.19 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220901/20220901-967bca96-4972-4dec-afbc-94c00d2a3cc8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022 LOVESOME]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3308</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3308</guid>
+            <pubDate>Fri, 16 Sep 2022 15:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.25 ~ 2022.09.18]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202207/20220726/20220726-e8297842-8a83-46d0-88d9-dc95699cba18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <인질극X> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43310&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43310&amp;Tab=3</guid>
-            <pubDate>Thu, 01 Sep 2022 04:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.01 ~ 2022.09.16 | 2022.09.19 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220901/20220901-7b8f0289-f664-4a98-8cf6-a9f7a0318437.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Fri, 16 Sep 2022 15:20:26 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
