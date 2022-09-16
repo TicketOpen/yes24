@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-16T08:25:40.699Z</updated>
+    <updated>2022-09-16T09:21:12.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그레이트 서울 인베이전 전국투어 콘서트 - 대구 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12169&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12169&amp;order=1"/>
+        <updated>2022-09-16T09:20:19.627Z</updated>
+        <content type="html"><![CDATA[2022-09-20(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 뮤즈온데이 2차（DAY3 & DAY4 & DAY5）티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12168&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12158&amp;order=1"/>
         <updated>2022-09-14T08:24:57.512Z</updated>
         <content type="html"><![CDATA[2022-09-19(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거미 20주년 전국투어 콘서트〈BE ORIGIN〉- 천안 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12157&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12157&amp;order=1"/>
-        <updated>2022-09-14T08:24:57.514Z</updated>
-        <content type="html"><![CDATA[2022-09-19(월) 15:00]]></content>
     </entry>
 </feed>
