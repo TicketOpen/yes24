@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 23:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 02:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2022.09.16 ~ 2022.09.28]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=43209</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=43209</guid>
+            <pubDate>Fri, 16 Sep 2022 02:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>&lt;언택트 커넥션&gt; 2022년 10월 7일(금) 오후 7시 30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220916/20220916-c18e77fd-7a9a-4460-883c-2120e12dc743.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2022.09.07 ~ 2022.10.21]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43368</link>

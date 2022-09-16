@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 23:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 02:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 11월 32일 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43209&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43209&amp;Tab=2</guid>
+            <pubDate>Fri, 16 Sep 2022 02:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.16 ~ 2022.09.28 | 2022.09.29 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220916/20220916-c18e77fd-7a9a-4460-883c-2120e12dc743.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 건달은 개뿔 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43368&amp;Tab=3</link>
@@ -70,13 +78,6 @@
             <pubDate>Wed, 14 Sep 2022 15:21:10 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.25 ~ 2022.09.18]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202207/20220726/20220726-e8297842-8a83-46d0-88d9-dc95699cba18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Thu, 15 Sep 2022 15:21:44 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
