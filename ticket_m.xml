@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-17T06:24:56.162Z</updated>
+    <updated>2022-09-17T07:19:09.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [에곤 실레] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12173&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12173&amp;order=1"/>
+        <updated>2022-09-17T07:18:23.716Z</updated>
+        <content type="html"><![CDATA[2022-09-23(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [모딜리아니] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12172&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12172&amp;order=1"/>
+        <updated>2022-09-17T07:18:23.716Z</updated>
+        <content type="html"><![CDATA[2022-09-22(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그레이트 서울 인베이전 전국투어 콘서트 - 대구 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12169&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12161&amp;order=1"/>
         <updated>2022-09-15T04:47:57.386Z</updated>
         <content type="html"><![CDATA[2022-09-23(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [눈을 뜻하는 수백 가지 단어들] 앵콜 공연 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12160&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12160&amp;order=1"/>
-        <updated>2022-09-14T08:24:57.506Z</updated>
-        <content type="html"><![CDATA[2022-09-21(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거미 20주년 전국투어 콘서트〈BE ORIGIN〉- 일산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12158&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12158&amp;order=1"/>
-        <updated>2022-09-14T08:24:57.512Z</updated>
-        <content type="html"><![CDATA[2022-09-19(월) 14:00]]></content>
     </entry>
 </feed>
