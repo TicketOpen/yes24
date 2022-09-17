@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2022-09-17T14:18:23.855Z</updated>
+    <updated>2022-09-17T15:20:43.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
     <entry>
@@ -18,20 +18,6 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056"/>
         <updated>2022-08-24T09:18:49.007Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[케니 지 내한공연] 1만원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41402</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41402"/>
-        <updated>2022-08-24T09:18:49.010Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[케니 지 내한공연] 5천원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41403</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41403"/>
-        <updated>2022-08-24T09:18:49.011Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[다이노스 어라이브 제주] 2,400원 할인 쿠폰]]></title>
