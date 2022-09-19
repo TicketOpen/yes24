@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-19T08:30:13.297Z</updated>
+    <updated>2022-09-19T09:24:19.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 조항조&진성 [앙상블콘서트] - 춘천 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12178&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12178&amp;order=1"/>
+        <updated>2022-09-19T09:23:21.463Z</updated>
+        <content type="html"><![CDATA[2022-09-20(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 4차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12177&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12167&amp;order=1"/>
         <updated>2022-09-15T10:21:54.075Z</updated>
         <content type="html"><![CDATA[2022-09-22(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [오만과 편견] 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12166&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12166&amp;order=1"/>
-        <updated>2022-09-15T08:28:12.629Z</updated>
-        <content type="html"><![CDATA[2022-09-20(화) 16:00]]></content>
     </entry>
 </feed>
