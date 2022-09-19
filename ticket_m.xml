@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-19T02:06:23.424Z</updated>
+    <updated>2022-09-19T04:53:26.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12177&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12177&amp;order=1"/>
+        <updated>2022-09-19T04:52:28.900Z</updated>
+        <content type="html"><![CDATA[2022-09-26(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUPERNOVA! 춘천 : 너드커넥션 단독 공연 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12174&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12174&amp;order=1"/>
+        <updated>2022-09-19T04:52:28.900Z</updated>
+        <content type="html"><![CDATA[2022-09-21(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [에곤 실레] 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12173&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12164&amp;order=1"/>
         <updated>2022-09-15T04:47:57.386Z</updated>
         <content type="html"><![CDATA[2022-09-21(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최백호 콘서트 ‘낭만에 대하여’ - 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12163&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12163&amp;order=1"/>
-        <updated>2022-09-15T04:47:57.386Z</updated>
-        <content type="html"><![CDATA[2022-09-23(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잭 화이트 내한공연（Jack White Live in Seoul）티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12161&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12161&amp;order=1"/>
-        <updated>2022-09-15T04:47:57.386Z</updated>
-        <content type="html"><![CDATA[2022-09-23(금) 12:00]]></content>
     </entry>
 </feed>
