@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-19T04:53:26.661Z</updated>
+    <updated>2022-09-19T06:14:11.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12177&amp;order=1"/>
         <updated>2022-09-19T04:52:28.900Z</updated>
         <content type="html"><![CDATA[2022-09-26(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김고은 데뷔 10주년 팬미팅〈고은날: come in closer〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12176&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12176&amp;order=1"/>
+        <updated>2022-09-19T06:13:17.631Z</updated>
+        <content type="html"><![CDATA[2022-09-22(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [82년생 김지영] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12175&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12175&amp;order=1"/>
+        <updated>2022-09-19T06:13:17.633Z</updated>
+        <content type="html"><![CDATA[2022-09-23(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SUPERNOVA! 춘천 : 너드커넥션 단독 공연 티켓오픈안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12166&amp;order=1"/>
         <updated>2022-09-15T08:28:12.629Z</updated>
         <content type="html"><![CDATA[2022-09-20(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXID FAN-CON〈EXID X LEGGO〉티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12165&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12165&amp;order=1"/>
-        <updated>2022-09-15T10:21:54.075Z</updated>
-        <content type="html"><![CDATA[2022-09-22(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 청주 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12164&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12164&amp;order=1"/>
-        <updated>2022-09-15T04:47:57.386Z</updated>
-        <content type="html"><![CDATA[2022-09-21(수) 14:00]]></content>
     </entry>
 </feed>

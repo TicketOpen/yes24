@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-19T04:53:26.693Z</updated>
+    <updated>2022-09-19T06:14:11.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12177"/>
         <updated>2022-09-19T04:52:17.490Z</updated>
         <content type="html"><![CDATA[2022.09.26(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김고은 데뷔 10주년 팬미팅〈고은날: come in closer〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12176</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12176"/>
+        <updated>2022-09-19T06:13:06.221Z</updated>
+        <content type="html"><![CDATA[2022.09.22(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [82년생 김지영] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12175</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12175"/>
+        <updated>2022-09-19T06:13:06.225Z</updated>
+        <content type="html"><![CDATA[2022.09.23(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매SUPERNOVA! 춘천 : 너드커넥션 단독 공연 티켓오픈안내]]></title>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12155"/>
         <updated>2022-09-14T08:24:46.967Z</updated>
         <content type="html"><![CDATA[2022.09.19(월) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노을 20주년 전국투어 콘서트〈스물〉- 전주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12154</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12154"/>
-        <updated>2022-09-13T08:24:49.415Z</updated>
-        <content type="html"><![CDATA[2022.09.16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노을 20주년 전국투어 콘서트〈스물〉- 창원 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12153</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12153"/>
-        <updated>2022-09-13T08:24:49.416Z</updated>
-        <content type="html"><![CDATA[2022.09.16(금) 16:00]]></content>
     </entry>
 </feed>
