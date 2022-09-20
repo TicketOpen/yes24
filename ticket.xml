@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-19T23:24:18.946Z</updated>
+    <updated>2022-09-20T01:58:51.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(9/3, 9/4, 9/11, 9/17, 9/18, 9/19, 9/2..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12179</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12179"/>
+        <updated>2022-09-20T01:57:45.398Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 조항조&진성 [앙상블콘서트] - 춘천 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12178</id>
@@ -136,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12158"/>
         <updated>2022-09-14T08:24:46.962Z</updated>
         <content type="html"><![CDATA[2022.09.19(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거미 20주년 전국투어 콘서트〈BE ORIGIN〉- 천안 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12157</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12157"/>
-        <updated>2022-09-14T08:24:46.962Z</updated>
-        <content type="html"><![CDATA[2022.09.19(월) 15:00]]></content>
     </entry>
 </feed>
