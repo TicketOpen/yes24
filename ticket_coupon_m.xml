@@ -2,56 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2022-09-20T16:28:33.367Z</updated>
+    <updated>2022-09-20T17:28:20.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[YES마니아] 예매수수료 면제쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097"/>
-        <updated>2022-08-24T09:18:49.007Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056"/>
-        <updated>2022-08-24T09:18:49.007Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[다이노스 어라이브 제주] 2,400원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41751</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41751"/>
-        <updated>2022-09-02T09:20:30.492Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 금란방] 2,400원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41832</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41832"/>
-        <updated>2022-09-14T06:07:39.621Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 화가 시리즈] 개막 기념 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41833</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41833"/>
-        <updated>2022-09-14T06:07:39.623Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[잠시 놀다] 2,400원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41863</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41863"/>
-        <updated>2022-09-19T07:40:11.254Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울트라 코리아 2022] 3,000원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41840</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41840"/>
-        <updated>2022-09-15T08:29:09.509Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
-    </entry>
 </feed>
