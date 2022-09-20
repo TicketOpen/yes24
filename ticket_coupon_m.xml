@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2022-09-20T09:24:33.344Z</updated>
+    <updated>2022-09-20T10:23:13.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
     <entry>
@@ -41,17 +41,17 @@
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[울트라 코리아 2022] 3,000원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41840</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41840"/>
-        <updated>2022-09-15T08:29:09.509Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[잠시 놀다] 2,400원 할인 쿠폰]]></title>
         <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41863</id>
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41863"/>
         <updated>2022-09-19T07:40:11.254Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 2,400원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울트라 코리아 2022] 3,000원 할인 쿠폰]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41840</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=41840"/>
+        <updated>2022-09-15T08:29:09.509Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
     </entry>
 </feed>
