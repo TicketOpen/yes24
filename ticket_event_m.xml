@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 07:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 08:30:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2022.09.20 ~ 2022.10.13]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=43160</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=43160</guid>
+            <pubDate>Tue, 20 Sep 2022 08:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2022년 10월 19일(수) 오후 4시 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220920/20220920-0e0f0116-809b-407c-91b5-2e047a19717c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2022.09.20 ~ 2022.10.14]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=43061</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=43061</guid>
+            <pubDate>Tue, 20 Sep 2022 08:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2022년 10월 20일(목) 19시 30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202209/20220920/20220920-1fa4d25f-d037-4b50-b9ed-243518d82e39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2022.09.16 ~ 2022.09.30]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=43479</link>
