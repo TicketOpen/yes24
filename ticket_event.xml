@@ -1,8 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
-    <title>YES24 티켓 ─ 이벤트</title>
-    <updated>2022-11-16T16:34:51.827Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 이벤트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:38:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악극 올드위키드 송 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44048&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44048&amp;Tab=3</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.15 ~ 2022.12.04 | 2022.12.05 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221115/20221115-9bdc0b44-9c09-489a-9a4a-bf489b282473.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캣츠 - 서울 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43998&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43998&amp;Tab=3</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.10 ~ 2023.01.19 | 2023.01.20 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221110/20221110-224d2ae5-3974-4bc1-a8f2-3194cef86384.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 굿모닝, 홍콩 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43999&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43999&amp;Tab=3</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.10 ~ 2022.11.28 | 2022.11.30 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221110/20221110-5d44591f-8b2b-4d3e-a370-e49fad665c6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 웨이스티드 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43948&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43948&amp;Tab=3</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.04 ~ 2022.12.12 | 2022.12.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221104/20221104-53525480-ff2c-4795-bcd3-0b72d5d1f6cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오페레타 뮤지컬 판타지아 시즌2 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43903&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43903&amp;Tab=3</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.03 ~ 2022.11.27 | 2022.11.28 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221102/20221102-8feb918c-68c5-4e9b-8771-ba4866237134.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 사나이 와타나베 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43518&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43518&amp;Tab=2</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.25 ~ 2022.11.20 | 2022.11.23 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202210/20221025/20221025-d7a034ac-8708-4e38-9ea7-9da299750ff8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
