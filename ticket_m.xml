@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-17T01:27:11.478Z</updated>
+    <updated>2022-11-17T03:14:17.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 코요태 콘서트 투어〈LET‘s KOYOTE!〉- 대구 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12455&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12455&amp;order=1"/>
+        <updated>2022-11-17T03:13:23.423Z</updated>
+        <content type="html"><![CDATA[2022-11-22(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MEN I TRUST LIVE IN SEOUL 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12454&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12446&amp;order=1"/>
         <updated>2022-11-16T17:37:10.383Z</updated>
         <content type="html"><![CDATA[2022-11-18(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕가위 영화음악 오케스트라 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12445&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12445&amp;order=1"/>
-        <updated>2022-11-16T17:37:10.385Z</updated>
-        <content type="html"><![CDATA[2022-11-17(목) 14:00]]></content>
     </entry>
 </feed>
