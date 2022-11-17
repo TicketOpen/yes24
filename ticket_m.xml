@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-17T06:22:26.311Z</updated>
+    <updated>2022-11-17T07:16:41.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2023년 연극 〈친정엄마와 2박3일〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12458&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12458&amp;order=1"/>
+        <updated>2022-11-17T07:15:51.905Z</updated>
+        <content type="html"><![CDATA[2022-11-22(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes Stage ♭ : Overture 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12457&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12457&amp;order=1"/>
+        <updated>2022-11-17T07:15:51.913Z</updated>
+        <content type="html"><![CDATA[2022-11-21(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음악극 올드위키드송 (Old Wicked Songs) 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12456&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12449&amp;order=1"/>
         <updated>2022-11-16T17:37:10.379Z</updated>
         <content type="html"><![CDATA[2022-11-23(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 멜로망스 전국투어 콘서트〈Festival〉- 성남 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12448&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12448&amp;order=1"/>
-        <updated>2022-11-16T17:37:10.381Z</updated>
-        <content type="html"><![CDATA[2022-11-21(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진영 콘서트 ‘GROOVE BACK’ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12447&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12447&amp;order=1"/>
-        <updated>2022-11-16T17:37:10.382Z</updated>
-        <content type="html"><![CDATA[2022-11-18(금) 14:00]]></content>
     </entry>
 </feed>
