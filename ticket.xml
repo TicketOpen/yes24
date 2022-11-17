@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-11-16T23:18:39.696Z</updated>
+    <updated>2022-11-17T01:27:11.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매MEN I TRUST LIVE IN SEOUL 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12454</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12454"/>
+        <updated>2022-11-17T01:26:17.427Z</updated>
+        <content type="html"><![CDATA[2022.11.17(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈소크라테스 패러독스〉 프리뷰 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12453</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12434"/>
         <updated>2022-11-16T17:37:01.332Z</updated>
         <content type="html"><![CDATA[2022.11.21(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2022 김진호 콘서트〈듣는 사진전〉티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12433</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12433"/>
-        <updated>2022-11-16T17:37:01.332Z</updated>
-        <content type="html"><![CDATA[2022.11.18(금) 12:00]]></content>
     </entry>
 </feed>
