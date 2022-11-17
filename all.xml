@@ -4,11 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 07:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 08:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[대구] 2023년 연극 〈친정엄마와 2박3일〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <title><![CDATA[2023 장윤정 라이브 콘서트 - 부산 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12459</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12459</guid>
+            <pubDate>Thu, 17 Nov 2022 08:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023년 연극 〈친정엄마와 2박3일 - 대구〉 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12458</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12458</guid>
             <pubDate>Thu, 17 Nov 2022 07:15:43 GMT</pubDate>
@@ -141,14 +148,14 @@
             <content:encoded><![CDATA[2022.11.17(목) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강남심포니오케스트라 제150회 클래식품격콘서트〈Great CONCERTO Series-J. Haydn & M. Bruch〉.. (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12438</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12438</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.15(화) 10:00]]></content:encoded>
+            <title><![CDATA[2023 장윤정 라이브 콘서트 - 부산 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12459&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12459&amp;order=1</guid>
+            <pubDate>Thu, 17 Nov 2022 08:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-22(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대구] 2023년 연극 〈친정엄마와 2박3일〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <title><![CDATA[2023년 연극 〈친정엄마와 2박3일 - 대구〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12458&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12458&amp;order=1</guid>
             <pubDate>Thu, 17 Nov 2022 07:15:51 GMT</pubDate>
@@ -211,35 +218,20 @@
             <content:encoded><![CDATA[2022-11-22(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 [사나이 와타나베] 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12449&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12449&amp;order=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022-11-23(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장진의 연극 서툰 사람들 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43929</link>
-            <guid>http://ticket.yes24.com/Perf/43929</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43929.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 에쿠우스 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43490</link>
-            <guid>http://ticket.yes24.com/Perf/43490</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>36,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43490.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 아트 (ART) (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/43160</link>
             <guid>http://ticket.yes24.com/Perf/43160</guid>
             <pubDate>Wed, 16 Nov 2022 17:37:19 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43160.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 죽어야 사는 남자 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/41908</link>
+            <guid>http://ticket.yes24.com/Perf/41908</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:19 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-41908.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 푸에르자부르타 웨이라 인 서울 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -250,12 +242,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43293.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 죽어야 사는 남자 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/41908</link>
-            <guid>http://ticket.yes24.com/Perf/41908</guid>
+            <title><![CDATA[연극 에쿠우스 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43490</link>
+            <guid>http://ticket.yes24.com/Perf/43490</guid>
             <pubDate>Wed, 16 Nov 2022 17:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-41908.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>36,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43490.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장진의 연극 서툰 사람들 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43929</link>
+            <guid>http://ticket.yes24.com/Perf/43929</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:19 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43929.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[푸에르자 부르자 웨이라 인 서울 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>

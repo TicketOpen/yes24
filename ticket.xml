@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-11-17T07:16:41.460Z</updated>
+    <updated>2022-11-17T08:25:16.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[대구] 2023년 연극 〈친정엄마와 2박3일〉 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2023 장윤정 라이브 콘서트 - 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12459</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12459"/>
+        <updated>2022-11-17T08:24:20.179Z</updated>
+        <content type="html"><![CDATA[2022.11.22(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 연극 〈친정엄마와 2박3일 - 대구〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12458</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12458"/>
         <updated>2022-11-17T07:15:43.137Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12439"/>
         <updated>2022-11-16T17:37:01.327Z</updated>
         <content type="html"><![CDATA[2022.11.17(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남심포니오케스트라 제150회 클래식품격콘서트〈Great CONCERTO Series-J. Haydn & M. Bruch〉..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12438</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12438"/>
-        <updated>2022-11-16T17:37:01.329Z</updated>
-        <content type="html"><![CDATA[2022.11.15(화) 10:00]]></content>
     </entry>
 </feed>
