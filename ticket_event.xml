@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 01:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 캣츠 - 부산 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44062&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44062&amp;Tab=3</guid>
+            <pubDate>Fri, 18 Nov 2022 01:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18 ~ 2023.01.05 | 2023.01.06 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221118/20221118-0fa9aaeb-48db-49cd-917b-e22f8b8fdac5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 넓은 하늘의 무지개를 보면 내 마음은 춤춘다 기대평이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44098&amp;Tab=3</link>
@@ -70,13 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.25 ~ 2022.11.20 | 2022.11.23 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202210/20221025/20221025-d7a034ac-8708-4e38-9ea7-9da299750ff8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

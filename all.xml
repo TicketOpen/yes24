@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 01:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,20 +242,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-41908.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 아트 (ART) (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43160</link>
-            <guid>http://ticket.yes24.com/Perf/43160</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 푸에르자부르타 웨이라 인 서울 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/43293</link>
             <guid>http://ticket.yes24.com/Perf/43293</guid>
             <pubDate>Wed, 16 Nov 2022 17:37:19 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									121,000원								</td>								<td class="dc_price">									<em>→</em>70,200원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43293.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 아트 (ART) (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43160</link>
+            <guid>http://ticket.yes24.com/Perf/43160</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:19 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43160.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[푸에르자 부르자 웨이라 인 서울 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -312,6 +312,14 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">7,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-41908.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캣츠 - 부산 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44062&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44062&amp;Tab=3</guid>
+            <pubDate>Fri, 18 Nov 2022 01:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18 ~ 2023.01.05 | 2023.01.06 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221118/20221118-0fa9aaeb-48db-49cd-917b-e22f8b8fdac5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 넓은 하늘의 무지개를 보면 내 마음은 춤춘다 기대평이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -378,11 +386,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202210/20221025/20221025-d7a034ac-8708-4e38-9ea7-9da299750ff8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NEW출석체크 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2022.11.18 ~ 2023.01.05 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=44062</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=44062</guid>
+            <pubDate>Fri, 18 Nov 2022 01:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;캣츠&gt; 오리지널 OST]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221118/20221118-0fa9aaeb-48db-49cd-917b-e22f8b8fdac5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.11.17 ~ 2022.12.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
