@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-18T07:17:00.984Z</updated>
+    <updated>2022-11-18T08:22:39.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [빛나는 버러지] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12462&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12462&amp;order=1"/>
+        <updated>2022-11-18T08:21:51.645Z</updated>
+        <content type="html"><![CDATA[2022-11-23(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 레트로감성코믹연극 〈돌아와요 미자씨〉]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12461&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12461&amp;order=1"/>
+        <updated>2022-11-18T08:21:51.652Z</updated>
+        <content type="html"><![CDATA[2022-11-23(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [에쿠우스] 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12460&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12453&amp;order=1"/>
         <updated>2022-11-16T17:37:10.374Z</updated>
         <content type="html"><![CDATA[2022-11-18(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쏜애플 콘서트 ‘불구경’ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12452&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12452&amp;order=1"/>
-        <updated>2022-11-16T17:37:10.376Z</updated>
-        <content type="html"><![CDATA[2022-11-23(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍대광 콘서트〈 눈빛（snow light）〉티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12451&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12451&amp;order=1"/>
-        <updated>2022-11-16T17:37:10.377Z</updated>
-        <content type="html"><![CDATA[2022-11-22(화) 14:00]]></content>
     </entry>
 </feed>
