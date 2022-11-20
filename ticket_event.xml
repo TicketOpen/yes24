@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 14:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 15:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,11 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221102/20221102-8feb918c-68c5-4e9b-8771-ba4866237134.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 사나이 와타나베 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43518&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43518&amp;Tab=2</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.25 ~ 2022.11.20 | 2022.11.23 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202210/20221025/20221025-d7a034ac-8708-4e38-9ea7-9da299750ff8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Sun, 20 Nov 2022 15:17:32 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

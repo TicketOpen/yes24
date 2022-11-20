@@ -1,67 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 14:15:58 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[푸에르자 부르자 웨이라 인 서울]]></title>
-            <link>http://m.ticket.yes24.com/Perf/43293</link>
-            <guid>http://m.ticket.yes24.com/Perf/43293</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">푸에르자 부르자 웨이라 인 서울</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">121,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">70,200원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11/16 ~ 11/30 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43293.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 아트(ART)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/43160</link>
-            <guid>http://m.ticket.yes24.com/Perf/43160</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 아트(ART)</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">45</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원
-</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">21,800원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11/15 ~ 11/27 공연(제외있음)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 서툰 사람들]]></title>
-            <link>http://m.ticket.yes24.com/Perf/43929</link>
-            <guid>http://m.ticket.yes24.com/Perf/43929</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 서툰 사람들</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11/30 ~ 12/10 공연(12/10 2시 제외)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43929.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 에쿠우스]]></title>
-            <link>http://m.ticket.yes24.com/Perf/43490</link>
-            <guid>http://m.ticket.yes24.com/Perf/43490</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 에쿠우스</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">45,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">29,100원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11/15 ~ 12/25 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43490.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 죽어야 사는 남자]]></title>
-            <link>http://m.ticket.yes24.com/Perf/41908</link>
-            <guid>http://m.ticket.yes24.com/Perf/41908</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 죽어야 사는 남자</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">75</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">7,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-41908.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://m.ticket.yes24.com/Discount/Angel.aspx</id>
+    <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
+    <updated>2022-11-20T15:17:59.272Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://m.ticket.yes24.com/Discount/favicon.ico</icon>
+</feed>
