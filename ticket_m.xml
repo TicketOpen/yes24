@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-21T03:17:13.979Z</updated>
+    <updated>2022-11-21T04:26:59.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [우리들의 사랑] 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12468&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12468&amp;order=1"/>
+        <updated>2022-11-21T04:26:02.347Z</updated>
+        <content type="html"><![CDATA[2022-11-25(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시가렛 애프터 섹스 내한공연（Cigarettes After Sex Live in Seoul）티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12467&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12459&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12459&amp;order=1"/>
         <updated>2022-11-17T08:24:28.235Z</updated>
-        <content type="html"><![CDATA[2022-11-22(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 연극 〈친정엄마와 2박3일 - 대구〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12458&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12458&amp;order=1"/>
-        <updated>2022-11-17T07:15:51.905Z</updated>
         <content type="html"><![CDATA[2022-11-22(화) 14:00]]></content>
     </entry>
 </feed>
