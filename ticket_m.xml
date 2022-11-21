@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-20T23:19:11.027Z</updated>
+    <updated>2022-11-21T01:28:10.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브라이언 아담스 내한공연（Bryan Adams Live in Seoul）티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12466&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12466&amp;order=1"/>
+        <updated>2022-11-21T01:27:17.971Z</updated>
+        <content type="html"><![CDATA[2022-11-29(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 All Day Show〈L.O.L - The Hidden Stage〉- Night Show / Concert 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12464&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12464&amp;order=1"/>
+        <updated>2022-11-21T01:27:17.976Z</updated>
+        <content type="html"><![CDATA[2022-11-25(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 All Day Show〈L.O.L - The Hidden Stage〉- Day Show / Fanmeeting 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12463&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12463&amp;order=1"/>
+        <updated>2022-11-21T01:27:17.980Z</updated>
+        <content type="html"><![CDATA[2022-11-25(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [빛나는 버러지] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12462&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12456&amp;order=1"/>
         <updated>2022-11-17T05:16:49.577Z</updated>
         <content type="html"><![CDATA[2022-11-23(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 코요태 콘서트 투어〈LET‘s KOYOTE!〉- 대구 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12455&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12455&amp;order=1"/>
-        <updated>2022-11-17T03:13:23.423Z</updated>
-        <content type="html"><![CDATA[2022-11-22(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEN I TRUST LIVE IN SEOUL 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12454&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12454&amp;order=1"/>
-        <updated>2022-11-17T01:26:24.901Z</updated>
-        <content type="html"><![CDATA[2022-11-17(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈소크라테스 패러독스〉 프리뷰 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12453&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12453&amp;order=1"/>
-        <updated>2022-11-16T17:37:10.374Z</updated>
-        <content type="html"><![CDATA[2022-11-18(금) 15:00]]></content>
     </entry>
 </feed>
