@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-21T01:28:10.507Z</updated>
+    <updated>2022-11-21T03:17:13.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시가렛 애프터 섹스 내한공연（Cigarettes After Sex Live in Seoul）티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12467&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12467&amp;order=1"/>
+        <updated>2022-11-21T03:16:28.057Z</updated>
+        <content type="html"><![CDATA[2022-12-02(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브라이언 아담스 내한공연（Bryan Adams Live in Seoul）티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12466&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12466&amp;order=1"/>
         <updated>2022-11-21T01:27:17.971Z</updated>
         <content type="html"><![CDATA[2022-11-29(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진저 루트 내한공연（Ginger Root Live in Seoul）티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12465&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12465&amp;order=1"/>
+        <updated>2022-11-21T03:16:28.059Z</updated>
+        <content type="html"><![CDATA[2022-11-25(금) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 All Day Show〈L.O.L - The Hidden Stage〉- Night Show / Concert 티켓오픈안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12458&amp;order=1"/>
         <updated>2022-11-17T07:15:51.905Z</updated>
         <content type="html"><![CDATA[2022-11-22(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes Stage ♭ : Overture 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12457&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12457&amp;order=1"/>
-        <updated>2022-11-17T07:15:51.913Z</updated>
-        <content type="html"><![CDATA[2022-11-21(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악극 올드위키드송 (Old Wicked Songs) 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12456&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12456&amp;order=1"/>
-        <updated>2022-11-17T05:16:49.577Z</updated>
-        <content type="html"><![CDATA[2022-11-23(수) 15:00]]></content>
     </entry>
 </feed>
