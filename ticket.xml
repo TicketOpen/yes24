@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-11-21T08:24:07.666Z</updated>
+    <updated>2022-11-21T09:18:55.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나상현씨밴드 연말 콘서트 [ 2022<2023 ] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12469</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12469"/>
+        <updated>2022-11-21T09:17:55.741Z</updated>
+        <content type="html"><![CDATA[2022.11.28(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [우리들의 사랑] 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12468</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12450"/>
         <updated>2022-11-16T17:37:01.316Z</updated>
         <content type="html"><![CDATA[2022.11.22(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [사나이 와타나베] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12449</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12449"/>
-        <updated>2022-11-16T17:37:01.316Z</updated>
-        <content type="html"><![CDATA[2022.11.23(수) 14:00]]></content>
     </entry>
 </feed>
