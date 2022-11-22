@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-22T04:22:02.035Z</updated>
+    <updated>2022-11-22T05:17:29.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 김종현 FAN-CONCERT [Fantasia 팬타지아] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12471&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12471&amp;order=1"/>
+        <updated>2022-11-22T05:16:42.244Z</updated>
+        <content type="html"><![CDATA[2022-11-25(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9와 숫자들 몽땅쑈 Vol.4  티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12470&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12462&amp;order=1"/>
         <updated>2022-11-18T08:21:51.645Z</updated>
         <content type="html"><![CDATA[2022-11-23(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 레트로감성코믹연극 〈돌아와요 미자씨〉]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12461&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12461&amp;order=1"/>
-        <updated>2022-11-18T08:21:51.652Z</updated>
-        <content type="html"><![CDATA[2022-11-23(수) 10:00]]></content>
     </entry>
 </feed>
