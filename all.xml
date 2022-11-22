@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 09:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 10:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,12 +218,12 @@
             <content:encoded><![CDATA[2022-11-25(금) 19:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 [화원] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43846</link>
-            <guid>http://ticket.yes24.com/Perf/43846</guid>
+            <title><![CDATA[뮤지컬 [우리가 사랑했던 그날] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43534</link>
+            <guid>http://ticket.yes24.com/Perf/43534</guid>
             <pubDate>Mon, 21 Nov 2022 01:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>20,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221121/20221121-43846.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>25,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221121/20221121-43534.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [드라큘라] (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -250,12 +250,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221121/20221121-43126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [우리가 사랑했던 그날] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43534</link>
-            <guid>http://ticket.yes24.com/Perf/43534</guid>
+            <title><![CDATA[연극 [화원] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43846</link>
+            <guid>http://ticket.yes24.com/Perf/43846</guid>
             <pubDate>Mon, 21 Nov 2022 01:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>25,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221121/20221121-43534.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>20,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221121/20221121-43846.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 드라큘라 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
