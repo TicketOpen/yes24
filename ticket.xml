@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-11-22T03:11:52.992Z</updated>
+    <updated>2022-11-22T04:22:02.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매9와 숫자들 몽땅쑈 Vol.4  티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12470</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12470"/>
+        <updated>2022-11-22T04:21:00.512Z</updated>
+        <content type="html"><![CDATA[2022.11.24(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매나상현씨밴드 연말 콘서트 [ 2022<2023 ] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12469</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[홍대광 콘서트〈 눈빛（snow light）〉티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12451</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12451"/>
-        <updated>2022-11-16T17:37:01.316Z</updated>
-        <content type="html"><![CDATA[2022.11.22(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈미수〉 두 번째 좌석 열림 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12450</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12450"/>
         <updated>2022-11-16T17:37:01.316Z</updated>
         <content type="html"><![CDATA[2022.11.22(화) 14:00]]></content>
     </entry>
