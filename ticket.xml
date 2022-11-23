@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-11-23T01:20:47.391Z</updated>
+    <updated>2022-11-23T03:03:54.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오페레타 뮤지컬 [판타지아 시즌2] - 특명! 소리 마왕으로부터 엄마를 구하라! 추가 티켓오픈 안..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12474</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12474"/>
+        <updated>2022-11-23T03:02:59.119Z</updated>
+        <content type="html"><![CDATA[2022.11.24(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매맨스티어 [Master Life] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12473</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12473"/>
+        <updated>2022-11-23T03:02:59.128Z</updated>
+        <content type="html"><![CDATA[2022.12.01(목) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Touched concert ‘Highlight 2022’ 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12472</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12455"/>
         <updated>2022-11-17T03:13:14.223Z</updated>
         <content type="html"><![CDATA[2022.11.22(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매MEN I TRUST LIVE IN SEOUL 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12454</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12454"/>
-        <updated>2022-11-17T01:26:17.427Z</updated>
-        <content type="html"><![CDATA[2022.11.17(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈소크라테스 패러독스〉 프리뷰 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12453</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12453"/>
-        <updated>2022-11-16T17:37:01.299Z</updated>
-        <content type="html"><![CDATA[2022.11.18(금) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2022.11.18(금) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
