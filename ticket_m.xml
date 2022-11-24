@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-24T07:16:08.977Z</updated>
+    <updated>2022-11-24T08:22:00.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE X] 뮤지컬 <웨스턴 스토리> (12/19) 온라인 공연 1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12479&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12479&amp;order=1"/>
+        <updated>2022-11-24T08:21:07.023Z</updated>
+        <content type="html"><![CDATA[2022-11-29(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈루드윅 : 베토벤 더 피아노〉 1차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12478&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12469&amp;order=1"/>
         <updated>2022-11-21T09:18:04.200Z</updated>
         <content type="html"><![CDATA[2022-11-28(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [우리들의 사랑] 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12468&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12468&amp;order=1"/>
-        <updated>2022-11-21T04:26:02.347Z</updated>
-        <content type="html"><![CDATA[2022-11-25(금) 14:00]]></content>
     </entry>
 </feed>
