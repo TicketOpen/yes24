@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-24T08:22:00.541Z</updated>
+    <updated>2022-11-24T09:16:53.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[별 단독 콘서트 [별자리] - 별이 빛나는 자리 취소안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12481&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12481&amp;order=1"/>
+        <updated>2022-11-24T09:15:58.681Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COUNTDOWN FANTASY 2022-2023 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12480&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12480&amp;order=1"/>
+        <updated>2022-11-24T09:15:58.683Z</updated>
+        <content type="html"><![CDATA[2022-12-01(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE X] 뮤지컬 <웨스턴 스토리> (12/19) 온라인 공연 1차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12479&amp;order=1</id>
@@ -25,6 +38,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12477&amp;order=1"/>
         <updated>2022-11-24T05:15:09.879Z</updated>
         <content type="html"><![CDATA[2022-11-28(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킹스 오브 컨비니언스 내한공연（Kings Of Convenience Live in Seoul）티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12476&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12476&amp;order=1"/>
+        <updated>2022-11-24T09:15:58.695Z</updated>
+        <content type="html"><![CDATA[2022-11-29(화) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022-23 YB TOUR LIGHTS - 성남 티켓오픈안내]]></title>
@@ -53,26 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12472&amp;order=1"/>
         <updated>2022-11-22T09:17:45.684Z</updated>
         <content type="html"><![CDATA[2022-11-29(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김종현 FAN-CONCERT [Fantasia : 팬타지아] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12471&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12471&amp;order=1"/>
-        <updated>2022-11-22T05:16:42.244Z</updated>
-        <content type="html"><![CDATA[2022-11-25(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9와 숫자들 몽땅쑈 Vol.4  티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12470&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12470&amp;order=1"/>
-        <updated>2022-11-22T04:21:09.407Z</updated>
-        <content type="html"><![CDATA[2022-11-24(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나상현씨밴드 연말 콘서트 [ 2022<2023 ] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12469&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12469&amp;order=1"/>
-        <updated>2022-11-21T09:18:04.200Z</updated>
-        <content type="html"><![CDATA[2022-11-28(월) 18:00]]></content>
     </entry>
 </feed>
