@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 09:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 10:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 전국투어 콘서트〈박창근〉- 강릉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12482</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12482</guid>
+            <pubDate>Thu, 24 Nov 2022 10:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.30(수) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[별 단독 콘서트 [별자리] - 별이 빛나는 자리 취소안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12481</link>
@@ -140,11 +147,11 @@
             <content:encoded><![CDATA[2022.11.25(금) 19:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.11.24(목) 19:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 [빛나는 버러지] 2차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12462</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12462</guid>
-            <pubDate>Fri, 18 Nov 2022 08:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.23(수) 16:00]]></content:encoded>
+            <title><![CDATA[2022 전국투어 콘서트〈박창근〉- 강릉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12482&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12482&amp;order=1</guid>
+            <pubDate>Thu, 24 Nov 2022 10:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-30(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[별 단독 콘서트 [별자리] - 별이 빛나는 자리 취소안내 (예스24 티켓 모바일)]]></title>
@@ -209,27 +216,12 @@
             <content:encoded><![CDATA[2022-12-01(목) 19:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Touched concert ‘Highlight 2022’ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12472&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12472&amp;order=1</guid>
-            <pubDate>Tue, 22 Nov 2022 09:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022-11-29(화) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [화원] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43846</link>
-            <guid>http://ticket.yes24.com/Perf/43846</guid>
+            <title><![CDATA[뮤지컬 [모딜리아니] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43127</link>
+            <guid>http://ticket.yes24.com/Perf/43127</guid>
             <pubDate>Mon, 21 Nov 2022 01:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>20,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221121/20221121-43846.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [우리가 사랑했던 그날] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43534</link>
-            <guid>http://ticket.yes24.com/Perf/43534</guid>
-            <pubDate>Mon, 21 Nov 2022 01:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>25,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221121/20221121-43534.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>25,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221121/20221121-43127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [에곤 실레] (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -248,12 +240,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221121/20221121-43815.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [모딜리아니] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43127</link>
-            <guid>http://ticket.yes24.com/Perf/43127</guid>
+            <title><![CDATA[연극 [화원] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43846</link>
+            <guid>http://ticket.yes24.com/Perf/43846</guid>
             <pubDate>Mon, 21 Nov 2022 01:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>25,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221121/20221121-43127.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>20,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221121/20221121-43846.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [우리가 사랑했던 그날] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43534</link>
+            <guid>http://ticket.yes24.com/Perf/43534</guid>
+            <pubDate>Mon, 21 Nov 2022 01:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>25,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221121/20221121-43534.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 드라큘라 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
