@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-25T08:21:39.555Z</updated>
+    <updated>2022-11-25T09:17:20.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿤디판다 단독 공연 〈THE SPOILED CHILD : 균〉]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12488&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12488&amp;order=1"/>
+        <updated>2022-11-25T09:16:30.413Z</updated>
+        <content type="html"><![CDATA[2022-11-29(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소란 winter concert ‘STARTLINE!’ 추가 회차 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12487&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12487&amp;order=1"/>
+        <updated>2022-11-25T09:16:30.413Z</updated>
+        <content type="html"><![CDATA[2022-11-30(수) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 THE CRY X-MAS 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12486&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12486&amp;order=1"/>
+        <updated>2022-11-25T09:16:30.415Z</updated>
+        <content type="html"><![CDATA[2022-11-29(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BRANDNEW YEAR 2022 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12485&amp;order=1</id>
@@ -52,26 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12479&amp;order=1"/>
         <updated>2022-11-24T08:21:07.023Z</updated>
         <content type="html"><![CDATA[2022-11-29(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈루드윅 : 베토벤 더 피아노〉 1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12478&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12478&amp;order=1"/>
-        <updated>2022-11-24T06:20:35.425Z</updated>
-        <content type="html"><![CDATA[2022-11-28(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“2022 HAPPY CHANYEOL-DAY” 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12477&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12477&amp;order=1"/>
-        <updated>2022-11-24T05:15:09.879Z</updated>
-        <content type="html"><![CDATA[2022-11-28(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹스 오브 컨비니언스 내한공연（Kings Of Convenience Live in Seoul）티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12476&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12476&amp;order=1"/>
-        <updated>2022-11-24T09:15:58.695Z</updated>
-        <content type="html"><![CDATA[2022-11-29(화) 12:00]]></content>
     </entry>
 </feed>
