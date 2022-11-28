@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 14:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 15:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221110/20221110-224d2ae5-3974-4bc1-a8f2-3194cef86384.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 굿모닝, 홍콩 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43999&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43999&amp;Tab=3</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.10 ~ 2022.11.28 | 2022.11.30 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221110/20221110-5d44591f-8b2b-4d3e-a370-e49fad665c6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 웨이스티드 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43948&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43948&amp;Tab=3</guid>
@@ -77,6 +69,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Sun, 27 Nov 2022 15:16:04 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Mon, 28 Nov 2022 15:15:53 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
