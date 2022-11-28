@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-28T04:24:08.117Z</updated>
+    <updated>2022-11-28T05:16:41.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12490&amp;order=1"/>
         <updated>2022-11-28T03:29:30.739Z</updated>
         <content type="html"><![CDATA[2022-12-01(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <한국사 대모험> 프리뷰 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12489&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12489&amp;order=1"/>
-        <updated>2022-11-28T01:16:54.689Z</updated>
-        <content type="html"><![CDATA[2022-11-29(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쿤디판다 단독 공연 〈THE SPOILED CHILD : 균〉]]></title>
@@ -74,5 +67,12 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12484&amp;order=1"/>
         <updated>2022-11-25T04:19:50.664Z</updated>
         <content type="html"><![CDATA[2022-12-02(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 수원앵콜 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12483&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12483&amp;order=1"/>
+        <updated>2022-11-28T05:15:50.297Z</updated>
+        <content type="html"><![CDATA[2022-12-01(목) 14:00]]></content>
     </entry>
 </feed>
