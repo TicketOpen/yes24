@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-27T23:18:05.525Z</updated>
+    <updated>2022-11-28T01:17:43.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제17회 부산불꽃축제 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12491&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12491&amp;order=1"/>
+        <updated>2022-11-28T01:16:54.687Z</updated>
+        <content type="html"><![CDATA[2022-11-29(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <한국사 대모험> 프리뷰 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12489&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12489&amp;order=1"/>
+        <updated>2022-11-28T01:16:54.689Z</updated>
+        <content type="html"><![CDATA[2022-11-29(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿤디판다 단독 공연 〈THE SPOILED CHILD : 균〉]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12488&amp;order=1</id>
@@ -59,19 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12481&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12481&amp;order=1"/>
         <updated>2022-11-24T09:15:58.681Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COUNTDOWN FANTASY 2022-2023 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12480&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12480&amp;order=1"/>
-        <updated>2022-11-24T09:15:58.683Z</updated>
-        <content type="html"><![CDATA[2022-12-01(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE X] 뮤지컬 <웨스턴 스토리> (12/19) 온라인 공연 1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12479&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12479&amp;order=1"/>
-        <updated>2022-11-24T08:21:07.023Z</updated>
-        <content type="html"><![CDATA[2022-11-29(화) 14:00]]></content>
     </entry>
 </feed>

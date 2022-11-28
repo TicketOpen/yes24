@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-11-27T23:18:05.532Z</updated>
+    <updated>2022-11-28T01:17:43.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제17회 부산불꽃축제 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12491</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12491"/>
+        <updated>2022-11-28T01:16:45.784Z</updated>
+        <content type="html"><![CDATA[2022.11.29(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <한국사 대모험> 프리뷰 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12489</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12489"/>
+        <updated>2022-11-28T01:16:45.792Z</updated>
+        <content type="html"><![CDATA[2022.11.29(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿤디판다 단독 공연 〈THE SPOILED CHILD : 균〉]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12488</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12471"/>
         <updated>2022-11-22T05:16:34.078Z</updated>
         <content type="html"><![CDATA[2022.11.25(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.11.23(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매9와 숫자들 몽땅쑈 Vol.4  티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12470</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12470"/>
-        <updated>2022-11-22T04:21:00.512Z</updated>
-        <content type="html"><![CDATA[2022.11.24(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매나상현씨밴드 연말 콘서트 [ 2022<2023 ] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12469</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12469"/>
-        <updated>2022-11-21T09:17:55.741Z</updated>
-        <content type="html"><![CDATA[2022.11.28(월) 18:00]]></content>
     </entry>
 </feed>
