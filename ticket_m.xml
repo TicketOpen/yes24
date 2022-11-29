@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-29T05:16:21.367Z</updated>
+    <updated>2022-11-29T06:22:15.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세이수미, 보수동쿨러, 코가손, BXH의 2022년 크리스마스 공연 [Out of Bed] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12504&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12504&amp;order=1"/>
+        <updated>2022-11-29T06:21:15.381Z</updated>
+        <content type="html"><![CDATA[2022-12-02(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장진의 연극 [서툰 사람들] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12501&amp;order=1</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[2022-12-02(금) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 아시안 팝 스테이지 vol.2 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12499&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12499&amp;order=1"/>
-        <updated>2022-11-29T02:52:53.757Z</updated>
-        <content type="html"><![CDATA[2022-12-06(화) 14:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 [드라큘라] 마지막 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12500&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12500&amp;order=1"/>
+        <updated>2022-11-29T06:21:15.382Z</updated>
+        <content type="html"><![CDATA[2022-12-06(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 〈이승현 라이브 콘서트〉  티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12491&amp;order=1"/>
         <updated>2022-11-28T01:16:54.687Z</updated>
         <content type="html"><![CDATA[2022-11-29(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안예은단독콘서트 ‘제6회 (안밀린) 오타쿠리스마스’ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12490&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12490&amp;order=1"/>
-        <updated>2022-11-28T03:29:30.739Z</updated>
-        <content type="html"><![CDATA[2022-12-01(목) 19:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-11-29T05:16:21.370Z</updated>
+    <updated>2022-11-29T06:22:15.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매세이수미, 보수동쿨러, 코가손, BXH의 2022년 크리스마스 공연 [Out of Bed] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12504</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12504"/>
+        <updated>2022-11-29T06:21:06.656Z</updated>
+        <content type="html"><![CDATA[2022.12.02(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장진의 연극 [서툰 사람들] 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12501</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[2022.12.02(금) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 아시안 팝 스테이지 vol.2 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12499</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12499"/>
-        <updated>2022-11-29T02:52:44.135Z</updated>
-        <content type="html"><![CDATA[2022.12.06(화) 14:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 [드라큘라] 마지막 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12500</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12500"/>
+        <updated>2022-11-29T06:21:06.657Z</updated>
+        <content type="html"><![CDATA[2022.12.06(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 〈이승현 라이브 콘서트〉  티켓오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12480"/>
         <updated>2022-11-24T09:15:49.971Z</updated>
         <content type="html"><![CDATA[2022.12.01(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE X] 뮤지컬 <웨스턴 스토리> (12/19) 온라인 공연 1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12479</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12479"/>
-        <updated>2022-11-24T08:20:59.044Z</updated>
-        <content type="html"><![CDATA[2022.11.29(화) 14:00]]></content>
     </entry>
 </feed>
