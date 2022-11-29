@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-11-29T04:21:08.403Z</updated>
+    <updated>2022-11-29T05:16:21.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장진의 연극 [서툰 사람들] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12501</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12501"/>
+        <updated>2022-11-29T05:15:17.582Z</updated>
+        <content type="html"><![CDATA[2022.12.02(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 아시안 팝 스테이지 vol.2 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12499</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12479"/>
         <updated>2022-11-24T08:20:59.044Z</updated>
         <content type="html"><![CDATA[2022.11.29(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈루드윅 : 베토벤 더 피아노〉 1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12478</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12478"/>
-        <updated>2022-11-24T06:20:26.336Z</updated>
-        <content type="html"><![CDATA[2022.11.28(월) 14:00]]></content>
     </entry>
 </feed>

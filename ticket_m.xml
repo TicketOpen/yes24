@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-29T04:21:08.408Z</updated>
+    <updated>2022-11-29T05:16:21.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장진의 연극 [서툰 사람들] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12501&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12501&amp;order=1"/>
+        <updated>2022-11-29T05:15:27.294Z</updated>
+        <content type="html"><![CDATA[2022-12-02(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 아시안 팝 스테이지 vol.2 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12499&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12490&amp;order=1"/>
         <updated>2022-11-28T03:29:30.739Z</updated>
         <content type="html"><![CDATA[2022-12-01(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿤디판다 단독 공연 〈THE SPOILED CHILD : 균〉]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12488&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12488&amp;order=1"/>
-        <updated>2022-11-25T09:16:30.413Z</updated>
-        <content type="html"><![CDATA[2022-11-29(화) 14:00]]></content>
     </entry>
 </feed>
