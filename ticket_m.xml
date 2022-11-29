@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-29T01:20:03.269Z</updated>
+    <updated>2022-11-29T02:53:50.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 아시안 팝 스테이지 vol.2 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12499&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12499&amp;order=1"/>
+        <updated>2022-11-29T02:52:53.757Z</updated>
+        <content type="html"><![CDATA[2022-12-06(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 〈이승현 라이브 콘서트〉  티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12498&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12498&amp;order=1"/>
+        <updated>2022-11-29T02:52:53.758Z</updated>
+        <content type="html"><![CDATA[2022-12-05(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비비 첫 정규 발매 기념 콘서트 [와주시면 안 될까요?] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12497&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12497&amp;order=1"/>
+        <updated>2022-11-29T02:52:53.759Z</updated>
+        <content type="html"><![CDATA[2022-12-05(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈드라큘라〉 - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12496&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12496&amp;order=1"/>
+        <updated>2022-11-29T02:52:53.760Z</updated>
+        <content type="html"><![CDATA[2022-12-05(월) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈한국사 대모험〉 프리뷰 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12495&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12488&amp;order=1"/>
         <updated>2022-11-25T09:16:30.413Z</updated>
         <content type="html"><![CDATA[2022-11-29(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소란 winter concert ‘STARTLINE!’ 추가 회차 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12487&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12487&amp;order=1"/>
-        <updated>2022-11-25T09:16:30.413Z</updated>
-        <content type="html"><![CDATA[2022-11-30(수) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 THE CRY X-MAS 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12486&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12486&amp;order=1"/>
-        <updated>2022-11-25T09:16:30.415Z</updated>
-        <content type="html"><![CDATA[2022-11-29(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRANDNEW YEAR 2022 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12485&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12485&amp;order=1"/>
-        <updated>2022-11-25T05:15:43.328Z</updated>
-        <content type="html"><![CDATA[2022-11-29(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 광주앵콜 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12484&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12484&amp;order=1"/>
-        <updated>2022-11-25T04:19:50.664Z</updated>
-        <content type="html"><![CDATA[2022-12-02(금) 14:00]]></content>
     </entry>
 </feed>
