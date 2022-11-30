@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 22:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 23:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,12 +217,12 @@
             <content:encoded><![CDATA[2022-12-05(월) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 알로하, 나의 엄마들 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43662</link>
-            <guid>http://ticket.yes24.com/Perf/43662</guid>
-            <pubDate>Mon, 28 Nov 2022 01:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									70,000원								</td>								<td class="dc_price">									<em>→</em>43,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221128/20221128-43662.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연극 [MRS.MRI : 미세스 엠알아이] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/44174</link>
+            <guid>http://ticket.yes24.com/Perf/44174</guid>
+            <pubDate>Mon, 28 Nov 2022 02:56:52 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>18,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221128/20221128-44174.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 [굿모닝 홍콩] (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -233,14 +233,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221128/20221128-43999.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 지저스 크라이스트 수퍼스타 50주년 기념 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43451</link>
-            <guid>http://ticket.yes24.com/Perf/43451</guid>
-            <pubDate>Mon, 28 Nov 2022 01:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									120,000원								</td>								<td class="dc_price">									<em>→</em>93,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221128/20221128-43451.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 아트 (ART) (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/43160</link>
             <guid>http://ticket.yes24.com/Perf/43160</guid>
@@ -249,12 +241,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221128/20221128-43160.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 [MRS.MRI : 미세스 엠알아이] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/44174</link>
-            <guid>http://ticket.yes24.com/Perf/44174</guid>
-            <pubDate>Mon, 28 Nov 2022 02:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>18,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221128/20221128-44174.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 지저스 크라이스트 수퍼스타 50주년 기념 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43451</link>
+            <guid>http://ticket.yes24.com/Perf/43451</guid>
+            <pubDate>Mon, 28 Nov 2022 01:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									120,000원								</td>								<td class="dc_price">									<em>→</em>93,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221128/20221128-43451.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 알로하, 나의 엄마들 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43662</link>
+            <guid>http://ticket.yes24.com/Perf/43662</guid>
+            <pubDate>Mon, 28 Nov 2022 01:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									70,000원								</td>								<td class="dc_price">									<em>→</em>43,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221128/20221128-43662.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 지저스 크라이스트 수퍼스타 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
