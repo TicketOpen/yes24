@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-11-30T04:21:18.433Z</updated>
+    <updated>2022-11-30T05:16:24.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2023 N.FLYING LIVE ‘&CON3’ 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12505</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12505"/>
+        <updated>2022-11-30T05:15:23.094Z</updated>
+        <content type="html"><![CDATA[2022.12.06(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.12.02(금) 18:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매세이수미, 보수동쿨러, 코가손, BXH의 2022년 크리스마스 공연 [Out of Bed] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12504</id>
@@ -66,7 +73,7 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12492</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12492"/>
         <updated>2022-11-28T02:56:37.058Z</updated>
-        <content type="html"><![CDATA[2022.11.30(수) 10:00]]></content>
+        <content type="html"><![CDATA[2022.12.05(월) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매제17회 부산불꽃축제 티켓오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12481</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12481"/>
         <updated>2022-11-24T09:15:49.969Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매COUNTDOWN FANTASY 2022-2023 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12480</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12480"/>
-        <updated>2022-11-24T09:15:49.971Z</updated>
-        <content type="html"><![CDATA[2022.12.01(목) 18:00]]></content>
     </entry>
 </feed>
