@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-01T01:28:15.233Z</updated>
+    <updated>2022-12-01T03:10:41.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매오로라 내한공연 (Aurora Live in Seoul) 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12509</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12509"/>
+        <updated>2022-12-01T03:09:37.713Z</updated>
+        <content type="html"><![CDATA[2022.12.09(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매켈라니 첫 단독 내한공연 (Kehlani Live in Seoul) 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12508</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12508"/>
+        <updated>2022-12-01T03:09:37.715Z</updated>
+        <content type="html"><![CDATA[2022.12.08(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 전국투어 콘서트〈박창근〉- 포항앵콜 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12507</id>
@@ -62,7 +76,7 @@
         <content type="html"><![CDATA[2022.12.05(월) 17:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈한국사 대모험〉 프리뷰 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 〈한국사 대모험〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12495</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12495"/>
         <updated>2022-11-28T07:15:21.839Z</updated>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12484"/>
         <updated>2022-11-25T04:19:41.896Z</updated>
         <content type="html"><![CDATA[2022.12.02(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 수원앵콜 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12483</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12483"/>
-        <updated>2022-11-25T01:18:35.496Z</updated>
-        <content type="html"><![CDATA[2022.12.01(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 강릉앵콜 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12482</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12482"/>
-        <updated>2022-11-24T10:17:44.169Z</updated>
-        <content type="html"><![CDATA[2022.11.30(수) 14:00]]></content>
     </entry>
 </feed>
