@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 07:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 08:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2022.12.02 ~ 2022.12.11]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=43999</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=43999</guid>
+            <pubDate>Fri, 02 Dec 2022 08:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>연극 &lt;넓은 하늘의 무지개를 보면 내 마음은 춤춘다&gt; 2022년 12월 20일(화) 오후 8시 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221202/20221202-ac896c11-4cde-4f87-9d24-649abeb782ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2022.11.26 ~ 2022.12.18]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=43929</link>

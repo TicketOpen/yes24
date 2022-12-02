@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-02T07:15:37.790Z</updated>
+    <updated>2022-12-02T08:20:28.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(12/4, 12/10, 12/11, 12/18, 12/19)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12513</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12513"/>
+        <updated>2022-12-02T08:19:33.940Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈미수〉 세 번째 좌석 열림 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12512</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12488"/>
         <updated>2022-11-25T09:16:21.995Z</updated>
         <content type="html"><![CDATA[2022.11.29(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소란 winter concert ‘STARTLINE!’ 추가 회차 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12487</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12487"/>
-        <updated>2022-11-25T09:16:21.995Z</updated>
-        <content type="html"><![CDATA[2022.11.30(수) 19:00]]></content>
     </entry>
 </feed>
