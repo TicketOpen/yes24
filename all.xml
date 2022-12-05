@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 01:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:42:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,7 +39,7 @@
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12512</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12512</guid>
             <pubDate>Fri, 02 Dec 2022 02:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06(화) 14:00]]></content:encoded>
+            <content:encoded><![CDATA[2022.12.12(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제20회 대한민국 교육박람회 사전등록 입장권 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -172,7 +172,7 @@
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12512&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12512&amp;order=1</guid>
             <pubDate>Fri, 02 Dec 2022 02:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022-12-06(화) 14:00]]></content:encoded>
+            <content:encoded><![CDATA[2022-12-12(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제20회 대한민국 교육박람회 사전등록 입장권 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -217,6 +217,22 @@
             <content:encoded><![CDATA[2022-12-06(화) 20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[푸에르자부르타 웨이라 인 서울 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43293</link>
+            <guid>http://ticket.yes24.com/Perf/43293</guid>
+            <pubDate>Mon, 05 Dec 2022 01:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>평일저녁								</td>								<td class="price">									121,000원								</td>								<td class="dc_price">									<em>→</em>70,200원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221205/20221205-43293.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 사나이 와타나베 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43518</link>
+            <guid>http://ticket.yes24.com/Perf/43518</guid>
+            <pubDate>Mon, 05 Dec 2022 01:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221205/20221205-43518.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 드라큘라 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/43815</link>
             <guid>http://ticket.yes24.com/Perf/43815</guid>
@@ -233,28 +249,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221205/20221205-43903.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 사나이 와타나베 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43518</link>
-            <guid>http://ticket.yes24.com/Perf/43518</guid>
-            <pubDate>Mon, 05 Dec 2022 01:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43518.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 빛나는 버러지 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/43981</link>
             <guid>http://ticket.yes24.com/Perf/43981</guid>
             <pubDate>Mon, 05 Dec 2022 01:13:34 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202211/20221114/20221114-43981.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸에르자부르타 웨이라 인 서울 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43293</link>
-            <guid>http://ticket.yes24.com/Perf/43293</guid>
-            <pubDate>Mon, 05 Dec 2022 01:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>평일저녁								</td>								<td class="price">									121,000원								</td>								<td class="dc_price">									<em>→</em>70,200원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221205/20221205-43293.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221205/20221205-43981.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 드라큘라 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -289,6 +289,28 @@
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">12/10~12/31 공연
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221205/20221205-43903.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 사나이 와타나베 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/43518</link>
+            <guid>http://m.ticket.yes24.com/Perf/43518</guid>
+            <pubDate>Mon, 05 Dec 2022 02:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 사나이 와타나베</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">17,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">12/5~12/31 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221205/20221205-43518.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 빛나는 버러지 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/43981</link>
+            <guid>http://m.ticket.yes24.com/Perf/43981</guid>
+            <pubDate>Mon, 05 Dec 2022 02:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 빛나는 버러지</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">12/6~12/25 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221205/20221205-43981.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 굿모닝 홍콩 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
