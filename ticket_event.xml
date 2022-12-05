@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 08:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 09:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 소크라테스 패러독스 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44104&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44104&amp;Tab=3</guid>
+            <pubDate>Mon, 05 Dec 2022 09:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.14 | 2022.12.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221205/20221205-c8107135-c53d-4839-826e-65f5535cff52.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 굿모닝 홍콩 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43999&amp;Tab=2</link>
@@ -69,13 +77,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Sun, 27 Nov 2022 15:16:04 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 보호 캠페인]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
-            <pubDate>Sun, 04 Dec 2022 15:15:16 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
