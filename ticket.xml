@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-05T07:15:47.725Z</updated>
+    <updated>2022-12-05T08:21:49.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매MY AUNT MARY 앵콜공연 [SAME SAME but DIFFERENT - CHRISTMAS ENCORE] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12526</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12526"/>
+        <updated>2022-12-05T08:20:42.757Z</updated>
+        <content type="html"><![CDATA[2022.12.08(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [지저스 크라이스트 수퍼스타] 마지막, 새해 시즌 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12516</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12493"/>
         <updated>2022-11-28T03:29:23.221Z</updated>
         <content type="html"><![CDATA[2022.11.29(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제6회 국제 교육 콘퍼런스(EDUCON 2023) 사전등록 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12492</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12492"/>
-        <updated>2022-11-28T02:56:37.058Z</updated>
-        <content type="html"><![CDATA[2022.12.05(월) 10:00]]></content>
     </entry>
 </feed>
