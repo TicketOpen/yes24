@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-06T05:15:24.796Z</updated>
+    <updated>2022-12-06T06:20:29.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TOUR 2023 아시니코 내한공연 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12529</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12529"/>
+        <updated>2022-12-06T06:19:26.461Z</updated>
+        <content type="html"><![CDATA[2022.12.10(토) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매MY AUNT MARY 앵콜공연 [SAME SAME but DIFFERENT - CHRISTMAS ENCORE] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12526</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12495"/>
         <updated>2022-11-28T07:15:21.839Z</updated>
         <content type="html"><![CDATA[2022.12.06(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 조용필&위대한탄생 콘서트 시야제한석 추가 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12493</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12493"/>
-        <updated>2022-11-28T03:29:23.221Z</updated>
-        <content type="html"><![CDATA[2022.11.29(화) 14:00]]></content>
     </entry>
 </feed>
