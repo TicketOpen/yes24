@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 01:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 02:50:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오페레타 뮤지컬 판타지아 시즌2 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43903&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43903&amp;Tab=2</guid>
+            <pubDate>Wed, 07 Dec 2022 02:49:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06 ~ 2022.12.31 | 2023.01.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221207/20221207-61305625-4c02-4570-b729-3503329faa51.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 소크라테스 패러독스 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44104&amp;Tab=3</link>
@@ -70,13 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:37:35 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.04 ~ 2022.12.12 | 2022.12.16 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221104/20221104-53525480-ff2c-4795-bcd3-0b72d5d1f6cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Sun, 27 Nov 2022 15:16:04 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 01:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 02:50:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2022.12.06 ~ 2022.12.31]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=43903</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=43903</guid>
+            <pubDate>Wed, 07 Dec 2022 02:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>한국사 대모험 2023.1.21~2.26 광림아트센터 BBCH홀 VIP석 4매]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221207/20221207-61305625-4c02-4570-b729-3503329faa51.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2022.12.05 ~ 2022.12.14]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=44104</link>
