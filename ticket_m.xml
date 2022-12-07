@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-12-06T23:17:42.425Z</updated>
+    <updated>2022-12-07T01:16:32.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈로빈〉 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12530&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12530&amp;order=1"/>
+        <updated>2022-12-07T01:15:38.878Z</updated>
+        <content type="html"><![CDATA[2022-12-12(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TOUR 2023 아시니코 내한공연 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12529&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12509&amp;order=1"/>
         <updated>2022-12-01T03:09:47.488Z</updated>
         <content type="html"><![CDATA[2022-12-09(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[켈라니 첫 단독 내한공연 (Kehlani Live in Seoul) 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12508&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12508&amp;order=1"/>
-        <updated>2022-12-01T03:09:47.494Z</updated>
-        <content type="html"><![CDATA[2022-12-08(목) 12:00]]></content>
     </entry>
 </feed>
