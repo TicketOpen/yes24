@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-12-08T06:21:34.963Z</updated>
+    <updated>2022-12-08T07:15:18.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈웨이스티드〉 : 연극열전9_네 번째 작품 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12539&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12539&amp;order=1"/>
+        <updated>2022-12-08T07:14:24.255Z</updated>
+        <content type="html"><![CDATA[2022-12-15(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈넓은 하늘의 무지개를 보면 내 마음은 춤춘다〉 2차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12538&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12516&amp;order=1"/>
         <updated>2022-12-05T01:13:24.701Z</updated>
         <content type="html"><![CDATA[2022-12-08(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈루쓰〉1차 티켓 오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12515&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12515&amp;order=1"/>
-        <updated>2022-12-05T01:13:24.703Z</updated>
-        <content type="html"><![CDATA[2022-12-12(월) 12:00]]></content>
     </entry>
 </feed>
