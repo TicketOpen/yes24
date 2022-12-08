@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-12-08T01:14:17.988Z</updated>
+    <updated>2022-12-08T02:45:36.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈넓은 하늘의 무지개를 보면 내 마음은 춤춘다〉 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12538&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12538&amp;order=1"/>
+        <updated>2022-12-08T02:44:49.357Z</updated>
+        <content type="html"><![CDATA[2022-12-13(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캣츠 오리지널 내한-서울(Musical CATS) 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12537&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12537&amp;order=1"/>
+        <updated>2022-12-08T02:44:49.358Z</updated>
+        <content type="html"><![CDATA[2022-12-15(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음악극 올드위키드송 (Old Wicked Songs) 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12534&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12515&amp;order=1"/>
         <updated>2022-12-05T01:13:24.703Z</updated>
         <content type="html"><![CDATA[2022-12-12(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈소크라테스 패러독스〉 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12514&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12514&amp;order=1"/>
-        <updated>2022-12-03T10:15:24.509Z</updated>
-        <content type="html"><![CDATA[2022-12-08(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈미수〉 세 번째 좌석 열림 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12512&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12512&amp;order=1"/>
-        <updated>2022-12-02T02:47:22.504Z</updated>
-        <content type="html"><![CDATA[2022-12-12(월) 14:00]]></content>
     </entry>
 </feed>

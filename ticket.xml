@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-08T01:14:17.984Z</updated>
+    <updated>2022-12-08T02:45:36.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈넓은 하늘의 무지개를 보면 내 마음은 춤춘다〉 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12538</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12538"/>
+        <updated>2022-12-08T02:44:41.297Z</updated>
+        <content type="html"><![CDATA[2022.12.13(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캣츠 오리지널 내한-서울(Musical CATS) 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12537</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12537"/>
+        <updated>2022-12-08T02:44:41.306Z</updated>
+        <content type="html"><![CDATA[2022.12.15(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음악극 올드위키드송 (Old Wicked Songs) 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12534</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12504"/>
         <updated>2022-11-29T06:21:06.656Z</updated>
         <content type="html"><![CDATA[2022.12.02(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장진의 연극 [서툰 사람들] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12501</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12501"/>
-        <updated>2022-11-29T05:15:17.582Z</updated>
-        <content type="html"><![CDATA[2022.12.02(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [드라큘라] 마지막 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12500</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12500"/>
-        <updated>2022-11-29T06:21:06.657Z</updated>
-        <content type="html"><![CDATA[2022.12.06(화) 11:00]]></content>
     </entry>
 </feed>
