@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-12-09T06:21:16.622Z</updated>
+    <updated>2022-12-09T07:15:09.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈미드나잇 : 앤틀러스〉 프리뷰 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12546&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12546&amp;order=1"/>
+        <updated>2022-12-09T07:14:07.118Z</updated>
+        <content type="html"><![CDATA[2022-12-15(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이디오테잎 단독 콘서트 [11111101 11th] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12545&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12545&amp;order=1"/>
+        <updated>2022-12-09T07:14:07.118Z</updated>
+        <content type="html"><![CDATA[2022-12-15(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 연장공연 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12544&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12537&amp;order=1"/>
         <updated>2022-12-08T02:44:49.358Z</updated>
         <content type="html"><![CDATA[2022-12-15(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악극 올드위키드송 (Old Wicked Songs) 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12534&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12534&amp;order=1"/>
-        <updated>2022-12-07T07:14:32.419Z</updated>
-        <content type="html"><![CDATA[2022-12-14(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈베토벤; Beethoven Secret〉 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12532&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12532&amp;order=1"/>
-        <updated>2022-12-07T02:49:09.774Z</updated>
-        <content type="html"><![CDATA[2022-12-14(수) 14:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-09T06:21:16.637Z</updated>
+    <updated>2022-12-09T07:15:09.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈미드나잇 : 앤틀러스〉 프리뷰 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12546</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12546"/>
+        <updated>2022-12-09T07:13:58.598Z</updated>
+        <content type="html"><![CDATA[2022.12.15(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매이디오테잎 단독 콘서트 [11111101 11th] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12545</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12545"/>
+        <updated>2022-12-09T07:13:58.613Z</updated>
+        <content type="html"><![CDATA[2022.12.15(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 연장공연 티켓오픈 ..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12544</id>
@@ -129,19 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12513</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12513"/>
         <updated>2022-12-02T08:19:33.940Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈미수〉 세 번째 좌석 열림 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12512</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12512"/>
-        <updated>2022-12-02T02:47:13.409Z</updated>
-        <content type="html"><![CDATA[2022.12.12(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제20회 대한민국 교육박람회 사전등록 입장권 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12511</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12511"/>
-        <updated>2022-12-02T01:13:44.842Z</updated>
-        <content type="html"><![CDATA[2022.12.06(화) 10:00]]></content>
     </entry>
 </feed>
