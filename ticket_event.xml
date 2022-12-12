@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 09:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 10:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 루쓰 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44355&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44355&amp;Tab=3</guid>
+            <pubDate>Mon, 12 Dec 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.12 ~ 2023.01.30 | 2023.02.01 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221212/20221212-82f7cc36-1951-4c43-b6aa-bd129ba8b61c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 빛나는 버러지 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43981&amp;Tab=2</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 11 Dec 2022 15:15:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.17 ~ 2022.12.12 | 2022.12.13 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221117/20221117-b90b3e8c-1d7f-4f33-bed3-133cc27c7fde.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 캣츠 - 서울 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43998&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43998&amp;Tab=3</guid>
-            <pubDate>Sun, 11 Dec 2022 15:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.10 ~ 2023.01.19 | 2023.01.20 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221110/20221110-224d2ae5-3974-4bc1-a8f2-3194cef86384.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
