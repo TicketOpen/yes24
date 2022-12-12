@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-12T08:21:59.835Z</updated>
+    <updated>2022-12-12T09:17:02.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12551"/>
         <updated>2022-12-12T05:14:23.926Z</updated>
         <content type="html"><![CDATA[2022.12.16(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데니안〈Danny’s Day〉덴생네컷 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12550</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12550"/>
+        <updated>2022-12-12T09:15:42.551Z</updated>
+        <content type="html"><![CDATA[2022.12.16(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <셰익스피어 인 러브> 1차 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12529"/>
         <updated>2022-12-06T06:19:26.461Z</updated>
         <content type="html"><![CDATA[2022.12.10(토) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매MY AUNT MARY 앵콜공연 [SAME SAME but DIFFERENT - CHRISTMAS ENCORE] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12526</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12526"/>
-        <updated>2022-12-05T08:20:42.757Z</updated>
-        <content type="html"><![CDATA[2022.12.08(목) 14:00]]></content>
     </entry>
 </feed>
