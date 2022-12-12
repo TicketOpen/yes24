@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-12T04:20:11.140Z</updated>
+    <updated>2022-12-12T05:15:18.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [에쿠우스] 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12551</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12551"/>
+        <updated>2022-12-12T05:14:23.926Z</updated>
+        <content type="html"><![CDATA[2022.12.16(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <셰익스피어 인 러브> 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12549</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12526</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12526"/>
         <updated>2022-12-05T08:20:42.757Z</updated>
-        <content type="html"><![CDATA[2022.12.08(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [지저스 크라이스트 수퍼스타] 마지막, 새해 시즌 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12516</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12516"/>
-        <updated>2022-12-05T01:13:15.264Z</updated>
         <content type="html"><![CDATA[2022.12.08(목) 14:00]]></content>
     </entry>
 </feed>
