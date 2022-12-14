@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 14:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 15:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221207/20221207-61305625-4c02-4570-b729-3503329faa51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 소크라테스 패러독스 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44104&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44104&amp;Tab=3</guid>
-            <pubDate>Mon, 05 Dec 2022 09:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.14 | 2022.12.16 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221205/20221205-c8107135-c53d-4839-826e-65f5535cff52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 서툰사람들 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43929&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43929&amp;Tab=2</guid>
@@ -78,6 +70,14 @@
             <pubDate>Fri, 18 Nov 2022 01:39:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.18 ~ 2023.01.05 | 2023.01.06 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221118/20221118-0fa9aaeb-48db-49cd-917b-e22f8b8fdac5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캣츠 - 서울 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43998&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43998&amp;Tab=3</guid>
+            <pubDate>Wed, 14 Dec 2022 15:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.10 ~ 2023.01.19 | 2023.01.20 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221110/20221110-224d2ae5-3974-4bc1-a8f2-3194cef86384.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
