@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-16T04:18:49.073Z</updated>
+    <updated>2022-12-16T05:14:37.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조항조＆진성〈앙상블콘서트〉- 대구 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12563</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12563"/>
+        <updated>2022-12-16T05:13:39.794Z</updated>
+        <content type="html"><![CDATA[2022.12.20(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 DKZ FAN-CON〈Welcome to DTU〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12562</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12562"/>
+        <updated>2022-12-16T05:13:39.795Z</updated>
+        <content type="html"><![CDATA[2022.12.23(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（일산）엠아씨 힙합 콘서트 - 저스디스, 애쉬아일랜드, 릴러말즈 , 던말릭, 큐엠 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12561</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12561"/>
         <updated>2022-12-16T04:17:54.099Z</updated>
         <content type="html"><![CDATA[2022.12.20(화) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈 지저스 크라이스트 수퍼스타〉 부산 공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12560</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12560"/>
+        <updated>2022-12-16T05:13:39.799Z</updated>
+        <content type="html"><![CDATA[2022.12.23(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈천사에 관하여: 타락천사 편〉 1차 티켓오픈 안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12544"/>
         <updated>2022-12-09T05:14:21.193Z</updated>
         <content type="html"><![CDATA[2022.12.13(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GULF 1ST FANMEETING IN SEOUL 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12543</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12543"/>
-        <updated>2022-12-09T06:19:53.184Z</updated>
-        <content type="html"><![CDATA[2022.12.23(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원콘서트 2nd 음학회 ‘音學會’（2nd JEONG DONG WON’S ORCHESTRA CONCERT）- 부산 티켓오..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12542</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12542"/>
-        <updated>2022-12-09T02:44:37.174Z</updated>
-        <content type="html"><![CDATA[2022.12.15(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 백지영 전국투어 콘서트〈GO BAEK〉- 안산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12541</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12541"/>
-        <updated>2022-12-08T08:19:53.097Z</updated>
-        <content type="html"><![CDATA[2022.12.12(월) 14:00]]></content>
     </entry>
 </feed>
