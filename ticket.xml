@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-16T05:14:37.001Z</updated>
+    <updated>2022-12-16T06:19:34.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈브로드웨이 42번가〉 - 고양 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12565</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12565"/>
+        <updated>2022-12-16T06:18:35.222Z</updated>
+        <content type="html"><![CDATA[2022.12.21(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조항조＆진성〈앙상블콘서트〉- 대구 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12563</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12545"/>
         <updated>2022-12-09T07:13:58.613Z</updated>
         <content type="html"><![CDATA[2022.12.15(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 연장공연 티켓오픈 ..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12544</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12544"/>
-        <updated>2022-12-09T05:14:21.193Z</updated>
-        <content type="html"><![CDATA[2022.12.13(화) 14:00]]></content>
     </entry>
 </feed>
