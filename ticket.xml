@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-18T23:15:21.425Z</updated>
+    <updated>2022-12-19T01:09:19.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태양의서커스 〈뉴 알레그리아〉 추가티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12569</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12569"/>
+        <updated>2022-12-19T01:08:19.921Z</updated>
+        <content type="html"><![CDATA[2022.12.19(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 오르간 오딧세이 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12568</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12568"/>
+        <updated>2022-12-19T01:08:19.922Z</updated>
+        <content type="html"><![CDATA[2022.12.22(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지브리 피아노 트리오〈발렌타인 콘서트〉티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12567</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12567"/>
+        <updated>2022-12-19T01:08:19.923Z</updated>
+        <content type="html"><![CDATA[2022.12.22(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈브로드웨이 42번가〉 - 고양 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12565</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12549"/>
         <updated>2022-12-12T02:48:18.621Z</updated>
         <content type="html"><![CDATA[2022.12.16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 VIXX LEO KEN HYUK FAN-CONCERT [ING : As Always] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12548</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12548"/>
-        <updated>2022-12-12T03:20:40.492Z</updated>
-        <content type="html"><![CDATA[2022.12.16(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 연극 〈친정엄마와 2박3일－부산〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12547</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12547"/>
-        <updated>2022-12-09T08:19:28.753Z</updated>
-        <content type="html"><![CDATA[2022.12.09(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈미드나잇 : 앤틀러스〉 프리뷰 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12546</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12546"/>
-        <updated>2022-12-09T07:13:58.598Z</updated>
-        <content type="html"><![CDATA[2022.12.15(목) 15:00]]></content>
     </entry>
 </feed>
