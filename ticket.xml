@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-19T04:18:59.593Z</updated>
+    <updated>2022-12-19T05:14:53.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매양지은 팬미팅 ＂Happy Smile Day” 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12570</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12570"/>
+        <updated>2022-12-19T05:13:53.084Z</updated>
+        <content type="html"><![CDATA[2022.12.21(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태양의서커스 〈뉴 알레그리아〉 추가티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12569</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12551"/>
         <updated>2022-12-12T05:14:23.926Z</updated>
         <content type="html"><![CDATA[2022.12.16(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데니안〈Danny’s Day〉덴생네컷 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12550</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12550"/>
-        <updated>2022-12-12T09:15:42.551Z</updated>
-        <content type="html"><![CDATA[2022.12.16(금) 18:00]]></content>
     </entry>
 </feed>
