@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 23:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 01:08:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 19 Dec 2022 08:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2023년 2월 7일 (일) 20시 공연]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221219/20221219-accc8fb9-7f4a-4b6a-9d68-f69b27c262ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2022.12.19 ~ 2023.01.01]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3378</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3378</guid>
+            <pubDate>Wed, 21 Dec 2022 01:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221219/20221219-0c64e4ca-e37a-41d2-adc7-2d381ccf8145.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.12.14 ~ 2023.02.19]]></title>
