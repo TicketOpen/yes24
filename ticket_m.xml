@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-12-21T05:15:18.975Z</updated>
+    <updated>2022-12-21T06:20:18.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈볼륨업〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12576&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12576&amp;order=1"/>
+        <updated>2022-12-21T06:19:23.081Z</updated>
+        <content type="html"><![CDATA[2022-12-23(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈루드윅 : 베토벤 더 피아노〉 2차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12575&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12567&amp;order=1"/>
         <updated>2022-12-19T01:08:28.416Z</updated>
         <content type="html"><![CDATA[2022-12-22(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YU 1st in Korea  Best Love Fan Meeting 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12566&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12566&amp;order=1"/>
-        <updated>2022-12-19T03:16:19.839Z</updated>
-        <content type="html"><![CDATA[2022-12-22(목) 20:00]]></content>
     </entry>
 </feed>
