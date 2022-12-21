@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 06:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 07:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,20 +218,12 @@
             <content:encoded><![CDATA[2022-12-22(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오페레타 뮤지컬 판타지아 시즌2 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43903</link>
-            <guid>http://ticket.yes24.com/Perf/43903</guid>
-            <pubDate>Mon, 19 Dec 2022 01:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221219/20221219-43903.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악극 올드위키드송 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/44048</link>
-            <guid>http://ticket.yes24.com/Perf/44048</guid>
-            <pubDate>Mon, 19 Dec 2022 01:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>39,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221219/20221219-44048.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 드라큘라 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43815</link>
+            <guid>http://ticket.yes24.com/Perf/43815</guid>
+            <pubDate>Mon, 19 Dec 2022 02:33:29 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221219/20221219-43815.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 드라큘라 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -242,12 +234,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221219/20221219-43815.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 드라큘라 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43815</link>
-            <guid>http://ticket.yes24.com/Perf/43815</guid>
-            <pubDate>Mon, 19 Dec 2022 02:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221219/20221219-43815.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[음악극 올드위키드송 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/44048</link>
+            <guid>http://ticket.yes24.com/Perf/44048</guid>
+            <pubDate>Mon, 19 Dec 2022 01:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>39,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221219/20221219-44048.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오페레타 뮤지컬 판타지아 시즌2 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43903</link>
+            <guid>http://ticket.yes24.com/Perf/43903</guid>
+            <pubDate>Mon, 19 Dec 2022 01:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202212/20221219/20221219-43903.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 드라큘라 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
