@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-12-21T01:08:16.687Z</updated>
+    <updated>2022-12-21T02:35:17.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼미더머니11 콘서트〈Show Me the Money11 Concert〉- 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12574&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12574&amp;order=1"/>
+        <updated>2022-12-21T02:34:23.222Z</updated>
+        <content type="html"><![CDATA[2022-12-23(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오페레타 뮤지컬 <판타지아 시즌2> - 특명! 소리 마왕으로부터 엄마를 구하라! 굿바이 기념 S/A석 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12573&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12565&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12565&amp;order=1"/>
         <updated>2022-12-16T06:18:44.318Z</updated>
-        <content type="html"><![CDATA[2022-12-21(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검정치마 연말 공연 - Christmas & New Year’s Eve 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12564&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12564&amp;order=1"/>
-        <updated>2022-12-16T08:18:21.153Z</updated>
-        <content type="html"><![CDATA[2022-12-20(화) 19:00]]></content>
+        <content type="html"><![CDATA[2022-12-22(목) 13:00]]></content>
     </entry>
 </feed>
