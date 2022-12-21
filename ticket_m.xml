@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-12-21T04:19:13.709Z</updated>
+    <updated>2022-12-21T05:15:18.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈루드윅 : 베토벤 더 피아노〉 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12575&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12575&amp;order=1"/>
+        <updated>2022-12-21T05:14:23.611Z</updated>
+        <content type="html"><![CDATA[2022-12-23(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼미더머니11 콘서트〈Show Me the Money11 Concert〉- 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12574&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12566&amp;order=1"/>
         <updated>2022-12-19T03:16:19.839Z</updated>
         <content type="html"><![CDATA[2022-12-22(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈브로드웨이 42번가〉 - 고양 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12565&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12565&amp;order=1"/>
-        <updated>2022-12-16T06:18:44.318Z</updated>
-        <content type="html"><![CDATA[2022-12-22(목) 13:00]]></content>
     </entry>
 </feed>
