@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 08:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 09:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2022.12.22 ~ 2022.12.25]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3381</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3381</guid>
+            <pubDate>Thu, 22 Dec 2022 09:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221222/20221222-eb5e2e7c-48cd-4bd8-b90e-a843143ed5c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2022.12.20 ~ 2023.01.29]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=43929</link>
