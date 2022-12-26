@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-12-26T08:19:54.734Z</updated>
+    <updated>2022-12-26T09:15:26.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 우리동네공룡〉 - 진주 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12581&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12581&amp;order=1"/>
+        <updated>2022-12-26T09:14:32.248Z</updated>
+        <content type="html"><![CDATA[2022-12-27(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이클볼튼 내한공연 (Encore, ‘Michael Bolton Live in Seoul’) 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12579&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12571&amp;order=1"/>
         <updated>2022-12-20T05:14:40.391Z</updated>
         <content type="html"><![CDATA[2022-12-23(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오픈시간 변경] 양지은 팬미팅 ＂Happy Smile Day” 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12570&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12570&amp;order=1"/>
-        <updated>2022-12-19T05:14:02.535Z</updated>
-        <content type="html"><![CDATA[2022-12-21(수) 14:00]]></content>
     </entry>
 </feed>
