@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-26T10:16:25.142Z</updated>
+    <updated>2022-12-26T11:13:13.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12581"/>
         <updated>2022-12-26T09:14:23.697Z</updated>
         <content type="html"><![CDATA[2022.12.27(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매새소년의 [Hello, World！ 2023] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12580</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12580"/>
+        <updated>2022-12-26T11:12:25.431Z</updated>
+        <content type="html"><![CDATA[2022.12.29(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마이클볼튼 내한공연 (Encore, ‘Michael Bolton Live in Seoul’) 티켓 오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12562"/>
         <updated>2022-12-16T05:13:39.795Z</updated>
         <content type="html"><![CDATA[2022.12.23(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（일산）엠아씨 힙합 콘서트 - 저스디스, 애쉬아일랜드, 릴러말즈 , 던말릭, 큐엠 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12561</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12561"/>
-        <updated>2022-12-16T04:17:54.099Z</updated>
-        <content type="html"><![CDATA[2022.12.20(화) 19:00]]></content>
     </entry>
 </feed>

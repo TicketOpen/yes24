@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-12-26T10:16:25.133Z</updated>
+    <updated>2022-12-26T11:13:13.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12581&amp;order=1"/>
         <updated>2022-12-26T09:14:32.248Z</updated>
         <content type="html"><![CDATA[2022-12-27(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새소년의 [Hello, World！ 2023] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12580&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12580&amp;order=1"/>
+        <updated>2022-12-26T11:12:32.610Z</updated>
+        <content type="html"><![CDATA[2022-12-29(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마이클볼튼 내한공연 (Encore, ‘Michael Bolton Live in Seoul’) 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12572&amp;order=1"/>
         <updated>2022-12-20T05:14:40.390Z</updated>
         <content type="html"><![CDATA[2022-12-23(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈소크라테스 패러독스〉 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12571&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12571&amp;order=1"/>
-        <updated>2022-12-20T05:14:40.391Z</updated>
-        <content type="html"><![CDATA[2022-12-23(금) 15:00]]></content>
     </entry>
 </feed>
