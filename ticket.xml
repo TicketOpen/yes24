@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-27T23:16:15.667Z</updated>
+    <updated>2022-12-28T01:10:52.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매한요한 [Time Machine] ENCORE CONCERT - 서울 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12584</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12584"/>
+        <updated>2022-12-28T01:09:56.773Z</updated>
+        <content type="html"><![CDATA[2022.12.29(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2023 HAPPY D.O.-DAY 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12583</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12565"/>
         <updated>2022-12-16T06:18:35.222Z</updated>
         <content type="html"><![CDATA[2022.12.22(목) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매검정치마 연말 공연 - Christmas & New Year’s Eve 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12564</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12564"/>
-        <updated>2022-12-16T08:18:11.828Z</updated>
-        <content type="html"><![CDATA[2022.12.20(화) 19:00]]></content>
     </entry>
 </feed>
