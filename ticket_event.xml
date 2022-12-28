@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 14:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 15:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221208/20221208-0b2afd3a-fd71-4ccb-a5f6-814583e57f5d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[음악극 올드위키드송 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44048&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44048&amp;Tab=2</guid>
-            <pubDate>Fri, 09 Dec 2022 15:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.28 | 2022.12.29 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221208/20221208-9fbc6547-106f-4e2f-98fd-fef3dbc6633f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 한국사 대모험 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44297&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44297&amp;Tab=3</guid>
             <pubDate>Wed, 07 Dec 2022 08:20:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.07 ~ 2023.01.20 | 2023.01.25 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221207/20221207-edb8e4b6-eef7-40a8-bd37-c2f8d3e8fc6b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오페레타 뮤지컬 판타지아 시즌2 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43903&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43903&amp;Tab=2</guid>
+            <pubDate>Wed, 28 Dec 2022 15:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06 ~ 2022.12.31 | 2023.01.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221207/20221207-61305625-4c02-4570-b729-3503329faa51.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
