@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 06:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 07:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -413,7 +413,7 @@
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
             <pubDate>Wed, 16 Nov 2022 17:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2017.10.01 ~ 2022.12.31</dd><dt>사용기간</dt><dd>발급일로 부터 30일</dd>]]></content:encoded>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2017.10.01 ~ 2023.12.31</dd><dt>사용기간</dt><dd>발급일로 부터 30일</dd>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
@@ -430,18 +430,18 @@
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[태양의서커스 뉴 알레그리아] 1만원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
             <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=42670</link>
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=42670</guid>
             <pubDate>Thu, 22 Dec 2022 07:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</guid>
+            <pubDate>Wed, 16 Nov 2022 17:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
