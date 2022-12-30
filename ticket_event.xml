@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 14:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 15:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[넵프라이즈 TICKET]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3382</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3382</guid>
-            <pubDate>Mon, 26 Dec 2022 01:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.26 ~ 2022.12.30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221226/20221226-760f902a-d9ba-43ef-a88f-b75ca24e72d0.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 서툰 사람들 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43929&amp;Tab=2</link>
@@ -78,6 +70,14 @@
             <pubDate>Wed, 28 Dec 2022 15:15:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.06 ~ 2022.12.31 | 2023.01.03 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221207/20221207-61305625-4c02-4570-b729-3503329faa51.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캣츠 - 부산 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44062&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44062&amp;Tab=3</guid>
+            <pubDate>Fri, 30 Dec 2022 15:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18 ~ 2023.01.05 | 2023.01.06 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221118/20221118-0fa9aaeb-48db-49cd-917b-e22f8b8fdac5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
