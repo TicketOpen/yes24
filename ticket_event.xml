@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 14:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 15:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221213/20221213-d4435ec9-9623-4d7b-91dc-cb00a9aa6b79.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 빛나는 버러지 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43981&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43981&amp;Tab=2</guid>
-            <pubDate>Thu, 08 Dec 2022 15:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.09 ~ 2022.12.31 | 2023.01.03 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221208/20221208-0b2afd3a-fd71-4ccb-a5f6-814583e57f5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 한국사 대모험 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44297&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44297&amp;Tab=3</guid>
@@ -64,20 +56,27 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221207/20221207-edb8e4b6-eef7-40a8-bd37-c2f8d3e8fc6b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오페레타 뮤지컬 판타지아 시즌2 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43903&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43903&amp;Tab=2</guid>
-            <pubDate>Wed, 28 Dec 2022 15:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06 ~ 2022.12.31 | 2023.01.03 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221207/20221207-61305625-4c02-4570-b729-3503329faa51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 캣츠 - 부산 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44062&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44062&amp;Tab=3</guid>
             <pubDate>Fri, 30 Dec 2022 15:16:00 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.18 ~ 2023.01.05 | 2023.01.06 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221118/20221118-0fa9aaeb-48db-49cd-917b-e22f8b8fdac5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캣츠 - 서울 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43998&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43998&amp;Tab=3</guid>
+            <pubDate>Sat, 31 Dec 2022 15:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.10 ~ 2023.01.19 | 2023.01.20 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202211/20221110/20221110-224d2ae5-3974-4bc1-a8f2-3194cef86384.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Sat, 31 Dec 2022 15:14:20 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
