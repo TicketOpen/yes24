@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2023-01-01T14:13:49.040Z</updated>
+    <updated>2023-01-01T15:15:10.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
     <entry>
@@ -12,13 +12,6 @@
         <updated>2022-11-16T17:37:52.028Z</updated>
         <content type="html"><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[태양의서커스 뉴 알레그리아] 1만원 할인 쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2022-11-16T17:37:52.028Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2022.12.22 ~ 2023.01.01</dd><dt>사용기간</dt><dd>2022.12.22 ~ 2023.01.01</dd>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인]]></title>

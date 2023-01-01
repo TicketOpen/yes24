@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 14:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 15:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 19 Dec 2022 08:20:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.19 ~ 2023.01.31 | 2023.02.01 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221219/20221219-accc8fb9-7f4a-4b6a-9d68-f69b27c262ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 해피홀리데이]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3378</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3378</guid>
-            <pubDate>Wed, 21 Dec 2022 01:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.19 ~ 2023.01.01]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221219/20221219-0c64e4ca-e37a-41d2-adc7-2d381ccf8145.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 웨이스티드 관람후기 이벤트]]></title>
@@ -77,6 +69,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Sat, 31 Dec 2022 15:14:20 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 01 Jan 2023 15:14:46 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
