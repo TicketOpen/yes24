@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-01-02T02:38:08.661Z</updated>
+    <updated>2023-01-02T03:17:21.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈결투〉 프리뷰 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12592&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12592&amp;order=1"/>
+        <updated>2023-01-02T03:16:39.603Z</updated>
+        <content type="html"><![CDATA[2023-01-06(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<2023 인 하우스 아티스트 시리즈 I. 이진상 & II. 윤소영> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12591&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12583&amp;order=1"/>
         <updated>2022-12-27T04:18:26.913Z</updated>
         <content type="html"><![CDATA[2023-01-04(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 HAPPY KAI-DAY 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12582&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12582&amp;order=1"/>
-        <updated>2022-12-27T04:18:26.913Z</updated>
-        <content type="html"><![CDATA[2023-01-02(월) 20:00]]></content>
     </entry>
 </feed>
