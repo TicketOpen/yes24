@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-01-03T06:19:09.154Z</updated>
+    <updated>2023-01-03T07:14:45.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 연극 <친정엄마와 2박3일 - 창원> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12598</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12598"/>
+        <updated>2023-01-03T07:13:50.102Z</updated>
+        <content type="html"><![CDATA[2023.01.05(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[성남] 2023 이미자 노래인생 60주년 기념 음악회 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12597</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12579"/>
         <updated>2022-12-26T05:14:05.482Z</updated>
         <content type="html"><![CDATA[2022.12.27(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매뮤지컬 〈앨리스〉 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12578</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12578"/>
-        <updated>2022-12-26T05:14:05.484Z</updated>
-        <content type="html"><![CDATA[2022.12.29(목) 14:00]]></content>
     </entry>
 </feed>
