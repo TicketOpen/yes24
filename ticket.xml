@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-01-09T07:15:27.387Z</updated>
+    <updated>2023-01-09T08:20:52.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다큐멘터리음악극 <1919필라델피아> 창원초청공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12620</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12620"/>
+        <updated>2023-01-09T08:19:48.065Z</updated>
+        <content type="html"><![CDATA[2023.01.10(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드레스덴 슈타츠카펠레 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12615</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12597"/>
         <updated>2023-01-03T06:18:07.113Z</updated>
         <content type="html"><![CDATA[2023.01.05(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주] 뮤지컬 [브로드웨이 42번가] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12596</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12596"/>
-        <updated>2023-01-03T05:13:30.790Z</updated>
-        <content type="html"><![CDATA[2023.01.06(금) 16:00]]></content>
     </entry>
 </feed>
