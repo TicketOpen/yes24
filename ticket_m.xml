@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-01-11T09:19:06.998Z</updated>
+    <updated>2023-01-11T10:20:23.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 <티티체리 - 용의 생일파티를 도와라!〉- 고양 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12637&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12637&amp;order=1"/>
+        <updated>2023-01-11T10:19:40.536Z</updated>
+        <content type="html"><![CDATA[2023-01-16(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MPMG WEEK 2023：[78AVENUE] 78LIVE - 구만(9.10000) 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12636&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12628&amp;order=1"/>
         <updated>2023-01-10T08:20:24.526Z</updated>
         <content type="html"><![CDATA[2023-01-18(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오리지널 과학마술콘서트 - 제주 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12627&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12627&amp;order=1"/>
-        <updated>2023-01-10T07:13:49.209Z</updated>
-        <content type="html"><![CDATA[2023-01-13(금) 18:00]]></content>
     </entry>
 </feed>
