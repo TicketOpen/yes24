@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-01-12T06:20:18.490Z</updated>
+    <updated>2023-01-12T07:15:43.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈윌리엄과 윌리엄의 윌리엄들〉 프리뷰 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12640</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12640"/>
+        <updated>2023-01-12T07:14:37.187Z</updated>
+        <content type="html"><![CDATA[2023.01.18(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 우리동네공룡 〉- 세종 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12639</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12621"/>
         <updated>2023-01-10T05:13:35.491Z</updated>
         <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다큐멘터리음악극 [1919 필라델피아] 창원초청공연 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12620</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12620"/>
-        <updated>2023-01-09T08:19:48.065Z</updated>
-        <content type="html"><![CDATA[2023.01.10(화) 14:00]]></content>
     </entry>
 </feed>
