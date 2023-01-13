@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-01-13T03:30:37.144Z</updated>
+    <updated>2023-01-13T04:22:36.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2023 LEE JIN HYUK LIVE CONCERT [4eVer] 티켓 오픈 공지]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12647</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12647"/>
+        <updated>2023-01-13T04:21:37.098Z</updated>
+        <content type="html"><![CDATA[2023.01.18(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.01.16(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사샤 알렉스 슬론 내한공연 (Sasha Alex Sloan Live in Seoul) 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12644</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12626"/>
         <updated>2023-01-10T07:13:41.011Z</updated>
         <content type="html"><![CDATA[2023.01.17(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2023 WayV Fanmeeting Tour [Phantom] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12625</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12625"/>
-        <updated>2023-01-10T04:18:48.421Z</updated>
-        <content type="html"><![CDATA[2023.01.18(수) 18:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.01.17(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

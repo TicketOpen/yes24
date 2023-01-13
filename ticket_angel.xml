@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 03:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 04:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 브로드웨이 42번가 - 부산]]></title>
+            <link>http://ticket.yes24.com/Perf/44175</link>
+            <guid>http://ticket.yes24.com/Perf/44175</guid>
+            <pubDate>Mon, 09 Jan 2023 02:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									100,000원								</td>								<td class="dc_price">									<em>→</em>67,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230109/20230109-44175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 서툰 사람들]]></title>
             <link>http://ticket.yes24.com/Perf/43929</link>
@@ -14,14 +22,6 @@
             <pubDate>Mon, 09 Jan 2023 02:39:03 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>25,100원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230109/20230109-43929.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 에쿠우스]]></title>
-            <link>http://ticket.yes24.com/Perf/43490</link>
-            <guid>http://ticket.yes24.com/Perf/43490</guid>
-            <pubDate>Mon, 09 Jan 2023 02:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230109/20230109-43490.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 미수]]></title>
@@ -32,20 +32,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230109/20230109-43907.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 브로드웨이 42번가 - 부산]]></title>
-            <link>http://ticket.yes24.com/Perf/44175</link>
-            <guid>http://ticket.yes24.com/Perf/44175</guid>
-            <pubDate>Mon, 09 Jan 2023 02:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									100,000원								</td>								<td class="dc_price">									<em>→</em>67,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230109/20230109-44175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 소크라테스 패러독스]]></title>
             <link>http://ticket.yes24.com/Perf/44104</link>
             <guid>http://ticket.yes24.com/Perf/44104</guid>
             <pubDate>Mon, 09 Jan 2023 02:39:03 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230109/20230109-44104.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 에쿠우스]]></title>
+            <link>http://ticket.yes24.com/Perf/43490</link>
+            <guid>http://ticket.yes24.com/Perf/43490</guid>
+            <pubDate>Mon, 09 Jan 2023 02:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230109/20230109-43490.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
