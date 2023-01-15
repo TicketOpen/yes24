@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 23:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 01:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230109/20230109-44104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 에쿠우스 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/43490</link>
+            <guid>http://ticket.yes24.com/Perf/43490</guid>
+            <pubDate>Mon, 09 Jan 2023 02:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230109/20230109-43490.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 미수 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/43907</link>
             <guid>http://ticket.yes24.com/Perf/43907</guid>
@@ -240,14 +248,6 @@
             <pubDate>Mon, 09 Jan 2023 02:39:03 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>S석								</td>								<td class="price">									100,000원								</td>								<td class="dc_price">									<em>→</em>67,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230109/20230109-44175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 에쿠우스 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/43490</link>
-            <guid>http://ticket.yes24.com/Perf/43490</guid>
-            <pubDate>Mon, 09 Jan 2023 02:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230109/20230109-43490.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 서툰 사람들 (YES24 티켓 ─ 엔젤티켓)]]></title>
