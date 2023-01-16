@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-01-16T01:13:44.678Z</updated>
+    <updated>2023-01-16T02:43:14.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022-23 임재범 전국투어 콘서트 - 인천 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12659</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12659"/>
+        <updated>2023-01-16T02:42:12.359Z</updated>
+        <content type="html"><![CDATA[2023.01.19(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포터 로빈슨 내한공연 (Porter Robinson Live in Seoul) 티켓 오픈 공지]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12657</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12637"/>
         <updated>2023-01-11T10:19:33.111Z</updated>
         <content type="html"><![CDATA[2023.01.16(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매MPMG WEEK 2023：[78AVENUE] 78LIVE - 구만(9.10000) 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12636</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12636"/>
-        <updated>2023-01-11T09:18:07.928Z</updated>
-        <content type="html"><![CDATA[2023.01.19(목) 18:00]]></content>
     </entry>
 </feed>
