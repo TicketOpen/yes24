@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 22:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 23:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,14 +226,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230116/20230116-44048.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부산] 뮤지컬 ＜드라큘라＞ (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/44316</link>
-            <guid>http://ticket.yes24.com/Perf/44316</guid>
-            <pubDate>Mon, 16 Jan 2023 01:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									130,000원								</td>								<td class="dc_price">									<em>→</em>88,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230116/20230116-44316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 설민석의 한국사 대모험 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/44297</link>
             <guid>http://ticket.yes24.com/Perf/44297</guid>
@@ -256,6 +248,14 @@
             <pubDate>Mon, 16 Jan 2023 01:13:05 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230116/20230116-44090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 뮤지컬 ＜드라큘라＞ (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/44316</link>
+            <guid>http://ticket.yes24.com/Perf/44316</guid>
+            <pubDate>Mon, 16 Jan 2023 01:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									130,000원								</td>								<td class="dc_price">									<em>→</em>88,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230116/20230116-44316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 루드윅 : 베토벤 더 피아노 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
