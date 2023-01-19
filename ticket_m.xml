@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-01-19T04:20:58.481Z</updated>
+    <updated>2023-01-19T05:15:46.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 호프:읽히지 않은 책과 읽히지 않은 인생] 첫 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12666&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12666&amp;order=1"/>
+        <updated>2023-01-19T05:14:56.192Z</updated>
+        <content type="html"><![CDATA[2023-01-26(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문가영 첫번째 팬미팅〈Chapter 0〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12665&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12657&amp;order=1"/>
         <updated>2023-01-16T01:12:57.057Z</updated>
         <content type="html"><![CDATA[2023-01-20(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 10th Anniversary 부산공연 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12656&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12656&amp;order=1"/>
-        <updated>2023-01-16T01:12:57.057Z</updated>
-        <content type="html"><![CDATA[2023-01-20(금) 14:00]]></content>
     </entry>
 </feed>
