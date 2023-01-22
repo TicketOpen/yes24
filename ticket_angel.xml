@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 07:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 08:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Mon, 16 Jan 2023 01:13:05 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									130,000원								</td>								<td class="dc_price">									<em>→</em>88,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230116/20230116-44316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 [넓은 하늘의 무지개를 보면 내 마음은 춤춘다]]]></title>
+            <link>http://ticket.yes24.com/Perf/44098</link>
+            <guid>http://ticket.yes24.com/Perf/44098</guid>
+            <pubDate>Mon, 16 Jan 2023 01:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>25,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230116/20230116-44098.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 설민석의 한국사 대모험]]></title>
+            <link>http://ticket.yes24.com/Perf/44297</link>
+            <guid>http://ticket.yes24.com/Perf/44297</guid>
+            <pubDate>Mon, 16 Jan 2023 01:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230116/20230116-44297.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음악극 올드위키드송 (Old Wicked Songs)]]></title>
@@ -30,22 +46,6 @@
             <pubDate>Mon, 16 Jan 2023 01:13:05 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230116/20230116-44090.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 설민석의 한국사 대모험]]></title>
-            <link>http://ticket.yes24.com/Perf/44297</link>
-            <guid>http://ticket.yes24.com/Perf/44297</guid>
-            <pubDate>Mon, 16 Jan 2023 01:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230116/20230116-44297.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 [넓은 하늘의 무지개를 보면 내 마음은 춤춘다]]]></title>
-            <link>http://ticket.yes24.com/Perf/44098</link>
-            <guid>http://ticket.yes24.com/Perf/44098</guid>
-            <pubDate>Mon, 16 Jan 2023 01:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>25,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230116/20230116-44098.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
