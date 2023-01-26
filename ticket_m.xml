@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-01-26T04:19:15.259Z</updated>
+    <updated>2023-01-26T05:15:31.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <셰익스피어 인 러브> 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12691&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12691&amp;order=1"/>
+        <updated>2023-01-26T05:14:42.696Z</updated>
+        <content type="html"><![CDATA[2023-02-01(수) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈루드윅 : 베토벤 더 피아노〉 마지막 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12690&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12690&amp;order=1"/>
+        <updated>2023-01-26T05:14:42.723Z</updated>
+        <content type="html"><![CDATA[2023-01-30(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<2023 매일클래식과 함께하는 엘 콘서트> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12689&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12689&amp;order=1"/>
+        <updated>2023-01-26T05:14:42.725Z</updated>
+        <content type="html"><![CDATA[2023-01-31(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 뮤지컬 〈은밀하게 위대하게:THE LAST〉 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12688&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12682&amp;order=1"/>
         <updated>2023-01-20T06:19:31.305Z</updated>
         <content type="html"><![CDATA[2023-01-30(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈어린왕자〉 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12681&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12681&amp;order=1"/>
-        <updated>2023-01-20T05:14:57.835Z</updated>
-        <content type="html"><![CDATA[2023-01-27(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mr.아보카도 발렌타인 콘서트(20세 이상 관람가) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12680&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12680&amp;order=1"/>
-        <updated>2023-01-20T03:19:05.657Z</updated>
-        <content type="html"><![CDATA[2023-01-26(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sum 41 Live in Seoul (썸 41 내한공연) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12679&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12679&amp;order=1"/>
-        <updated>2023-01-20T03:19:05.657Z</updated>
-        <content type="html"><![CDATA[2023-02-02(목) 18:00]]></content>
     </entry>
 </feed>
