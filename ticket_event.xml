@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 14:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 15:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,22 +40,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202301/20230117/20230117-17f030e1-1426-4a0f-898e-d1ed36b8fe77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[음악극 올드위키드송 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44048&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44048&amp;Tab=2</guid>
-            <pubDate>Mon, 02 Jan 2023 05:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.02 ~ 2023.01.29 | 2023.01.30 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202301/20230102/20230102-156b3d84-97d1-473b-939b-343a67ac9c6b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 서툰 사람들 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43929&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43929&amp;Tab=2</guid>
-            <pubDate>Tue, 20 Dec 2022 05:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.20 ~ 2023.01.29 | 2023.01.31 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221220/20221220-9a380389-392a-4630-8a7c-71a8e080b674.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 넓은 하늘의 무지개를 보면 내 마음은 춤춘다 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44098&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44098&amp;Tab=2</guid>
@@ -78,6 +62,20 @@
             <pubDate>Mon, 12 Dec 2022 10:17:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.12 ~ 2023.01.30 | 2023.02.01 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221213/20221213-d4435ec9-9623-4d7b-91dc-cb00a9aa6b79.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Sun, 29 Jan 2023 15:14:38 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 29 Jan 2023 15:14:38 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

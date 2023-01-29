@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 ─ 엔젤티켓</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 14:14:03 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 웨이스티드]]></title>
-            <link>http://ticket.yes24.com/Perf/43948</link>
-            <guid>http://ticket.yes24.com/Perf/43948</guid>
-            <pubDate>Mon, 23 Jan 2023 01:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230125/20230125-43948_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 로빈]]></title>
-            <link>http://ticket.yes24.com/Perf/44163</link>
-            <guid>http://ticket.yes24.com/Perf/44163</guid>
-            <pubDate>Mon, 23 Jan 2023 01:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>40,500원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230125/20230125-44163.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ticket.yes24.com/Pages/Events/HotEvent/PromotionInfo.aspx?id=2577</id>
+    <title>YES24 티켓 ─ 엔젤티켓</title>
+    <updated>2023-01-29T15:15:02.145Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://ticket.yes24.com/Pages/Events/HotEvent/favicon.ico</icon>
+</feed>
