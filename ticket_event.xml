@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 14:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 15:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221214/20221214-40249639-67cd-49dd-992d-c2686411b067.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 루쓰 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44355&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44355&amp;Tab=3</guid>
-            <pubDate>Mon, 12 Dec 2022 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.12 ~ 2023.01.30 | 2023.02.01 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221213/20221213-d4435ec9-9623-4d7b-91dc-cb00a9aa6b79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NEW출석체크]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
@@ -76,6 +68,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Sun, 29 Jan 2023 15:14:38 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Mon, 30 Jan 2023 15:16:40 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
