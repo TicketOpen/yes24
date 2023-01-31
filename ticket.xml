@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-01-31T03:18:37.379Z</updated>
+    <updated>2023-01-31T04:19:08.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매연극 <세상친구> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12704</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12704"/>
+        <updated>2023-01-31T04:18:07.171Z</updated>
+        <content type="html"><![CDATA[2023.02.01(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 일상으로의 초대 - 고양 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12699</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12681"/>
         <updated>2023-01-20T05:14:49.728Z</updated>
         <content type="html"><![CDATA[2023.01.27(금) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2023.01.27(금) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Mr.아보카도 발렌타인 콘서트(20세 이상 관람가) 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12680</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12680"/>
-        <updated>2023-01-20T03:18:57.557Z</updated>
-        <content type="html"><![CDATA[2023.01.26(목) 11:00]]></content>
     </entry>
 </feed>
