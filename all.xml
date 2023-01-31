@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 14:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 15:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,14 +250,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202301/20230117/20230117-17f030e1-1426-4a0f-898e-d1ed36b8fe77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 넓은 하늘의 무지개를 보면 내 마음은 춤춘다 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44098&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44098&amp;Tab=2</guid>
-            <pubDate>Mon, 19 Dec 2022 08:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.19 ~ 2023.01.31 | 2023.02.01 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221219/20221219-accc8fb9-7f4a-4b6a-9d68-f69b27c262ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 웨이스티드 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43948&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43948&amp;Tab=2</guid>
@@ -286,6 +278,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Sun, 29 Jan 2023 15:14:38 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Tue, 31 Jan 2023 15:16:33 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.01.21 ~ 2023.02.26 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -318,14 +317,6 @@
             <pubDate>Mon, 30 Jan 2023 10:17:58 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>&lt;오페라의 유령&gt; 오리지널 OST]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202301/20230117/20230117-17f030e1-1426-4a0f-898e-d1ed36b8fe77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2022.12.19 ~ 2023.01.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=44098</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=44098</guid>
-            <pubDate>Mon, 30 Jan 2023 10:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2023년 2월 7일 (일) 20시 공연]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221219/20221219-accc8fb9-7f4a-4b6a-9d68-f69b27c262ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2022.12.14 ~ 2023.02.19 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -368,20 +359,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[뮤지컬 한국사 대모험] 개막기념 5천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2023.01.21 ~ 2023.01.31</dd><dt>사용기간</dt><dd>2023.01.21 ~ 2023.01.31</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[디오리지널 프렌치 갈라 뮤지컬 콘서트] 5천원 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2023.01.18 ~ 2023.01.31</dd><dt>사용기간</dt><dd>2023.01.18 ~ 2023.01.31</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[배고픈 소크라테스도... 와퍼는 먹는다 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -422,20 +399,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=42862</guid>
             <pubDate>Wed, 18 Jan 2023 08:21:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 4,600원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[디오리지널 프렌치 갈라 뮤지컬 콘서트] 5천원 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=42863</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=42863</guid>
-            <pubDate>Thu, 19 Jan 2023 07:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 한국사 대모험] 개막기념 5천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=42880</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=42880</guid>
-            <pubDate>Sat, 21 Jan 2023 04:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
