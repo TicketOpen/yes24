@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 09:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 10:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 30 Jan 2023 10:17:58 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>전 배우 사인 프로그램북 1권]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221214/20221214-40249639-67cd-49dd-992d-c2686411b067.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2022.12.12 ~ 2023.04.04]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=44355</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=44355</guid>
+            <pubDate>Tue, 31 Jan 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>슈바넨가르텐 화장품 세트 (28만원상당)]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221213/20221213-d4435ec9-9623-4d7b-91dc-cb00a9aa6b79.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2019.08.09 ~ 2026.08.31]]></title>
