@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-02-07T07:15:17.031Z</updated>
+    <updated>2023-02-07T08:20:25.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산]플레이뮤지컬 핑크퐁과 아기상어의 생일파티 대소동 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12722&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12722&amp;order=1"/>
+        <updated>2023-02-07T08:19:34.629Z</updated>
+        <content type="html"><![CDATA[2023-02-10(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<2023 세종시즌> 프로그램 개별 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12721&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12712&amp;order=1"/>
         <updated>2023-02-02T21:13:29.641Z</updated>
         <content type="html"><![CDATA[2023-02-07(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 위아페 WE ARE FESTIVAL 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12711&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12711&amp;order=1"/>
-        <updated>2023-02-02T21:13:29.643Z</updated>
-        <content type="html"><![CDATA[2023-02-03(금) 12:00]]></content>
     </entry>
 </feed>
