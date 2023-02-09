@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-02-09T07:16:07.121Z</updated>
+    <updated>2023-02-09T08:21:18.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <셰익스피어 인 러브> 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12729</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12729"/>
+        <updated>2023-02-09T08:20:23.061Z</updated>
+        <content type="html"><![CDATA[2023.02.15(수) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <포쉬> 프리뷰 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12728</id>
@@ -135,12 +142,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12709</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12709"/>
         <updated>2023-02-01T09:15:45.400Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전]어린이뮤지컬 티티체리 - 용의 생일파티를 도와라 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12708</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12708"/>
-        <updated>2023-02-01T08:19:32.983Z</updated>
-        <content type="html"><![CDATA[2023.02.06(월) 10:00]]></content>
     </entry>
 </feed>

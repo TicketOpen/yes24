@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-02-09T07:16:07.123Z</updated>
+    <updated>2023-02-09T08:21:18.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <셰익스피어 인 러브> 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12729&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12729&amp;order=1"/>
+        <updated>2023-02-09T08:20:30.573Z</updated>
+        <content type="html"><![CDATA[2023-02-15(수) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <포쉬> 프리뷰 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12728&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12718&amp;order=1"/>
         <updated>2023-02-03T05:14:58.020Z</updated>
         <content type="html"><![CDATA[2023-02-07(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프랑스 고음악 앙상블 디드로 & 소프라노 최윤정 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12717&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12717&amp;order=1"/>
-        <updated>2023-02-02T21:13:29.609Z</updated>
-        <content type="html"><![CDATA[2023-02-08(수) 14:00]]></content>
     </entry>
 </feed>
