@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 04:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 05:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,22 +217,6 @@
             <content:encoded><![CDATA[2023-02-09(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 넓은 하늘의 무지개를 보면 내 마음은 춤춘다 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/44098</link>
-            <guid>http://ticket.yes24.com/Perf/44098</guid>
-            <pubDate>Mon, 06 Feb 2023 02:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>25,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44098.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악극 올드 위키드 송 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/44048</link>
-            <guid>http://ticket.yes24.com/Perf/44048</guid>
-            <pubDate>Mon, 06 Feb 2023 02:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>36,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44048.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 소크라테스 패러독스 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/44104</link>
             <guid>http://ticket.yes24.com/Perf/44104</guid>
@@ -241,12 +225,28 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 넓은 하늘의 무지개를 보면 내 마음은 춤춘다 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/44098</link>
+            <guid>http://ticket.yes24.com/Perf/44098</guid>
+            <pubDate>Mon, 06 Feb 2023 02:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>25,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44098.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 앨리스 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/44525</link>
             <guid>http://ticket.yes24.com/Perf/44525</guid>
             <pubDate>Mon, 06 Feb 2023 02:39:26 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>27,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44525.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음악극 올드 위키드 송 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/44048</link>
+            <guid>http://ticket.yes24.com/Perf/44048</guid>
+            <pubDate>Mon, 06 Feb 2023 02:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>36,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44048.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 드라큘라 - 대구 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -268,15 +268,15 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44048.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 앨리스 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/44525</link>
-            <guid>http://m.ticket.yes24.com/Perf/44525</guid>
+            <title><![CDATA[뮤지컬 소크라테스 패러독스 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/44104</link>
+            <guid>http://m.ticket.yes24.com/Perf/44104</guid>
             <pubDate>Mon, 06 Feb 2023 02:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 앨리스</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">15,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/7~2/15 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44525.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 소크라테스 패러독스</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">28,400원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/7~2/26 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 넓은 하늘의 무지개를 보면 내 마음은 춤춘다 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -290,17 +290,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44098.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 소크라테스 패러독스 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/44104</link>
-            <guid>http://m.ticket.yes24.com/Perf/44104</guid>
-            <pubDate>Mon, 06 Feb 2023 02:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 소크라테스 패러독스</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">28,400원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/7~2/26 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 드라큘라 - 대구 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/44651</link>
             <guid>http://m.ticket.yes24.com/Perf/44651</guid>
@@ -310,6 +299,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">43,100원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44651.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 앨리스 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/44525</link>
+            <guid>http://m.ticket.yes24.com/Perf/44525</guid>
+            <pubDate>Mon, 06 Feb 2023 02:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 앨리스</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">15,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/7~2/15 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44525.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <어린왕자> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
