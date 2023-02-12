@@ -4,9 +4,31 @@
         <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 10:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 11:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 소크라테스 패러독스]]></title>
+            <link>http://m.ticket.yes24.com/Perf/44104</link>
+            <guid>http://m.ticket.yes24.com/Perf/44104</guid>
+            <pubDate>Mon, 06 Feb 2023 02:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 소크라테스 패러독스</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">28,400원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/7~2/26 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44104.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 앨리스]]></title>
+            <link>http://m.ticket.yes24.com/Perf/44525</link>
+            <guid>http://m.ticket.yes24.com/Perf/44525</guid>
+            <pubDate>Mon, 06 Feb 2023 02:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 앨리스</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">15,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/7~2/15 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44525.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악극 올드위키드송]]></title>
             <link>http://m.ticket.yes24.com/Perf/44048</link>
@@ -28,28 +50,6 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">43,100원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 앨리스]]></title>
-            <link>http://m.ticket.yes24.com/Perf/44525</link>
-            <guid>http://m.ticket.yes24.com/Perf/44525</guid>
-            <pubDate>Mon, 06 Feb 2023 02:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 앨리스</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">15,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/7~2/15 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44525.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 소크라테스 패러독스]]></title>
-            <link>http://m.ticket.yes24.com/Perf/44104</link>
-            <guid>http://m.ticket.yes24.com/Perf/44104</guid>
-            <pubDate>Mon, 06 Feb 2023 02:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 소크라테스 패러독스</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">28,400원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/7~2/26 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230206/20230206-44104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 넓은 하늘의 무지개를 보면 내 마음은 춤춘다]]></title>
