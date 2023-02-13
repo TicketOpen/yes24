@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 06:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 07:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 [그새끼] 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12739</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12739</guid>
+            <pubDate>Mon, 13 Feb 2023 07:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.20(월) 12:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[단독판매[대전] 2023 빅 3 ˝행복한 만남˝ 콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12738</link>
@@ -140,11 +147,11 @@
             <pubDate>Fri, 03 Feb 2023 06:20:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈인터뷰〉 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12718</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12718</guid>
-            <pubDate>Fri, 03 Feb 2023 05:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.07(화) 11:00]]></content:encoded>
+            <title><![CDATA[연극 [그새끼] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12739&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12739&amp;order=1</guid>
+            <pubDate>Mon, 13 Feb 2023 07:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023-02-20(월) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대전] 2023 빅 3 ˝행복한 만남˝ 콘서트 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -210,11 +217,12 @@
             <content:encoded><![CDATA[2023-02-15(수) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 <셰익스피어 인 러브> 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12729&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12729&amp;order=1</guid>
-            <pubDate>Thu, 09 Feb 2023 08:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[2023-02-15(수) 13:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 설민석의 한국사 대모험 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/44297</link>
+            <guid>http://ticket.yes24.com/Perf/44297</guid>
+            <pubDate>Mon, 13 Feb 2023 02:47:21 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230213/20230213-44297.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈루드윅 : 베토벤 더 피아노〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -231,14 +239,6 @@
             <pubDate>Mon, 13 Feb 2023 01:17:02 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230213/20230213-43948.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 설민석의 한국사 대모험 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/44297</link>
-            <guid>http://ticket.yes24.com/Perf/44297</guid>
-            <pubDate>Mon, 13 Feb 2023 02:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230213/20230213-44297.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 웨이스티드 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
