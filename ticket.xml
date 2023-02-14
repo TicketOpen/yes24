@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-02-13T23:17:31.943Z</updated>
+    <updated>2023-02-14T01:17:57.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매reGretGirl 내한공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12742</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12742"/>
+        <updated>2023-02-14T01:17:02.416Z</updated>
+        <content type="html"><![CDATA[2023.02.20(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오페라 모차르트 <마술피리> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12741</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12723"/>
         <updated>2023-02-07T10:16:57.918Z</updated>
         <content type="html"><![CDATA[2023.02.09(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산]플레이뮤지컬 핑크퐁과 아기상어의 생일파티 대소동 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12722</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12722"/>
-        <updated>2023-02-07T08:19:25.967Z</updated>
-        <content type="html"><![CDATA[2023.02.10(금) 10:00]]></content>
     </entry>
 </feed>
