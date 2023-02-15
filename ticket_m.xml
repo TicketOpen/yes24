@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-02-15T01:18:27.683Z</updated>
+    <updated>2023-02-15T02:50:37.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일리야 라쉬코프스키 피아노 리사이틀 ＂열정＂ 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12747&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12747&amp;order=1"/>
+        <updated>2023-02-15T02:49:46.967Z</updated>
+        <content type="html"><![CDATA[2023-02-22(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테일즈위버 디 오케스트라 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12746&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12746&amp;order=1"/>
+        <updated>2023-02-15T02:49:46.972Z</updated>
+        <content type="html"><![CDATA[2023-02-17(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KIMCHIKURA VOL.09 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12745&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12737&amp;order=1"/>
         <updated>2023-02-13T05:15:13.357Z</updated>
         <content type="html"><![CDATA[2023-02-16(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알로 파크스 내한공연 ARLO PARKS LIVE IN SEOUL 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12736&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12736&amp;order=1"/>
-        <updated>2023-02-13T03:21:12.651Z</updated>
-        <content type="html"><![CDATA[2023-02-20(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비 앵콜 콘서트 [와주시면 안 될까요?] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12735&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12735&amp;order=1"/>
-        <updated>2023-02-13T02:47:13.582Z</updated>
-        <content type="html"><![CDATA[2023-02-21(화) 20:00]]></content>
     </entry>
 </feed>
