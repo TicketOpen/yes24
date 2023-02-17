@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 01:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 02:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -97,7 +97,7 @@
             <content:encoded><![CDATA[2023.02.15(수) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매[대전] 2023 빅 3 ˝행복한 만남˝ 콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <title><![CDATA[[대전] 2023 빅 3 ˝행복한 만남˝ 콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12738</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12738</guid>
             <pubDate>Mon, 13 Feb 2023 05:15:04 GMT</pubDate>
@@ -251,17 +251,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230213/20230213-44090.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 웨이스티드 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/43948</link>
-            <guid>http://m.ticket.yes24.com/Perf/43948</guid>
-            <pubDate>Mon, 13 Feb 2023 02:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 웨이스티드</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,800원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/14~2/23</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230213/20230213-43948.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 설민석의 한국사 대모험 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/44297</link>
             <guid>http://m.ticket.yes24.com/Perf/44297</guid>
@@ -271,6 +260,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">10,800원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230213/20230213-44297.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 웨이스티드 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/43948</link>
+            <guid>http://m.ticket.yes24.com/Perf/43948</guid>
+            <pubDate>Mon, 13 Feb 2023 02:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 웨이스티드</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,800원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/14~2/23</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230213/20230213-43948.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <미드나잇: 앤틀러스> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
