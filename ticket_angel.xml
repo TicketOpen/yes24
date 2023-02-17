@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 16:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 17:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230213/20230213-44297.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈웨이스티드〉 : 연극열전9_네 번째 작품]]></title>
-            <link>http://ticket.yes24.com/Perf/43948</link>
-            <guid>http://ticket.yes24.com/Perf/43948</guid>
-            <pubDate>Mon, 13 Feb 2023 01:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230213/20230213-43948.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈루드윅 : 베토벤 더 피아노〉]]></title>
             <link>http://ticket.yes24.com/Perf/44090</link>
             <guid>http://ticket.yes24.com/Perf/44090</guid>
             <pubDate>Mon, 13 Feb 2023 01:17:02 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230213/20230213-44090.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈웨이스티드〉 : 연극열전9_네 번째 작품]]></title>
+            <link>http://ticket.yes24.com/Perf/43948</link>
+            <guid>http://ticket.yes24.com/Perf/43948</guid>
+            <pubDate>Mon, 13 Feb 2023 01:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230213/20230213-43948.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
