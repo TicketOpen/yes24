@@ -1,8 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
-    <title>YES24 티켓 ─ 이벤트</title>
-    <updated>2023-02-18T23:16:23.167Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 이벤트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 19 Feb 2023 01:19:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <미드나잇: 앤틀러스> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44374&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44374&amp;Tab=2</guid>
+            <pubDate>Sun, 19 Feb 2023 01:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.31 ~ 2023.02.20 | 2023.02.24 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202302/20230203/20230203-0451e4bd-e43c-4598-b56e-c2e6dd3d3969.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 설민석의 한국사 대모험 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44297&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44297&amp;Tab=2</guid>
+            <pubDate>Sun, 19 Feb 2023 01:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.21 ~ 2023.02.26 | 2023.02.28 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202301/20230126/20230126-b145115b-5c44-41ce-956f-b61d338ae582.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 윌리엄과 윌리엄의 윌리엄들]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44690&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44690&amp;Tab=3</guid>
+            <pubDate>Sun, 19 Feb 2023 01:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.18 ~ 2023.03.07 | 2023.03.10 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202301/20230118/20230118-1756655b-b50a-473a-85c8-976052cc82aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 오페라의 유령 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44653&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44653&amp;Tab=3</guid>
+            <pubDate>Sun, 19 Feb 2023 01:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.17 ~ 2023.03.24 | 2023.03.27 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202301/20230117/20230117-17f030e1-1426-4a0f-898e-d1ed36b8fe77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 웨이스티드 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43948&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=43948&amp;Tab=2</guid>
+            <pubDate>Sun, 19 Feb 2023 01:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14 ~ 2023.02.19 | 2023.02.20 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202212/20221214/20221214-40249639-67cd-49dd-992d-c2686411b067.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 루쓰 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44355&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44355&amp;Tab=3</guid>
+            <pubDate>Sun, 19 Feb 2023 01:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.06 ~ 2023.03.03 | 2023.03.07 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202302/20230206/20230206-86d5acec-2bb8-49dc-aba7-9ce297f6a9ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Sun, 19 Feb 2023 01:19:08 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 19 Feb 2023 01:19:08 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Sun, 19 Feb 2023 01:19:08 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
