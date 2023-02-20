@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://ticket.yes24.com/Pages/Events/HotEvent/PromotionInfo.aspx?id=2577</id>
-    <title>YES24 티켓 ─ 엔젤티켓</title>
-    <updated>2023-02-19T23:17:34.885Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://ticket.yes24.com/Pages/Events/HotEvent/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 엔젤티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 20 Feb 2023 01:18:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈로빈〉]]></title>
+            <link>http://ticket.yes24.com/Perf/44163</link>
+            <guid>http://ticket.yes24.com/Perf/44163</guid>
+            <pubDate>Mon, 20 Feb 2023 01:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>42,900원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230130/20230130-44163.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 [연애하기좋은날] - 대학로 아티스탄홀]]></title>
+            <link>http://ticket.yes24.com/Perf/34882</link>
+            <guid>http://ticket.yes24.com/Perf/34882</guid>
+            <pubDate>Mon, 20 Feb 2023 01:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>12,000원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202301/20230119/20230119-34882.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
