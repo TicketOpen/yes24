@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 07:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 08:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12777</guid>
             <pubDate>Thu, 23 Feb 2023 07:16:26 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.06(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈브라더스 까라마조프〉 1차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12776</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12776</guid>
+            <pubDate>Thu, 23 Feb 2023 08:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.27(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈고고다이노 우리동네공룡 〉- 인천 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -141,18 +148,18 @@
             <content:encoded><![CDATA[2023.02.22(수) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <캣츠> 오리지널 내한 - 울산 (Musical CATS) 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12757</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12757</guid>
-            <pubDate>Mon, 20 Feb 2023 05:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.22(수) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2023 장사익소리판 사람이 사람을 만나 - 창원 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12777&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12777&amp;order=1</guid>
             <pubDate>Thu, 23 Feb 2023 07:16:35 GMT</pubDate>
             <content:encoded><![CDATA[2023-03-06(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈브라더스 까라마조프〉 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12776&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12776&amp;order=1</guid>
+            <pubDate>Thu, 23 Feb 2023 08:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023-02-27(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈고고다이노 우리동네공룡 〉- 인천 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,21 +218,6 @@
             <content:encoded><![CDATA[2023-02-24(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈로빈〉 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12767&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12767&amp;order=1</guid>
-            <pubDate>Tue, 21 Feb 2023 05:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023-03-02(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [연애하기좋은날] - 대학로 아티스탄홀 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/34882</link>
-            <guid>http://ticket.yes24.com/Perf/34882</guid>
-            <pubDate>Mon, 20 Feb 2023 01:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230220/20230220-34882.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈로빈〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/44163</link>
             <guid>http://ticket.yes24.com/Perf/44163</guid>
@@ -234,15 +226,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230220/20230220-44163.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 로빈 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/44163</link>
-            <guid>http://m.ticket.yes24.com/Perf/44163</guid>
-            <pubDate>Mon, 20 Feb 2023 01:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 로빈</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">35</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">26,200원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/21~3/12 (일부 회차 제외)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230220/20230220-44163.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연극 [연애하기좋은날] - 대학로 아티스탄홀 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/34882</link>
+            <guid>http://ticket.yes24.com/Perf/34882</guid>
+            <pubDate>Mon, 20 Feb 2023 01:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230220/20230220-34882.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 연애하기 좋은 날 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -254,6 +243,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">9,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/201901/20190118/20190118-29218_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 로빈 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/44163</link>
+            <guid>http://m.ticket.yes24.com/Perf/44163</guid>
+            <pubDate>Mon, 20 Feb 2023 01:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 로빈</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">35</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">26,200원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/21~3/12 (일부 회차 제외)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230220/20230220-44163.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 설민석의 한국사 대모험 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
