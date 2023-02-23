@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-02-23T05:17:24.070Z</updated>
+    <updated>2023-02-23T06:21:39.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 우리동네공룡 〉- 인천 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12775</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12775"/>
+        <updated>2023-02-23T06:20:45.122Z</updated>
+        <content type="html"><![CDATA[2023.02.28(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <포쉬> 1차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12774</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12756"/>
         <updated>2023-02-20T04:19:21.991Z</updated>
         <content type="html"><![CDATA[2023.02.24(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 봄에 내리는 젠틀레인 -재즈로 듣는 영화음악- 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12755</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12755"/>
-        <updated>2023-02-20T03:21:23.485Z</updated>
-        <content type="html"><![CDATA[2023.02.20(월) 12:00]]></content>
     </entry>
 </feed>
