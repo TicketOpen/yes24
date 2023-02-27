@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-02-27T07:16:31.102Z</updated>
+    <updated>2023-02-27T08:22:46.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패밀리 서커스 〈이상한 나라의 앨리스〉 오리지널 내한공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12792</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12792"/>
+        <updated>2023-02-27T08:21:49.296Z</updated>
+        <content type="html"><![CDATA[2023.03.06(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리 서커스 〈이상한 나라의 앨리스〉 오리지널 내한공연 - 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12791</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12791"/>
+        <updated>2023-02-27T08:21:49.296Z</updated>
+        <content type="html"><![CDATA[2023.03.06(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이앨리 (MY ALLEY) 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12790</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12773"/>
         <updated>2023-02-22T09:16:34.459Z</updated>
         <content type="html"><![CDATA[2023.02.28(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷰티풀 민트 라이프 2023 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12772</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12772"/>
-        <updated>2023-02-22T09:16:34.463Z</updated>
-        <content type="html"><![CDATA[2023.02.27(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 서울예술단 창작뮤지컬 <신과 함께_저승편> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12771</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12771"/>
-        <updated>2023-02-22T05:14:54.975Z</updated>
-        <content type="html"><![CDATA[2023.03.10(금) 13:00]]></content>
     </entry>
 </feed>
