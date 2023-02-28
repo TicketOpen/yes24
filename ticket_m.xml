@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-02-28T04:22:07.068Z</updated>
+    <updated>2023-02-28T05:17:01.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈오페라의 유령〉 부산 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12793&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12793&amp;order=1"/>
+        <updated>2023-02-28T05:16:07.216Z</updated>
+        <content type="html"><![CDATA[2023-03-07(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패밀리 서커스 〈이상한 나라의 앨리스〉 오리지널 내한공연 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12792&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12784&amp;order=1"/>
         <updated>2023-02-24T06:20:58.565Z</updated>
         <content type="html"><![CDATA[2023-03-02(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈인터뷰〉 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12783&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12783&amp;order=1"/>
-        <updated>2023-02-24T02:47:40.923Z</updated>
-        <content type="html"><![CDATA[2023-02-28(화) 11:00]]></content>
     </entry>
 </feed>
