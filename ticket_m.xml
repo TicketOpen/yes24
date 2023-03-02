@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-03-02T01:21:57.119Z</updated>
+    <updated>2023-03-02T02:54:12.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다나카 1st 내한 콘서트 [꼬ㅊ보다 TANAKA] - 광주 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12797&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12797&amp;order=1"/>
+        <updated>2023-03-02T02:53:24.658Z</updated>
+        <content type="html"><![CDATA[2023-03-03(금) 21:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈결투〉 3차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12795&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12787&amp;order=1"/>
         <updated>2023-02-27T01:16:31.023Z</updated>
         <content type="html"><![CDATA[2023-03-03(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다나카 1st 내한 콘서트 [꼬ㅊ보다 TANAKA] - 인천 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12786&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12786&amp;order=1"/>
-        <updated>2023-02-27T01:16:31.024Z</updated>
-        <content type="html"><![CDATA[2023-03-03(금) 14:00]]></content>
     </entry>
 </feed>
