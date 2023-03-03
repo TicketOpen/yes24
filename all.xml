@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 05:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 06:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,12 +225,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230227/20230227-44798.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈루쓰〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/44355</link>
-            <guid>http://ticket.yes24.com/Perf/44355</guid>
+            <title><![CDATA[뮤지컬 〈어린왕자〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/44801</link>
+            <guid>http://ticket.yes24.com/Perf/44801</guid>
             <pubDate>Mon, 27 Feb 2023 01:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>102,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230227/20230227-44355.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>41,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230227/20230227-44801.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 [세상친구] (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -241,20 +241,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230227/20230227-44861.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈루쓰〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/44355</link>
+            <guid>http://ticket.yes24.com/Perf/44355</guid>
+            <pubDate>Mon, 27 Feb 2023 01:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>102,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230227/20230227-44355.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대학로 청소년연극[사춘기메들리] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/29266</link>
             <guid>http://ticket.yes24.com/Perf/29266</guid>
             <pubDate>Mon, 27 Feb 2023 01:16:40 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230227/20230227-29266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈어린왕자〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/44801</link>
-            <guid>http://ticket.yes24.com/Perf/44801</guid>
-            <pubDate>Mon, 27 Feb 2023 01:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>41,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230227/20230227-44801.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 세상친구 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -266,6 +266,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">36,100원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/27~3/10</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230227/20230227-44861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 루쓰 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/44355</link>
+            <guid>http://m.ticket.yes24.com/Perf/44355</guid>
+            <pubDate>Mon, 27 Feb 2023 01:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 루쓰</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">90,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">60,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/5~3/19 </div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230227/20230227-44355.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 호프 : 읽히지 않은 책과 읽히지 않은 인생 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -299,17 +310,6 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">32,800원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/4~4/2 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230227/20230227-44801.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 루쓰 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/44355</link>
-            <guid>http://m.ticket.yes24.com/Perf/44355</guid>
-            <pubDate>Mon, 27 Feb 2023 01:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 루쓰</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">90,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">60,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/5~3/19 </div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202302/20230227/20230227-44355.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러브썸 1차 티켓오픈 프로모션 (YES24 티켓 ─ 이벤트)]]></title>
@@ -436,6 +436,27 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[뮤지컬 루쓰] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Wed, 08 Feb 2023 15:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2023.03.03 ~ 2023.03.12</dd><dt>사용기간</dt><dd>2023.03.03 ~ 2023.03.12</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이 쿠폰 드리면, 행복해집니까? (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Wed, 08 Feb 2023 15:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2023.03.03 ~ 2023.03.12</dd><dt>사용기간</dt><dd>2023.03.03 ~ 2023.03.12</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[부탁이 있는데요,,, 3천원 쿠폰 하나만 그려줘 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Wed, 08 Feb 2023 15:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2023.03.03 ~ 2023.03.12</dd><dt>사용기간</dt><dd>2023.03.03 ~ 2023.03.12</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[뮤지컬 브로드웨이 42번가] 5천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -476,6 +497,27 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43000</guid>
             <pubDate>Sun, 12 Feb 2023 15:15:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 루쓰] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43159</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43159</guid>
+            <pubDate>Fri, 03 Mar 2023 06:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[부탁이 있는데요,,, 3천원 쿠폰 하나만 그려줘 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43150</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43150</guid>
+            <pubDate>Fri, 03 Mar 2023 06:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이 쿠폰 드리면, 행복해집니까? (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43151</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43151</guid>
+            <pubDate>Fri, 03 Mar 2023 06:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
