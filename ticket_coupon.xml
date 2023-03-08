@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2023-03-08T02:53:58.227Z</updated>
+    <updated>2023-03-08T03:24:50.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
     <entry>
@@ -12,6 +12,13 @@
         <updated>2023-02-08T15:16:57.945Z</updated>
         <content type="html"><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아일랜드 가문으로부터 온 감사 쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2023-02-08T15:16:57.945Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2023.03.08 ~ 2023.03.14</dd><dt>사용기간</dt><dd>2023.03.08 ~ 2023.03.14</dd>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[디오리지널] 새봄맞이 1만원 할인 쿠폰]]></title>
@@ -47,12 +54,5 @@
         <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
         <updated>2023-02-08T15:16:57.945Z</updated>
         <content type="html"><![CDATA[<dt>발급기간</dt><dd>2023.02.13 ~ 2023.04.23</dd><dt>사용기간</dt><dd>2023.02.13 ~ 2023.04.23</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2023-02-08T15:16:57.945Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2017.10.01 ~ 2023.12.31</dd><dt>사용기간</dt><dd>발급일로 부터 30일</dd>]]></content>
     </entry>
 </feed>
