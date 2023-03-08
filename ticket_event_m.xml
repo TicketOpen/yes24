@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 23:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 01:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.03.08 ~ 2023.03.26]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45040</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45040</guid>
+            <pubDate>Wed, 08 Mar 2023 01:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;라흐마니노프&gt; 첫공연 4월 1일(토) 3시]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202303/20230308/20230308-2e28d453-6928-45b4-ba08-b081a71810d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.03.08 ~ 2023.04.23]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=44801</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=44801</guid>
+            <pubDate>Wed, 08 Mar 2023 01:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>2023 뮤지컬&lt;어린왕자&gt; 전 배우 사인 프로그램북]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202303/20230308/20230308-3beaab0c-9b6a-4b2e-a405-ce900137c1c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.03.05 ~ 2023.04.02]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=44355</link>
