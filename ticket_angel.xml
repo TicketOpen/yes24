@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 08:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 09:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[은밀하게 위대하게：THE LAST]]></title>
-            <link>http://ticket.yes24.com/Perf/44819</link>
-            <guid>http://ticket.yes24.com/Perf/44819</guid>
-            <pubDate>Mon, 06 Mar 2023 01:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>63,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230306/20230306-44819.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 〈미드나잇 : 앤틀러스〉]]></title>
             <link>http://ticket.yes24.com/Perf/44374</link>
@@ -24,12 +16,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230306/20230306-44374.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 [나의PS파트너] - 대학로 아트포레스트2관]]></title>
-            <link>http://ticket.yes24.com/Perf/45000</link>
-            <guid>http://ticket.yes24.com/Perf/45000</guid>
+            <title><![CDATA[뮤지컬 〈인터뷰〉]]></title>
+            <link>http://ticket.yes24.com/Perf/44896</link>
+            <guid>http://ticket.yes24.com/Perf/44896</guid>
             <pubDate>Mon, 06 Mar 2023 01:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230306/20230306-45000.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230306/20230306-44896.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원조 코믹극 〈딜리버리〉]]></title>
@@ -40,12 +32,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230306/20230306-45049.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈인터뷰〉]]></title>
-            <link>http://ticket.yes24.com/Perf/44896</link>
-            <guid>http://ticket.yes24.com/Perf/44896</guid>
+            <title><![CDATA[연극 [나의PS파트너] - 대학로 아트포레스트2관]]></title>
+            <link>http://ticket.yes24.com/Perf/45000</link>
+            <guid>http://ticket.yes24.com/Perf/45000</guid>
             <pubDate>Mon, 06 Mar 2023 01:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230306/20230306-44896.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230306/20230306-45000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은밀하게 위대하게：THE LAST]]></title>
+            <link>http://ticket.yes24.com/Perf/44819</link>
+            <guid>http://ticket.yes24.com/Perf/44819</guid>
+            <pubDate>Mon, 06 Mar 2023 01:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>63,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230306/20230306-44819.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
