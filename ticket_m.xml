@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-03-09T04:20:46.394Z</updated>
+    <updated>2023-03-09T05:16:36.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 이찬원 콘서트 ＂ONE DAY＂ - 성남 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12826&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12826&amp;order=1"/>
+        <updated>2023-03-09T05:15:38.365Z</updated>
+        <content type="html"><![CDATA[2023-03-13(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[찰나[刹那] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12825&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12816&amp;order=1"/>
         <updated>2023-03-07T05:15:37.401Z</updated>
         <content type="html"><![CDATA[2023-03-09(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천안] 뮤지컬 알쏭달쏭 캐치! 티니핑 〈신비한 상자를 열어라!〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12815&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12815&amp;order=1"/>
-        <updated>2023-03-07T05:15:37.401Z</updated>
-        <content type="html"><![CDATA[2023-03-09(목) 14:00]]></content>
     </entry>
 </feed>
