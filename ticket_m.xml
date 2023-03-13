@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-03-13T05:15:55.534Z</updated>
+    <updated>2023-03-13T06:21:50.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12836&amp;order=1"/>
         <updated>2023-03-13T05:15:07.754Z</updated>
         <content type="html"><![CDATA[2023-03-16(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12835&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12835&amp;order=1"/>
+        <updated>2023-03-13T06:21:03.315Z</updated>
+        <content type="html"><![CDATA[2023-03-24(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Xdinary Heroes 공식 팬클럽 Villains 1기 모집 티켓오픈안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12828&amp;order=1"/>
         <updated>2023-03-10T05:15:27.845Z</updated>
         <content type="html"><![CDATA[2023-03-15(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈캣츠〉 오리지널 내한 - 성남 (Musical CATS)  티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12827&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12827&amp;order=1"/>
-        <updated>2023-03-10T05:15:27.846Z</updated>
-        <content type="html"><![CDATA[2023-03-15(수) 13:00]]></content>
     </entry>
 </feed>
