@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-03-17T05:15:41.124Z</updated>
+    <updated>2023-03-17T06:19:34.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sum 41 Live in Seoul (썸 41 내한공연) 취소 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12856</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12856"/>
+        <updated>2023-03-17T06:18:25.996Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 뮤지컬 〈은밀하게 위대하게:THE LAST〉 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12855</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12836"/>
         <updated>2023-03-13T05:14:59.693Z</updated>
         <content type="html"><![CDATA[2023.03.16(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매TWICE 5TH WORLD TOUR ‘READY TO BE’ 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12835</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12835"/>
-        <updated>2023-03-13T06:20:55.634Z</updated>
-        <content type="html"><![CDATA[2023.03.24(금) 20:00<a class="noti-btn-pop" presaletit1="CANDY 회원 선예매" presaletit2="JELLY 회원 선예매" presaletime1="2023.03.21(화) 20:00" presaletime2="2023.03.22(수) 20:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

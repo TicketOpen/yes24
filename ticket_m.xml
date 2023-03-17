@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-03-17T05:15:41.121Z</updated>
+    <updated>2023-03-17T06:19:34.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sum 41 Live in Seoul (썸 41 내한공연) 취소 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12856&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12856&amp;order=1"/>
+        <updated>2023-03-17T06:18:35.039Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 뮤지컬 〈은밀하게 위대하게:THE LAST〉 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12855&amp;order=1</id>
@@ -67,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12846&amp;order=1"/>
         <updated>2023-03-15T03:16:20.693Z</updated>
         <content type="html"><![CDATA[2023-03-22(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈라흐마니노프〉 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12845&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12845&amp;order=1"/>
-        <updated>2023-03-15T01:14:17.339Z</updated>
-        <content type="html"><![CDATA[2023-03-21(화) 15:00]]></content>
     </entry>
 </feed>
