@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 21:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 22:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -19,17 +19,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230313/20230313-45072.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 로빈]]></title>
-            <link>http://m.ticket.yes24.com/Perf/44163</link>
-            <guid>http://m.ticket.yes24.com/Perf/44163</guid>
-            <pubDate>Mon, 13 Mar 2023 02:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 로빈</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">24,000원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/14~3/26</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230313/20230313-44163.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 빨래]]></title>
             <link>http://m.ticket.yes24.com/Perf/44745</link>
             <guid>http://m.ticket.yes24.com/Perf/44745</guid>
@@ -39,6 +28,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3월, 4월 평일 공연</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230313/20230313-44745.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 로빈]]></title>
+            <link>http://m.ticket.yes24.com/Perf/44163</link>
+            <guid>http://m.ticket.yes24.com/Perf/44163</guid>
+            <pubDate>Mon, 13 Mar 2023 02:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 로빈</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">24,000원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/14~3/26</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230313/20230313-44163.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
