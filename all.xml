@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 11:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 12:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,17 +240,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230313/20230313-44163.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 무인도 탈출기 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/45072</link>
-            <guid>http://m.ticket.yes24.com/Perf/45072</guid>
-            <pubDate>Mon, 13 Mar 2023 02:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 무인도 탈출기</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">36,100원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/19~3/25</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230313/20230313-45072.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 빨래 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/44745</link>
             <guid>http://m.ticket.yes24.com/Perf/44745</guid>
@@ -260,6 +249,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3월, 4월 평일 공연</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230313/20230313-44745.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 무인도 탈출기 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/45072</link>
+            <guid>http://m.ticket.yes24.com/Perf/45072</guid>
+            <pubDate>Mon, 13 Mar 2023 02:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 무인도 탈출기</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">36,100원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/19~3/25</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230313/20230313-45072.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 로빈 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
