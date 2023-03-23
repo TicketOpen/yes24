@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-03-23T04:18:36.667Z</updated>
+    <updated>2023-03-23T05:14:55.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 연극 <친정엄마와 2박3일> - 경주 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12878</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12878"/>
+        <updated>2023-03-23T05:14:00.233Z</updated>
+        <content type="html"><![CDATA[2023.03.31(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 연극 <친정엄마와 2박3일> - 원주 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12877</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12877"/>
+        <updated>2023-03-23T05:14:00.235Z</updated>
+        <content type="html"><![CDATA[2023.03.29(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2023 이찬원 콘서트 ＂ONE DAY＂ - 대전 티켓 오픈 공지]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12876</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12876"/>
+        <updated>2023-03-23T05:14:00.235Z</updated>
+        <content type="html"><![CDATA[2023.03.27(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈행복한 왕자〉 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12874</id>
@@ -123,25 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12857"/>
         <updated>2023-03-17T08:20:11.102Z</updated>
         <content type="html"><![CDATA[2023.03.21(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sum 41 Live in Seoul (썸 41 내한공연) 취소 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12856</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12856"/>
-        <updated>2023-03-17T06:18:25.996Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 뮤지컬 〈은밀하게 위대하게:THE LAST〉 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12855</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12855"/>
-        <updated>2023-03-17T04:18:44.785Z</updated>
-        <content type="html"><![CDATA[2023.03.21(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플라워 봄 콘서트 ‘yours day’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12854</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12854"/>
-        <updated>2023-03-16T10:16:53.031Z</updated>
-        <content type="html"><![CDATA[2023.03.21(화) 12:00]]></content>
     </entry>
 </feed>
