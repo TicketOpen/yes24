@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-03-24T07:13:58.983Z</updated>
+    <updated>2023-03-24T08:18:27.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -13,11 +13,18 @@
         <content type="html"><![CDATA[2023-03-31(금) 15:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈쿠로이 저택엔 누가 살고 있을까?〉 1차 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[KIMCHIKURA KARAOKE SP VOL.2 예매 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12887&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12887&amp;order=1"/>
+        <updated>2023-03-24T08:17:32.959Z</updated>
+        <content type="html"><![CDATA[2023-03-27(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[티켓오픈시간 변경] 뮤지컬 〈쿠로이 저택엔 누가 살고 있을까?〉 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12886&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12886&amp;order=1"/>
         <updated>2023-03-24T06:18:58.190Z</updated>
-        <content type="html"><![CDATA[2023-03-29(수) 16:00]]></content>
+        <content type="html"><![CDATA[2023-03-29(수) 13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뮤지컬 호프:읽히지 않은 책과 읽히지 않은 인생] 2차 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12878&amp;order=1"/>
         <updated>2023-03-23T05:14:08.353Z</updated>
         <content type="html"><![CDATA[2023-03-31(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 연극 <친정엄마와 2박3일> - 원주 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12877&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12877&amp;order=1"/>
-        <updated>2023-03-23T05:14:08.354Z</updated>
-        <content type="html"><![CDATA[2023-03-29(수) 14:00]]></content>
     </entry>
 </feed>
