@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-03-24T08:18:27.890Z</updated>
+    <updated>2023-03-24T09:15:39.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[믹스믹스 ‘오픈에어’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12889&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12889&amp;order=1"/>
+        <updated>2023-03-24T09:14:55.093Z</updated>
+        <content type="html"><![CDATA[2023-03-30(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈윌리엄과 윌리엄의 윌리엄들〉 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12888&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12879&amp;order=1"/>
         <updated>2023-03-23T07:13:29.272Z</updated>
         <content type="html"><![CDATA[2023-03-30(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 연극 <친정엄마와 2박3일> - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12878&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12878&amp;order=1"/>
-        <updated>2023-03-23T05:14:08.353Z</updated>
-        <content type="html"><![CDATA[2023-03-31(금) 14:00]]></content>
     </entry>
 </feed>
