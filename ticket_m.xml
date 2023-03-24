@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-03-24T05:14:51.398Z</updated>
+    <updated>2023-03-24T06:19:45.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈쿠로이 저택엔 누가 살고 있을까?〉 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12886&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12886&amp;order=1"/>
+        <updated>2023-03-24T06:18:58.190Z</updated>
+        <content type="html"><![CDATA[2023-03-29(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뮤지컬 호프:읽히지 않은 책과 읽히지 않은 인생] 2차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12885&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12876&amp;order=1"/>
         <updated>2023-03-23T05:14:08.360Z</updated>
         <content type="html"><![CDATA[2023-03-27(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈행복한 왕자〉 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12874&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12874&amp;order=1"/>
-        <updated>2023-03-23T02:32:13.133Z</updated>
-        <content type="html"><![CDATA[2023-03-29(수) 15:00]]></content>
     </entry>
 </feed>
