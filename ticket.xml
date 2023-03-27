@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-03-27T02:33:39.875Z</updated>
+    <updated>2023-03-27T03:16:33.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈왓 이프〉 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12896</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12896"/>
+        <updated>2023-03-27T03:15:44.218Z</updated>
+        <content type="html"><![CDATA[2023.04.04(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 실리카겔 단독공연 [Machine boy] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12895</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12895"/>
+        <updated>2023-03-27T03:15:44.221Z</updated>
+        <content type="html"><![CDATA[2023.04.05(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워터밤 제주 2023 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12894</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12876"/>
         <updated>2023-03-23T05:14:00.235Z</updated>
         <content type="html"><![CDATA[2023.03.27(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈행복한 왕자〉 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12874</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12874"/>
-        <updated>2023-03-23T02:32:04.826Z</updated>
-        <content type="html"><![CDATA[2023.03.29(수) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2023.03.29(수) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 빅3 행복한 만남 〈강진, 김용임, 진성〉 콘서트 - 수원 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12873</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12873"/>
-        <updated>2023-03-22T08:18:38.335Z</updated>
-        <content type="html"><![CDATA[2023.03.30(목) 11:00]]></content>
     </entry>
 </feed>
