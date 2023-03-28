@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-03-28T07:15:37.175Z</updated>
+    <updated>2023-03-28T08:21:18.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산＋마술공연＋마술체험]2023 매직서커스 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12905</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12905"/>
+        <updated>2023-03-28T08:20:17.498Z</updated>
+        <content type="html"><![CDATA[2023.03.30(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매뮤지컬 〈나르치스와 골드문트〉 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12904</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12885"/>
         <updated>2023-03-24T05:13:52.257Z</updated>
         <content type="html"><![CDATA[2023.03.29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매보이즈 노이즈 내한공연 부산 (BOYS NOISE in MELT BUSAN) 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12884</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12884"/>
-        <updated>2023-03-24T03:15:37.508Z</updated>
-        <content type="html"><![CDATA[2023.03.28(화) 17:00]]></content>
     </entry>
 </feed>
