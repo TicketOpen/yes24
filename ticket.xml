@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-03-28T05:15:45.187Z</updated>
+    <updated>2023-03-28T06:21:01.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매뮤지컬 〈나르치스와 골드문트〉 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12904</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12904"/>
+        <updated>2023-03-28T06:20:03.488Z</updated>
+        <content type="html"><![CDATA[2023.03.30(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빈 베를린 체임버 오케스트라 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12903</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12903"/>
+        <updated>2023-03-28T06:20:03.488Z</updated>
+        <content type="html"><![CDATA[2023.03.31(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2023 뮤지컬 〈창업〉  티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12902</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12884"/>
         <updated>2023-03-24T03:15:37.508Z</updated>
         <content type="html"><![CDATA[2023.03.28(화) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌3 - 목포 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12883</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12883"/>
-        <updated>2023-03-24T02:34:22.409Z</updated>
-        <content type="html"><![CDATA[2023.03.29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 뮤지컬 [브로드웨이 42번가] OP석 추가 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12881</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12881"/>
-        <updated>2023-03-24T01:09:21.732Z</updated>
-        <content type="html"><![CDATA[2023.03.29(수) 14:00]]></content>
     </entry>
 </feed>
