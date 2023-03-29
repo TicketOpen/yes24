@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-03-28T23:15:15.696Z</updated>
+    <updated>2023-03-29T01:17:54.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 HAPPY IRENE-DAY 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12906&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12906&amp;order=1"/>
+        <updated>2023-03-29T01:17:04.195Z</updated>
+        <content type="html"><![CDATA[2023-04-03(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산＋마술공연＋마술체험]2023 매직서커스 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12905&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12896&amp;order=1"/>
         <updated>2023-03-27T03:15:51.544Z</updated>
         <content type="html"><![CDATA[2023-04-04(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 실리카겔 단독공연 [Machine boy] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12895&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12895&amp;order=1"/>
-        <updated>2023-03-27T03:15:51.546Z</updated>
-        <content type="html"><![CDATA[2023-04-05(수) 20:00]]></content>
     </entry>
 </feed>
