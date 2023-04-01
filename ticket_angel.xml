@@ -4,16 +4,16 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 20:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 21:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 〈인터뷰〉]]></title>
-            <link>http://ticket.yes24.com/Perf/44896</link>
-            <guid>http://ticket.yes24.com/Perf/44896</guid>
+            <title><![CDATA[뮤지컬 ＜호프 ： 읽히지 않은 책과 읽히지 않은 인생]]></title>
+            <link>http://ticket.yes24.com/Perf/44798</link>
+            <guid>http://ticket.yes24.com/Perf/44798</guid>
             <pubDate>Mon, 27 Mar 2023 01:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230327/20230327-44896.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>59,200원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230327/20230327-44798.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 〈포쉬〉]]></title>
@@ -24,20 +24,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230327/20230327-45012.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 ＜호프 ： 읽히지 않은 책과 읽히지 않은 인생]]></title>
-            <link>http://ticket.yes24.com/Perf/44798</link>
-            <guid>http://ticket.yes24.com/Perf/44798</guid>
-            <pubDate>Mon, 27 Mar 2023 01:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>59,200원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230327/20230327-44798.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈윌리엄과 윌리엄의 윌리엄들〉]]></title>
             <link>http://ticket.yes24.com/Perf/44690</link>
             <guid>http://ticket.yes24.com/Perf/44690</guid>
             <pubDate>Mon, 27 Mar 2023 01:08:52 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230327/20230327-44690.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈인터뷰〉]]></title>
+            <link>http://ticket.yes24.com/Perf/44896</link>
+            <guid>http://ticket.yes24.com/Perf/44896</guid>
+            <pubDate>Mon, 27 Mar 2023 01:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202303/20230327/20230327-44896.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
