@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-04-03T02:29:45.349Z</updated>
+    <updated>2023-04-03T03:15:48.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[온라인] ATEEZ WORLD TOUR [THE FELLOWSHIP : BREAK THE WALL] ANCHOR IN SEOUL 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12922</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12922"/>
+        <updated>2023-04-03T03:14:46.949Z</updated>
+        <content type="html"><![CDATA[2023.04.03(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매드루브 첫 단독 내한공연 (dhruv Live in Seoul) 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12921</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12903</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12903"/>
         <updated>2023-03-28T06:20:03.488Z</updated>
-        <content type="html"><![CDATA[2023.03.31(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2023 뮤지컬 〈창업〉  티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12902</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12902"/>
-        <updated>2023-03-28T05:14:48.530Z</updated>
         <content type="html"><![CDATA[2023.03.31(금) 14:00]]></content>
     </entry>
 </feed>
