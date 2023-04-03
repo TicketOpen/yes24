@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 01:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 02:29:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.04.03 ~ 2023.04.23]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45371</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45371</guid>
+            <pubDate>Mon, 03 Apr 2023 02:29:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2023년 4월 30일(일) 오후 6시]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230403/20230403-7cd5796f-91f2-4ff8-a866-3c49d13a4a94.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.03.15 ~ 2023.04.03]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45049</link>
@@ -20,7 +28,7 @@
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45260</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45260</guid>
             <pubDate>Mon, 13 Mar 2023 08:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2023년 3월 23일 오후 2시 공연]]></content:encoded>
+            <content:encoded><![CDATA[<em>초대</em>2023년 4월 23일 오후 2시 공연]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202303/20230310/20230310-615d5b8a-b76d-48ad-a3be-ae9e69342d5f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
