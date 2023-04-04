@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-04-04T04:18:21.928Z</updated>
+    <updated>2023-04-04T05:14:33.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[루체른 심포니 오케스트라 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12930&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12930&amp;order=1"/>
+        <updated>2023-04-04T05:13:36.570Z</updated>
+        <content type="html"><![CDATA[2023-04-07(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xdianry Heroes〈Deadlock〉COMEBACK SPECIAL LIVE 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12929&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12929&amp;order=1"/>
+        <updated>2023-04-04T05:13:36.576Z</updated>
+        <content type="html"><![CDATA[2023-04-13(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈할란카운티〉 1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12928&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12928&amp;order=1"/>
+        <updated>2023-04-04T05:13:36.577Z</updated>
+        <content type="html"><![CDATA[2023-04-11(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포항]어린이 뮤지컬 티티체리 - 용의 생일파티를 도와라 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12927&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12921&amp;order=1"/>
         <updated>2023-03-31T09:15:19.739Z</updated>
         <content type="html"><![CDATA[2023-04-07(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glen Check 단독 콘서트 [Mind Surfing] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12920&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12920&amp;order=1"/>
-        <updated>2023-03-31T09:15:19.740Z</updated>
-        <content type="html"><![CDATA[2023-04-07(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 뮤지컬 〈영웅〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12919&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12919&amp;order=1"/>
-        <updated>2023-03-31T08:19:19.210Z</updated>
-        <content type="html"><![CDATA[2023-04-07(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈브라더스 까라마조프〉 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12918&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12918&amp;order=1"/>
-        <updated>2023-03-31T06:19:28.668Z</updated>
-        <content type="html"><![CDATA[2023-04-03(월) 14:00]]></content>
     </entry>
 </feed>
