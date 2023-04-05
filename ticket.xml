@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-04-05T07:15:24.849Z</updated>
+    <updated>2023-04-05T08:21:08.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12935</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12935"/>
+        <updated>2023-04-05T08:20:06.700Z</updated>
+        <content type="html"><![CDATA[2023.04.12(수) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌3 - 성남 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12934</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12934"/>
+        <updated>2023-04-05T08:20:06.703Z</updated>
+        <content type="html"><![CDATA[2023.04.11(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈영웅〉 - 수원 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12933</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12915"/>
         <updated>2023-03-31T05:14:05.847Z</updated>
         <content type="html"><![CDATA[2023.04.04(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Phum Viphurit Live in Seoul 2023 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12914</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12914"/>
-        <updated>2023-03-31T03:16:25.513Z</updated>
-        <content type="html"><![CDATA[2023.04.03(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 뮤지컬 〈은밀하게 위대하게:THE LAST〉 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12913</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12913"/>
-        <updated>2023-03-31T02:35:40.062Z</updated>
-        <content type="html"><![CDATA[2023.04.04(화) 12:00]]></content>
     </entry>
 </feed>
