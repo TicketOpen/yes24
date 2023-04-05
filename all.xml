@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 06:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 07:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈영웅〉 - 수원 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12933</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12933</guid>
+            <pubDate>Wed, 05 Apr 2023 07:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.07(금) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(4/9, 4/16, 4/17) (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12932</link>
@@ -28,7 +35,7 @@
             <content:encoded><![CDATA[2023.04.07(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매Xdianry Heroes〈Deadlock〉COMEBACK SPECIAL LIVE 티켓오픈안내 (예스24 티켓)]]></title>
+            <title><![CDATA[단독판매Xdinary Heroes〈Deadlock〉COMEBACK SPECIAL LIVE 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12929</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12929</guid>
             <pubDate>Tue, 04 Apr 2023 05:13:27 GMT</pubDate>
@@ -98,13 +105,6 @@
             <content:encoded><![CDATA[2023.04.07(금) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[수원] 뮤지컬 〈영웅〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12919</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12919</guid>
-            <pubDate>Fri, 31 Mar 2023 08:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈브라더스 까라마조프〉 2차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12918</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12918</guid>
@@ -147,6 +147,13 @@
             <content:encoded><![CDATA[2023.04.04(화) 12:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈영웅〉 - 수원 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12933&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12933&amp;order=1</guid>
+            <pubDate>Wed, 05 Apr 2023 07:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023-04-07(금) 14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[6년만에 귀환! 프렌치 내한 뮤지컬 〈나폴레옹〉 (Musical NAPOLEON) 첫 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12931&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12931&amp;order=1</guid>
@@ -161,7 +168,7 @@
             <content:encoded><![CDATA[2023-04-07(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Xdianry Heroes〈Deadlock〉COMEBACK SPECIAL LIVE 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <title><![CDATA[Xdinary Heroes〈Deadlock〉COMEBACK SPECIAL LIVE 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12929&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12929&amp;order=1</guid>
             <pubDate>Tue, 04 Apr 2023 05:13:36 GMT</pubDate>
@@ -208,13 +215,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12923&amp;order=1</guid>
             <pubDate>Mon, 03 Apr 2023 04:17:03 GMT</pubDate>
             <content:encoded><![CDATA[2023-04-06(목) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[온라인] ATEEZ WORLD TOUR [THE FELLOWSHIP : BREAK THE WALL] ANCHOR IN SEOUL 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12922&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12922&amp;order=1</guid>
-            <pubDate>Mon, 03 Apr 2023 03:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023-04-03(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈라흐마니노프〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
