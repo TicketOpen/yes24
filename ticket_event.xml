@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 23:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 01:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <왓 이프> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45484&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45484&amp;Tab=3</guid>
+            <pubDate>Thu, 06 Apr 2023 01:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.06 ~ 2023.05.14 | 2023.05.17 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230406/20230406-52a1cdbd-9407-4983-bf4f-4f7775b00a33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <행복한 왕자> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45371&amp;Tab=3</link>
@@ -66,14 +74,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
             <pubDate>Sun, 26 Mar 2023 15:14:29 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[관람후기, YES포인트로 받아가세요]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2450</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2450</guid>
-            <pubDate>Mon, 03 Apr 2023 15:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[2016.01.01 ~ 2030.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202010/20201027/20201027-ev_list_guide_review.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
