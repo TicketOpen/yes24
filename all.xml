@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 02:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 03:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 이찬원 콘서트 ＂ONE DAY＂ - 고양 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12936</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12936</guid>
+            <pubDate>Thu, 06 Apr 2023 03:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.10(월) 12:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[단독판매럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12935</link>
@@ -140,11 +147,11 @@
             <content:encoded><![CDATA[2023.04.06(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매2023 조용필＆위대한탄생 콘서트 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12915</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12915</guid>
-            <pubDate>Fri, 31 Mar 2023 05:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.04(화) 14:00]]></content:encoded>
+            <title><![CDATA[2023 이찬원 콘서트 ＂ONE DAY＂ - 고양 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12936&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12936&amp;order=1</guid>
+            <pubDate>Thu, 06 Apr 2023 03:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023-04-10(월) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -208,13 +215,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12926&amp;order=1</guid>
             <pubDate>Tue, 04 Apr 2023 03:14:58 GMT</pubDate>
             <content:encoded><![CDATA[2023-04-07(금) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코다라인 내한공연 KODALINE LIVE IN SEOUL 티켓 오픈 공지 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12925&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12925&amp;order=1</guid>
-            <pubDate>Tue, 04 Apr 2023 03:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023-04-11(화) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈라흐마니노프〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
