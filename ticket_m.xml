@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-04-06T04:18:16.843Z</updated>
+    <updated>2023-04-06T05:14:57.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 BAEKHO MINI CONCERT 〈BAEKHoney Day〉 IN SEOUL 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12937&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12937&amp;order=1"/>
+        <updated>2023-04-06T05:14:01.703Z</updated>
+        <content type="html"><![CDATA[2023-04-19(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 이찬원 콘서트 ＂ONE DAY＂ - 고양 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12936&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12927&amp;order=1"/>
         <updated>2023-04-04T04:17:29.381Z</updated>
         <content type="html"><![CDATA[2023-04-06(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버블J의 언빌리버블쇼 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12926&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12926&amp;order=1"/>
-        <updated>2023-04-04T03:14:58.193Z</updated>
-        <content type="html"><![CDATA[2023-04-07(금) 10:00]]></content>
     </entry>
 </feed>
