@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 23:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 01:04:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -236,6 +236,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202304/20230403/20230403-45040.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <라흐마니노프> 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45040&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45040&amp;Tab=3</guid>
+            <pubDate>Fri, 07 Apr 2023 01:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.07 ~ 2023.04.22 | 2023.04.25 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230407/20230407-8c6c86af-f049-4c9b-97c9-1e57f06f2604.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <왓 이프> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45484&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45484&amp;Tab=3</guid>
@@ -297,11 +305,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[예술의전당 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
-            <pubDate>Sun, 26 Mar 2023 15:14:29 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
+            <title><![CDATA[이벤트 기간2023.04.07 ~ 2023.04.22 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45040</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45040</guid>
+            <pubDate>Fri, 07 Apr 2023 01:03:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2023년 4월 29일(토) 오후 7시30분]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230407/20230407-8c6c86af-f049-4c9b-97c9-1e57f06f2604.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.04.06 ~ 2023.05.14 (YES24 티켓 ─ 이벤트 모바일)]]></title>
