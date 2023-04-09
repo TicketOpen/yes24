@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 ─ 엔젤티켓</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 14:12:35 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 〈라흐마니노프〉]]></title>
-            <link>http://ticket.yes24.com/Perf/45040</link>
-            <guid>http://ticket.yes24.com/Perf/45040</guid>
-            <pubDate>Mon, 03 Apr 2023 02:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>51,500원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202304/20230403/20230403-45040.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ticket.yes24.com/Pages/Events/HotEvent/PromotionInfo.aspx?id=2577</id>
+    <title>YES24 티켓 ─ 엔젤티켓</title>
+    <updated>2023-04-09T15:14:07.279Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://tkfile.yes24.com/img/icon.png</icon>
+</feed>
