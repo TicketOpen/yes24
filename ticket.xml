@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-04-10T03:15:57.982Z</updated>
+    <updated>2023-04-10T04:17:43.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 가족뮤지컬 〈엄마까투리는 슈퍼맘〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12947</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12947"/>
+        <updated>2023-04-10T04:16:44.215Z</updated>
+        <content type="html"><![CDATA[2023.04.12(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RADWIMPS Asian Tour 2023 in Seoul 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12946</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12927"/>
         <updated>2023-04-04T04:17:20.773Z</updated>
         <content type="html"><![CDATA[2023.04.06(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버블J의 언빌리버블쇼 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12926</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12926"/>
-        <updated>2023-04-04T03:14:49.983Z</updated>
-        <content type="html"><![CDATA[2023.04.07(금) 10:00]]></content>
     </entry>
 </feed>

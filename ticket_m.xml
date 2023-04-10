@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-04-10T03:15:57.987Z</updated>
+    <updated>2023-04-10T04:17:43.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 가족뮤지컬 〈엄마까투리는 슈퍼맘〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12947&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12947&amp;order=1"/>
+        <updated>2023-04-10T04:16:53.194Z</updated>
+        <content type="html"><![CDATA[2023-04-12(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RADWIMPS Asian Tour 2023 in Seoul 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12946&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12937&amp;order=1"/>
         <updated>2023-04-06T05:14:01.703Z</updated>
         <content type="html"><![CDATA[2023-04-19(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 이찬원 콘서트 ＂ONE DAY＂ - 고양 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12936&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12936&amp;order=1"/>
-        <updated>2023-04-06T03:14:59.897Z</updated>
-        <content type="html"><![CDATA[2023-04-10(월) 12:00]]></content>
     </entry>
 </feed>
