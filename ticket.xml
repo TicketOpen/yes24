@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-04-11T04:17:58.721Z</updated>
+    <updated>2023-04-11T05:14:25.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈포쉬(POSH)〉 마지막 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12952</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12952"/>
+        <updated>2023-04-11T05:13:25.275Z</updated>
+        <content type="html"><![CDATA[2023.04.18(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제18회 부산국제매직페스티벌 -매직컨벤션 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12951</id>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12932</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12932"/>
         <updated>2023-04-05T05:13:34.451Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6년만에 귀환! 프렌치 내한 뮤지컬 〈나폴레옹〉 (Musical NAPOLEON) 첫 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12931</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12931"/>
-        <updated>2023-04-04T09:13:59.528Z</updated>
-        <content type="html"><![CDATA[2023.04.07(금) 14:00]]></content>
     </entry>
 </feed>
