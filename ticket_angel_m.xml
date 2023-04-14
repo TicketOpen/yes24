@@ -4,20 +4,9 @@
         <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 23:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 01:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 은밀하게 위대하게]]></title>
-            <link>http://m.ticket.yes24.com/Perf/44819</link>
-            <guid>http://m.ticket.yes24.com/Perf/44819</guid>
-            <pubDate>Mon, 10 Apr 2023 01:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 은밀하게 위대하게</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">25</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">47,100원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/28~4/16</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202304/20230410/20230410-44819.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 어린왕자]]></title>
             <link>http://m.ticket.yes24.com/Perf/44801</link>
@@ -28,6 +17,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">32,800원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">4/11~4/23</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202304/20230410/20230410-44801.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 은밀하게 위대하게]]></title>
+            <link>http://m.ticket.yes24.com/Perf/44819</link>
+            <guid>http://m.ticket.yes24.com/Perf/44819</guid>
+            <pubDate>Mon, 10 Apr 2023 01:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 은밀하게 위대하게</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">25</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">47,100원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/28~4/16</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202304/20230410/20230410-44819.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
