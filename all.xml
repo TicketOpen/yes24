@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 23:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 01:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12971</guid>
             <pubDate>Sat, 15 Apr 2023 02:30:56 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.17(월) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매AndyWu &YuJin 1st Fanmeeting in Seoul 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12970</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12970</guid>
+            <pubDate>Mon, 17 Apr 2023 01:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.24(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] 유리상자 전국투어콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -141,18 +148,18 @@
             <content:encoded><![CDATA[2023.04.18(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제18회 부산국제매직페스티벌 -매직컨벤션 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12951</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12951</guid>
-            <pubDate>Tue, 11 Apr 2023 03:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.17(월) 10:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[연극 <누수공사> 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12971&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12971&amp;order=1</guid>
             <pubDate>Sat, 15 Apr 2023 02:31:03 GMT</pubDate>
             <content:encoded><![CDATA[2023-04-17(월) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AndyWu &YuJin 1st Fanmeeting in Seoul 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12970&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12970&amp;order=1</guid>
+            <pubDate>Mon, 17 Apr 2023 01:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023-04-24(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] 유리상자 전국투어콘서트 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -207,13 +214,6 @@
             <title><![CDATA[제 20회 부산국제연극제 - 구멍 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12962&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12962&amp;order=1</guid>
-            <pubDate>Thu, 13 Apr 2023 06:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[2023-04-18(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제 20회 부산국제연극제 - 변신 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12961&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12961&amp;order=1</guid>
             <pubDate>Thu, 13 Apr 2023 06:18:30 GMT</pubDate>
             <content:encoded><![CDATA[2023-04-18(화) 14:00]]></content:encoded>
         </item>
