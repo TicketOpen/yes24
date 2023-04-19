@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 14:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 15:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,14 +226,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230418/20230418-e840de49-d1f7-4732-8573-8d442c55df06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <시티즌 오브 헬> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45478&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45478&amp;Tab=3</guid>
-            <pubDate>Thu, 13 Apr 2023 07:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.13 ~ 2023.04.19 | 2023.04.20 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230413/20230413-42bb2678-17c9-4def-b5c8-5d763e1fefe7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[넌버벌 마스크 연극 <더 메신저> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45582&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45582&amp;Tab=3</guid>
@@ -289,20 +281,19 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Wed, 19 Apr 2023 15:16:32 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[이벤트 기간2023.04.18 ~ 2023.05.07 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=45260</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=45260</guid>
             <pubDate>Tue, 18 Apr 2023 08:19:30 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>주연프로그램 사인 프로그램 북]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230418/20230418-e840de49-d1f7-4732-8573-8d442c55df06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2023.04.13 ~ 2023.04.19 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45478</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45478</guid>
-            <pubDate>Thu, 13 Apr 2023 07:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2023년 4월 22일 (토) 15시]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230413/20230413-42bb2678-17c9-4def-b5c8-5d763e1fefe7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.04.13 ~ 2023.04.25 (YES24 티켓 ─ 이벤트 모바일)]]></title>
