@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2023-04-20T07:15:02.043Z</updated>
+    <updated>2023-04-20T08:19:46.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -25,5 +25,19 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43000"/>
         <updated>2023-02-12T15:15:42.024Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[불타는 트롯맨] R석 20% 할인 쿠폰]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43517</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43517"/>
+        <updated>2023-04-20T08:19:45.550Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 20%]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[불타는 트롯맨] S/A석 30% 할인 쿠폰]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43518</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43518"/>
+        <updated>2023-04-20T08:19:45.552Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 30%]]></content>
     </entry>
 </feed>
