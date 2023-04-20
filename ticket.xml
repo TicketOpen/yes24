@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-04-20T04:18:13.094Z</updated>
+    <updated>2023-04-20T05:14:33.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2023 김창옥 토크콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12983</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12983"/>
+        <updated>2023-04-20T05:13:34.627Z</updated>
+        <content type="html"><![CDATA[2023.04.25(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[페스티벌 나다 2023 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12982</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12982"/>
         <updated>2023-04-20T03:14:51.180Z</updated>
         <content type="html"><![CDATA[2023.05.03(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 호프:읽히지 않은 책과 읽히지 않은 인생] 마지막 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12981</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12981"/>
+        <updated>2023-04-20T05:13:34.630Z</updated>
+        <content type="html"><![CDATA[2023.04.25(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제이아이디 내한공연 J.I.D LIVE IN SEOUL 티켓 오픈 안내]]></title>
@@ -129,20 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12964</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12964"/>
         <updated>2023-04-13T07:13:16.049Z</updated>
-        <content type="html"><![CDATA[2023.04.18(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 20회 부산국제연극제 - 시추 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12963</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12963"/>
-        <updated>2023-04-13T06:18:21.928Z</updated>
-        <content type="html"><![CDATA[2023.04.18(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 20회 부산국제연극제 - 구멍 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12962</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12962"/>
-        <updated>2023-04-13T06:18:21.928Z</updated>
         <content type="html"><![CDATA[2023.04.18(화) 14:00]]></content>
     </entry>
 </feed>
