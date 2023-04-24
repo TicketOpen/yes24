@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 01:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 02:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 09 Mar 2023 07:16:03 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>전 배우 사인 프로그램북 1권]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202303/20230309/20230309-b30960f9-aa84-407f-a5e8-e3e91ccd1594.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.04.24 ~ 2023.04.28]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3382</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3382</guid>
+            <pubDate>Mon, 24 Apr 2023 02:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230424/20230424-741b9f8c-08b3-4479-b12d-549286af5b5f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2019.08.09 ~ 2026.08.31]]></title>

@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-04-24T01:10:48.586Z</updated>
+    <updated>2023-04-24T02:34:09.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈시티즌 오브 헬〉 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12989&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12989&amp;order=1"/>
+        <updated>2023-04-24T02:33:23.282Z</updated>
+        <content type="html"><![CDATA[2023-04-28(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KIM WOO SEOK ASIA FANCON 2023：[THE SIREN] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12988&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12988&amp;order=1"/>
         <updated>2023-04-24T01:09:59.879Z</updated>
+        <content type="html"><![CDATA[2023-05-04(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 SHINee FANMEETING ‘Everyday is SHINee DAY’ : [Piece of SHINE] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12987&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12987&amp;order=1"/>
+        <updated>2023-04-24T02:33:23.287Z</updated>
         <content type="html"><![CDATA[2023-05-04(목) 20:00]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12980&amp;order=1"/>
         <updated>2023-04-20T03:15:00.450Z</updated>
         <content type="html"><![CDATA[2023-04-27(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AndyWu &YuJin 1st Fanmeeting in Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12979&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12979&amp;order=1"/>
-        <updated>2023-04-20T01:07:10.872Z</updated>
-        <content type="html"><![CDATA[2023-04-26(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈나르치스와 골드문트〉 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12978&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12978&amp;order=1"/>
-        <updated>2023-04-19T08:29:37.878Z</updated>
-        <content type="html"><![CDATA[2023-04-20(목) 14:00]]></content>
     </entry>
 </feed>
