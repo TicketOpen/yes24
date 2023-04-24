@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-04-23T23:14:41.198Z</updated>
+    <updated>2023-04-24T01:10:48.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[KIM WOO SEOK ASIA FANCON 2023：[THE SIREN] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12988&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12988&amp;order=1"/>
+        <updated>2023-04-24T01:09:59.879Z</updated>
+        <content type="html"><![CDATA[2023-05-04(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈브라더스 까라마조프〉 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12986&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12978&amp;order=1"/>
         <updated>2023-04-19T08:29:37.878Z</updated>
         <content type="html"><![CDATA[2023-04-20(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈보이A〉 1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12977&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12977&amp;order=1"/>
-        <updated>2023-04-19T08:29:37.880Z</updated>
-        <content type="html"><![CDATA[2023-04-26(수) 15:00]]></content>
     </entry>
 </feed>
