@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 14:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 15:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -234,14 +234,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230418/20230418-e840de49-d1f7-4732-8573-8d442c55df06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넌버벌 마스크 연극 <더 메신저> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45582&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45582&amp;Tab=3</guid>
-            <pubDate>Thu, 13 Apr 2023 01:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.13 ~ 2023.04.25 | 2023.04.27 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230413/20230413-b113cf9b-365c-48e9-a9e0-c00a9988d9b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <왓 이프> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45484&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45484&amp;Tab=3</guid>
@@ -287,6 +279,13 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[예술의전당 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
+            <pubDate>Tue, 25 Apr 2023 15:15:48 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[이벤트 기간2023.04.25 ~ 2023.05.07 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45609</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45609</guid>
@@ -301,14 +300,6 @@
             <pubDate>Tue, 18 Apr 2023 08:19:30 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>주연프로그램 사인 프로그램 북]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230418/20230418-e840de49-d1f7-4732-8573-8d442c55df06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2023.04.13 ~ 2023.04.25 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45582</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45582</guid>
-            <pubDate>Thu, 13 Apr 2023 01:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2023년 5월 3일(수) 오후 8시]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230413/20230413-b113cf9b-365c-48e9-a9e0-c00a9988d9b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.04.06 ~ 2023.05.14 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -385,20 +376,6 @@
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
             <pubDate>Mon, 27 Mar 2023 13:28:57 GMT</pubDate>
             <content:encoded><![CDATA[<dt>발급기간</dt><dd>2017.10.01 ~ 2023.12.31</dd><dt>사용기간</dt><dd>발급일로 부터 30일</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Mon, 27 Mar 2023 13:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2012.02.09 ~ 2023.04.26</dd><dt>사용기간</dt><dd>2012.02.09 ~ 2023.04.26</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰 )]]></title>
