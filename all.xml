@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 07:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 08:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -359,6 +359,13 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[그래양이 챙겨드림] 원픽 페스티벌 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Mon, 27 Mar 2023 13:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2023.04.26 ~ 2023.04.30</dd><dt>사용기간</dt><dd>2023.04.26 ~ 2023.04.30</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[그래양의 추천연극] 예매수수료 면제 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -427,6 +434,13 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097</guid>
             <pubDate>Wed, 26 Apr 2023 07:19:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[그래양이 챙겨드림] 원픽 페스티벌 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43579</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43579</guid>
+            <pubDate>Wed, 26 Apr 2023 08:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
