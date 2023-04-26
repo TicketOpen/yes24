@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-04-25T23:14:46.646Z</updated>
+    <updated>2023-04-26T01:08:59.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Sync Next 23 (싱크 넥스트 23) 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13001&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13001&amp;order=1"/>
+        <updated>2023-04-26T01:08:09.901Z</updated>
+        <content type="html"><![CDATA[2023-05-04(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<띨뿌리> - 제44회 서울연극제 공식참가작 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13000&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13000&amp;order=1"/>
+        <updated>2023-04-26T01:08:09.903Z</updated>
+        <content type="html"><![CDATA[2023-04-28(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Beautiful Noise’ 1st Concert 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12998&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12991&amp;order=1"/>
         <updated>2023-04-24T05:14:28.907Z</updated>
         <content type="html"><![CDATA[2023-05-15(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 김남길 팬 콘서트 ‘어게인’ 인 서울 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12990&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12990&amp;order=1"/>
-        <updated>2023-04-24T04:17:59.091Z</updated>
-        <content type="html"><![CDATA[2023-04-27(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈시티즌 오브 헬〉 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12989&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12989&amp;order=1"/>
-        <updated>2023-04-24T02:33:23.282Z</updated>
-        <content type="html"><![CDATA[2023-04-28(금) 15:00]]></content>
     </entry>
 </feed>
