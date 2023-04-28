@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 14:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 15:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,19 +64,18 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202303/20230309/20230309-b30960f9-aa84-407f-a5e8-e3e91ccd1594.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넵프라이즈 TICKET]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3382</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3382</guid>
-            <pubDate>Fri, 28 Apr 2023 12:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.24 ~ 2023.04.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230424/20230424-741b9f8c-08b3-4479-b12d-549286af5b5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NEW출석체크]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Fri, 28 Apr 2023 12:26:45 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Fri, 28 Apr 2023 15:15:04 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
