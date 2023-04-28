@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-04-27T23:15:37.001Z</updated>
+    <updated>2023-04-28T01:10:41.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 뮤지컬 〈신의 손가락〉 프리뷰 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13007</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13007"/>
+        <updated>2023-04-28T01:09:45.518Z</updated>
+        <content type="html"><![CDATA[2023.05.04(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2023 서울바앤스피릿쇼] 1차 얼리버드 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13006</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12988</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12988"/>
         <updated>2023-04-24T01:09:51.663Z</updated>
-        <content type="html"><![CDATA[2023.05.04(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.05.02(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2023 SHINee FANMEETING ‘Everyday is SHINee DAY’ : [Piece of SHINE] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12987</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12987"/>
-        <updated>2023-04-24T02:33:15.415Z</updated>
         <content type="html"><![CDATA[2023.05.04(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.05.02(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
