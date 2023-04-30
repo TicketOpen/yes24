@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2023-04-30T14:13:20.799Z</updated>
+    <updated>2023-04-30T15:13:50.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -13,38 +13,10 @@
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[불타는 트롯맨] R석 20% 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43517</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43517"/>
-        <updated>2023-04-20T08:19:45.550Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 20%]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[불타는 트롯맨] S/A석 30% 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43518</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43518"/>
-        <updated>2023-04-20T08:19:45.552Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 30%]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그래양의 추천연극] 예매수수료 면제 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43535</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43535"/>
-        <updated>2023-04-21T05:14:26.865Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[YES마니아] 예매수수료 면제쿠폰]]></title>
         <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097</id>
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097"/>
         <updated>2023-04-26T07:19:31.588Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그래양이 챙겨드림] 원픽 페스티벌 3천원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43579</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=43579"/>
-        <updated>2023-04-26T08:21:17.554Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
     </entry>
 </feed>
