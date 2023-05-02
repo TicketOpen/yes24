@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 05:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 06:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.05.02 ~ 2023.05.15]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3415</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3415</guid>
+            <pubDate>Tue, 02 May 2023 06:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230502/20230502-ab77187e-e93f-4dda-b2ab-27413f2801d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.05.01 ~ 2023.05.24]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45808</link>

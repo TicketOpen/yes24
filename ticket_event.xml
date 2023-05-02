@@ -4,15 +4,23 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 05:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 06:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가정의달 5월의 공연 기획전]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3415</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3415</guid>
+            <pubDate>Tue, 02 May 2023 06:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.02 ~ 2023.05.15]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230502/20230502-ab77187e-e93f-4dda-b2ab-27413f2801d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <최초의 웃음> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45808&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45808&amp;Tab=3</guid>
             <pubDate>Tue, 02 May 2023 05:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.01 ~ 2023.05.24 | 2023.06.01 발표]]></content:encoded>
+            <content:encoded><![CDATA[2023.05.01 ~ 2023.05.24 | 2023.05.26 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230502/20230502-aa25239d-4448-4b94-98ad-9eeaa63c4187.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,13 +78,6 @@
             <pubDate>Fri, 28 Apr 2023 12:26:45 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.09 ~ 2023.05.21 | 2023.05.22 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202303/20230309/20230309-b30960f9-aa84-407f-a5e8-e3e91ccd1594.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Fri, 28 Apr 2023 12:26:45 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
