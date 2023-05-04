@@ -4,19 +4,19 @@
         <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 23:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 01:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[연극 괴담: 위험한 해시태그]]></title>
-            <link>http://m.ticket.yes24.com/Perf/45661</link>
-            <guid>http://m.ticket.yes24.com/Perf/45661</guid>
+            <title><![CDATA[연극 4분 12초]]></title>
+            <link>http://m.ticket.yes24.com/Perf/45557</link>
+            <guid>http://m.ticket.yes24.com/Perf/45557</guid>
             <pubDate>Mon, 01 May 2023 13:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 괴담: 위험한 해시태그</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">71</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">35,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">7,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5월</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230502/20230502-45661.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<p class="goods_name">연극 4분 12초</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">25,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5/5~5/13 </div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230502/20230502-45557.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 누수공사]]></title>
@@ -30,15 +30,15 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230502/20230502-45664.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 4분 12초]]></title>
-            <link>http://m.ticket.yes24.com/Perf/45557</link>
-            <guid>http://m.ticket.yes24.com/Perf/45557</guid>
+            <title><![CDATA[연극 괴담: 위험한 해시태그]]></title>
+            <link>http://m.ticket.yes24.com/Perf/45661</link>
+            <guid>http://m.ticket.yes24.com/Perf/45661</guid>
             <pubDate>Mon, 01 May 2023 13:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 4분 12초</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">25,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5/5~5/13 </div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230502/20230502-45557.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<p class="goods_name">연극 괴담: 위험한 해시태그</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">71</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">35,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">7,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5월</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230502/20230502-45661.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
