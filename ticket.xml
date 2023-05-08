@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-05-08T01:07:05.778Z</updated>
+    <updated>2023-05-08T02:33:27.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 이은미 전국투어 콘서트 [NOCTURN] - 성남 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13022</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13022"/>
+        <updated>2023-05-08T02:32:25.926Z</updated>
+        <content type="html"><![CDATA[2023.05.11(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈쿠로이 저택엔 누가 살고 있을까?〉 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13021</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13003"/>
         <updated>2023-05-04T13:17:50.549Z</updated>
         <content type="html"><![CDATA[2023.05.02(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] 박상민 밴드 콘서트 ＂니가 그리운날엔＂ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13002</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13002"/>
-        <updated>2023-05-04T13:17:50.551Z</updated>
-        <content type="html"><![CDATA[2023.04.26(수) 14:00]]></content>
     </entry>
 </feed>
