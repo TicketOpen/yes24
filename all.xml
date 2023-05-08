@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 13:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 14:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,20 +217,20 @@
             <content:encoded><![CDATA[2023-05-03(수) 17:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코미디 연극 〈딜리버리〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/45049</link>
-            <guid>http://ticket.yes24.com/Perf/45049</guid>
-            <pubDate>Mon, 08 May 2023 01:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230508/20230508-45049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈할란카운티〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/45560</link>
             <guid>http://ticket.yes24.com/Perf/45560</guid>
             <pubDate>Mon, 08 May 2023 01:06:22 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>110.100원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230508/20230508-45560_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코미디 연극 〈딜리버리〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/45049</link>
+            <guid>http://ticket.yes24.com/Perf/45049</guid>
+            <pubDate>Mon, 08 May 2023 01:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>7,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230508/20230508-45049.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 딜리버리 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
