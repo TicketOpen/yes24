@@ -4,20 +4,9 @@
         <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 17:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 18:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 딜리버리]]></title>
-            <link>http://m.ticket.yes24.com/Perf/45049</link>
-            <guid>http://m.ticket.yes24.com/Perf/45049</guid>
-            <pubDate>Mon, 08 May 2023 01:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 딜리버리</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">71</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">35,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">7,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5월 전 회차</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230508/20230508-45049.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 할란카운티]]></title>
             <link>http://m.ticket.yes24.com/Perf/45560</link>
@@ -28,6 +17,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">49,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5/16~5/31 VIP석25%R,S,A석35%</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230508/20230508-45560_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 딜리버리]]></title>
+            <link>http://m.ticket.yes24.com/Perf/45049</link>
+            <guid>http://m.ticket.yes24.com/Perf/45049</guid>
+            <pubDate>Mon, 08 May 2023 01:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 딜리버리</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">71</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">35,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">7,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5월 전 회차</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230508/20230508-45049.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
