@@ -1,81 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 ─ 이벤트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 10:16:16 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <행복한 왕자> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45371&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45371&amp;Tab=2</guid>
-            <pubDate>Tue, 09 May 2023 13:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.29 ~ 2023.06.18 | 2023.06.20 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230503/20230503-203605ed-1636-4a71-8b58-9d414e0c9141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가정의달 5월의 공연 기획전]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3415</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3415</guid>
-            <pubDate>Tue, 09 May 2023 13:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.02 ~ 2023.05.15]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230502/20230502-ab77187e-e93f-4dda-b2ab-27413f2801d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <최초의 웃음> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45808&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45808&amp;Tab=3</guid>
-            <pubDate>Tue, 09 May 2023 13:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.01 ~ 2023.05.24 | 2023.05.26 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230502/20230502-aa25239d-4448-4b94-98ad-9eeaa63c4187.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 보이A 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45677&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45677&amp;Tab=3</guid>
-            <pubDate>Tue, 09 May 2023 13:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.27 ~ 2023.05.28 | 2023.05.30 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230427/20230427-d594e710-384c-43a7-816d-6c54f969fae2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <할란카운티> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45560&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45560&amp;Tab=3</guid>
-            <pubDate>Tue, 09 May 2023 13:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.24 ~ 2023.05.14 | 2023.05.15 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230426/20230426-15f21ccf-17a5-4e51-b803-bf2d81acb1d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <왓 이프> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45484&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45484&amp;Tab=3</guid>
-            <pubDate>Tue, 09 May 2023 13:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.06 ~ 2023.05.14 | 2023.05.17 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230406/20230406-52a1cdbd-9407-4983-bf4f-4f7775b00a33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <윌리엄과 윌리엄의 윌리엄들> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44690&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=44690&amp;Tab=2</guid>
-            <pubDate>Tue, 09 May 2023 13:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.09 ~ 2023.05.21 | 2023.05.22 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202303/20230309/20230309-b30960f9-aa84-407f-a5e8-e3e91ccd1594.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Tue, 09 May 2023 13:03:24 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 보호 캠페인]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
-            <pubDate>Tue, 09 May 2023 15:15:25 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
+    <title>YES24 티켓 ─ 이벤트</title>
+    <updated>2023-05-11T11:12:50.155Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://tkfile.yes24.com/img/icon.png</icon>
+</feed>
