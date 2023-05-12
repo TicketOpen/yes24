@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-05-12T03:16:47.243Z</updated>
+    <updated>2023-05-12T04:17:30.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원]플레이뮤지컬 핑크퐁과 아기상어의 생일파티 대소동 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13036&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13036&amp;order=1"/>
+        <updated>2023-05-12T04:16:37.509Z</updated>
+        <content type="html"><![CDATA[2023-05-17(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가르니델리아 월드 투어 in 서울 [GARNiDELiA stellacage 2023 -stella ship- Re：CoNNeCT in Seoul] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13035&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13024&amp;order=1"/>
         <updated>2023-05-10T05:13:00.537Z</updated>
         <content type="html"><![CDATA[2023-05-12(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈킹스테이블〉 넘버 쇼케이스 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13023&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13023&amp;order=1"/>
-        <updated>2023-05-08T05:13:56.283Z</updated>
-        <content type="html"><![CDATA[2023-05-12(금) 14:00]]></content>
     </entry>
 </feed>
