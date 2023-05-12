@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-05-12T08:17:54.080Z</updated>
+    <updated>2023-05-12T09:14:13.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13038&amp;order=1"/>
         <updated>2023-05-12T05:13:25.667Z</updated>
         <content type="html"><![CDATA[2023-05-19(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cutie Pie 2 You Fanmeeting in KOREA [The Last Chapter] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13037&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13037&amp;order=1"/>
+        <updated>2023-05-12T09:13:31.464Z</updated>
+        <content type="html"><![CDATA[2023-05-16(화) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[창원]플레이뮤지컬 핑크퐁과 아기상어의 생일파티 대소동 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13030&amp;order=1"/>
         <updated>2023-05-11T05:13:31.734Z</updated>
         <content type="html"><![CDATA[2023-05-17(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 뮤지컬 〈맘마미아!〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13029&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13029&amp;order=1"/>
-        <updated>2023-05-11T05:13:31.736Z</updated>
-        <content type="html"><![CDATA[2023-05-17(수) 14:00]]></content>
     </entry>
 </feed>
