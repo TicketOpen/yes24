@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-05-12T04:17:30.257Z</updated>
+    <updated>2023-05-12T05:14:16.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2023 차학연 팬미팅 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13038</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13038"/>
+        <updated>2023-05-12T05:13:16.642Z</updated>
+        <content type="html"><![CDATA[2023.05.19(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원]플레이뮤지컬 핑크퐁과 아기상어의 생일파티 대소동 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13036</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13016"/>
         <updated>2023-05-04T13:17:50.498Z</updated>
         <content type="html"><![CDATA[2023.05.10(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE - THE BOYZ 2ND WORLD TOUR : ZENERATION 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13015</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13015"/>
-        <updated>2023-05-04T13:17:50.505Z</updated>
-        <content type="html"><![CDATA[2023.05.03(수) 15:00]]></content>
     </entry>
 </feed>
