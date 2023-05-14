@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 14:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 15:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.05.15 ~ 2023.05.31]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3418</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3418</guid>
+            <pubDate>Sun, 14 May 2023 15:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230512/20230512-d3c885d2-8173-400b-88d7-85dff1693ae6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.04.29 ~ 2023.06.18]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=45371</link>
@@ -38,22 +46,6 @@
             <pubDate>Thu, 27 Apr 2023 05:14:37 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2023년 6월 7일(수) 오후 8시]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230427/20230427-d594e710-384c-43a7-816d-6c54f969fae2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2023.04.24 ~ 2023.05.14]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45560</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45560</guid>
-            <pubDate>Wed, 26 Apr 2023 07:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2023년 5월 18일(목) 오후 7시 30분]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230426/20230426-15f21ccf-17a5-4e51-b803-bf2d81acb1d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2023.04.06 ~ 2023.05.14]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45484</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45484</guid>
-            <pubDate>Thu, 06 Apr 2023 01:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2023.05.19(금) 7시 30분 공연, 2023.05.20(토) 5시 30분 공연 일반석]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202304/20230406/20230406-52a1cdbd-9407-4983-bf4f-4f7775b00a33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.03.09 ~ 2023.05.21]]></title>
