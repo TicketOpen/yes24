@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 13:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 15:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 15 May 2023 02:35:43 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2023년 5월 27일(토) 오후 7시]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230515/20230515-a7956894-331b-49f1-b269-af41387db701.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.05.16 ~ 2023.05.24]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45795</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45795</guid>
+            <pubDate>Mon, 15 May 2023 02:35:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2023년 5월 27일(토) 오후 7시]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230515/20230515-4f4d31fe-5ced-4c04-973b-46d1bd7ed652.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.05.15 ~ 2023.05.31]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Wed, 03 May 2023 03:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>2023 뮤지컬&lt;행복한 왕자&gt; 전 배우 사인 프로그램북]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230503/20230503-203605ed-1636-4a71-8b58-9d414e0c9141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2023.05.02 ~ 2023.05.15]]></title>
-            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3415</link>
-            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3415</guid>
-            <pubDate>Tue, 02 May 2023 06:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230502/20230502-ab77187e-e93f-4dda-b2ab-27413f2801d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.05.01 ~ 2023.05.24]]></title>
