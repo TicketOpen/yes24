@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-05-15T23:14:32.280Z</updated>
+    <updated>2023-05-16T01:10:50.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매MY AUNT MARY 단독공연 [Right Now] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13055</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13055"/>
+        <updated>2023-05-16T01:09:47.466Z</updated>
+        <content type="html"><![CDATA[2023.05.17(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <나무 위의 군대> 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13054</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13035"/>
         <updated>2023-05-11T05:13:23.546Z</updated>
         <content type="html"><![CDATA[2023.05.16(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진주] 뮤지컬 〈맘마미아!〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13034</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13034"/>
-        <updated>2023-05-11T05:13:23.550Z</updated>
-        <content type="html"><![CDATA[2023.05.18(목) 17:00]]></content>
     </entry>
 </feed>
