@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-05-16T04:18:10.070Z</updated>
+    <updated>2023-05-16T05:14:18.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부천]어린이뮤지컬 티티체리 - 용의 생일파티를 도와라 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13058&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13058&amp;order=1"/>
+        <updated>2023-05-16T05:13:29.205Z</updated>
+        <content type="html"><![CDATA[2023-05-19(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼뮤지컬 〈드림하이〉 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13057&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13048&amp;order=1"/>
         <updated>2023-05-15T05:13:24.130Z</updated>
         <content type="html"><![CDATA[2023-05-18(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 영도+ 동화 속 발레 갈라 콘서트 ‘백조의 호수’ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13047&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13047&amp;order=1"/>
-        <updated>2023-05-15T02:35:07.648Z</updated>
-        <content type="html"><![CDATA[2023-05-16(화) 14:00]]></content>
     </entry>
 </feed>

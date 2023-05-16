@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-05-16T04:18:10.080Z</updated>
+    <updated>2023-05-16T05:14:18.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부천]어린이뮤지컬 티티체리 - 용의 생일파티를 도와라 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13058</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13058"/>
+        <updated>2023-05-16T05:13:20.550Z</updated>
+        <content type="html"><![CDATA[2023.05.19(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼뮤지컬 〈드림하이〉 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13057</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13038"/>
         <updated>2023-05-12T05:13:16.642Z</updated>
         <content type="html"><![CDATA[2023.05.19(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Cutie Pie 2 You Fanmeeting in KOREA [The Last Chapter] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13037</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13037"/>
-        <updated>2023-05-12T09:13:23.787Z</updated>
-        <content type="html"><![CDATA[2023.05.16(화) 18:00]]></content>
     </entry>
 </feed>
