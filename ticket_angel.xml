@@ -4,16 +4,16 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 08:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 09:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 〈행복한 왕자〉]]></title>
-            <link>http://ticket.yes24.com/Perf/45371</link>
-            <guid>http://ticket.yes24.com/Perf/45371</guid>
-            <pubDate>Mon, 15 May 2023 01:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>36,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45371.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연극 〈시티즌 오브 헬〉]]></title>
+            <link>http://ticket.yes24.com/Perf/45478</link>
+            <guid>http://ticket.yes24.com/Perf/45478</guid>
+            <pubDate>Mon, 15 May 2023 02:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45478.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 [나의PS파트너] - 대학로 아트포레스트2관]]></title>
@@ -24,12 +24,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈시티즌 오브 헬〉]]></title>
-            <link>http://ticket.yes24.com/Perf/45478</link>
-            <guid>http://ticket.yes24.com/Perf/45478</guid>
-            <pubDate>Mon, 15 May 2023 02:35:16 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45478.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 〈행복한 왕자〉]]></title>
+            <link>http://ticket.yes24.com/Perf/45371</link>
+            <guid>http://ticket.yes24.com/Perf/45371</guid>
+            <pubDate>Mon, 15 May 2023 01:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>36,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45371.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
