@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 23:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 01:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.05.17 ~ 2023.06.22]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45885</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45885</guid>
+            <pubDate>Wed, 17 May 2023 01:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2023년 7월 7일(금) 오후 8시]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230517/20230517-dd182dc5-8bc6-4616-94ae-6e700c57af97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.05.15 ~ 2023.05.24]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45795</link>
@@ -14,14 +22,6 @@
             <pubDate>Mon, 15 May 2023 02:35:43 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2023년 5월 27일(토) 오후 7시]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230515/20230515-a7956894-331b-49f1-b269-af41387db701.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2023.05.16 ~ 2023.05.24]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45795</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45795</guid>
-            <pubDate>Mon, 15 May 2023 02:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2023년 5월 27일(토) 오후 7시]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230515/20230515-4f4d31fe-5ced-4c04-973b-46d1bd7ed652.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.05.15 ~ 2023.05.31]]></title>
