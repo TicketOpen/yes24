@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-05-17T06:23:33.032Z</updated>
+    <updated>2023-05-17T07:21:53.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈겟팅아웃〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13065&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13065&amp;order=1"/>
+        <updated>2023-05-17T07:20:53.933Z</updated>
+        <content type="html"><![CDATA[2023-05-23(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 김기태 전국투어 콘서트 [위로] - 대구 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13063&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13054&amp;order=1"/>
         <updated>2023-05-15T08:18:07.089Z</updated>
         <content type="html"><![CDATA[2023-05-19(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마일러브위크엔드 2023 Seoul City & Pop 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13053&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13053&amp;order=1"/>
-        <updated>2023-05-15T09:14:14.434Z</updated>
-        <content type="html"><![CDATA[2023-05-19(금) 18:00]]></content>
     </entry>
 </feed>

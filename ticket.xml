@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-05-17T06:23:33.058Z</updated>
+    <updated>2023-05-17T07:21:53.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈겟팅아웃〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13065</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13065"/>
+        <updated>2023-05-17T07:20:43.754Z</updated>
+        <content type="html"><![CDATA[2023.05.23(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 김기태 전국투어 콘서트 [위로] - 대구 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13063</id>
@@ -136,11 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13042"/>
         <updated>2023-05-15T01:11:06.391Z</updated>
         <content type="html"><![CDATA[2023.05.17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(5/5, 5/8, 5/12, 5/13, 5/14, 5/15, 5/2..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13041</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13041"/>
-        <updated>2023-05-12T06:17:36.991Z</updated>
     </entry>
 </feed>
