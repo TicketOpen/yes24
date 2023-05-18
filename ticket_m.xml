@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-05-17T23:14:17.335Z</updated>
+    <updated>2023-05-18T01:09:41.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[제주] 가족매직콘서트 〈 버블J의 언빌리버블쇼 〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13066&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13066&amp;order=1"/>
+        <updated>2023-05-18T01:08:48.571Z</updated>
+        <content type="html"><![CDATA[2023-05-22(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈겟팅아웃〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13065&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13055&amp;order=1"/>
         <updated>2023-05-16T01:09:56.903Z</updated>
         <content type="html"><![CDATA[2023-05-17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <나무 위의 군대> 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13054&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13054&amp;order=1"/>
-        <updated>2023-05-15T08:18:07.089Z</updated>
-        <content type="html"><![CDATA[2023-05-19(금) 14:00]]></content>
     </entry>
 </feed>
