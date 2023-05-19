@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-05-19T05:14:27.179Z</updated>
+    <updated>2023-05-19T06:19:26.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[여수] NEW 뮤지컬 미니특공대 브이레인저스 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13077&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13077&amp;order=1"/>
+        <updated>2023-05-19T06:18:40.113Z</updated>
+        <content type="html"><![CDATA[2023-05-23(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[제주] 일탈 페스티벌  '더 트롯 라이브' - 김용임,신유,김용필 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13076&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13076&amp;order=1"/>
+        <updated>2023-05-19T06:18:40.114Z</updated>
+        <content type="html"><![CDATA[2023-05-22(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 아시테지 국제여름축제 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13075&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13067&amp;order=1"/>
         <updated>2023-05-18T02:31:52.285Z</updated>
         <content type="html"><![CDATA[2023-05-22(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제주] 가족매직콘서트 〈 버블J의 언빌리버블쇼 〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13066&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13066&amp;order=1"/>
-        <updated>2023-05-18T01:08:48.571Z</updated>
-        <content type="html"><![CDATA[2023-05-22(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈겟팅아웃〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13065&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13065&amp;order=1"/>
-        <updated>2023-05-17T07:20:53.933Z</updated>
-        <content type="html"><![CDATA[2023-05-23(화) 15:00]]></content>
     </entry>
 </feed>
