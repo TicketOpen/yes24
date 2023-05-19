@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 22:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 23:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,14 +225,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45371.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 [나의PS파트너] - 대학로 아트포레스트2관 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/45000</link>
-            <guid>http://ticket.yes24.com/Perf/45000</guid>
-            <pubDate>Mon, 15 May 2023 01:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈시티즌 오브 헬〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/45478</link>
             <guid>http://ticket.yes24.com/Perf/45478</guid>
@@ -241,15 +233,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45478.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 시티즌 오브 헬 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/45478</link>
-            <guid>http://m.ticket.yes24.com/Perf/45478</guid>
-            <pubDate>Mon, 15 May 2023 01:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 시티즌 오브 헬</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">25,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5/17~5/28</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45478.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연극 [나의PS파트너] - 대학로 아트포레스트2관 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/45000</link>
+            <guid>http://ticket.yes24.com/Perf/45000</guid>
+            <pubDate>Mon, 15 May 2023 01:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>9,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 행복한 왕자 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -272,6 +261,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">9,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5월 공연</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 시티즌 오브 헬 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/45478</link>
+            <guid>http://m.ticket.yes24.com/Perf/45478</guid>
+            <pubDate>Mon, 15 May 2023 01:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 시티즌 오브 헬</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">25,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5/17~5/28</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45478.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <할란카운티> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
