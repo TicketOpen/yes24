@@ -4,19 +4,19 @@
         <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 12:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 13:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 행복한 왕자]]></title>
-            <link>http://m.ticket.yes24.com/Perf/45371</link>
-            <guid>http://m.ticket.yes24.com/Perf/45371</guid>
+            <title><![CDATA[연극 시티즌 오브 헬]]></title>
+            <link>http://m.ticket.yes24.com/Perf/45478</link>
+            <guid>http://m.ticket.yes24.com/Perf/45478</guid>
             <pubDate>Mon, 15 May 2023 01:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 행복한 왕자</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">28,400원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5/16~5/28</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45371.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<p class="goods_name">연극 시티즌 오브 헬</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">25,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5/17~5/28</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45478.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 나의PS파트너]]></title>
@@ -30,15 +30,15 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 시티즌 오브 헬]]></title>
-            <link>http://m.ticket.yes24.com/Perf/45478</link>
-            <guid>http://m.ticket.yes24.com/Perf/45478</guid>
+            <title><![CDATA[뮤지컬 행복한 왕자]]></title>
+            <link>http://m.ticket.yes24.com/Perf/45371</link>
+            <guid>http://m.ticket.yes24.com/Perf/45371</guid>
             <pubDate>Mon, 15 May 2023 01:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 시티즌 오브 헬</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">25,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5/17~5/28</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45478.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 행복한 왕자</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">28,400원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5/16~5/28</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230515/20230515-45371.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
