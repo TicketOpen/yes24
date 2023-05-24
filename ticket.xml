@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-05-24T02:36:13.440Z</updated>
+    <updated>2023-05-24T03:17:00.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13090"/>
         <updated>2023-05-24T02:35:13.129Z</updated>
         <content type="html"><![CDATA[2023.05.26(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매루이스 콜 내한공연 (Louis Cole Live in Seoul) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13089</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13089"/>
+        <updated>2023-05-24T03:16:01.536Z</updated>
+        <content type="html"><![CDATA[2023.05.30(화) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[창원] SUPER! 수요콘서트 [After 6pm, 선우정아X치즈] 티켓 오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13068"/>
         <updated>2023-05-18T02:31:43.776Z</updated>
         <content type="html"><![CDATA[2023.05.25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알로하, 나의 엄마들> 1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13067</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13067"/>
-        <updated>2023-05-18T02:31:43.776Z</updated>
-        <content type="html"><![CDATA[2023.05.22(월) 15:00]]></content>
     </entry>
 </feed>
