@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-05-24T06:19:19.754Z</updated>
+    <updated>2023-05-24T07:14:14.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 일탈 페스티벌 '일상탈출' - 제주 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13094</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13094"/>
+        <updated>2023-05-24T07:13:11.932Z</updated>
+        <content type="html"><![CDATA[2023.05.26(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매콘서트 가이드 김성민과 떠나는 아르헨티나 탱고여행 ‘피아졸라’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13093</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13074"/>
         <updated>2023-05-19T04:16:24.875Z</updated>
         <content type="html"><![CDATA[2023.05.24(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제주] 연극 <아무것도 아닌 일로> 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13073</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13073"/>
-        <updated>2023-05-19T02:32:14.767Z</updated>
-        <content type="html"><![CDATA[2023.05.24(수) 09:00]]></content>
     </entry>
 </feed>
