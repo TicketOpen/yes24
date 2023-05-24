@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 03:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 04:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,12 +218,12 @@
             <content:encoded><![CDATA[2023-06-01(목) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈쿠로이 저택엔 누가 살고 있을까?〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/45433</link>
-            <guid>http://ticket.yes24.com/Perf/45433</guid>
-            <pubDate>Mon, 22 May 2023 01:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>40,500원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230522/20230522-45433.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[대학로 청소년연극[사춘기메들리] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/29266</link>
+            <guid>http://ticket.yes24.com/Perf/29266</guid>
+            <pubDate>Mon, 22 May 2023 02:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>10,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230522/20230522-29266.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈나르치스와 골드문트〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -234,24 +234,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230522/20230522-45227.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대학로 청소년연극[사춘기메들리] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/29266</link>
-            <guid>http://ticket.yes24.com/Perf/29266</guid>
-            <pubDate>Mon, 22 May 2023 02:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>10,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230522/20230522-29266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 사춘기 메들리 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/29266</link>
-            <guid>http://m.ticket.yes24.com/Perf/29266</guid>
-            <pubDate>Mon, 22 May 2023 02:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 사춘기 메들리</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">62</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">35,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">10,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5~6월 전 회차
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230522/20230522-29266.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 〈쿠로이 저택엔 누가 살고 있을까?〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/45433</link>
+            <guid>http://ticket.yes24.com/Perf/45433</guid>
+            <pubDate>Mon, 22 May 2023 01:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>40,500원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230522/20230522-45433.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 쿠로이 저택엔... (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -275,6 +263,18 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">25,100원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5/24(수)~5/28(일), 일부회차제외</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230522/20230522-45227.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 사춘기 메들리 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/29266</link>
+            <guid>http://m.ticket.yes24.com/Perf/29266</guid>
+            <pubDate>Mon, 22 May 2023 02:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 사춘기 메들리</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">62</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">35,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">10,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5~6월 전 회차
+</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202305/20230522/20230522-29266.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <할란카운티> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
