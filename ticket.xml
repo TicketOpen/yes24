@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-05-30T08:18:26.252Z</updated>
+    <updated>2023-05-30T09:14:54.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매마이앨리 vol.2 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13108</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13108"/>
+        <updated>2023-05-30T09:13:54.034Z</updated>
+        <content type="html"><![CDATA[2023.06.07(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2023 WEi SHOW-CON [Eternal Sunshine] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13107</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13089"/>
         <updated>2023-05-24T03:16:01.536Z</updated>
         <content type="html"><![CDATA[2023.05.30(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] SUPER! 수요콘서트 [After 6pm, 선우정아X치즈] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13088</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13088"/>
-        <updated>2023-05-24T02:35:13.130Z</updated>
-        <content type="html"><![CDATA[2023.05.26(금) 14:00]]></content>
     </entry>
 </feed>
