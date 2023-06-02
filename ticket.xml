@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-06-02T01:22:12.997Z</updated>
+    <updated>2023-06-02T02:48:50.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(6/10, 6/11, 6/17, 6/18, 6/19, 6/25)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13117</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13117"/>
+        <updated>2023-06-02T02:47:49.479Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈보이A〉 3차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13116</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13097"/>
         <updated>2023-05-26T01:08:39.230Z</updated>
         <content type="html"><![CDATA[2023.05.31(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 뮤지컬 〈신의 손가락〉 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13096</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13096"/>
-        <updated>2023-05-25T05:13:36.168Z</updated>
-        <content type="html"><![CDATA[2023.05.31(수) 11:00]]></content>
     </entry>
 </feed>
