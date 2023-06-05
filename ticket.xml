@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-06-05T08:19:06.828Z</updated>
+    <updated>2023-06-05T09:15:16.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매유니크노트 스탠다드 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13132</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13132"/>
+        <updated>2023-06-05T09:14:18.709Z</updated>
+        <content type="html"><![CDATA[2023.06.07(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매안산시민과 함께 하는 K트롯 콘서트 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13131</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13112"/>
         <updated>2023-05-31T03:17:58.222Z</updated>
         <content type="html"><![CDATA[2023.06.01(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매SHINee WORLD VI［PERFECT ILLUMINATION］티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13110</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13110"/>
-        <updated>2023-05-31T03:17:58.222Z</updated>
-        <content type="html"><![CDATA[2023.06.08(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.06.05(월) 19:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
