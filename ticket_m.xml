@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-06-05T04:18:20.640Z</updated>
+    <updated>2023-06-05T05:14:46.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[안산시민과 함께 하는 K트롯 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13131&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13131&amp;order=1"/>
+        <updated>2023-06-05T05:13:56.251Z</updated>
+        <content type="html"><![CDATA[2023-06-05(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘서트 [투가이즈쇼] 4차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13130&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13130&amp;order=1"/>
+        <updated>2023-06-05T05:13:56.254Z</updated>
+        <content type="html"><![CDATA[2023-06-15(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘서트 [투가이즈쇼] 3차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13129&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13129&amp;order=1"/>
+        <updated>2023-06-05T05:13:56.256Z</updated>
+        <content type="html"><![CDATA[2023-06-14(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘서트 [투가이즈쇼] 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13128&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13128&amp;order=1"/>
+        <updated>2023-06-05T05:13:56.261Z</updated>
+        <content type="html"><![CDATA[2023-06-13(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘서트 [투가이즈쇼] 1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13127&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13127&amp;order=1"/>
+        <updated>2023-06-05T05:13:56.263Z</updated>
+        <content type="html"><![CDATA[2023-06-12(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 이찬원 콘서트 “ONE DAY” - 서울 앵콜 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13126&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13126&amp;order=1"/>
+        <updated>2023-06-05T05:13:56.268Z</updated>
+        <content type="html"><![CDATA[2023-06-19(월) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 이찬원 전국투어 콘서트 “ONE DAY” - 천안 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13125&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13125&amp;order=1"/>
+        <updated>2023-06-05T05:13:56.270Z</updated>
+        <content type="html"><![CDATA[2023-06-12(월) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRIPPIN 1st FANMEETING [여름날의 꿈] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13124&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13124&amp;order=1"/>
+        <updated>2023-06-05T05:13:56.273Z</updated>
+        <content type="html"><![CDATA[2023-06-12(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 YURI 2nd FANMEETING TOUR [Chapter 2] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13123&amp;order=1</id>
@@ -18,61 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13122&amp;order=1"/>
         <updated>2023-06-02T09:13:51.472Z</updated>
         <content type="html"><![CDATA[2023-06-12(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <나무 위의 군대> 발코니석 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13121&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13121&amp;order=1"/>
-        <updated>2023-06-02T07:13:11.162Z</updated>
-        <content type="html"><![CDATA[2023-06-08(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈오페라의 유령〉 부산 - 문화지원 프로그램 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13119&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13119&amp;order=1"/>
-        <updated>2023-06-02T07:13:11.166Z</updated>
-        <content type="html"><![CDATA[2023-06-05(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10-FEET ＂COLLINS＂ TOUR 2023 in Korea 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13118&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13118&amp;order=1"/>
-        <updated>2023-06-02T05:14:10.681Z</updated>
-        <content type="html"><![CDATA[2023-06-08(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈보이A〉 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13116&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13116&amp;order=1"/>
-        <updated>2023-06-01T08:17:42.162Z</updated>
-        <content type="html"><![CDATA[2023-06-08(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈쿠로이 저택엔 누가 살고 있을까?〉 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13115&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13115&amp;order=1"/>
-        <updated>2023-05-31T06:21:42.152Z</updated>
-        <content type="html"><![CDATA[2023-06-08(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈더 픽션〉 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13114&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13114&amp;order=1"/>
-        <updated>2023-05-31T06:21:42.163Z</updated>
-        <content type="html"><![CDATA[2023-06-07(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marcos Valle ＆ Azymuth Live In Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13113&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13113&amp;order=1"/>
-        <updated>2023-05-31T05:14:04.573Z</updated>
-        <content type="html"><![CDATA[2023-06-02(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 서울 팝콘(서울 팝 컬쳐 컨벤션) 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13112&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13112&amp;order=1"/>
-        <updated>2023-05-31T03:18:06.777Z</updated>
-        <content type="html"><![CDATA[2023-06-01(목) 10:00]]></content>
     </entry>
 </feed>
