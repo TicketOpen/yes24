@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-06-07T10:17:53.812Z</updated>
+    <updated>2023-06-07T11:14:14.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2023 US EARTH Festival ESG BUSAN[어스어스 페스티벌] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13137</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13137"/>
+        <updated>2023-06-07T11:12:10.850Z</updated>
+        <content type="html"><![CDATA[2023.06.09(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈그날들〉 10주년 기념 공연 OP석 및 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13136</id>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13117</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13117"/>
         <updated>2023-06-06T13:17:42.031Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈보이A〉 3차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13116</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13116"/>
-        <updated>2023-06-06T13:17:42.031Z</updated>
-        <content type="html"><![CDATA[2023.06.08(목) 16:00]]></content>
     </entry>
 </feed>
