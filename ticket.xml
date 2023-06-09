@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-06-09T02:56:46.046Z</updated>
+    <updated>2023-06-09T03:21:53.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매Xdinary Heroes 1st fanmeeting〈BAND CLUB XV: 2023 SUMMER CAMP〉티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13143</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13143"/>
+        <updated>2023-06-09T03:20:55.793Z</updated>
+        <content type="html"><![CDATA[2023.06.21(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.06.19(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레이니 내한공연 (LANY Live in Seoul) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13142</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13142"/>
+        <updated>2023-06-09T03:20:55.795Z</updated>
+        <content type="html"><![CDATA[2023.06.16(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 〈팬텀싱어4〉 콘서트 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13141</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13124"/>
         <updated>2023-06-06T13:17:42.024Z</updated>
         <content type="html"><![CDATA[2023.06.12(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.06.09(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2023 YURI 2nd FANMEETING TOUR [Chapter 2] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13123</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13123"/>
-        <updated>2023-06-06T13:17:42.025Z</updated>
-        <content type="html"><![CDATA[2023.06.12(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.06.09(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2023 연극 <사의 찬미> 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13122</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13122"/>
-        <updated>2023-06-06T13:17:42.025Z</updated>
-        <content type="html"><![CDATA[2023.06.12(월) 16:00]]></content>
     </entry>
 </feed>
