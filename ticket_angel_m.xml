@@ -4,9 +4,20 @@
         <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 03:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 03:30:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 할란카운티]]></title>
+            <link>http://m.ticket.yes24.com/Perf/45560</link>
+            <guid>http://m.ticket.yes24.com/Perf/45560</guid>
+            <pubDate>Mon, 05 Jun 2023 01:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 할란카운티</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">800,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">37,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">전회차(R석 40%/S,A석 50%)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202306/20230605/20230605-45560_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쇼뮤지컬 드림하이]]></title>
             <link>http://m.ticket.yes24.com/Perf/45497</link>
@@ -18,17 +29,6 @@
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">6/6(화)~6/25(일)
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202306/20230605/20230605-45497.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 할란카운티]]></title>
-            <link>http://m.ticket.yes24.com/Perf/45560</link>
-            <guid>http://m.ticket.yes24.com/Perf/45560</guid>
-            <pubDate>Mon, 05 Jun 2023 01:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 할란카운티</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">800,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">37,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">전회차(R석 40%/S,A석 50%)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202306/20230605/20230605-45560_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
