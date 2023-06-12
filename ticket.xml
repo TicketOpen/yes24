@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-06-12T02:54:15.950Z</updated>
+    <updated>2023-06-12T03:21:44.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[TIMELESS: 유한나 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13146</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13146"/>
+        <updated>2023-06-12T03:20:47.890Z</updated>
+        <content type="html"><![CDATA[2023.06.16(금) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 <슈베르트와 장미요정 샤베트> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13144</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13126"/>
         <updated>2023-06-06T13:17:42.017Z</updated>
         <content type="html"><![CDATA[2023.06.19(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2023 이찬원 전국투어 콘서트 “ONE DAY” - 천안 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13125</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13125"/>
-        <updated>2023-06-06T13:17:42.024Z</updated>
-        <content type="html"><![CDATA[2023.06.12(월) 12:00]]></content>
     </entry>
 </feed>
