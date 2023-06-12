@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-06-12T04:17:58.565Z</updated>
+    <updated>2023-06-12T05:14:47.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<세쿠 카네 메이슨 & 이사타 카네 메이슨 듀오 리사이틀> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13148&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13148&amp;order=1"/>
+        <updated>2023-06-12T05:13:59.386Z</updated>
+        <content type="html"><![CDATA[2023-06-15(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 〈파리넬리〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13147&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13147&amp;order=1"/>
+        <updated>2023-06-12T05:13:59.388Z</updated>
+        <content type="html"><![CDATA[2023-06-19(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TIMELESS: 유한나 콘서트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13146&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13139&amp;order=1"/>
         <updated>2023-06-08T05:14:00.722Z</updated>
         <content type="html"><![CDATA[2023-06-13(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈오페라의 유령〉 서울 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13138&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13138&amp;order=1"/>
-        <updated>2023-06-08T06:18:44.655Z</updated>
-        <content type="html"><![CDATA[2023-06-15(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 US EARTH Festival ESG BUSAN[어스어스 페스티벌] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13137&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13137&amp;order=1"/>
-        <updated>2023-06-07T11:12:20.665Z</updated>
-        <content type="html"><![CDATA[2023-06-09(금) 14:00]]></content>
     </entry>
 </feed>
