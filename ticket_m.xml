@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-06-13T02:42:37.090Z</updated>
+    <updated>2023-06-13T03:15:50.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[찰리 푸스 내한공연 (Charlie Puth Live in Seoul) 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13150&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13150&amp;order=1"/>
+        <updated>2023-06-13T03:14:57.839Z</updated>
+        <content type="html"><![CDATA[2023-06-30(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RE：023 대전 엑스포93 대전 워터뮤직페스티벌 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13149&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13140&amp;order=1"/>
         <updated>2023-06-08T06:18:44.649Z</updated>
         <content type="html"><![CDATA[2023-06-09(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2023 김창옥 토크콘서트 시즌3 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13139&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13139&amp;order=1"/>
-        <updated>2023-06-08T05:14:00.722Z</updated>
-        <content type="html"><![CDATA[2023-06-13(화) 14:00]]></content>
     </entry>
 </feed>
