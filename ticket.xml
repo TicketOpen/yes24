@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-06-16T07:14:37.131Z</updated>
+    <updated>2023-06-16T08:18:05.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈매직 판타지아-도로시 리턴즈〉 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13182</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13182"/>
+        <updated>2023-06-16T08:17:08.065Z</updated>
+        <content type="html"><![CDATA[2023.06.21(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한요한 정규 5집 콘서트 [Shining Star] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13181</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13163</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13163"/>
         <updated>2023-06-14T01:18:00.899Z</updated>
-        <content type="html"><![CDATA[2023.06.22(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매제21회 김천국제가족연극제 [별길따라 별별이야기] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13162</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13162"/>
-        <updated>2023-06-14T01:18:00.903Z</updated>
         <content type="html"><![CDATA[2023.06.22(목) 10:00]]></content>
     </entry>
 </feed>
