@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://m.ticket.yes24.com/Event/List.aspx</id>
-    <title>YES24 티켓 ─ 이벤트 모바일</title>
-    <updated>2023-06-16T02:41:46.715Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://m.ticket.yes24.com/Event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 이벤트 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 16 Jun 2023 03:16:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.06.09 ~ 2023.06.19]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45830</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45830</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2023년 6월 30일(금) 오후 8시]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230609/20230609-33b2bbbe-55f4-42ae-beed-434c75bf9b01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.06.02 ~ 2023.07.14]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46037</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46037</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2023년 7월 27일(목) 오후 7시 30분]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230602/20230602-7c766268-921a-4e4e-924b-1c1fa8f75565.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.06.01 ~ 2023.07.09]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46045</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46045</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2023년 7월 16 (일) 오후 2시]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230601/20230601-3a2fb546-cfe7-4481-afda-17e297f1069c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.05.26 ~ 2023.06.25]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=45484</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=45484</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>도서 [미드나잇 라이브러리]]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230526/20230526-140d2a49-d1da-485f-a0a1-02a6da55dbde.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.05.18 ~ 2023.07.20]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45927</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45927</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>&lt;오페라의 유령&gt; 오리지널 OST]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230518/20230518-02092aa9-718a-4052-87bf-a88cb6b21883.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.05.17 ~ 2023.06.22]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45885</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=45885</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2023년 7월 7일(금) 오후 8시]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230517/20230517-dd182dc5-8bc6-4616-94ae-6e700c57af97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.05.15 ~ 2023.06.30]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3418</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3418</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230512/20230512-d3c885d2-8173-400b-88d7-85dff1693ae6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.04.29 ~ 2023.06.18]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=45371</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=45371</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>2023 뮤지컬&lt;행복한 왕자&gt; 전 배우 사인 프로그램북]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230503/20230503-203605ed-1636-4a71-8b58-9d414e0c9141.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2019.08.09 ~ 2026.08.31]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3019</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2016.01.01 ~ 2030.12.31]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=2450</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=2450</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202010/20201027/20201027-ev_list_guide_review.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
