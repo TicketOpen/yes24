@@ -4,20 +4,9 @@
         <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 10:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 11:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 보이A]]></title>
-            <link>http://m.ticket.yes24.com/Perf/45677</link>
-            <guid>http://m.ticket.yes24.com/Perf/45677</guid>
-            <pubDate>Mon, 19 Jun 2023 02:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 보이A</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">35</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">40,500원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">6/20(화)~7/9(일)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202306/20230619/20230619-45677.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 나르치스와 골드문트]]></title>
             <link>http://m.ticket.yes24.com/Perf/45227</link>
@@ -29,6 +18,17 @@
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">6/21(수)~6/30(금)(6/22 공연 제외)
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202306/20230619/20230619-45227.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 보이A]]></title>
+            <link>http://m.ticket.yes24.com/Perf/45677</link>
+            <guid>http://m.ticket.yes24.com/Perf/45677</guid>
+            <pubDate>Mon, 19 Jun 2023 02:42:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 보이A</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">35</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">40,500원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">6/20(화)~7/9(일)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202306/20230619/20230619-45677.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 알로하, 나의 엄마들]]></title>
