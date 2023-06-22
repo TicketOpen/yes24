@@ -4,16 +4,16 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 20:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 21:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 <알로하, 나의 엄마들>]]></title>
-            <link>http://ticket.yes24.com/Perf/46037</link>
-            <guid>http://ticket.yes24.com/Perf/46037</guid>
+            <title><![CDATA[뮤지컬 〈보이A〉]]></title>
+            <link>http://ticket.yes24.com/Perf/45677</link>
+            <guid>http://ticket.yes24.com/Perf/45677</guid>
             <pubDate>Mon, 19 Jun 2023 01:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									100,000원								</td>								<td class="dc_price">									<em>→</em>57,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202306/20230622/20230622-46037.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>45,500원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202306/20230619/20230619-45677.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈나르치스와 골드문트〉]]></title>
@@ -24,12 +24,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202306/20230619/20230619-45227.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈보이A〉]]></title>
-            <link>http://ticket.yes24.com/Perf/45677</link>
-            <guid>http://ticket.yes24.com/Perf/45677</guid>
+            <title><![CDATA[뮤지컬 <알로하, 나의 엄마들>]]></title>
+            <link>http://ticket.yes24.com/Perf/46037</link>
+            <guid>http://ticket.yes24.com/Perf/46037</guid>
             <pubDate>Mon, 19 Jun 2023 01:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>45,500원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202306/20230619/20230619-45677.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									100,000원								</td>								<td class="dc_price">									<em>→</em>57,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202306/20230622/20230622-46037.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
