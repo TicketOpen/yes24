@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-06-27T07:27:03.388Z</updated>
+    <updated>2023-06-27T08:22:17.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매핵코ON서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13210</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13210"/>
+        <updated>2023-06-27T08:21:07.651Z</updated>
+        <content type="html"><![CDATA[2023.06.28(수) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오누이 콘서트<김용임，진성〉－남양주 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13209</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13190"/>
         <updated>2023-06-22T06:18:39.648Z</updated>
         <content type="html"><![CDATA[2023.06.26(월) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈보이A〉 4차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13189</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13189"/>
-        <updated>2023-06-22T05:13:25.673Z</updated>
-        <content type="html"><![CDATA[2023.06.28(수) 15:00]]></content>
     </entry>
 </feed>
