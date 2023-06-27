@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 23:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 01:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -377,6 +377,13 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[뮤지컬 보이A] 혜공 기념 예매수수료 면제 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Mon, 01 May 2023 13:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2023.06.27 ~ 2023.06.28</dd><dt>사용기간</dt><dd>2023.06.27 ~ 2023.06.28</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[뮤지컬 할란카운티] 엔젤티켓 기념 예매수수료 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -416,6 +423,13 @@
             <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=44046</link>
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=44046</guid>
             <pubDate>Mon, 26 Jun 2023 01:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 보이A] 혜공 기념 예매수수료 면제 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=44064</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=44064</guid>
+            <pubDate>Tue, 27 Jun 2023 01:28:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
         </item>
     </channel>
