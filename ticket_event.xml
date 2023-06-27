@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 06:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 07:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <더 픽션> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45885&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45885&amp;Tab=2</guid>
+            <pubDate>Tue, 27 Jun 2023 07:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.27 ~ 2023.09.17 | 2023.09.19 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230627/20230627-8e2cc96f-696e-424f-b36a-41cc8724dcf9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너, 예스24티켓의 카톡 친구가 돼라!]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3435</link>
@@ -68,13 +76,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Mon, 26 Jun 2023 12:33:52 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예스24스테이지]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Mon, 26 Jun 2023 12:33:52 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
