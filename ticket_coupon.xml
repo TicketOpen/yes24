@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2023-06-28T01:27:59.325Z</updated>
+    <updated>2023-06-28T03:01:53.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -12,33 +12,5 @@
         <updated>2023-03-27T13:28:57.204Z</updated>
         <content type="html"><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 보이A] 혜공 기념 예매수수료 면제 쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2023-03-27T13:28:57.204Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2023.06.27 ~ 2023.06.28</dd><dt>사용기간</dt><dd>2023.06.27 ~ 2023.06.28</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 할란카운티] 엔젤티켓 기념 예매수수료 쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2023-03-27T13:28:57.204Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2023.06.26 ~ 2023.07.02</dd><dt>사용기간</dt><dd>2023.06.26 ~ 2023.07.02</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2023-03-27T13:28:57.204Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2017.10.01 ~ 2023.12.31</dd><dt>사용기간</dt><dd>발급일로 부터 30일</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[YES마니아] 예매수수료 면제쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2023-03-27T13:28:57.204Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2012.02.09 ~ 2030.12.31</dd><dt>사용기간</dt><dd>2012.02.09 ~ 2030.12.31</dd>]]></content>
     </entry>
 </feed>
