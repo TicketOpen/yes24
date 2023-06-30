@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 14:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 15:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -289,19 +289,18 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230518/20230518-02092aa9-718a-4052-87bf-a88cb6b21883.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[토스페이 런칭 기념 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3418</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3418</guid>
-            <pubDate>Thu, 29 Jun 2023 03:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.15 ~ 2023.06.30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230512/20230512-d3c885d2-8173-400b-88d7-85dff1693ae6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NEW출석체크 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Thu, 29 Jun 2023 03:28:13 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Fri, 30 Jun 2023 15:15:54 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.06.29 ~ 2023.08.21 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -358,14 +357,6 @@
             <pubDate>Fri, 16 Jun 2023 03:16:07 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>&lt;오페라의 유령&gt; 오리지널 OST]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230518/20230518-02092aa9-718a-4052-87bf-a88cb6b21883.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2023.05.15 ~ 2023.06.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3418</link>
-            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3418</guid>
-            <pubDate>Fri, 16 Jun 2023 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230512/20230512-d3c885d2-8173-400b-88d7-85dff1693ae6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2019.08.09 ~ 2026.08.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
