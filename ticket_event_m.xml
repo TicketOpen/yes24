@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 01:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 02:58:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.07.03 ~ 2023.07.14]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46269</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46269</guid>
+            <pubDate>Mon, 03 Jul 2023 02:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>&lt;앤서니브라운의 원더랜드 뮤지엄展&gt; 전시 관람 티켓 23.7.13.(목)~10.15.(일)]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230703/20230703-8a2a03ef-3186-4e44-83c6-a96f1241831b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.06.29 ~ 2023.08.21]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=45830</link>
