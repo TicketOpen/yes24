@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-07-03T02:58:47.243Z</updated>
+    <updated>2023-07-03T03:29:06.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[찰리 푸스 내한공연 (Charlie Puth Live in Seoul) 추가 회차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13227</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13227"/>
+        <updated>2023-07-03T03:26:00.517Z</updated>
+        <content type="html"><![CDATA[2023.07.05(수) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매[VIP 패키지] 찰리 푸스 내한공연 (Charlie Puth Live in Seoul) - IN MY HEAD Experience 추가 ..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13226</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13226"/>
+        <updated>2023-07-03T03:26:00.522Z</updated>
+        <content type="html"><![CDATA[2023.07.05(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매펩시 썸머 페스타 2023 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13225</id>
@@ -128,18 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13207"/>
         <updated>2023-06-27T04:18:56.182Z</updated>
         <content type="html"><![CDATA[2023.06.29(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버페이 서비스 점검으로 인한 결제 전체 서비스 중단(7/8)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13205</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13205"/>
-        <updated>2023-06-26T10:17:23.843Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RINI 1st LIVE IN SEOUL 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13204</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13204"/>
-        <updated>2023-06-26T09:17:05.971Z</updated>
-        <content type="html"><![CDATA[2023.06.29(목) 12:00]]></content>
     </entry>
 </feed>
