@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-07-02T23:15:52.793Z</updated>
+    <updated>2023-07-03T01:28:42.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매펩시 썸머 페스타 2023 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13225</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13225"/>
+        <updated>2023-07-03T01:27:45.056Z</updated>
+        <content type="html"><![CDATA[2023.07.21(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <라스트 세션(Freud’s Last Session)> 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13224</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13224"/>
+        <updated>2023-07-03T01:27:45.058Z</updated>
+        <content type="html"><![CDATA[2023.07.05(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 최현우 Answer 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13223</id>
@@ -127,19 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13204"/>
         <updated>2023-06-26T09:17:05.971Z</updated>
         <content type="html"><![CDATA[2023.06.29(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Jazzbreak 2023 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13203</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13203"/>
-        <updated>2023-06-26T03:04:28.156Z</updated>
-        <content type="html"><![CDATA[2023.06.26(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제주] 2023 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13202</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13202"/>
-        <updated>2023-06-26T03:04:28.166Z</updated>
-        <content type="html"><![CDATA[2023.06.26(월) 12:00]]></content>
     </entry>
 </feed>
