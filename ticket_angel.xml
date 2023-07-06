@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 18:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 19:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 〈수레바퀴 아래서〉]]></title>
-            <link>http://ticket.yes24.com/Perf/45862</link>
-            <guid>http://ticket.yes24.com/Perf/45862</guid>
-            <pubDate>Mon, 03 Jul 2023 01:28:01 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									65,000원								</td>								<td class="dc_price">									<em>→</em>36,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202307/20230703/20230703-45862.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 〈더 픽션〉]]></title>
             <link>http://ticket.yes24.com/Perf/45885</link>
@@ -22,6 +14,14 @@
             <pubDate>Mon, 03 Jul 2023 01:28:01 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202307/20230703/20230703-45885.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈수레바퀴 아래서〉]]></title>
+            <link>http://ticket.yes24.com/Perf/45862</link>
+            <guid>http://ticket.yes24.com/Perf/45862</guid>
+            <pubDate>Mon, 03 Jul 2023 01:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									65,000원								</td>								<td class="dc_price">									<em>→</em>36,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202307/20230703/20230703-45862.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
