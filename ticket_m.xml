@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-07-10T05:16:16.783Z</updated>
+    <updated>2023-07-10T06:22:25.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈투모로우 모닝〉  1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13248&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13248&amp;order=1"/>
+        <updated>2023-07-10T06:21:35.020Z</updated>
+        <content type="html"><![CDATA[2023-07-13(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <나무 위의 군대> 연장 공연 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13247&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13247&amp;order=1"/>
         <updated>2023-07-10T05:15:22.418Z</updated>
         <content type="html"><![CDATA[2023-07-14(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <옆집사람> 1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13246&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13246&amp;order=1"/>
+        <updated>2023-07-10T06:21:35.023Z</updated>
+        <content type="html"><![CDATA[2023-07-13(목) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 창원 락 페스타 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13238&amp;order=1"/>
         <updated>2023-07-07T04:19:04.139Z</updated>
         <content type="html"><![CDATA[2023-07-17(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanghui 1st Fanmeeting 강희의 아틀리에 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13237&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13237&amp;order=1"/>
-        <updated>2023-07-07T01:27:42.199Z</updated>
-        <content type="html"><![CDATA[2023-07-10(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 예술의전당 여름음악축제 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13236&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13236&amp;order=1"/>
-        <updated>2023-07-06T09:16:28.729Z</updated>
-        <content type="html"><![CDATA[2023-07-07(금) 14:00]]></content>
     </entry>
 </feed>
