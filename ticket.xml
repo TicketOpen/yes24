@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-07-11T08:21:16.999Z</updated>
+    <updated>2023-07-11T09:17:20.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정트리오 콘서트 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13254</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13254"/>
+        <updated>2023-07-11T09:16:16.010Z</updated>
+        <content type="html"><![CDATA[2023.07.13(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[창원] 9월 토요콘서트 [Swing Jazz with 더블리스코리아] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13253</id>
@@ -137,11 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13235"/>
         <updated>2023-07-06T08:21:56.555Z</updated>
         <content type="html"><![CDATA[2023.07.10(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(7/9, 7/16, 7/17, 7/19)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13234</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13234"/>
-        <updated>2023-07-06T07:16:19.220Z</updated>
     </entry>
 </feed>
