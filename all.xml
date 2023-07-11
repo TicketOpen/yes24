@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 10:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 11:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -148,6 +148,13 @@
             <content:encoded><![CDATA[2023.07.10(월) 09:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[ART ROAD SHOWCASE & ART EXHIBITION in KOREA 2023 티켓 재오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13256&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13256&amp;order=1</guid>
+            <pubDate>Tue, 11 Jul 2023 11:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023-07-13(목) 16:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[정트리오 콘서트 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13254&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13254&amp;order=1</guid>
@@ -209,13 +216,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13246&amp;order=1</guid>
             <pubDate>Mon, 10 Jul 2023 06:21:35 GMT</pubDate>
             <content:encoded><![CDATA[2023-07-13(목) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 창원 락 페스타 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13245&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13245&amp;order=1</guid>
-            <pubDate>Mon, 10 Jul 2023 05:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[2023-07-11(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 뮤지컬 ＜신의 손가락＞ (YES24 티켓 ─ 엔젤티켓)]]></title>
