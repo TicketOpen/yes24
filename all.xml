@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 01:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 03:01:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,6 +147,13 @@
             <content:encoded><![CDATA[2023.07.10(월) 20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[도이치방송오케스트라＆손열음 -서울 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13263&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13263&amp;order=1</guid>
+            <pubDate>Thu, 13 Jul 2023 03:00:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023-07-14(금) 14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[제19회 제천국제음악영화제 필름 뮤직 O.S.T 콘서트 - Sound Of Summer 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13262&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13262&amp;order=1</guid>
@@ -208,13 +215,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13252&amp;order=1</guid>
             <pubDate>Tue, 11 Jul 2023 04:19:30 GMT</pubDate>
             <content:encoded><![CDATA[2023-07-17(월) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페더 엘리아스 내한공연 (Peder Elias LIVE IN SEOUL) 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13251&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13251&amp;order=1</guid>
-            <pubDate>Tue, 11 Jul 2023 03:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[2023-07-18(화) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 뮤지컬 ＜신의 손가락＞ (YES24 티켓 ─ 엔젤티켓)]]></title>
