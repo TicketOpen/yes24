@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-07-13T03:01:22.377Z</updated>
+    <updated>2023-07-13T03:31:10.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[도이치방송오케스트라＆손열음 -서울 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13263</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13263"/>
+        <updated>2023-07-13T03:30:07.607Z</updated>
+        <content type="html"><![CDATA[2023.07.14(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매제19회 제천국제음악영화제 필름 뮤직 O.S.T 콘서트 - Sound Of Summer 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13262</id>
@@ -51,7 +58,7 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13256</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13256"/>
         <updated>2023-07-11T12:32:35.640Z</updated>
-        <content type="html"><![CDATA[2023.07.13(목) 16:00]]></content>
+        <content type="html"><![CDATA[2023.07.17(월) 16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정트리오 콘서트 티켓오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13243"/>
         <updated>2023-07-10T08:21:33.632Z</updated>
         <content type="html"><![CDATA[2023.07.14(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매한요한 정규 5집 [Shining Star] 앵콜 콘서트 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13242</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13242"/>
-        <updated>2023-07-08T03:30:17.520Z</updated>
-        <content type="html"><![CDATA[2023.07.10(월) 20:00]]></content>
     </entry>
 </feed>
