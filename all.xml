@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 08:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 09:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -396,6 +396,13 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[뮤지컬 매직 판타지아] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Mon, 01 May 2023 13:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2023.07.14 ~ 2023.07.23</dd><dt>사용기간</dt><dd>2023.07.14 ~ 2023.07.23</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -422,6 +429,13 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097</guid>
             <pubDate>Fri, 16 Jun 2023 03:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 매직 판타지아] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=44262</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=44262</guid>
+            <pubDate>Fri, 14 Jul 2023 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
