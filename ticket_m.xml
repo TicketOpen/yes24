@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-07-17T03:04:20.617Z</updated>
+    <updated>2023-07-17T04:21:30.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[태양의서커스 〈루치아〉 추가티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13281&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13281&amp;order=1"/>
+        <updated>2023-07-17T04:20:36.307Z</updated>
+        <content type="html"><![CDATA[2023-07-18(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 뮤지컬 〈신의 손가락〉 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13280&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13272&amp;order=1"/>
         <updated>2023-07-14T08:19:22.531Z</updated>
         <content type="html"><![CDATA[2023-08-01(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 2023 쇼퀸 TOP7 전국투어 콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13271&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13271&amp;order=1"/>
-        <updated>2023-07-14T08:19:22.532Z</updated>
-        <content type="html"><![CDATA[2023-08-01(화) 14:00]]></content>
     </entry>
 </feed>

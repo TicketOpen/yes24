@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 03:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 04:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.07.17 ~ 2023.08.20]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46045</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46045</guid>
+            <pubDate>Mon, 17 Jul 2023 04:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>오페레타 뮤지컬 판타지아 국립중앙박물관 극장용 11월 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230717/20230717-7f3ff5f6-9731-41ff-8065-9e7322509959.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.07.11 ~ 2023.08.12]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=45419</link>
