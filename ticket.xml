@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-07-19T08:20:31.251Z</updated>
+    <updated>2023-07-19T09:15:39.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매IDOL RADIO LIVE IN SEOUL 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13291</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13291"/>
+        <updated>2023-07-19T09:14:41.228Z</updated>
+        <content type="html"><![CDATA[2023.08.02(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전 국제 와인 EXPO 2023 와인&주류 박람회] 온라인 예매 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13290</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13272"/>
         <updated>2023-07-14T08:19:12.837Z</updated>
         <content type="html"><![CDATA[2023.08.01(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 2023 쇼퀸 TOP7 전국투어 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13271</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13271"/>
-        <updated>2023-07-14T08:19:12.841Z</updated>
-        <content type="html"><![CDATA[2023.08.01(화) 14:00]]></content>
     </entry>
 </feed>
