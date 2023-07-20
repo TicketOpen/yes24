@@ -1,82 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 ─ 이벤트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 01:15:19 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <매직 판타지아> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46045&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46045&amp;Tab=3</guid>
-            <pubDate>Mon, 17 Jul 2023 04:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.17 ~ 2023.08.20 | 2023.08.22 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230717/20230717-7f3ff5f6-9731-41ff-8065-9e7322509959.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <나무 위의 군대> 관람 후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45419&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45419&amp;Tab=2</guid>
-            <pubDate>Tue, 11 Jul 2023 01:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.11 ~ 2023.08.12 | 2023.08.22 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230711/20230711-e020fcb1-1e9e-4c83-bcf3-b7ea28c19975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<썬더프롬다운언더 IN 서울> 기대평이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46388&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46388&amp;Tab=3</guid>
-            <pubDate>Tue, 04 Jul 2023 15:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05 ~ 2023.08.20 | 2023.08.22 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230704/20230704-47f7f7cc-53dd-4f68-9edf-666500d142b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <신의 손가락> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45830&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45830&amp;Tab=2</guid>
-            <pubDate>Sat, 01 Jul 2023 23:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.29 ~ 2023.08.21 | 2023.08.25 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230629/20230629-ba4f59c7-a76c-4ca7-a871-f4eb6ed80e4d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <더 픽션> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45885&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45885&amp;Tab=2</guid>
-            <pubDate>Sat, 01 Jul 2023 23:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.27 ~ 2023.09.17 | 2023.09.19 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230627/20230627-8e2cc96f-696e-424f-b36a-41cc8724dcf9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너, 예스24티켓의 카톡 친구가 돼라!]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3435</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3435</guid>
-            <pubDate>Sat, 01 Jul 2023 23:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.19 ~ 2023.12.19]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230616/20230616-a7a55e7b-c331-4a76-8492-0a8046f02a8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <수레바퀴 아래서> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45862&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45862&amp;Tab=2</guid>
-            <pubDate>Sat, 01 Jul 2023 23:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.16 ~ 2023.08.16 | 2023.08.16 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230616/20230616-ed42f385-06c2-4b2d-bcf2-0d9fc32853fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <오페라의 유령> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45927&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45927&amp;Tab=3</guid>
-            <pubDate>Sat, 01 Jul 2023 23:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.18 ~ 2023.07.20 | 2023.07.21 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202305/20230518/20230518-02092aa9-718a-4052-87bf-a88cb6b21883.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Tue, 11 Jul 2023 08:20:51 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
+    <title>YES24 티켓 ─ 이벤트</title>
+    <updated>2023-07-20T02:33:51.537Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://tkfile.yes24.com/img/icon.png</icon>
+</feed>
