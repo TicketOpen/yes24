@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-07-20T04:18:35.496Z</updated>
+    <updated>2023-07-20T05:15:28.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2023 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13294</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13294"/>
+        <updated>2023-07-20T05:13:25.568Z</updated>
+        <content type="html"><![CDATA[2023.07.25(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팬텀 3테너 콘서트: 김민석, 정필립, 존노 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13293</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13275"/>
         <updated>2023-07-14T08:19:12.827Z</updated>
         <content type="html"><![CDATA[2023.08.02(수) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2023 쇼퀸 TOP7 전국투어 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13274</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13274"/>
-        <updated>2023-07-14T08:19:12.831Z</updated>
-        <content type="html"><![CDATA[2023.08.01(화) 17:00]]></content>
     </entry>
 </feed>

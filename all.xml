@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 04:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 05:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[청주] 2023 장윤정 라이브 콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13294</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13294</guid>
+            <pubDate>Thu, 20 Jul 2023 05:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.25(화) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팬텀 3테너 콘서트: 김민석, 정필립, 존노 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13293</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2023.08.02(수) 13:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[부산] 2023 쇼퀸 TOP7 전국투어 콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13274</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13274</guid>
-            <pubDate>Fri, 14 Jul 2023 08:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.01(화) 17:00]]></content:encoded>
+            <title><![CDATA[[청주] 2023 장윤정 라이브 콘서트 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13294&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13294&amp;order=1</guid>
+            <pubDate>Thu, 20 Jul 2023 05:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023-07-25(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[팬텀 3테너 콘서트: 김민석, 정필립, 존노 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,13 +218,6 @@
             <content:encoded><![CDATA[2023-07-26(수) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[20회 자라섬재즈페스티벌 - 얼리버드 티켓 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13284&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13284&amp;order=1</guid>
-            <pubDate>Mon, 17 Jul 2023 09:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[2023-07-19(수) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈매직 판타지아 - 도로시 리턴즈〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/46045</link>
             <guid>http://ticket.yes24.com/Perf/46045</guid>
@@ -234,17 +234,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202307/20230717/20230717-45796.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 매직 판타지아 - 도로시 리턴즈 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/46045</link>
-            <guid>http://m.ticket.yes24.com/Perf/46045</guid>
-            <pubDate>Mon, 17 Jul 2023 04:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 매직 판타지아 - 도로시 리턴즈</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">37,200원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8/1(화)~8/20(일)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202307/20230717/20230717-46045.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 아르토 고흐 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/45796</link>
             <guid>http://m.ticket.yes24.com/Perf/45796</guid>
@@ -254,6 +243,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">19,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">7/18(화)~7/23(일)</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202307/20230717/20230717-45796.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 매직 판타지아 - 도로시 리턴즈 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/46045</link>
+            <guid>http://m.ticket.yes24.com/Perf/46045</guid>
+            <pubDate>Mon, 17 Jul 2023 04:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 매직 판타지아 - 도로시 리턴즈</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">37,200원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8/1(화)~8/20(일)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202307/20230717/20230717-46045.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <매직 판타지아> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
