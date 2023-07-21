@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-07-21T02:36:12.339Z</updated>
+    <updated>2023-07-21T03:15:16.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 국립국악원 〈한국의 악(樂)가(歌)무(舞)〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13296</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13296"/>
+        <updated>2023-07-21T03:14:20.913Z</updated>
+        <content type="html"><![CDATA[2023.07.24(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라우브 내한공연 ( LAUV Live in Seoul) 추가 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13295</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13295"/>
+        <updated>2023-07-21T03:14:20.916Z</updated>
+        <content type="html"><![CDATA[2023.07.24(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2023 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13294</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13277"/>
         <updated>2023-07-14T08:19:12.821Z</updated>
         <content type="html"><![CDATA[2023.08.02(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주] 2023 쇼퀸 TOP7 전국투어 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13276</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13276"/>
-        <updated>2023-07-14T08:19:12.824Z</updated>
-        <content type="html"><![CDATA[2023.08.02(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2023 쇼퀸 TOP7 전국투어 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13275</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13275"/>
-        <updated>2023-07-14T08:19:12.827Z</updated>
-        <content type="html"><![CDATA[2023.08.02(수) 13:00]]></content>
     </entry>
 </feed>
