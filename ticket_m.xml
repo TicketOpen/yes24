@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-07-21T06:20:11.179Z</updated>
+    <updated>2023-07-21T07:14:36.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<로열 콘세르트헤바우 오케스트라> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13301&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13301&amp;order=1"/>
+        <updated>2023-07-21T07:13:46.103Z</updated>
+        <content type="html"><![CDATA[2023-07-26(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <오페라의 유령> 서울 YES24DAY 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13300&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13292&amp;order=1"/>
         <updated>2023-07-20T02:32:53.272Z</updated>
         <content type="html"><![CDATA[2023-07-25(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IDOL RADIO LIVE IN SEOUL 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13291&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13291&amp;order=1"/>
-        <updated>2023-07-19T09:14:49.692Z</updated>
-        <content type="html"><![CDATA[2023-08-02(수) 20:00]]></content>
     </entry>
 </feed>
