@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2023-07-23T14:12:16.784Z</updated>
+    <updated>2023-07-23T15:14:03.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -18,19 +18,5 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097"/>
         <updated>2023-06-16T03:16:21.629Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 매직 판타지아] 개막 기념 3,000원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=44262</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=44262"/>
-        <updated>2023-07-14T09:17:32.409Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수레바퀴 온 주위를 맴돌다 찾은 40% 할인 쿠폰*]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=44272</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=44272"/>
-        <updated>2023-07-18T07:15:56.566Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 40%]]></content>
     </entry>
 </feed>
