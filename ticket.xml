@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-07-24T02:36:43.985Z</updated>
+    <updated>2023-07-24T03:16:02.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13304</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13304"/>
+        <updated>2023-07-24T03:15:05.326Z</updated>
+        <content type="html"><![CDATA[2023.07.26(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈더 픽션〉 4차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13303</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13285"/>
         <updated>2023-07-18T03:00:08.950Z</updated>
         <content type="html"><![CDATA[2023.07.26(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매20회 자라섬재즈페스티벌 - 얼리버드 티켓 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13284</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13284"/>
-        <updated>2023-07-17T09:16:20.461Z</updated>
-        <content type="html"><![CDATA[2023.07.19(수) 14:00]]></content>
     </entry>
 </feed>
