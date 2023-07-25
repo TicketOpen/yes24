@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-07-25T03:17:20.951Z</updated>
+    <updated>2023-07-25T04:17:41.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[[부산] 2023 국민대화합한마당 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[[울산] 가족뮤지컬 〈고양이 해결사 깜냥 - 편의점을 환하게 밝혀라〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13309</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13309"/>
+        <updated>2023-07-25T04:16:40.544Z</updated>
+        <content type="html"><![CDATA[2023.07.27(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매[부산] 2023 국민대화합한마당 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13306</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13306"/>
         <updated>2023-07-24T08:18:48.914Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13288"/>
         <updated>2023-07-19T05:13:54.384Z</updated>
         <content type="html"><![CDATA[2023.07.21(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] SUPER! 수요콘서트 [이날치x구남과여라이딩스텔라] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13287</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13287"/>
-        <updated>2023-07-18T09:14:44.254Z</updated>
-        <content type="html"><![CDATA[2023.07.20(목) 14:00]]></content>
     </entry>
 </feed>
