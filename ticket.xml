@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-07-25T07:15:58.471Z</updated>
+    <updated>2023-07-25T08:19:18.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13309"/>
         <updated>2023-07-25T04:16:40.544Z</updated>
         <content type="html"><![CDATA[2023.07.27(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈맘마미아〉  - 수원 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13308</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13308"/>
+        <updated>2023-07-25T08:18:11.854Z</updated>
+        <content type="html"><![CDATA[2023.07.27(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 뮤지컬 〈맘마미아!〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13307</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13307"/>
+        <updated>2023-07-25T08:18:11.855Z</updated>
+        <content type="html"><![CDATA[2023.07.27(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[부산] 2023 국민대화합한마당 티켓 오픈 안내]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13290"/>
         <updated>2023-07-19T08:17:27.739Z</updated>
         <content type="html"><![CDATA[2023.07.21(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈왓 이프〉 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13289</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13289"/>
-        <updated>2023-07-19T02:35:54.982Z</updated>
-        <content type="html"><![CDATA[2023.07.25(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRUNO MAJOR 내한 - VIP PASS 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13288</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13288"/>
-        <updated>2023-07-19T05:13:54.384Z</updated>
-        <content type="html"><![CDATA[2023.07.21(금) 12:00]]></content>
     </entry>
 </feed>
