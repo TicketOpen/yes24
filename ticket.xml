@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-08-04T01:11:24.894Z</updated>
+    <updated>2023-08-04T02:29:16.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[태양의서커스 〈루치아〉 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13342</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13342"/>
+        <updated>2023-08-04T02:28:18.507Z</updated>
+        <content type="html"><![CDATA[2023.08.11(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <배소고지 이야기> - 기억의 연못 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13341</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13341"/>
+        <updated>2023-08-04T02:28:18.511Z</updated>
+        <content type="html"><![CDATA[2023.08.09(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경주] 2023 김창옥 토크콘서트 시즌3 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13340</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13323"/>
         <updated>2023-07-28T09:13:38.633Z</updated>
         <content type="html"><![CDATA[2023.08.03(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매‘2023 NCT CONCERT - NCT NATION : To The World’ 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13322</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13322"/>
-        <updated>2023-07-28T08:16:56.747Z</updated>
-        <content type="html"><![CDATA[2023.08.07(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.08.04(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 이은미 전국투어 콘서트 〈NOCTURN〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13321</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13321"/>
-        <updated>2023-07-28T08:16:56.751Z</updated>
-        <content type="html"><![CDATA[2023.08.04(금) 14:00]]></content>
     </entry>
 </feed>
