@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-08-04T08:18:16.420Z</updated>
+    <updated>2023-08-04T09:15:13.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <라스트 세션> Freud's Last Session 추가 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13347&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13347&amp;order=1"/>
+        <updated>2023-08-04T09:14:18.438Z</updated>
+        <content type="html"><![CDATA[2023-08-08(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈더 픽션〉 마지막 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13346&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13346&amp;order=1"/>
+        <updated>2023-08-04T09:14:18.441Z</updated>
+        <content type="html"><![CDATA[2023-08-09(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[EXTRA ORDINARY 엑스트라 오디너리 콘서트] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13345&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13338&amp;order=1"/>
         <updated>2023-08-03T07:14:12.818Z</updated>
         <content type="html"><![CDATA[2023-08-08(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2023 모닝콘서트 - 12월 [Journey to Jazz] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13337&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13337&amp;order=1"/>
-        <updated>2023-08-02T10:14:42.675Z</updated>
-        <content type="html"><![CDATA[2023-08-07(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2023 모닝콘서트 - 11월 [녹색지대의 사랑을 할거야] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13336&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13336&amp;order=1"/>
-        <updated>2023-08-02T10:14:42.683Z</updated>
-        <content type="html"><![CDATA[2023-08-07(월) 14:00]]></content>
     </entry>
 </feed>
