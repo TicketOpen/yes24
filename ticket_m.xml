@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-08-06T23:15:42.603Z</updated>
+    <updated>2023-08-07T01:09:42.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[&TEAM 1st Anniversary [緣 DAY] in SEOUL 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13348&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13348&amp;order=1"/>
+        <updated>2023-08-07T01:08:53.611Z</updated>
+        <content type="html"><![CDATA[2023-08-23(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <라스트 세션> Freud's Last Session 추가 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13347&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13339&amp;order=1"/>
         <updated>2023-08-03T08:18:30.004Z</updated>
         <content type="html"><![CDATA[2023-08-09(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈구텐버그〉 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13338&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13338&amp;order=1"/>
-        <updated>2023-08-03T07:14:12.818Z</updated>
-        <content type="html"><![CDATA[2023-08-08(화) 14:00]]></content>
     </entry>
 </feed>
