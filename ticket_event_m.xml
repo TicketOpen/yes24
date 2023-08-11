@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 08:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 09:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.08.11 ~ 2023.08.27]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46799</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46799</guid>
+            <pubDate>Fri, 11 Aug 2023 09:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>연극 &lt;배소고지 이야기&gt; 9월 8일(금) 19시 30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230811/20230811-266d8bcd-4ef8-4e78-bb6f-7d1d033e61e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.08.11 ~ 2023.09.17]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=46304</link>

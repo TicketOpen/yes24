@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 08:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 09:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -146,6 +146,13 @@
             <content:encoded><![CDATA[2023.08.08(화) 11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[대구] 뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13369&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13369&amp;order=1</guid>
+            <pubDate>Fri, 11 Aug 2023 09:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023-08-17(목) 10:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이은결 [더 일루션-마스터피스] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13368&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13368&amp;order=1</guid>
@@ -208,11 +215,12 @@
             <content:encoded><![CDATA[2023-08-16(수) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 이은미 전국투어 콘서트〈NOCTURN〉-수원 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13359&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13359&amp;order=1</guid>
-            <pubDate>Wed, 09 Aug 2023 05:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[2023-08-14(월) 14:00]]></content:encoded>
+            <title><![CDATA[연극 <배소고지 이야기> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46799&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46799&amp;Tab=3</guid>
+            <pubDate>Fri, 11 Aug 2023 09:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.11 ~ 2023.08.27 | 2023.08.30 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230811/20230811-266d8bcd-4ef8-4e78-bb6f-7d1d033e61e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <곤 투모로우> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -279,12 +287,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230711/20230711-e020fcb1-1e9e-4c83-bcf3-b7ea28c19975.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<썬더프롬다운언더 IN 서울> 기대평이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46388&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46388&amp;Tab=3</guid>
-            <pubDate>Mon, 07 Aug 2023 12:27:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05 ~ 2023.08.20 | 2023.08.22 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230704/20230704-47f7f7cc-53dd-4f68-9edf-666500d142b9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2023.08.11 ~ 2023.08.27 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46799</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46799</guid>
+            <pubDate>Fri, 11 Aug 2023 09:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>연극 &lt;배소고지 이야기&gt; 9월 8일(금) 19시 30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230811/20230811-266d8bcd-4ef8-4e78-bb6f-7d1d033e61e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.08.11 ~ 2023.09.17 (YES24 티켓 ─ 이벤트 모바일)]]></title>
