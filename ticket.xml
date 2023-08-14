@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-08-14T00:59:13.764Z</updated>
+    <updated>2023-08-14T01:49:50.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안성] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13370</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13370"/>
+        <updated>2023-08-14T01:48:44.888Z</updated>
+        <content type="html"><![CDATA[2023.08.16(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13369</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13349"/>
         <updated>2023-08-07T05:13:36.005Z</updated>
         <content type="html"><![CDATA[2023.08.10(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매&TEAM 1st Anniversary [緣 DAY] in SEOUL 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13348</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13348"/>
-        <updated>2023-08-07T01:08:45.571Z</updated>
-        <content type="html"><![CDATA[2023.08.23(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="일반 예매" presaletime1="2023.08.21(월) 20:00" presaletime2="2023.08.23(수) 20:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
