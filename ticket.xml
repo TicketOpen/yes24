@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-08-17T04:18:13.319Z</updated>
+    <updated>2023-08-17T05:14:52.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 아시안 팝 스테이지 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13383</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13383"/>
+        <updated>2023-08-17T05:12:45.408Z</updated>
+        <content type="html"><![CDATA[2023.08.23(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈오페라의 유령〉 서울 4차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13382</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13382"/>
+        <updated>2023-08-17T05:12:45.409Z</updated>
+        <content type="html"><![CDATA[2023.08.24(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매Nothing But Thieves Live in Seoul ( 나씽 벗 띠브스 내한공연) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13381</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13381"/>
+        <updated>2023-08-17T05:12:45.410Z</updated>
+        <content type="html"><![CDATA[2023.08.31(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈렛미플라이〉 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13380</id>
@@ -122,26 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13362</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13362"/>
         <updated>2023-08-16T18:15:55.305Z</updated>
-        <content type="html"><![CDATA[2023.08.14(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마산] 2023 변진섭 전국투어 콘서트：변천사 공연연기 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13361</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13361"/>
-        <updated>2023-08-16T18:15:55.306Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 더데빌:에덴] 첫 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13360</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13360"/>
-        <updated>2023-08-16T18:15:55.310Z</updated>
-        <content type="html"><![CDATA[2023.08.16(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 이은미 전국투어 콘서트〈NOCTURN〉-수원 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13359</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13359"/>
-        <updated>2023-08-16T18:15:55.335Z</updated>
         <content type="html"><![CDATA[2023.08.14(월) 14:00]]></content>
     </entry>
 </feed>
