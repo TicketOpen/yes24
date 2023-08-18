@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-08-18T10:15:56.768Z</updated>
+    <updated>2023-08-18T11:13:06.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Someday Festival 2023 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13393</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13393"/>
+        <updated>2023-08-18T11:11:05.464Z</updated>
+        <content type="html"><![CDATA[2023.08.21(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[파주] Woodstock Music & Art Fair 2023 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13392</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13392"/>
+        <updated>2023-08-18T11:11:05.465Z</updated>
+        <content type="html"><![CDATA[2023.08.25(금) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 연극 <친정엄마와 2박3일 - 김해> 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13391</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13373"/>
         <updated>2023-08-18T01:44:01.427Z</updated>
         <content type="html"><![CDATA[2023.08.21(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매영블러드 내한공연 YUNGBLUD LIVE IN SEOUL 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13372</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13372"/>
-        <updated>2023-08-18T01:44:01.433Z</updated>
-        <content type="html"><![CDATA[2023.08.21(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안성] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13370</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13370"/>
-        <updated>2023-08-18T01:44:01.436Z</updated>
-        <content type="html"><![CDATA[2023.08.16(수) 14:00]]></content>
     </entry>
 </feed>
