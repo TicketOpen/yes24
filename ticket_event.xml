@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 14:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 15:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230721/20230721-3b0df8e7-4bc1-4517-a84c-a79f628823e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <매직 판타지아> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46045&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46045&amp;Tab=2</guid>
-            <pubDate>Fri, 18 Aug 2023 01:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.17 ~ 2023.08.20 | 2023.08.22 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230717/20230717-7f3ff5f6-9731-41ff-8065-9e7322509959.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <신의 손가락> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45830&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45830&amp;Tab=2</guid>
+            <pubDate>Sun, 20 Aug 2023 15:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.29 ~ 2023.08.21 | 2023.08.25 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230629/20230629-ba4f59c7-a76c-4ca7-a871-f4eb6ed80e4d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
