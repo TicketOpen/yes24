@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-08-23T04:18:04.022Z</updated>
+    <updated>2023-08-23T05:14:08.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈썸데이〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13405&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13405&amp;order=1"/>
+        <updated>2023-08-23T05:13:08.944Z</updated>
+        <content type="html"><![CDATA[2023-08-25(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈삼총사〉 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13404&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13404&amp;order=1"/>
+        <updated>2023-08-23T05:13:08.947Z</updated>
+        <content type="html"><![CDATA[2023-08-30(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈이토록 보통의〉 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13403&amp;order=1</id>
@@ -58,20 +72,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13396&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13396&amp;order=1"/>
         <updated>2023-08-21T08:18:19.180Z</updated>
-        <content type="html"><![CDATA[2023-08-23(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2023 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13395&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13395&amp;order=1"/>
-        <updated>2023-08-21T05:13:38.079Z</updated>
-        <content type="html"><![CDATA[2023-08-23(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 퓨전국악밴드경지 ‘보물섬을 찾아 떠나보세!’ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13394&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13394&amp;order=1"/>
-        <updated>2023-08-21T03:15:20.687Z</updated>
         <content type="html"><![CDATA[2023-08-23(수) 14:00]]></content>
     </entry>
 </feed>
