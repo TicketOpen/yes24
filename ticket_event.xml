@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 02:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 03:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <이토록 보통의> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46449&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46449&amp;Tab=2</guid>
+            <pubDate>Tue, 29 Aug 2023 03:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29 ~ 2023.10.01 | 2023.10.04 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230829/20230829-1a23feee-c1df-43aa-b584-f238dcd318ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <위윌락유> 기대평]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46903&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 27 Aug 2023 15:13:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.21 ~ 2023.11.17 | 2023.11.20 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230721/20230721-3b0df8e7-4bc1-4517-a84c-a79f628823e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <더 픽션> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45885&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45885&amp;Tab=2</guid>
-            <pubDate>Sun, 27 Aug 2023 15:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.27 ~ 2023.09.17 | 2023.09.19 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230627/20230627-8e2cc96f-696e-424f-b36a-41cc8724dcf9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
