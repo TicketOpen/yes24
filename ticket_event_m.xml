@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 02:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 03:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.08.31 ~ 2023.09.05]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=46388</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=46388</guid>
+            <pubDate>Thu, 31 Aug 2023 03:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>공연 싸인포스터]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230831/20230831-3d98cf87-60fc-494c-b4d3-9f2aebd49425.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.08.31 ~ 2023.09.10]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46773</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46773</guid>
+            <pubDate>Thu, 31 Aug 2023 03:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2023년 9월 11일(월)]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230831/20230831-7ab92d2b-fd09-4ee5-afb3-e5ff53d86fe7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.08.31 ~ 2023.09.27]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47008</link>
