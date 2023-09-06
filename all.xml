@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 05:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 06:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <content:encoded><![CDATA[2023-09-06(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈곤 투모로우〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/46304</link>
-            <guid>http://ticket.yes24.com/Perf/46304</guid>
-            <pubDate>Mon, 04 Sep 2023 01:53:26 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									130,000원								</td>								<td class="dc_price">									<em>→</em>평일								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230904/20230904-46304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 더데빌 : 에덴 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/46848</link>
             <guid>http://ticket.yes24.com/Perf/46848</guid>
@@ -238,6 +230,14 @@
             <pubDate>Mon, 04 Sep 2023 01:53:26 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									65,000원								</td>								<td class="dc_price">									<em>→</em>36,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230904/20230904-46626.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈곤 투모로우〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/46304</link>
+            <guid>http://ticket.yes24.com/Perf/46304</guid>
+            <pubDate>Mon, 04 Sep 2023 01:53:26 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									130,000원								</td>								<td class="dc_price">									<em>→</em>평일								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230904/20230904-46304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 더데빌: 에덴 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
