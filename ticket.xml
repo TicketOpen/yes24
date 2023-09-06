@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-09-06T01:51:24.795Z</updated>
+    <updated>2023-09-06T02:19:55.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈달가림〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13447</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13447"/>
+        <updated>2023-09-06T02:18:48.644Z</updated>
+        <content type="html"><![CDATA[2023.09.12(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 서울예술단 창작가무극 <순신> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13446</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13427"/>
         <updated>2023-09-04T06:17:39.953Z</updated>
         <content type="html"><![CDATA[2023.09.04(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽀로로 20주년 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 시즌2 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13426</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13426"/>
-        <updated>2023-09-04T06:17:39.955Z</updated>
-        <content type="html"><![CDATA[2023.09.01(금) 10:00]]></content>
     </entry>
 </feed>
