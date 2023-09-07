@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-09-07T02:21:06.550Z</updated>
+    <updated>2023-09-07T03:17:00.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13452&amp;order=1"/>
         <updated>2023-09-07T00:58:37.741Z</updated>
         <content type="html"><![CDATA[2023-09-07(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[수원] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다- 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13450&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13450&amp;order=1"/>
+        <updated>2023-09-07T03:14:06.854Z</updated>
+        <content type="html"><![CDATA[2023-09-07(목) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 연극 〈친정엄마와 2박3일〉 - 용인 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13442&amp;order=1"/>
         <updated>2023-09-05T02:20:01.635Z</updated>
         <content type="html"><![CDATA[2023-09-12(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 피아니스트 조재혁 리사이틀 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13441&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13441&amp;order=1"/>
-        <updated>2023-09-04T02:20:53.305Z</updated>
-        <content type="html"><![CDATA[2023-09-05(화) 14:00]]></content>
     </entry>
 </feed>
