@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 18:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 19:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,17 +242,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230904/20230904-46304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 제시의 일기 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/46626</link>
-            <guid>http://m.ticket.yes24.com/Perf/46626</guid>
-            <pubDate>Mon, 04 Sep 2023 01:53:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 제시의 일기</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">21,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/5(화)~9/24(일)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230904/20230904-46626.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 더데빌: 에덴 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/46848</link>
             <guid>http://m.ticket.yes24.com/Perf/46848</guid>
@@ -262,6 +251,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">59,200원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/21(목)~10/9(월)</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230904/20230904-46848.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 제시의 일기 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/46626</link>
+            <guid>http://m.ticket.yes24.com/Perf/46626</guid>
+            <pubDate>Mon, 04 Sep 2023 01:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 제시의 일기</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">21,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/5(화)~9/24(일)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230904/20230904-46626.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 곤 투모로우 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
