@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-09-08T04:18:13.237Z</updated>
+    <updated>2023-09-08T05:13:55.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 더데빌:에덴] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13461</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13461"/>
+        <updated>2023-09-08T05:12:57.605Z</updated>
+        <content type="html"><![CDATA[2023.09.14(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울 강동] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다- 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13460</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13442"/>
         <updated>2023-09-05T05:12:34.867Z</updated>
         <content type="html"><![CDATA[2023.09.12(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 피아니스트 조재혁 리사이틀 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13441</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13441"/>
-        <updated>2023-09-04T06:17:39.914Z</updated>
-        <content type="html"><![CDATA[2023.09.05(화) 14:00]]></content>
     </entry>
 </feed>
