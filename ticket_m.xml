@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-09-11T02:25:27.433Z</updated>
+    <updated>2023-09-11T03:15:54.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다- 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13465&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13465&amp;order=1"/>
+        <updated>2023-09-11T03:15:05.543Z</updated>
+        <content type="html"><![CDATA[2023-09-11(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈곤 투모로우〉 마지막 티켓 오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13464&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13456&amp;order=1"/>
         <updated>2023-09-07T05:13:34.567Z</updated>
         <content type="html"><![CDATA[2023-09-14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주 앵콜] 뮤지컬 알쏭달쏭 캐치! 티니핑 〈신비한 상자를 열어라!〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13455&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13455&amp;order=1"/>
-        <updated>2023-09-07T05:13:34.567Z</updated>
-        <content type="html"><![CDATA[2023-09-15(금) 17:00]]></content>
     </entry>
 </feed>
