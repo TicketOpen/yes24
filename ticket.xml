@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-09-11T06:20:24.378Z</updated>
+    <updated>2023-09-11T07:14:16.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 연극 〈친정엄마와 2박3일〉 - 당진 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13471</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13471"/>
+        <updated>2023-09-11T07:13:16.645Z</updated>
+        <content type="html"><![CDATA[2023.09.14(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 지니뮤직 페스티벌 - 블라인드 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13470</id>
@@ -90,7 +97,7 @@
         <content type="html"><![CDATA[2023.09.15(금) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 가을밤콘서트 (피아니스트 박재홍 & 팬텀싱어 리베란테) 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[단독판매2023 가을밤콘서트 (피아니스트 박재홍 & 팬텀싱어 리베란테) 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13458</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13458"/>
         <updated>2023-09-07T07:13:03.205Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13452"/>
         <updated>2023-09-07T01:50:32.906Z</updated>
         <content type="html"><![CDATA[2023.09.07(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 푸에르자부르타 웨이라 인 서울 [2023 FUERZA BRUTA WAYRA IN SEOUL] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13451</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13451"/>
-        <updated>2023-09-07T06:17:31.487Z</updated>
-        <content type="html"><![CDATA[2023.09.11(월) 10:00]]></content>
     </entry>
 </feed>
