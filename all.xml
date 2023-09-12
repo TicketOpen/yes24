@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 21:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 22:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,12 +218,12 @@
             <content:encoded><![CDATA[2023-09-18(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈킴즈〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/46773</link>
-            <guid>http://ticket.yes24.com/Perf/46773</guid>
+            <title><![CDATA[뮤지컬 〈칠칠〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/46662</link>
+            <guid>http://ticket.yes24.com/Perf/46662</guid>
             <pubDate>Mon, 11 Sep 2023 01:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>55,350원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230911/20230911-46773.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>40,500원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230911/20230911-46662.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울 대학로] 연극 밀정리스트 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -234,12 +234,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230911/20230911-47131.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈칠칠〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/46662</link>
-            <guid>http://ticket.yes24.com/Perf/46662</guid>
+            <title><![CDATA[뮤지컬 〈킴즈〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/46773</link>
+            <guid>http://ticket.yes24.com/Perf/46773</guid>
             <pubDate>Mon, 11 Sep 2023 01:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>40,500원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230911/20230911-46662.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>55,350원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230911/20230911-46773.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 칠칠 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -253,17 +253,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230911/20230911-46662.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 밀정리스트 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/47131</link>
-            <guid>http://m.ticket.yes24.com/Perf/47131</guid>
-            <pubDate>Mon, 11 Sep 2023 00:58:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 밀정리스트</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">25,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230911/20230911-47131.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 킴즈 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/46773</link>
             <guid>http://m.ticket.yes24.com/Perf/46773</guid>
@@ -273,6 +262,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">38,850원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/12(화)~9/24(일) 공연</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230911/20230911-46773.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 밀정리스트 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/47131</link>
+            <guid>http://m.ticket.yes24.com/Perf/47131</guid>
+            <pubDate>Mon, 11 Sep 2023 00:58:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 밀정리스트</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">25,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230911/20230911-47131.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극<바닷마을 다이어리> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
