@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-09-12T01:48:59.523Z</updated>
+    <updated>2023-09-12T02:19:40.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈렛미플라이〉 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13473</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13473"/>
+        <updated>2023-09-12T02:18:33.808Z</updated>
+        <content type="html"><![CDATA[2023.09.19(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 문화다양성축제 MAMF(맘프)2023 파키스탄-한국 특별 뮤지컬공연 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13472</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13454"/>
         <updated>2023-09-07T06:17:31.465Z</updated>
         <content type="html"><![CDATA[2023.09.11(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은결 〈MAGIC ＆ ILLUSION〉 - 익산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13453</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13453"/>
-        <updated>2023-09-07T06:17:31.477Z</updated>
-        <content type="html"><![CDATA[2023.09.08(금) 14:00]]></content>
     </entry>
 </feed>
