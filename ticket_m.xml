@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-09-14T04:17:38.138Z</updated>
+    <updated>2023-09-14T05:13:58.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시무용단 신작 〈엘리자베스 기덕〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13492&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13492&amp;order=1"/>
+        <updated>2023-09-14T05:13:03.102Z</updated>
+        <content type="html"><![CDATA[2023-09-14(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈오페라의 유령〉 서울 종연시즌 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13490&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13490&amp;order=1"/>
+        <updated>2023-09-14T05:13:03.109Z</updated>
+        <content type="html"><![CDATA[2023-09-19(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈룰렛〉 발코니석 추가오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13489&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13489&amp;order=1"/>
+        <updated>2023-09-14T05:13:03.112Z</updated>
+        <content type="html"><![CDATA[2023-09-19(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈위윌락유〉 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13487&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13487&amp;order=1"/>
+        <updated>2023-09-14T05:13:03.114Z</updated>
+        <content type="html"><![CDATA[2023-09-20(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세종] 가족뮤지컬 〈고양이 해결사 깜냥 - 편의점을 환하게 밝혀라〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13486&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13481&amp;order=1"/>
         <updated>2023-09-13T06:17:53.463Z</updated>
         <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUMMY Tour Concert 2023 〈LOVE〉 투어 일정 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13480&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13480&amp;order=1"/>
-        <updated>2023-09-13T05:14:18.743Z</updated>
-        <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다- 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13479&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13479&amp;order=1"/>
-        <updated>2023-09-13T03:15:10.057Z</updated>
-        <content type="html"><![CDATA[2023-09-13(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르테 디 콰트로 <언플러그드 콘서트 2023_클래식 오디세이> 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13478&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13478&amp;order=1"/>
-        <updated>2023-09-13T00:59:38.282Z</updated>
-        <content type="html"><![CDATA[2023-09-14(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 마블런 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13477&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13477&amp;order=1"/>
-        <updated>2023-09-13T01:54:33.342Z</updated>
-        <content type="html"><![CDATA[2023-09-14(목) 10:00]]></content>
     </entry>
 </feed>
