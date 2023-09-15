@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-09-15T01:54:42.565Z</updated>
+    <updated>2023-09-15T02:23:25.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13501"/>
         <updated>2023-09-15T01:53:43.721Z</updated>
         <content type="html"><![CDATA[2023.09.18(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈바닷마을 다이어리〉 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13499</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13499"/>
+        <updated>2023-09-15T02:21:16.832Z</updated>
+        <content type="html"><![CDATA[2023.09.22(금) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 2023 제7회 창원국제실내악축제 티켓오픈 안내]]></title>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13481</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13481"/>
         <updated>2023-09-13T06:17:44.979Z</updated>
-        <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUMMY Tour Concert 2023 〈LOVE〉 투어 일정 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13480</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13480"/>
-        <updated>2023-09-13T06:17:44.981Z</updated>
         <content type="html"><![CDATA[추후공지]]></content>
     </entry>
 </feed>
