@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-09-15T06:19:00.384Z</updated>
+    <updated>2023-09-15T07:13:42.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2023 이승환 콘서트 [이상한 이승환] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13507</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13507"/>
+        <updated>2023-09-15T07:12:38.027Z</updated>
+        <content type="html"><![CDATA[2023.09.19(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2023 에일리 전국투어 ‘I AM：COLORFUL’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13506</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13487"/>
         <updated>2023-09-14T05:12:53.755Z</updated>
         <content type="html"><![CDATA[2023.09.20(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세종] 가족뮤지컬 〈고양이 해결사 깜냥 - 편의점을 환하게 밝혀라〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13486</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13486"/>
-        <updated>2023-09-15T06:17:58.904Z</updated>
-        <content type="html"><![CDATA[2023.09.18(월) 10:00]]></content>
     </entry>
 </feed>
