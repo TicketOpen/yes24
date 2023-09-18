@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 11:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 12:28:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -234,6 +234,17 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230918/20230918-46785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 카르멘 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/46777</link>
+            <guid>http://m.ticket.yes24.com/Perf/46777</guid>
+            <pubDate>Mon, 18 Sep 2023 01:52:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 카르멘</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">18,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/18(화)~9/24(일)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230918/20230918-46777.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 삼총사 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/46785</link>
             <guid>http://m.ticket.yes24.com/Perf/46785</guid>
@@ -245,15 +256,76 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230918/20230918-46785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 카르멘 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/46777</link>
-            <guid>http://m.ticket.yes24.com/Perf/46777</guid>
-            <pubDate>Mon, 18 Sep 2023 01:52:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 카르멘</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">18,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/18(화)~9/24(일)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230918/20230918-46777.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연극<바닷마을 다이어리> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46993&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46993&amp;Tab=3</guid>
+            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.12 ~ 2023.10.04 | 2023.10.05 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230912/20230912-f7f179bc-cecc-494c-86c0-802fb734e62f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <킴즈> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46773&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46773&amp;Tab=2</guid>
+            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.11 ~ 2023.10.22 | 2023.10.23 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230911/20230911-6cfadb53-4e58-49ce-bac1-7de457e4b375.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오페레타 뮤지컬 <판타지아> 겨울시즌 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47090&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47090&amp;Tab=3</guid>
+            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.11 ~ 2023.11.05 | 2023.09.06 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230911/20230911-a2997919-737d-4ebf-b938-659d02ea06ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <친구의 전설> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47008&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47008&amp;Tab=3</guid>
+            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.31 ~ 2023.09.27 | 2023.10.10 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230831/20230831-3aeebaa7-7e34-4c1a-ab74-b08848d0f658.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <제시의 일기> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46626&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46626&amp;Tab=2</guid>
+            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.30 ~ 2023.10.20 | 2023.10.23 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230830/20230830-34a2b155-af1c-47e5-ba62-35369b18d7b7.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <이토록 보통의> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46449&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46449&amp;Tab=2</guid>
+            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29 ~ 2023.10.01 | 2023.10.04 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230829/20230829-1a23feee-c1df-43aa-b584-f238dcd318ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <위윌락유> 기대평 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46903&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46903&amp;Tab=3</guid>
+            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.25 ~ 2023.09.18 | 2023.09.19 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230825/20230825-aa0c2aa4-063e-4390-8882-696095f46789.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <레미제라블> 부산 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46765&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46765&amp;Tab=3</guid>
+            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.09 ~ 2023.10.14 | 2023.10.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230809/20230809-334d864e-a330-414f-b795-9fe7adc3a079.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <오페라의 유령> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45927&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45927&amp;Tab=2</guid>
+            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.21 ~ 2023.11.17 | 2023.11.20 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230721/20230721-3b0df8e7-4bc1-4517-a84c-a79f628823e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.09.12 ~ 2023.10.04 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -358,6 +430,20 @@
             <pubDate>Fri, 18 Aug 2023 01:45:06 GMT</pubDate>
             <content:encoded><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Fri, 18 Aug 2023 01:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2017.10.01 ~ 2023.12.31</dd><dt>사용기간</dt><dd>발급일로 부터 30일</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Fri, 18 Aug 2023 01:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2012.02.09 ~ 2030.12.31</dd><dt>사용기간</dt><dd>2012.02.09 ~ 2030.12.31</dd>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰 )]]></title>
