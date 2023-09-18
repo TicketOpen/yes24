@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-09-18T04:17:04.123Z</updated>
+    <updated>2023-09-18T05:15:15.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 THE CRY ground 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13514&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13514&amp;order=1"/>
+        <updated>2023-09-18T05:14:21.200Z</updated>
+        <content type="html"><![CDATA[2023-09-18(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2023_부천 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13513&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13513&amp;order=1"/>
         <updated>2023-09-18T03:15:16.278Z</updated>
         <content type="html"><![CDATA[2023-09-21(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 〈시스터 액트〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13512&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13512&amp;order=1"/>
+        <updated>2023-09-18T05:14:21.211Z</updated>
+        <content type="html"><![CDATA[2023-09-19(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 DONGHAE B DAY PARTY [donghaE.Love.Forever] 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13505&amp;order=1"/>
         <updated>2023-09-15T05:12:55.813Z</updated>
         <content type="html"><![CDATA[2023-09-21(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2023 에일리 전국투어 ‘I AM：COLORFUL’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13504&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13504&amp;order=1"/>
-        <updated>2023-09-15T05:12:55.813Z</updated>
-        <content type="html"><![CDATA[2023-09-21(목) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 2023 백지영 전국투어 콘서트 〈BAEK SPACE〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13503&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13503&amp;order=1"/>
-        <updated>2023-09-15T05:12:55.817Z</updated>
-        <content type="html"><![CDATA[2023-09-19(화) 15:00]]></content>
     </entry>
 </feed>
