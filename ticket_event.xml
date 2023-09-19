@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 08:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 09:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <달가림> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47115&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47115&amp;Tab=3</guid>
+            <pubDate>Tue, 19 Sep 2023 09:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.19 ~ 2023.10.09 | 2023.10.10 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230919/20230919-470156f0-1050-483c-9fdb-4a22115e6cbf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극<바닷마을 다이어리> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46993&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.21 ~ 2023.11.17 | 2023.11.20 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230721/20230721-3b0df8e7-4bc1-4517-a84c-a79f628823e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너, 예스24티켓의 카톡 친구가 돼라!]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3435</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3435</guid>
-            <pubDate>Mon, 18 Sep 2023 16:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.19 ~ 2023.12.19]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230616/20230616-a7a55e7b-c331-4a76-8492-0a8046f02a8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
