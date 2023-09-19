@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-09-19T09:15:52.813Z</updated>
+    <updated>2023-09-19T10:16:11.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매드라마 [준과준] Fanmeeting in Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13527</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13527"/>
+        <updated>2023-09-19T10:15:10.098Z</updated>
+        <content type="html"><![CDATA[2023.09.22(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<아카데미아 델라눈치아타> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13526</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13508"/>
         <updated>2023-09-15T08:17:28.685Z</updated>
         <content type="html"><![CDATA[2023.09.21(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2023 이승환 콘서트 [이상한 이승환] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13507</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13507"/>
-        <updated>2023-09-15T07:12:38.027Z</updated>
-        <content type="html"><![CDATA[2023.09.19(화) 16:00]]></content>
     </entry>
 </feed>
