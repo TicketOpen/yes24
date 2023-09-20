@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 07:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 08:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -155,6 +155,13 @@
             <content:encoded><![CDATA[2023-09-26(화) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2023 김용준 팬미팅＂이음＂티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13531&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13531&amp;order=1</guid>
+            <pubDate>Wed, 20 Sep 2023 08:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[2023-09-26(화) 20:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가수 재하 미니콘서트 ‘만남’ 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13530&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13530&amp;order=1</guid>
@@ -211,11 +218,12 @@
             <content:encoded><![CDATA[2023-09-20(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈구텐버그〉 싱어롱데이 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13522&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13522&amp;order=1</guid>
-            <pubDate>Tue, 19 Sep 2023 05:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[2023-09-22(금) 16:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈삼총사〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/46785</link>
+            <guid>http://ticket.yes24.com/Perf/46785</guid>
+            <pubDate>Mon, 18 Sep 2023 01:52:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>95,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230918/20230918-46785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <카르멘> (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -224,14 +232,6 @@
             <pubDate>Mon, 18 Sep 2023 01:52:40 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>32,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230918/20230918-46777.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈삼총사〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/46785</link>
-            <guid>http://ticket.yes24.com/Perf/46785</guid>
-            <pubDate>Mon, 18 Sep 2023 01:52:40 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>95,100원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230918/20230918-46785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 삼총사 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
