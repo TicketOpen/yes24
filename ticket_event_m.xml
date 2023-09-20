@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 02:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 03:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.09.20 ~ 2023.10.03]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47135</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47135</guid>
+            <pubDate>Wed, 20 Sep 2023 03:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>10월 7일(토) 16:00]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230920/20230920-ceccad1a-53e4-4bf7-a0d4-36fcf5d6d899.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.09.20 ~ 2023.11.27]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=46733</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=46733</guid>
+            <pubDate>Wed, 20 Sep 2023 03:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;비더슈탄트&gt; 싸인 프로그램북 (1인 1권)]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230920/20230920-c1c72c22-9774-45ed-afd6-c49318a57ab0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.09.19 ~ 2023.10.09]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47115</link>

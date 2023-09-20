@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 02:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 03:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <괴물B> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47135&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47135&amp;Tab=3</guid>
+            <pubDate>Wed, 20 Sep 2023 03:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.20 ~ 2023.10.03 | 2023.10.04 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230920/20230920-ceccad1a-53e4-4bf7-a0d4-36fcf5d6d899.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <비더슈탄트> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46733&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46733&amp;Tab=2</guid>
+            <pubDate>Wed, 20 Sep 2023 03:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.20 ~ 2023.11.27 | 2023.11.30 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230920/20230920-c1c72c22-9774-45ed-afd6-c49318a57ab0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <달가림> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47115&amp;Tab=3</link>
@@ -62,22 +78,6 @@
             <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.29 ~ 2023.10.01 | 2023.10.04 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230829/20230829-1a23feee-c1df-43aa-b584-f238dcd318ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <레미제라블> 부산 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46765&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46765&amp;Tab=3</guid>
-            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.09 ~ 2023.10.14 | 2023.10.16 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230809/20230809-334d864e-a330-414f-b795-9fe7adc3a079.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <오페라의 유령> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45927&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=45927&amp;Tab=2</guid>
-            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.21 ~ 2023.11.17 | 2023.11.20 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202307/20230721/20230721-3b0df8e7-4bc1-4517-a84c-a79f628823e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
