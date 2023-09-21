@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-09-21T02:21:10.133Z</updated>
+    <updated>2023-09-21T03:14:35.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 김영임&김용임과 함께하는 희희낙락 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13534&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13534&amp;order=1"/>
+        <updated>2023-09-21T03:13:46.410Z</updated>
+        <content type="html"><![CDATA[2023-09-21(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 뮤지컬 〈삼총사〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13533&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13524&amp;order=1"/>
         <updated>2023-09-19T05:14:22.583Z</updated>
         <content type="html"><![CDATA[2023-09-22(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안산] 2023 이은미 전국투어 콘서트 [NOCTURN] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13523&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13523&amp;order=1"/>
-        <updated>2023-09-19T04:18:20.084Z</updated>
-        <content type="html"><![CDATA[2023-09-20(수) 14:00]]></content>
     </entry>
 </feed>

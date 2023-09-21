@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 02:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 03:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <장화신은 고양이 비긴즈> - 플레이 버전 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47231&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47231&amp;Tab=3</guid>
+            <pubDate>Thu, 21 Sep 2023 03:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.21 ~ 2023.12.03 | 2023.12.05 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230921/20230921-6fa3394a-5091-4880-980e-32f6cd9bb657.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <괴물B> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47135&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.30 ~ 2023.10.20 | 2023.10.23 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230830/20230830-34a2b155-af1c-47e5-ba62-35369b18d7b7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <이토록 보통의> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46449&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46449&amp;Tab=2</guid>
-            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.29 ~ 2023.10.01 | 2023.10.04 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230829/20230829-1a23feee-c1df-43aa-b584-f238dcd318ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

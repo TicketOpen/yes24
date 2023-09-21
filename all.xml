@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 02:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 03:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단독판매[부산] 김영임&김용임과 함께하는 희희낙락 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13534</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13534</guid>
+            <pubDate>Thu, 21 Sep 2023 03:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.21(목) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[광주] 뮤지컬 〈삼총사〉 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13533</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2023.09.18(월) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2023_부천 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13513</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13513</guid>
-            <pubDate>Mon, 18 Sep 2023 04:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.21(목) 14:00]]></content:encoded>
+            <title><![CDATA[[부산] 김영임&김용임과 함께하는 희희낙락 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13534&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13534&amp;order=1</guid>
+            <pubDate>Thu, 21 Sep 2023 03:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023-09-21(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[광주] 뮤지컬 〈삼총사〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,13 +218,6 @@
             <content:encoded><![CDATA[2023-09-22(금) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[안산] 2023 이은미 전국투어 콘서트 [NOCTURN] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13523&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13523&amp;order=1</guid>
-            <pubDate>Tue, 19 Sep 2023 04:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[2023-09-20(수) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[연극 <카르멘> (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/46777</link>
             <guid>http://ticket.yes24.com/Perf/46777</guid>
@@ -234,6 +234,17 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230918/20230918-46785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 카르멘 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/46777</link>
+            <guid>http://m.ticket.yes24.com/Perf/46777</guid>
+            <pubDate>Mon, 18 Sep 2023 01:52:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 카르멘</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">18,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/18(화)~9/24(일)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230918/20230918-46777.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 삼총사 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/46785</link>
             <guid>http://m.ticket.yes24.com/Perf/46785</guid>
@@ -245,15 +256,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230918/20230918-46785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 카르멘 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/46777</link>
-            <guid>http://m.ticket.yes24.com/Perf/46777</guid>
-            <pubDate>Mon, 18 Sep 2023 01:52:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 카르멘</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">18,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/18(화)~9/24(일)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202309/20230918/20230918-46777.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <장화신은 고양이 비긴즈> - 플레이 버전 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47231&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47231&amp;Tab=3</guid>
+            <pubDate>Thu, 21 Sep 2023 03:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.21 ~ 2023.12.03 | 2023.12.05 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230921/20230921-6fa3394a-5091-4880-980e-32f6cd9bb657.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <괴물B> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -320,12 +328,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230830/20230830-34a2b155-af1c-47e5-ba62-35369b18d7b7.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <이토록 보통의> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46449&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46449&amp;Tab=2</guid>
-            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.29 ~ 2023.10.01 | 2023.10.04 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202308/20230829/20230829-1a23feee-c1df-43aa-b584-f238dcd318ac.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2023.09.21 ~ 2023.12.03 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47231</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47231</guid>
+            <pubDate>Thu, 21 Sep 2023 03:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>&lt;장화신은 고양이 비긴즈&gt; - 플레이 버전 12월 16일(토) 11시 공연 초대권]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230921/20230921-6fa3394a-5091-4880-980e-32f6cd9bb657.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.09.20 ~ 2023.10.03 (YES24 티켓 ─ 이벤트 모바일)]]></title>
