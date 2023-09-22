@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-09-22T08:19:16.110Z</updated>
+    <updated>2023-09-22T09:14:34.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매낙동강하굿둑 경관 리모델링 준공 기념 음악회 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13546</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13546"/>
+        <updated>2023-09-22T09:13:26.803Z</updated>
+        <content type="html"><![CDATA[2023.09.25(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매Shindo Amane Fan Meeting in Seoul (presented by KOE) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13545</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13545"/>
+        <updated>2023-09-22T09:13:26.808Z</updated>
+        <content type="html"><![CDATA[2023.09.25(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2023 이승환 콘서트 [이상한 이승환] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13544</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13524"/>
         <updated>2023-09-19T07:13:30.997Z</updated>
         <content type="html"><![CDATA[2023.09.22(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안산] 2023 이은미 전국투어 콘서트 [NOCTURN] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13523</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13523"/>
-        <updated>2023-09-19T07:13:31.000Z</updated>
-        <content type="html"><![CDATA[2023.09.20(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈구텐버그〉 싱어롱데이 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13522</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13522"/>
-        <updated>2023-09-19T07:13:31.002Z</updated>
-        <content type="html"><![CDATA[2023.09.22(금) 16:00]]></content>
     </entry>
 </feed>
