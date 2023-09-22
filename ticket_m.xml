@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-09-22T04:18:12.049Z</updated>
+    <updated>2023-09-22T05:15:10.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13542&amp;order=1"/>
         <updated>2023-09-22T04:16:18.672Z</updated>
         <content type="html"><![CDATA[2023-09-27(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13541&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13541&amp;order=1"/>
+        <updated>2023-09-22T05:14:13.870Z</updated>
+        <content type="html"><![CDATA[2023-09-27(수) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2023 V.O.S 콘서트 [OUR VOICES] 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13530&amp;order=1"/>
         <updated>2023-09-20T01:53:15.918Z</updated>
         <content type="html"><![CDATA[2023-09-25(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 창원문화재단과 함께하는 해군음악회 「항해」 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13529&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13529&amp;order=1"/>
-        <updated>2023-09-20T00:58:33.548Z</updated>
-        <content type="html"><![CDATA[2023-09-21(목) 14:00]]></content>
     </entry>
 </feed>
