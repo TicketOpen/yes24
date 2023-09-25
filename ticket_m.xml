@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-09-25T04:18:24.410Z</updated>
+    <updated>2023-09-25T05:15:30.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[변영진 세계 VOL.1 연극 <청천장단> 프리뷰 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13549&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13549&amp;order=1"/>
+        <updated>2023-09-25T05:14:38.822Z</updated>
+        <content type="html"><![CDATA[2023-09-27(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈킴즈〉 3차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13548&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13548&amp;order=1"/>
+        <updated>2023-09-25T05:14:38.828Z</updated>
+        <content type="html"><![CDATA[2023-09-27(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2023 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13547&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13539&amp;order=1"/>
         <updated>2023-09-22T02:20:46.183Z</updated>
         <content type="html"><![CDATA[2023-09-27(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈비더슈탄트〉 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13538&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13538&amp;order=1"/>
-        <updated>2023-09-21T08:18:16.523Z</updated>
-        <content type="html"><![CDATA[2023-09-25(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2023 이승환 콘서트 [이상한 이승환] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13537&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13537&amp;order=1"/>
-        <updated>2023-09-21T07:13:03.044Z</updated>
-        <content type="html"><![CDATA[2023-09-25(월) 16:00]]></content>
     </entry>
 </feed>
