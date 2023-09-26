@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-09-26T04:17:06.397Z</updated>
+    <updated>2023-09-26T05:14:48.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈이토록 보통의〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13556&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13556&amp;order=1"/>
+        <updated>2023-09-26T05:13:55.927Z</updated>
+        <content type="html"><![CDATA[2023-10-05(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2023 변진섭 전국투어 콘서트：변천사 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13555&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13555&amp;order=1"/>
+        <updated>2023-09-26T05:13:55.928Z</updated>
+        <content type="html"><![CDATA[2023-10-04(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈컴프롬웨이〉 오프닝위크 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13554&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13554&amp;order=1"/>
+        <updated>2023-09-26T05:13:55.930Z</updated>
+        <content type="html"><![CDATA[2023-10-06(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <여자는 무엇으로 사는가> 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13553&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13546&amp;order=1"/>
         <updated>2023-09-22T09:13:36.479Z</updated>
         <content type="html"><![CDATA[2023-09-25(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shindo Amane Fan Meeting in Seoul (presented by KOE) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13545&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13545&amp;order=1"/>
-        <updated>2023-09-22T08:18:19.325Z</updated>
-        <content type="html"><![CDATA[2023-09-25(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2023 이승환 콘서트 [이상한 이승환] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13544&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13544&amp;order=1"/>
-        <updated>2023-09-22T07:12:37.098Z</updated>
-        <content type="html"><![CDATA[2023-09-26(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2023 V.O.S 콘서트 [OUR VOICES] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13543&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13543&amp;order=1"/>
-        <updated>2023-09-22T06:18:32.698Z</updated>
-        <content type="html"><![CDATA[2023-09-27(수) 16:00]]></content>
     </entry>
 </feed>
