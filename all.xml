@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 03:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 04:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,7 +35,7 @@
             <pubDate>Mon, 25 Sep 2023 20:14:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[변영진 세계 VOL.1 연극 <청천장단> 프리뷰 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <title><![CDATA[단독판매변영진 세계 VOL.1 연극 <청천장단> 프리뷰 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13549</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13549</guid>
             <pubDate>Mon, 25 Sep 2023 20:14:28 GMT</pubDate>
@@ -218,11 +218,19 @@
         </item>
         <item>
             <title><![CDATA[자라섬 페스티벌 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46555&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46555&amp;Tab=2</guid>
+            <pubDate>Tue, 26 Sep 2023 04:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.26 ~ 2023.10.03 | 2023.10.05 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230926/20230926-1de8637b-4005-41c5-a565-103712b7a8fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자라섬 페스티벌 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46715&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46715&amp;Tab=3</guid>
             <pubDate>Tue, 26 Sep 2023 03:15:50 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.26 ~ 2023.10.03 | 2023.10.05 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230926/20230926-0f962543-310e-4690-8249-94627a04728b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230926/20230926-b130a66e-c201-4ae9-8e35-995021aeb73b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <위윌락유> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -281,12 +289,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230911/20230911-6cfadb53-4e58-49ce-bac1-7de457e4b375.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오페레타 뮤지컬 <판타지아> 겨울시즌 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47090&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47090&amp;Tab=3</guid>
-            <pubDate>Mon, 18 Sep 2023 12:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.11 ~ 2023.11.05 | 2023.09.06 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230911/20230911-a2997919-737d-4ebf-b938-659d02ea06ea.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2023.09.26 ~ 2023.10.03 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=46555</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=46555</guid>
+            <pubDate>Tue, 26 Sep 2023 04:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>크레마 5명<br>카메라 5명<br>폴딩체어 5명 (1인2개)<br>피크닉매트 5명<br>자라섬세트 5명 (비건앞치마+기타피크+엽서세트)<br>YES24상품권 5명(예매자 본인 아이디 지급)]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230926/20230926-1de8637b-4005-41c5-a565-103712b7a8fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.09.26 ~ 2023.10.03 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -294,7 +302,7 @@
             <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=46715</guid>
             <pubDate>Tue, 26 Sep 2023 03:16:00 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>크레마 5명<br>카메라 5명<br>폴딩체어 5명 (1인2개)<br>피크닉매트 5명<br>자라섬세트 5명 (비건앞치마+기타피크+엽서세트)<br>YES24상품권 5명(예매자 본인 아이디 지급)]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230926/20230926-0f962543-310e-4690-8249-94627a04728b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230926/20230926-b130a66e-c201-4ae9-8e35-995021aeb73b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.09.25 ~ 2023.11.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
