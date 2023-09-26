@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 11:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 12:28:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <옆집사람> 마지막 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13557</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13557</guid>
+            <pubDate>Tue, 26 Sep 2023 12:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.27(수) 15:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈이토록 보통의〉 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13556</link>
@@ -138,13 +145,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13537</guid>
             <pubDate>Mon, 25 Sep 2023 20:14:28 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.25(월) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매[의정부] 2023 장윤정 라이브 콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13536</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13536</guid>
-            <pubDate>Mon, 25 Sep 2023 20:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.25(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <옆집사람> 마지막 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
