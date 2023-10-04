@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-10-04T02:25:09.420Z</updated>
+    <updated>2023-10-04T03:15:35.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[LUCKLIFE 15th Anniversary TOUR『LIVE』in KOREA 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13567&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13567&amp;order=1"/>
+        <updated>2023-10-04T03:14:38.166Z</updated>
+        <content type="html"><![CDATA[2023-10-06(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파슬스 내한공연 Parcels LIVE IN SEOUL 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13566&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13556&amp;order=1"/>
         <updated>2023-09-26T05:13:55.927Z</updated>
         <content type="html"><![CDATA[2023-10-05(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2023 변진섭 전국투어 콘서트：변천사 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13555&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13555&amp;order=1"/>
-        <updated>2023-09-26T05:13:55.928Z</updated>
-        <content type="html"><![CDATA[2023-10-04(수) 14:00]]></content>
     </entry>
 </feed>
