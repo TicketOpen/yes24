@@ -4,9 +4,33 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 05:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 06:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈달가림〉]]></title>
+            <link>http://ticket.yes24.com/Perf/47115</link>
+            <guid>http://ticket.yes24.com/Perf/47115</guid>
+            <pubDate>Mon, 02 Oct 2023 01:00:21 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202310/20231004/20231004-47115.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 [괴물B]]]></title>
+            <link>http://ticket.yes24.com/Perf/47135</link>
+            <guid>http://ticket.yes24.com/Perf/47135</guid>
+            <pubDate>Mon, 02 Oct 2023 01:00:21 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>18,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202310/20231004/20231004-47135.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈킴즈〉]]></title>
+            <link>http://ticket.yes24.com/Perf/46773</link>
+            <guid>http://ticket.yes24.com/Perf/46773</guid>
+            <pubDate>Mon, 02 Oct 2023 01:00:21 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>47,650원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202310/20231004/20231004-46773.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈위윌락유〉]]></title>
             <link>http://ticket.yes24.com/Perf/46903</link>
@@ -22,30 +46,6 @@
             <pubDate>Mon, 02 Oct 2023 01:00:21 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									45,000원								</td>								<td class="dc_price">									<em>→</em>29,100원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202310/20231004/20231004-46999.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 [괴물B]]]></title>
-            <link>http://ticket.yes24.com/Perf/47135</link>
-            <guid>http://ticket.yes24.com/Perf/47135</guid>
-            <pubDate>Mon, 02 Oct 2023 01:00:21 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									30,000원								</td>								<td class="dc_price">									<em>→</em>18,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202310/20231004/20231004-47135.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈달가림〉]]></title>
-            <link>http://ticket.yes24.com/Perf/47115</link>
-            <guid>http://ticket.yes24.com/Perf/47115</guid>
-            <pubDate>Mon, 02 Oct 2023 01:00:21 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202310/20231004/20231004-47115.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈킴즈〉]]></title>
-            <link>http://ticket.yes24.com/Perf/46773</link>
-            <guid>http://ticket.yes24.com/Perf/46773</guid>
-            <pubDate>Mon, 02 Oct 2023 01:00:21 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>47,650원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202310/20231004/20231004-46773.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
