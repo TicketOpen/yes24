@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-10-09T23:14:16.579Z</updated>
+    <updated>2023-10-10T00:59:47.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[태양의서커스 〈루치아〉 - 부산 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13588&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13588&amp;order=1"/>
+        <updated>2023-10-10T00:58:59.160Z</updated>
+        <content type="html"><![CDATA[2023-10-16(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태양의서커스 〈루치아〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13587&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13587&amp;order=1"/>
+        <updated>2023-10-10T00:58:59.169Z</updated>
+        <content type="html"><![CDATA[2023-10-16(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[푸에르자 부르타 웨이라 인 서울 연기안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13586&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13579&amp;order=1"/>
         <updated>2023-10-06T01:54:11.303Z</updated>
         <content type="html"><![CDATA[2023-10-17(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <그날들> 10주년 기념 공연 - 수원공연 캐스팅 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13578&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13578&amp;order=1"/>
-        <updated>2023-10-06T01:54:11.305Z</updated>
-        <content type="html"><![CDATA[2023-10-06(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2023 노을 연말 투어 콘서트 〈노을이 내린 밤〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13577&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13577&amp;order=1"/>
-        <updated>2023-10-05T22:12:52.832Z</updated>
-        <content type="html"><![CDATA[2023-10-11(수) 15:00]]></content>
     </entry>
 </feed>
