@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-10-10T04:17:42.845Z</updated>
+    <updated>2023-10-10T05:15:06.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids ‘5-STAR Dome Tour 2023 Seoul Special (UNVEIL 13)’ 추가 좌석 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13593&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13593&amp;order=1"/>
+        <updated>2023-10-10T05:14:09.961Z</updated>
+        <content type="html"><![CDATA[2023-10-12(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[천안] 2023 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13591&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13583&amp;order=1"/>
         <updated>2023-10-06T05:14:05.309Z</updated>
         <content type="html"><![CDATA[2023-10-16(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2023 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13582&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13582&amp;order=1"/>
-        <updated>2023-10-06T03:14:39.491Z</updated>
-        <content type="html"><![CDATA[2023-10-06(금) 12:00]]></content>
     </entry>
 </feed>
