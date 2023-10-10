@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 10:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 11:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.10.06 ~ 2023.11.12]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47295</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47295</guid>
+            <pubDate>Tue, 10 Oct 2023 11:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;컴프롬어웨이&gt; 11월 28일(화)  오후 7시 30분 공연 3명]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202310/20231010/20231010-6140e275-40d5-461d-aa0f-5a7e26140d56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.09.22 ~ 2023.11.10]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47226</link>
