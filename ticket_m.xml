@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-10-11T07:14:16.228Z</updated>
+    <updated>2023-10-11T08:19:52.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 백송홀딩스-아시아드C.C. 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13600&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13600&amp;order=1"/>
+        <updated>2023-10-11T08:19:01.307Z</updated>
+        <content type="html"><![CDATA[2023-10-12(목) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈왓 이프〉 5차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13599&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13591&amp;order=1"/>
         <updated>2023-10-10T03:15:43.550Z</updated>
         <content type="html"><![CDATA[2023-10-10(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈친구의 전설〉 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13590&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13590&amp;order=1"/>
-        <updated>2023-10-10T02:21:03.200Z</updated>
-        <content type="html"><![CDATA[2023-10-16(월) 11:00]]></content>
     </entry>
 </feed>
