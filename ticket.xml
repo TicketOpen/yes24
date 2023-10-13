@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-10-13T01:59:33.004Z</updated>
+    <updated>2023-10-13T02:28:24.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <이방인의 뜰> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13616</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13616"/>
+        <updated>2023-10-13T02:27:11.709Z</updated>
+        <content type="html"><![CDATA[2023.10.18(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매PARK HYUNG SIK 2023 ASIA TOUR FAN MEETING: SIKcret Time IN SEOUL 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13613</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13593"/>
         <updated>2023-10-10T07:12:50.077Z</updated>
         <content type="html"><![CDATA[2023.10.12(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈리진 : 빛의 여인〉 프리뷰 & 1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13592</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13592"/>
-        <updated>2023-10-10T07:12:50.080Z</updated>
-        <content type="html"><![CDATA[2023.10.13(금) 14:00]]></content>
     </entry>
 </feed>
