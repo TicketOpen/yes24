@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-10-13T07:13:48.380Z</updated>
+    <updated>2023-10-13T08:19:16.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈비더슈탄트〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13627&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13627&amp;order=1"/>
+        <updated>2023-10-13T08:18:20.146Z</updated>
+        <content type="html"><![CDATA[2023-10-19(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 국민연극 <라이어1탄> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13625&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13625&amp;order=1"/>
+        <updated>2023-10-13T08:18:20.149Z</updated>
+        <content type="html"><![CDATA[2023-10-18(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 나훈아 연말 콘서트 12月에 IN DECEMBER 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13624&amp;order=1</id>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13617&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13617&amp;order=1"/>
         <updated>2023-10-13T04:16:49.413Z</updated>
-        <content type="html"><![CDATA[2023-10-17(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <이방인의 뜰> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13616&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13616&amp;order=1"/>
-        <updated>2023-10-13T02:27:21.129Z</updated>
-        <content type="html"><![CDATA[2023-10-18(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 - 고고킹의 귀환〉 - 고양 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13615&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13615&amp;order=1"/>
-        <updated>2023-10-13T04:16:49.420Z</updated>
         <content type="html"><![CDATA[2023-10-17(화) 10:00]]></content>
     </entry>
 </feed>
