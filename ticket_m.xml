@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-10-13T03:15:47.853Z</updated>
+    <updated>2023-10-13T04:18:46.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[천안] 뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13618&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13618&amp;order=1"/>
+        <updated>2023-10-13T04:16:49.402Z</updated>
+        <content type="html"><![CDATA[2023-10-18(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈안녕 자두야 - 내 이름은 최자두〉 - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13617&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13617&amp;order=1"/>
+        <updated>2023-10-13T04:16:49.413Z</updated>
+        <content type="html"><![CDATA[2023-10-17(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <이방인의 뜰> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13616&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13616&amp;order=1"/>
         <updated>2023-10-13T02:27:21.129Z</updated>
         <content type="html"><![CDATA[2023-10-18(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 - 고고킹의 귀환〉 - 고양 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13615&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13615&amp;order=1"/>
+        <updated>2023-10-13T04:16:49.420Z</updated>
+        <content type="html"><![CDATA[2023-10-17(화) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PARK HYUNG SIK 2023 ASIA TOUR FAN MEETING: SIKcret Time IN SEOUL 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13608&amp;order=1"/>
         <updated>2023-10-12T07:13:11.576Z</updated>
         <content type="html"><![CDATA[2023-10-13(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈칠칠〉 4차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13607&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13607&amp;order=1"/>
-        <updated>2023-10-12T06:20:23.907Z</updated>
-        <content type="html"><![CDATA[2023-10-16(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이쇼 위크 (ISHOW WEEK) 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13606&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13606&amp;order=1"/>
-        <updated>2023-10-12T04:16:31.559Z</updated>
-        <content type="html"><![CDATA[2023-10-16(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이쇼 위크 (ISHOW WEEK) - 시즌권 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13605&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13605&amp;order=1"/>
-        <updated>2023-10-12T04:16:31.560Z</updated>
-        <content type="html"><![CDATA[2023-10-16(월) 13:00]]></content>
     </entry>
 </feed>
