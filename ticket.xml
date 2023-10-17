@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-10-17T04:17:24.207Z</updated>
+    <updated>2023-10-17T05:14:28.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정명훈 & 원 코리아 오케스트라 <베토벤 합창> 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13639</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13639"/>
+        <updated>2023-10-17T05:13:22.791Z</updated>
+        <content type="html"><![CDATA[2023.10.20(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[총체적 콘서트 카루셀 Carousel [회전목마] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13638</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13620"/>
         <updated>2023-10-13T05:13:22.073Z</updated>
         <content type="html"><![CDATA[2023.10.17(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <엘리펀트 송> 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13619</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13619"/>
-        <updated>2023-10-13T05:13:22.075Z</updated>
-        <content type="html"><![CDATA[2023.10.20(금) 14:00]]></content>
     </entry>
 </feed>
