@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-10-18T03:17:39.078Z</updated>
+    <updated>2023-10-18T04:18:10.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈앤서니 브라운의 우리가족〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13643&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13643&amp;order=1"/>
+        <updated>2023-10-18T04:17:15.086Z</updated>
+        <content type="html"><![CDATA[2023-10-24(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <맥베스> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13642&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13632&amp;order=1"/>
         <updated>2023-10-16T05:13:35.469Z</updated>
         <content type="html"><![CDATA[2023-10-23(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 뮤지컬 〈마리 퀴리〉 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13631&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13631&amp;order=1"/>
-        <updated>2023-10-16T05:13:35.472Z</updated>
-        <content type="html"><![CDATA[2023-10-26(목) 11:00]]></content>
     </entry>
 </feed>
