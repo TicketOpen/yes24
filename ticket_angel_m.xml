@@ -4,9 +4,31 @@
         <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 05:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 06:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 판타지아]]></title>
+            <link>http://m.ticket.yes24.com/Perf/47090</link>
+            <guid>http://m.ticket.yes24.com/Perf/47090</guid>
+            <pubDate>Mon, 16 Oct 2023 01:57:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 판타지아</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">22,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">8,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">회차별 할인율 상이</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202310/20231016/20231016-47090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 더데빌: 에덴]]></title>
+            <link>http://m.ticket.yes24.com/Perf/46848</link>
+            <guid>http://m.ticket.yes24.com/Perf/46848</guid>
+            <pubDate>Mon, 16 Oct 2023 01:57:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 더데빌: 에덴</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">43,800원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">10/17(화)~11/12(일)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202310/20231016/20231016-46848.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 그곳에 있었다]]></title>
             <link>http://m.ticket.yes24.com/Perf/47413</link>
@@ -28,28 +50,6 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">37,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">10/17(화)~11/12(일) 공연(좌석별 할인율 상이)</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202310/20231016/20231016-46785.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 더데빌: 에덴]]></title>
-            <link>http://m.ticket.yes24.com/Perf/46848</link>
-            <guid>http://m.ticket.yes24.com/Perf/46848</guid>
-            <pubDate>Mon, 16 Oct 2023 01:57:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 더데빌: 에덴</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">43,800원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">10/17(화)~11/12(일)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202310/20231016/20231016-46848.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 판타지아]]></title>
-            <link>http://m.ticket.yes24.com/Perf/47090</link>
-            <guid>http://m.ticket.yes24.com/Perf/47090</guid>
-            <pubDate>Mon, 16 Oct 2023 01:57:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 판타지아</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">22,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">8,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">회차별 할인율 상이</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202310/20231016/20231016-47090.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
