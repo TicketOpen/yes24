@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-10-19T01:00:30.357Z</updated>
+    <updated>2023-10-19T01:55:02.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[부산] 로컬 바이 로컬 페스트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13648</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13648"/>
+        <updated>2023-10-19T01:54:00.620Z</updated>
+        <content type="html"><![CDATA[2023.10.20(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2023 TWICE FANMEETING〈ONCE AGAIN〉추가 좌석 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13647</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13629"/>
         <updated>2023-10-16T01:00:42.511Z</updated>
         <content type="html"><![CDATA[2023.10.30(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.10.26(목) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13628</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13628"/>
-        <updated>2023-10-16T01:00:42.521Z</updated>
-        <content type="html"><![CDATA[2023.10.19(목) 14:00]]></content>
     </entry>
 </feed>
