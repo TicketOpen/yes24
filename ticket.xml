@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-10-19T05:15:20.831Z</updated>
+    <updated>2023-10-19T06:19:51.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정재일 콘서트 - Listen 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13654</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13654"/>
+        <updated>2023-10-19T06:18:54.952Z</updated>
+        <content type="html"><![CDATA[2023.10.31(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 일 테노레 (IL TENORE) 프리뷰/1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13653</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13635"/>
         <updated>2023-10-16T06:20:08.253Z</updated>
         <content type="html"><![CDATA[2023.10.20(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2023 조용필&위대한탄생 전국투어 콘서트 - 부산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13634</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13634"/>
-        <updated>2023-10-16T05:13:25.932Z</updated>
-        <content type="html"><![CDATA[2023.10.27(금) 14:00]]></content>
     </entry>
 </feed>
