@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-10-19T04:17:25.604Z</updated>
+    <updated>2023-10-19T05:15:20.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 일 테노레 (IL TENORE) 프리뷰/1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13653&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13653&amp;order=1"/>
+        <updated>2023-10-19T05:13:24.065Z</updated>
+        <content type="html"><![CDATA[2023-10-26(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <컬렉션> 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13652&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13652&amp;order=1"/>
+        <updated>2023-10-19T05:13:24.068Z</updated>
+        <content type="html"><![CDATA[2023-10-31(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[성남] GUMMY Tour Concert 2023 〈LOVE〉티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13651&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13651&amp;order=1"/>
+        <updated>2023-10-19T05:13:24.087Z</updated>
+        <content type="html"><![CDATA[2023-10-25(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2023 최백호 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13650&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13650&amp;order=1"/>
+        <updated>2023-10-19T05:13:24.088Z</updated>
+        <content type="html"><![CDATA[2023-10-23(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈위윌락유〉 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13649&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13649&amp;order=1"/>
+        <updated>2023-10-19T05:13:24.089Z</updated>
+        <content type="html"><![CDATA[2023-10-24(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 로컬 바이 로컬 페스트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13648&amp;order=1</id>
@@ -38,41 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13644&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13644&amp;order=1"/>
         <updated>2023-10-18T05:13:07.731Z</updated>
-        <content type="html"><![CDATA[2023-10-20(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈앤서니 브라운의 우리가족〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13643&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13643&amp;order=1"/>
-        <updated>2023-10-18T04:17:15.086Z</updated>
-        <content type="html"><![CDATA[2023-10-24(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <맥베스> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13642&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13642&amp;order=1"/>
-        <updated>2023-10-18T02:21:41.871Z</updated>
-        <content type="html"><![CDATA[2023-10-26(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈드라이 플라워〉 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13641&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13641&amp;order=1"/>
-        <updated>2023-10-18T05:13:07.737Z</updated>
-        <content type="html"><![CDATA[2023-10-25(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [더데빌:파우스트] 첫 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13640&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13640&amp;order=1"/>
-        <updated>2023-10-18T05:13:07.741Z</updated>
-        <content type="html"><![CDATA[2023-10-25(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정명훈 & 원 코리아 오케스트라 <베토벤 합창> 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13639&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13639&amp;order=1"/>
-        <updated>2023-10-17T05:13:32.267Z</updated>
         <content type="html"><![CDATA[2023-10-20(금) 14:00]]></content>
     </entry>
 </feed>
