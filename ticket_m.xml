@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-10-20T05:13:50.920Z</updated>
+    <updated>2023-10-20T06:21:25.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2023-24 김창옥 토크콘서트 시즌3 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13660&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13660&amp;order=1"/>
+        <updated>2023-10-20T06:20:34.615Z</updated>
+        <content type="html"><![CDATA[2023-10-26(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 연극 <친정엄마와 2박 3일> - 광주 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13659&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13659&amp;order=1"/>
+        <updated>2023-10-20T06:20:34.616Z</updated>
+        <content type="html"><![CDATA[2023-10-26(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 연극 <친정엄마와 2박 3일> - 수원 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13658&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13658&amp;order=1"/>
+        <updated>2023-10-20T06:20:34.618Z</updated>
+        <content type="html"><![CDATA[2023-10-26(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 동화속 발레갈라콘서트 영도, 발레에 빠지다 '호두까기 인형' 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13657&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13651&amp;order=1"/>
         <updated>2023-10-19T05:13:24.087Z</updated>
         <content type="html"><![CDATA[2023-10-25(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2023 최백호 콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13650&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13650&amp;order=1"/>
-        <updated>2023-10-19T05:13:24.088Z</updated>
-        <content type="html"><![CDATA[2023-10-23(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈위윌락유〉 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13649&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13649&amp;order=1"/>
-        <updated>2023-10-19T05:13:24.089Z</updated>
-        <content type="html"><![CDATA[2023-10-24(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 로컬 바이 로컬 페스트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13648&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13648&amp;order=1"/>
-        <updated>2023-10-19T01:54:09.237Z</updated>
-        <content type="html"><![CDATA[2023-10-20(금) 11:00]]></content>
     </entry>
 </feed>
