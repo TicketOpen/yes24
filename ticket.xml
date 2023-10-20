@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-10-20T07:14:38.920Z</updated>
+    <updated>2023-10-20T08:18:59.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10월 은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(10/7, 10/8, 10/14, 10/15, 10/16,..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13661</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13661"/>
+        <updated>2023-10-20T08:17:58.232Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2023-24 김창옥 토크콘서트 시즌3 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13660</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13642"/>
         <updated>2023-10-18T02:21:30.814Z</updated>
         <content type="html"><![CDATA[2023.10.26(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매뮤지컬 〈드라이 플라워〉 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13641</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13641"/>
-        <updated>2023-10-18T05:12:57.639Z</updated>
-        <content type="html"><![CDATA[2023.10.25(수) 14:00]]></content>
     </entry>
 </feed>
