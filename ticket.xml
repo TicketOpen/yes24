@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-10-23T08:19:26.537Z</updated>
+    <updated>2023-10-23T09:15:42.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 김완선 ＂MUSIC＂ 콘서트 in 부산 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13665</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13665"/>
+        <updated>2023-10-23T09:14:36.958Z</updated>
+        <content type="html"><![CDATA[2023.10.27(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈컴프롬웨이〉 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13664</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13646"/>
         <updated>2023-10-18T07:12:32.172Z</updated>
         <content type="html"><![CDATA[2023.10.19(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 송년특집 〈리처드 용재 오닐 & 임동혁 듀오 리사이틀〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13645</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13645"/>
-        <updated>2023-10-18T05:12:57.636Z</updated>
-        <content type="html"><![CDATA[2023.10.18(수) 14:00]]></content>
     </entry>
 </feed>
