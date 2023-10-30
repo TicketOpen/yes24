@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 14:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 15:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,14 +233,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202310/20231018/20231018-77779072-d116-44b8-8de8-b8a52cd1c972.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <달가림>관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47115&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47115&amp;Tab=2</guid>
-            <pubDate>Mon, 30 Oct 2023 12:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.16 ~ 2023.10.30 | 2023.10.31 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202310/20231016/20231016-ce5f23d8-ceb5-40e6-a711-cf46eb55f74d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <레미제라블> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46765&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46765&amp;Tab=2</guid>
@@ -289,6 +281,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230920/20230920-c1c72c22-9774-45ed-afd6-c49318a57ab0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오페레타 뮤지컬 <판타지아> 겨울시즌 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47090&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47090&amp;Tab=3</guid>
+            <pubDate>Mon, 30 Oct 2023 15:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.11 ~ 2023.11.05 | 2023.09.06 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230911/20230911-a2997919-737d-4ebf-b938-659d02ea06ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이벤트 기간2023.10.24 ~ 2023.11.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47516</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47516</guid>
@@ -303,14 +303,6 @@
             <pubDate>Thu, 26 Oct 2023 13:17:34 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>2023.11.09(화) 7시 30분]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202310/20231018/20231018-77779072-d116-44b8-8de8-b8a52cd1c972.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2023.10.16 ~ 2023.10.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47115</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47115</guid>
-            <pubDate>Thu, 26 Oct 2023 13:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em>경품</em>어단비 작가 원작 소설 '달가림' 도서]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202310/20231016/20231016-ce5f23d8-ceb5-40e6-a711-cf46eb55f74d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.10.11 ~ 2023.11.19 (YES24 티켓 ─ 이벤트 모바일)]]></title>
