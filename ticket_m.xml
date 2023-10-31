@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-10-31T07:14:43.141Z</updated>
+    <updated>2023-10-31T08:19:29.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘데뷔를 대비하라 - 2023 콘텐츠 창의인재동반사업 쇼케이스’  티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13687&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13687&amp;order=1"/>
+        <updated>2023-10-31T08:18:04.031Z</updated>
+        <content type="html"><![CDATA[2023-11-02(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23’ 컬래버레이션 김도향&이미배 디너 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13686&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13686&amp;order=1"/>
+        <updated>2023-10-31T08:18:04.031Z</updated>
+        <content type="html"><![CDATA[2023-11-01(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23’ 장계현과 템페스트의 파워 디너 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13685&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13685&amp;order=1"/>
+        <updated>2023-10-31T08:18:04.031Z</updated>
+        <content type="html"><![CDATA[2023-11-01(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어른이 뮤지컬 〈난쟁이들〉 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13684&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13677&amp;order=1"/>
         <updated>2023-10-27T05:13:42.837Z</updated>
         <content type="html"><![CDATA[2023-11-03(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loossemble 1st FAN-CON [Make a voyage] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13676&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13676&amp;order=1"/>
-        <updated>2023-10-27T05:13:42.840Z</updated>
-        <content type="html"><![CDATA[2023-11-03(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[일산] 나훈아 연말 콘서트 12月에 IN DECEMBER 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13675&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13675&amp;order=1"/>
-        <updated>2023-10-27T03:14:14.956Z</updated>
-        <content type="html"><![CDATA[2023-10-31(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다니엘 시저 (Daniel Caesar) 내한공연 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13674&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13674&amp;order=1"/>
-        <updated>2023-10-27T03:14:14.959Z</updated>
-        <content type="html"><![CDATA[2023-10-31(화) 12:00]]></content>
     </entry>
 </feed>

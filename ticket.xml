@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-10-31T07:14:43.138Z</updated>
+    <updated>2023-10-31T08:19:29.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘데뷔를 대비하라 - 2023 콘텐츠 창의인재동반사업 쇼케이스’  티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13687</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13687"/>
+        <updated>2023-10-31T08:17:52.751Z</updated>
+        <content type="html"><![CDATA[2023.11.02(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23’ 컬래버레이션 김도향&이미배 디너 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13686</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13686"/>
+        <updated>2023-10-31T08:17:52.751Z</updated>
+        <content type="html"><![CDATA[2023.11.01(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23’ 장계현과 템페스트의 파워 디너 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13685</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13685"/>
+        <updated>2023-10-31T08:17:52.753Z</updated>
+        <content type="html"><![CDATA[2023.11.01(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매어른이 뮤지컬 〈난쟁이들〉 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13684</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13667"/>
         <updated>2023-10-26T13:16:48.270Z</updated>
         <content type="html"><![CDATA[2023.10.27(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2023 백지영 전국투어 콘서트 〈BAEK SPACE〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13666</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13666"/>
-        <updated>2023-10-26T13:16:48.272Z</updated>
-        <content type="html"><![CDATA[2023.10.30(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 김완선 ＂MUSIC＂ 콘서트 in 부산 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13665</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13665"/>
-        <updated>2023-10-26T13:16:48.273Z</updated>
-        <content type="html"><![CDATA[2023.10.27(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈컴프롬웨이〉 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13664</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13664"/>
-        <updated>2023-10-26T13:16:48.275Z</updated>
-        <content type="html"><![CDATA[2023.10.27(금) 14:00]]></content>
     </entry>
 </feed>
