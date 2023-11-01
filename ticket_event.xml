@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 02:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 03:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬<키다리 아저씨> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47438&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47438&amp;Tab=3</guid>
+            <pubDate>Wed, 01 Nov 2023 03:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.01 ~ 2023.11.26 | 2023.11.27 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231101/20231101-a4bfa800-ca05-48c4-9dd4-b623bec03fec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어른이 뮤지컬 <난쟁이들> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47311&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47311&amp;Tab=2</guid>
+            <pubDate>Wed, 01 Nov 2023 03:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.01 ~ 2023.11.30 | 2023.12.04 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231101/20231101-c988a6aa-e312-40c5-8986-d4ae2fef2c28.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극<엘리펀트 송> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47516&amp;Tab=3</link>
@@ -62,22 +78,6 @@
             <pubDate>Tue, 31 Oct 2023 12:26:55 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.21 ~ 2023.12.03 | 2023.12.05 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230921/20230921-6fa3394a-5091-4880-980e-32f6cd9bb657.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <비더슈탄트> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46733&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=46733&amp;Tab=2</guid>
-            <pubDate>Tue, 31 Oct 2023 12:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.20 ~ 2023.11.27 | 2023.11.30 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230920/20230920-c1c72c22-9774-45ed-afd6-c49318a57ab0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오페레타 뮤지컬 <판타지아> 겨울시즌 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47090&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47090&amp;Tab=3</guid>
-            <pubDate>Tue, 31 Oct 2023 12:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.11 ~ 2023.11.05 | 2023.09.06 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202309/20230911/20230911-a2997919-737d-4ebf-b938-659d02ea06ea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
