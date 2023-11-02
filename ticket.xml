@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-11-02T04:18:27.945Z</updated>
+    <updated>2023-11-02T05:14:41.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[대구] 2023 멜로망스 전국투어 콘서트 〈Roman’ce Town〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13698</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13698"/>
+        <updated>2023-11-02T05:13:32.291Z</updated>
+        <content type="html"><![CDATA[2023.11.09(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023~24 최현우 Answer 추가 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13697</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13678"/>
         <updated>2023-10-27T06:18:52.335Z</updated>
         <content type="html"><![CDATA[2023.10.30(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Loossemble 1st FAN-CON [Make a voyage] Online Live Streaming 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13677</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13677"/>
-        <updated>2023-10-27T05:13:34.727Z</updated>
-        <content type="html"><![CDATA[2023.11.03(금) 20:00]]></content>
     </entry>
 </feed>
