@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-11-02T01:54:46.465Z</updated>
+    <updated>2023-11-02T02:23:10.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023~24 최현우 Answer 추가 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13697&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13697&amp;order=1"/>
+        <updated>2023-11-02T02:21:20.415Z</updated>
+        <content type="html"><![CDATA[2023-11-07(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2023 백지영 전국투어 콘서트 〈BAEK SPACE〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13696&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13688&amp;order=1"/>
         <updated>2023-11-01T03:14:40.996Z</updated>
         <content type="html"><![CDATA[2023-11-07(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘데뷔를 대비하라 - 2023 콘텐츠 창의인재동반사업 쇼케이스’  티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13687&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13687&amp;order=1"/>
-        <updated>2023-10-31T08:18:04.031Z</updated>
-        <content type="html"><![CDATA[2023-11-02(목) 14:00]]></content>
     </entry>
 </feed>
