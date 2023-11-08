@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-11-08T02:24:04.438Z</updated>
+    <updated>2023-11-08T03:16:33.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매JAECHAN FANMEETING TOUR [BEYOND THE UNIVERSE] in SEOUL 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13716</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13716"/>
+        <updated>2023-11-08T03:14:20.338Z</updated>
+        <content type="html"><![CDATA[2023.11.15(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멜라니 마르티네즈 첫 내한공연 (Melanie Martinez: PORTALS Tour) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13715</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13715"/>
+        <updated>2023-11-08T03:14:20.340Z</updated>
+        <content type="html"><![CDATA[2023.11.15(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(11/3, 11/12, 11/18, 11/19, 11/25)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13714</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13696"/>
         <updated>2023-11-01T06:18:28.764Z</updated>
         <content type="html"><![CDATA[2023.11.07(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2023 백지영 전국투어 콘서트 〈BAEK SPACE〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13695</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13695"/>
-        <updated>2023-11-01T06:18:28.764Z</updated>
-        <content type="html"><![CDATA[2023.11.07(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈리진 : 빛의 여인〉 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13694</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13694"/>
-        <updated>2023-11-01T06:18:28.778Z</updated>
-        <content type="html"><![CDATA[2023.11.07(화) 14:00]]></content>
     </entry>
 </feed>
