@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 14:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 15:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.11.11 ~ 2023.12.31]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47090</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47090</guid>
+            <pubDate>Fri, 10 Nov 2023 15:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>&lt;장화 신은 고양이 비긴즈&gt; - 플레이 버전 	    2024년 1월 6일(토) 11시 공연 관람권]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231110/20231110-82de5680-5bb5-4c90-b650-e8cb65810d4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.11.09 ~ 2023.12.03]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47421</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 03 Nov 2023 18:18:57 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;컴프롬어웨이&gt; 11월 28일(화)  오후 7시 30분 공연 3명]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202310/20231010/20231010-6140e275-40d5-461d-aa0f-5a7e26140d56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2023.09.22 ~ 2023.11.10]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47226</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47226</guid>
-            <pubDate>Fri, 03 Nov 2023 18:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>11월 26일(일) 18:30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202310/20231004/20231004-b98396f9-c35c-4b50-8a1e-6d3dffa789f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.09.25 ~ 2023.11.30]]></title>
