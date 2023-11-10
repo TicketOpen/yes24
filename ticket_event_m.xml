@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 08:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 09:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.11.09 ~ 2023.12.03]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47421</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47421</guid>
+            <pubDate>Fri, 10 Nov 2023 09:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>12월 10일(일) 3시 20분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231110/20231110-e389d62d-527b-43ef-99c2-2a7b14bdae1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.11.09 ~ 2023.12.03]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47420</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47420</guid>
+            <pubDate>Fri, 10 Nov 2023 09:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>12월 10일(일) 2시 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231110/20231110-fc5cbe11-df96-4170-a51d-62944042c73f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.11.08 ~ 2023.11.28]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47230</link>
