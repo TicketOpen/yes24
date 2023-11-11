@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 01:00:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 02:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -467,6 +467,13 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[뮤지컬 드라이 플라워] 빼빼로데이 특별할인* (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 26 Oct 2023 13:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2023.11.11 ~ 2023.11.26</dd><dt>사용기간</dt><dd>2023.11.11 ~ 2023.11.26</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -493,6 +500,13 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097</guid>
             <pubDate>Thu, 26 Oct 2023 13:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 드라이 플라워] 빼빼로데이 특별할인* (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=45366</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=45366</guid>
+            <pubDate>Sat, 11 Nov 2023 02:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 53,889원]]></content:encoded>
         </item>
     </channel>
 </rss>

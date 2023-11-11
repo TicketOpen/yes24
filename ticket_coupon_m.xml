@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2023-11-11T01:00:17.233Z</updated>
+    <updated>2023-11-11T02:27:09.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -18,5 +18,12 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097"/>
         <updated>2023-10-26T13:17:50.913Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 드라이 플라워] 빼빼로데이 특별할인*]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=45366</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=45366"/>
+        <updated>2023-11-11T02:27:08.399Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 53,889원]]></content>
     </entry>
 </feed>
