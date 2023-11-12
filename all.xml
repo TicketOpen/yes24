@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 14:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 15:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,17 +224,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202311/20231106/20231106-46848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 더데빌: 에덴 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/46848</link>
-            <guid>http://m.ticket.yes24.com/Perf/46848</guid>
-            <pubDate>Mon, 06 Nov 2023 01:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 더데빌: 에덴</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">24,000원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11/7(화)~11/19(일)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202311/20231106/20231106-46848.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오페레타 뮤지컬〈판타지아〉 겨울시즌 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47090&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47090&amp;Tab=3</guid>
@@ -379,28 +368,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231101/20231101-c988a6aa-e312-40c5-8986-d4ae2fef2c28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이벤트 기간2023.10.24 ~ 2023.11.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47516</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47516</guid>
-            <pubDate>Fri, 03 Nov 2023 18:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>12월 1일(금) 오후8시 공연]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202310/20231024/20231024-0cea5d35-3369-46f6-b382-db7d7485348d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이벤트 기간2023.10.11 ~ 2023.11.19 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=46765</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=46765</guid>
             <pubDate>Fri, 03 Nov 2023 18:18:57 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>&lt;레미제라블&gt; 원작 도서]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202310/20231011/20231011-89336c92-56d5-48d1-815c-2cb1b1dc311c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2023.10.06 ~ 2023.11.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47295</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47295</guid>
-            <pubDate>Fri, 03 Nov 2023 18:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;컴프롬어웨이&gt; 11월 28일(화)  오후 7시 30분 공연 3명]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202310/20231010/20231010-6140e275-40d5-461d-aa0f-5a7e26140d56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.09.25 ~ 2023.11.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
