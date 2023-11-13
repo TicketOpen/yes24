@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-11-13T03:17:57.097Z</updated>
+    <updated>2023-11-13T04:21:28.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[바르샤바 국립 필하모닉 오케스트라 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13738</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13738"/>
+        <updated>2023-11-13T04:17:19.825Z</updated>
+        <content type="html"><![CDATA[2023.11.15(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매fhana Beautiful Dreamer ASIA Tour in Seoul (supported by KOE) 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13734</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13716"/>
         <updated>2023-11-08T03:14:20.338Z</updated>
         <content type="html"><![CDATA[2023.11.15(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멜라니 마르티네즈 첫 내한공연 (Melanie Martinez: PORTALS Tour) 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13715</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13715"/>
-        <updated>2023-11-08T03:14:20.340Z</updated>
-        <content type="html"><![CDATA[2023.11.15(수) 12:00]]></content>
     </entry>
 </feed>
