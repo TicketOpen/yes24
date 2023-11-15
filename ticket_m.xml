@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-11-14T23:14:59.564Z</updated>
+    <updated>2023-11-15T01:05:57.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[박진영 콘서트〈80’s Night〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13741&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13741&amp;order=1"/>
+        <updated>2023-11-15T01:02:53.799Z</updated>
+        <content type="html"><![CDATA[2023-11-17(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈결투〉 1차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13740&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13731&amp;order=1"/>
         <updated>2023-11-10T08:17:05.534Z</updated>
         <content type="html"><![CDATA[2023-11-15(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈왓 이프〉 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13730&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13730&amp;order=1"/>
-        <updated>2023-11-10T06:18:05.351Z</updated>
-        <content type="html"><![CDATA[2023-11-16(목) 11:00]]></content>
     </entry>
 </feed>
