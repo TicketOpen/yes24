@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 05:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 06:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.11.20 ~ 2023.12.17]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=46513</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=46513</guid>
+            <pubDate>Tue, 21 Nov 2023 06:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>30만원 상당의 화장품 세트]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231121/20231121-f71b1c48-e98e-4e4f-b6ce-1c37fca80ed7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.11.16 ~ 2024.01.11]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47720</link>
