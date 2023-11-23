@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-11-22T23:15:07.543Z</updated>
+    <updated>2023-11-23T01:02:34.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산앵콜] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13765</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13765"/>
+        <updated>2023-11-23T01:01:34.927Z</updated>
+        <content type="html"><![CDATA[2023.11.27(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[Bump Up Business] Fanmeeting in Seoul with OnlyOneOf 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13764</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13746"/>
         <updated>2023-11-16T05:13:43.496Z</updated>
         <content type="html"><![CDATA[2023.11.21(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <떠돔 3부작> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13745</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13745"/>
-        <updated>2023-11-16T02:26:51.889Z</updated>
-        <content type="html"><![CDATA[2023.11.17(금) 14:00]]></content>
     </entry>
 </feed>
