@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 14:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 15:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,26 +218,6 @@
             <content:encoded><![CDATA[2023-11-23(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[부산] 뮤지컬 ＜삼총사＞ (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/47268</link>
-            <guid>http://ticket.yes24.com/Perf/47268</guid>
-            <pubDate>Mon, 20 Nov 2023 02:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>132,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202311/20231120/20231120-47268.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 삼총사 - 부산 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/47268</link>
-            <guid>http://m.ticket.yes24.com/Perf/47268</guid>
-            <pubDate>Mon, 20 Nov 2023 02:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 삼총사 - 부산</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">80,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">53,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">좌석별 할인율 상이
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202311/20231120/20231120-47268.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <친구의 전설> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47008&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47008&amp;Tab=2</guid>
@@ -398,14 +378,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231103/20231103-e850a525-f4f6-4ecd-9374-bdc1434cd7e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이벤트 기간2023.11.01 ~ 2023.11.26 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47438</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47438</guid>
-            <pubDate>Mon, 13 Nov 2023 19:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2023.12.12(화) 오후 7시30분 공연]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231101/20231101-a4bfa800-ca05-48c4-9dd4-b623bec03fec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이벤트 기간2023.11.01 ~ 2023.11.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47311</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47311</guid>
@@ -470,13 +442,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[뮤지컬 드라이 플라워] 빼빼로데이 특별할인* (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Mon, 13 Nov 2023 19:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2023.11.11 ~ 2023.11.26</dd><dt>사용기간</dt><dd>2023.11.11 ~ 2023.11.26</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -503,13 +468,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097</guid>
             <pubDate>Mon, 13 Nov 2023 19:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 드라이 플라워] 빼빼로데이 특별할인* (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=45366</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=45366</guid>
-            <pubDate>Mon, 13 Nov 2023 19:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 53,889원]]></content:encoded>
         </item>
     </channel>
 </rss>
