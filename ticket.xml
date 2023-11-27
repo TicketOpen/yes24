@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-11-27T06:19:36.199Z</updated>
+    <updated>2023-11-27T07:14:38.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[양산] 2024 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13777</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13777"/>
+        <updated>2023-11-27T07:13:48.055Z</updated>
+        <content type="html"><![CDATA[2023.12.01(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈컴프롬어웨이〉 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13776</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13758"/>
         <updated>2023-11-20T08:19:24.208Z</updated>
         <content type="html"><![CDATA[2023.11.22(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 한다 콘서트 HANDA CONCERT #3. 감사 한다 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13757</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13757"/>
-        <updated>2023-11-20T06:18:49.759Z</updated>
-        <content type="html"><![CDATA[2023.12.05(화) 15:00]]></content>
     </entry>
 </feed>
