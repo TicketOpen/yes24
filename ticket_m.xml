@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-11-27T07:14:38.112Z</updated>
+    <updated>2023-11-27T08:19:47.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 빈 소년 합창단 신년음악회 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13778&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13778&amp;order=1"/>
+        <updated>2023-11-27T08:19:04.653Z</updated>
+        <content type="html"><![CDATA[2023-11-29(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[양산] 2024 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13777&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13769&amp;order=1"/>
         <updated>2023-11-24T04:16:39.450Z</updated>
         <content type="html"><![CDATA[2023-11-28(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태양의서커스 〈루치아〉 - 부산 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13768&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13768&amp;order=1"/>
-        <updated>2023-11-24T05:13:40.756Z</updated>
-        <content type="html"><![CDATA[2023-11-28(화) 14:00]]></content>
     </entry>
 </feed>
