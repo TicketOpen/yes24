@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 14:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 15:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231110/20231110-fc5cbe11-df96-4170-a51d-62944042c73f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<순신> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47230&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47230&amp;Tab=2</guid>
-            <pubDate>Wed, 08 Nov 2023 06:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.08 ~ 2023.11.28 | 2023.11.28 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231108/20231108-443de187-3056-43d7-8da9-917fe03ea718.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[창작가무극 <꾿빠이, 이상>기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47579&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47579&amp;Tab=3</guid>
+            <pubDate>Tue, 28 Nov 2023 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.08 ~ 2023.12.03 | 2023.12.04 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231108/20231108-11c34b6d-36b5-4e68-97cf-a4c4a1ce6ea9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
