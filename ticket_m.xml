@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-11-28T01:03:56.623Z</updated>
+    <updated>2023-11-28T02:28:46.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈드라이 플라워〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13785&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13785&amp;order=1"/>
+        <updated>2023-11-28T02:27:55.398Z</updated>
+        <content type="html"><![CDATA[2023-12-01(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2023 엄정화 단독 콘서트 [초대] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13784&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13784&amp;order=1"/>
+        <updated>2023-11-28T02:27:55.398Z</updated>
+        <content type="html"><![CDATA[2023-11-30(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2023 엄정화 단독 콘서트 [초대] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13782&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13782&amp;order=1"/>
+        <updated>2023-11-28T02:27:55.401Z</updated>
+        <content type="html"><![CDATA[2023-11-30(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2023 엄정화 단독 콘서트 [초대] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13781&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13781&amp;order=1"/>
+        <updated>2023-11-28T02:27:55.402Z</updated>
+        <content type="html"><![CDATA[2023-11-29(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 2023 멜로망스 전국투어 콘서트 〈Roman’ce Town〉 티켓 오픈 일정 변경 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13780&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13775&amp;order=1"/>
         <updated>2023-11-27T05:13:45.963Z</updated>
         <content type="html"><![CDATA[2023-12-04(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안산] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13774&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13774&amp;order=1"/>
-        <updated>2023-11-27T05:13:45.964Z</updated>
-        <content type="html"><![CDATA[2023-11-30(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2023 멜로망스 전국투어 콘서트 〈Roman’ce Town〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13773&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13773&amp;order=1"/>
-        <updated>2023-11-27T05:13:45.966Z</updated>
-        <content type="html"><![CDATA[2023-12-01(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2023 멜로망스 전국투어 콘서트 〈Roman’ce Town〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13772&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13772&amp;order=1"/>
-        <updated>2023-11-27T05:13:45.967Z</updated>
-        <content type="html"><![CDATA[2023-12-01(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈리진 : 빛의 여인〉 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13771&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13771&amp;order=1"/>
-        <updated>2023-11-24T06:18:23.751Z</updated>
-        <content type="html"><![CDATA[2023-12-01(금) 14:00]]></content>
     </entry>
 </feed>
