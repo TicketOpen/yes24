@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-11-29T08:19:26.379Z</updated>
+    <updated>2023-11-29T09:15:11.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 뮤지컬 〈마리 퀴리〉 3차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13788</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13788"/>
+        <updated>2023-11-29T09:14:14.742Z</updated>
+        <content type="html"><![CDATA[2023.12.06(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국립중앙박물관 특별전 ‘탕탕평평-글과 그림의 힘’]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13787</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13768"/>
         <updated>2023-11-24T05:13:32.361Z</updated>
         <content type="html"><![CDATA[2023.11.28(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영도문화예술회관 송년기념 공연 ＂V.O.S ＆ J-CERA 2023 ADIEU CONCERT＂ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13767</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13767"/>
-        <updated>2023-11-24T03:14:32.280Z</updated>
-        <content type="html"><![CDATA[2023.11.27(월) 14:00]]></content>
     </entry>
 </feed>
