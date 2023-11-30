@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-11-30T05:14:25.296Z</updated>
+    <updated>2023-11-30T06:19:27.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DAY6 Christmas Special Concert ‘The Present : You are My Day’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13799&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13799&amp;order=1"/>
+        <updated>2023-11-30T06:18:26.737Z</updated>
+        <content type="html"><![CDATA[2023-12-07(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 푸에르자부르타 웨이라 인 서울 3차 티켓 오픈[2023 FUEZA BRUTA WAYRA IN SEOUL]]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13798&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13788&amp;order=1"/>
         <updated>2023-11-29T09:14:23.308Z</updated>
         <content type="html"><![CDATA[2023-12-06(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국립중앙박물관 특별전 ‘탕탕평평-글과 그림의 힘’]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13787&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13787&amp;order=1"/>
-        <updated>2023-11-29T01:03:06.530Z</updated>
-        <content type="html"><![CDATA[2023-12-01(금) 10:00]]></content>
     </entry>
 </feed>
