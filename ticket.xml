@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-12-01T08:18:47.028Z</updated>
+    <updated>2023-12-01T09:15:20.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2023 Someday Christmas 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13805</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13805"/>
+        <updated>2023-12-01T09:14:20.193Z</updated>
+        <content type="html"><![CDATA[2023.12.04(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 의정부 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13804</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13784"/>
         <updated>2023-11-28T02:27:45.984Z</updated>
         <content type="html"><![CDATA[2023.11.30(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2023 엄정화 단독 콘서트 [초대] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13782</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13782"/>
-        <updated>2023-11-28T02:27:45.993Z</updated>
-        <content type="html"><![CDATA[2023.11.30(목) 14:00]]></content>
     </entry>
 </feed>
