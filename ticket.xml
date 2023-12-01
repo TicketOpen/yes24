@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-12-01T02:32:53.844Z</updated>
+    <updated>2023-12-01T03:16:05.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 연극 〈친정엄마와2박3일〉 - 목포 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13803</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13803"/>
+        <updated>2023-12-01T03:15:12.654Z</updated>
+        <content type="html"><![CDATA[2023.12.06(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 메모리즈 - 자이언티＆원슈타인 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13800</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13779</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13779"/>
         <updated>2023-11-27T09:15:05.636Z</updated>
-        <content type="html"><![CDATA[2023.11.29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 빈 소년 합창단 신년음악회 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13778</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13778"/>
-        <updated>2023-11-27T08:18:57.325Z</updated>
         <content type="html"><![CDATA[2023.11.29(수) 14:00]]></content>
     </entry>
 </feed>
