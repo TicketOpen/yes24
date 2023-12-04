@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 01:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 02:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,52 @@
             <content:encoded><![CDATA[2023-12-04(월) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 〈떠돔 3부작〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/47846</link>
+            <guid>http://ticket.yes24.com/Perf/47846</guid>
+            <pubDate>Mon, 04 Dec 2023 02:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									35,000원								</td>								<td class="dc_price">									<em>→</em>22,100원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231204/20231204-47846.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈드라이 플라워〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/47290</link>
+            <guid>http://ticket.yes24.com/Perf/47290</guid>
+            <pubDate>Mon, 04 Dec 2023 02:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									65,000원								</td>								<td class="dc_price">									<em>→</em>36,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231204/20231204-47290.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 드라이 플라워 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/47290</link>
+            <guid>http://m.ticket.yes24.com/Perf/47290</guid>
+            <pubDate>Mon, 04 Dec 2023 02:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 드라이 플라워</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">40,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">21,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">12/11(화) ~ 12/24(일)(12/16 제외)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231204/20231204-47290.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 떠돔 3부작 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/47846</link>
+            <guid>http://m.ticket.yes24.com/Perf/47846</guid>
+            <pubDate>Mon, 04 Dec 2023 02:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 떠돔 3부작</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">35,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">22,100원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231204/20231204-47846.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그래양선정 연말연시 추천공연들 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3524</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3524</guid>
+            <pubDate>Mon, 04 Dec 2023 02:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.01 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202312/20231204/20231204-d5e70b80-ca80-4dd4-9759-463df3b41fdd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <친구의 전설> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47008&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47008&amp;Tab=2</guid>
@@ -254,7 +300,7 @@
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47225&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47225&amp;Tab=3</guid>
             <pubDate>Tue, 14 Nov 2023 03:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.14 ~ 2023.12.14 | 2023.11.15 발표]]></content:encoded>
+            <content:encoded><![CDATA[2023.11.14 ~ 2023.12.14 | 2023.12.15 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231114/20231114-24287661-0abf-4871-9468-85edb8aa90ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -282,11 +328,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230616/20230616-a7a55e7b-c331-4a76-8492-0a8046f02a8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NEW출석체크 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Sun, 03 Dec 2023 15:13:32 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2023.12.01 ~ 2023.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3524</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3524</guid>
+            <pubDate>Mon, 04 Dec 2023 02:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202312/20231204/20231204-d5e70b80-ca80-4dd4-9759-463df3b41fdd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2023.11.24 ~ 2023.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
