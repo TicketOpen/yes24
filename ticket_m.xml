@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-12-04T23:14:59.469Z</updated>
+    <updated>2023-12-05T01:04:09.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Macaroni Empitsu 내한공연 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13813&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13813&amp;order=1"/>
+        <updated>2023-12-05T01:03:24.003Z</updated>
+        <content type="html"><![CDATA[2023-12-08(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13812&amp;order=1</id>
@@ -41,6 +48,13 @@
         <content type="html"><![CDATA[2023-12-06(수) 10:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BOSS.CKM 1St Fanmeeting in Korea＿The Wonder of Winter 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13806&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13806&amp;order=1"/>
+        <updated>2023-12-05T01:03:24.009Z</updated>
+        <content type="html"><![CDATA[2023-12-07(목) 20:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[부산] 2023 Someday Christmas 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13805&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13805&amp;order=1"/>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13803&amp;order=1"/>
         <updated>2023-12-01T03:15:20.702Z</updated>
         <content type="html"><![CDATA[2023-12-06(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른이 뮤지컬 〈난쟁이들〉마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13802&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13802&amp;order=1"/>
-        <updated>2023-12-01T05:14:21.284Z</updated>
-        <content type="html"><![CDATA[2023-12-06(수) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 더 로즈(The Rose) DAWN TO DUSK TOUR - SEOUL 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13801&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13801&amp;order=1"/>
-        <updated>2023-12-01T05:14:21.285Z</updated>
-        <content type="html"><![CDATA[2023-12-11(월) 12:00]]></content>
     </entry>
 </feed>
