@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-12-07T11:14:18.405Z</updated>
+    <updated>2023-12-07T12:28:07.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 신년음악회 - 수원 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13821&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13821&amp;order=1"/>
+        <updated>2023-12-07T12:27:21.117Z</updated>
+        <content type="html"><![CDATA[2023-12-08(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 연극〈엘리펀트 송〉4차 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13820&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13820&amp;order=1"/>
+        <updated>2023-12-07T12:27:21.118Z</updated>
+        <content type="html"><![CDATA[2023-12-13(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연광철 ＆ 선우예권 ＇시인의 사랑＇티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13819&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13819&amp;order=1"/>
+        <updated>2023-12-07T12:27:21.120Z</updated>
+        <content type="html"><![CDATA[2023-12-08(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 박진영 콘서트〈80's Night〉추가 좌석 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13818&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13818&amp;order=1"/>
+        <updated>2023-12-07T12:27:21.123Z</updated>
+        <content type="html"><![CDATA[2023-12-06(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [더데빌:파우스트] 2024 새해, 3차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13817&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13817&amp;order=1"/>
+        <updated>2023-12-07T12:27:21.124Z</updated>
+        <content type="html"><![CDATA[2023-12-12(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[구미] 뽀로로 20주년 스페셜 매직 싱어롱쇼 [슈퍼스타 뽀로로 드림콘서트] 시즌 2 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13816&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13816&amp;order=1"/>
+        <updated>2023-12-07T12:27:21.125Z</updated>
+        <content type="html"><![CDATA[2023-12-08(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [은하철도의 밤] 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13815&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13815&amp;order=1"/>
+        <updated>2023-12-07T12:27:21.127Z</updated>
+        <content type="html"><![CDATA[2023-12-12(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[양산] 뽀로로 20주년 스페셜 매직 싱어롱쇼 [슈퍼스타 뽀로로 드림콘서트] 시즌 2 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13814&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13814&amp;order=1"/>
+        <updated>2023-12-07T12:27:21.128Z</updated>
+        <content type="html"><![CDATA[2023-12-07(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macaroni Empitsu 내한공연 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13813&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13813&amp;order=1"/>
+        <updated>2023-12-07T12:27:21.129Z</updated>
+        <content type="html"><![CDATA[2023-12-08(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13812&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13812&amp;order=1"/>
+        <updated>2023-12-07T12:27:21.130Z</updated>
+        <content type="html"><![CDATA[2023-12-08(금) 15:00]]></content>
+    </entry>
 </feed>
