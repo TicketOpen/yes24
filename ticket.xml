@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-12-09T02:24:59.242Z</updated>
+    <updated>2023-12-09T03:15:16.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매CHRISTIAN KURIA LIVE IN SEOUL 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13830</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13830"/>
+        <updated>2023-12-09T03:14:17.541Z</updated>
+        <content type="html"><![CDATA[2023.12.12(화) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매바다 재즈 콘서트 ‘BADA JAZZ CONCERT’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13829</id>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13810</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13810"/>
         <updated>2023-12-07T12:27:13.148Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2024 김창옥 토크콘서트 시즌3 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13809</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13809"/>
-        <updated>2023-12-07T12:27:13.150Z</updated>
-        <content type="html"><![CDATA[2023.12.07(목) 14:00]]></content>
     </entry>
 </feed>
