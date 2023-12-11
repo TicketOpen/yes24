@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-12-11T04:18:46.800Z</updated>
+    <updated>2023-12-11T05:15:09.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈결투〉 3차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13833</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13833"/>
+        <updated>2023-12-11T05:14:06.913Z</updated>
+        <content type="html"><![CDATA[2023.12.18(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 일 테노레（IL TENORE）OP석 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13832</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13832"/>
+        <updated>2023-12-11T05:14:06.917Z</updated>
+        <content type="html"><![CDATA[2023.12.13(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 ONEUS FAN CONCERT ‘지구와 달 사이 Pt.2’ 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13831</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13831"/>
+        <updated>2023-12-11T05:14:06.917Z</updated>
+        <content type="html"><![CDATA[2023.12.18(월) 19:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.12.15(금) 19:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHRISTIAN KURIA LIVE IN SEOUL 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13830</id>
@@ -123,25 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13813"/>
         <updated>2023-12-07T12:27:13.144Z</updated>
         <content type="html"><![CDATA[2023.12.08(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13812</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13812"/>
-        <updated>2023-12-07T12:27:13.145Z</updated>
-        <content type="html"><![CDATA[2023.12.08(금) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2023.12.08(금) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈모딜리아니〉 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13811</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13811"/>
-        <updated>2023-12-07T12:27:13.147Z</updated>
-        <content type="html"><![CDATA[2023.12.07(목) 03:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2023.12.07(목) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(12/2, 12/3, 12/9, 12/10, 12/17, 12/18..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13810</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13810"/>
-        <updated>2023-12-07T12:27:13.148Z</updated>
     </entry>
 </feed>
