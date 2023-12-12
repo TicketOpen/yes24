@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-12-11T23:15:13.992Z</updated>
+    <updated>2023-12-12T01:04:39.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매DAY6 Christmas Special Concert ‘The Present : You are My Day’ 추가 좌석 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13835</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13835"/>
+        <updated>2023-12-12T01:03:44.495Z</updated>
+        <content type="html"><![CDATA[2023.12.14(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈키다리 아저씨〉 3차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13834</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13815"/>
         <updated>2023-12-07T12:27:13.140Z</updated>
         <content type="html"><![CDATA[2023.12.12(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[양산] 뽀로로 20주년 스페셜 매직 싱어롱쇼 [슈퍼스타 뽀로로 드림콘서트] 시즌 2 티켓오픈 안..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13814</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13814"/>
-        <updated>2023-12-07T12:27:13.142Z</updated>
-        <content type="html"><![CDATA[2023.12.07(목) 10:00]]></content>
     </entry>
 </feed>
