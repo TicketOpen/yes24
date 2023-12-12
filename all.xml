@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 11:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 12:27:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,20 +218,20 @@
             <content:encoded><![CDATA[2023-12-12(화) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈위윌락유〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/46903</link>
-            <guid>http://ticket.yes24.com/Perf/46903</guid>
-            <pubDate>Mon, 11 Dec 2023 01:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>41,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231211/20231211-46903.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오페레타 뮤지컬 〈판타지아〉 겨울시즌 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/47090</link>
             <guid>http://ticket.yes24.com/Perf/47090</guid>
             <pubDate>Mon, 11 Dec 2023 01:03:38 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>36,100원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231211/20231211-47090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈위윌락유〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/46903</link>
+            <guid>http://ticket.yes24.com/Perf/46903</guid>
+            <pubDate>Mon, 11 Dec 2023 01:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>41,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231211/20231211-46903.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈장화 신은 고양이 비긴즈〉 - 플레이버 (YES24 티켓 ─ 엔젤티켓)]]></title>
