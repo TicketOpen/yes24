@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 14:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 15:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231116/20231116-0479b19c-1ea5-4852-a41f-f0f767d8254a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<히사이시 조 영화음악 콘서트 2023_부천> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47225&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47225&amp;Tab=3</guid>
-            <pubDate>Tue, 14 Nov 2023 03:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.14 ~ 2023.12.14 | 2023.12.15 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231114/20231114-24287661-0abf-4871-9468-85edb8aa90ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오페레타 뮤지컬〈판타지아〉 겨울시즌 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47090&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47090&amp;Tab=2</guid>
             <pubDate>Mon, 13 Nov 2023 09:15:34 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.11 ~ 2023.12.31 | 2023.12.31 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231110/20231110-82de5680-5bb5-4c90-b650-e8cb65810d4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너, 예스24티켓의 카톡 친구가 돼라!]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3435</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3435</guid>
+            <pubDate>Thu, 14 Dec 2023 15:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.19 ~ 2023.12.19]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230616/20230616-a7a55e7b-c331-4a76-8492-0a8046f02a8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
