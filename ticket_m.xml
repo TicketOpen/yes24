@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-12-14T04:18:12.771Z</updated>
+    <updated>2023-12-14T05:14:25.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 일 테노레（IL TENORE）3차 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13846&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13846&amp;order=1"/>
+        <updated>2023-12-14T05:13:34.254Z</updated>
+        <content type="html"><![CDATA[2023-12-21(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈친구의 전설〉 추가 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13845&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13845&amp;order=1"/>
+        <updated>2023-12-14T05:13:34.257Z</updated>
+        <content type="html"><![CDATA[2023-12-18(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 가족뮤지컬 [토닥토닥 꼬모 - 숲 속 캠핑놀이] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13844&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13837&amp;order=1"/>
         <updated>2023-12-12T05:13:37.119Z</updated>
         <content type="html"><![CDATA[2023-12-14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[하남] 헬로카봇 뮤지컬 시즌7 [웰컴 투 파라다이스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13836&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13836&amp;order=1"/>
-        <updated>2023-12-12T05:13:37.120Z</updated>
-        <content type="html"><![CDATA[2023-12-14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAY6 Christmas Special Concert ‘The Present : You are My Day’ 추가 좌석 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13835&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13835&amp;order=1"/>
-        <updated>2023-12-12T01:03:52.968Z</updated>
-        <content type="html"><![CDATA[2023-12-14(목) 20:00]]></content>
     </entry>
 </feed>
