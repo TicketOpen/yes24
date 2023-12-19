@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 01:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 02:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.12.16 ~ 2024.02.25]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47231</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47231</guid>
+            <pubDate>Tue, 19 Dec 2023 02:27:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2024 HJ키즈 여름 공연 관람권]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202312/20231219/20231219-4807188d-758e-4487-897f-b1ac377c3911.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2023.12.18 ~ 2024.01.01]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47713</link>
