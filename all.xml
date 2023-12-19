@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 14:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 15:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,12 +218,12 @@
             <content:encoded><![CDATA[2023-12-21(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 죽어야 사는 남자 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/48100</link>
-            <guid>http://ticket.yes24.com/Perf/48100</guid>
+            <title><![CDATA[뮤지컬 〈친구의 전설〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/47008</link>
+            <guid>http://ticket.yes24.com/Perf/47008</guid>
             <pubDate>Mon, 18 Dec 2023 02:27:52 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>6,900원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231218/20231218-48100.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>22,350원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231218/20231218-47008.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 더데빌 : 파우스트 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -234,6 +234,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231218/20231218-47551.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 죽어야 사는 남자 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/48100</link>
+            <guid>http://ticket.yes24.com/Perf/48100</guid>
+            <pubDate>Mon, 18 Dec 2023 02:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>6,900원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231218/20231218-48100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 〈엘리펀트 송〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/47516</link>
             <guid>http://ticket.yes24.com/Perf/47516</guid>
@@ -242,12 +250,30 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231218/20231218-47516.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈친구의 전설〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/47008</link>
-            <guid>http://ticket.yes24.com/Perf/47008</guid>
-            <pubDate>Mon, 18 Dec 2023 02:27:52 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>22,350원								</td>]]></content:encoded>
+            <title><![CDATA[뮤지컬 친구의 전설 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/47008</link>
+            <guid>http://m.ticket.yes24.com/Perf/47008</guid>
+            <pubDate>Mon, 18 Dec 2023 03:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 친구의 전설
+
+</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">22,350원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">
+</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231218/20231218-47008.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 엘리펀트 송 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/47516</link>
+            <guid>http://m.ticket.yes24.com/Perf/47516</guid>
+            <pubDate>Mon, 18 Dec 2023 03:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 엘리펀트 송
+</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">33</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">60,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">38,400원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">12/19(화)~1/7(일)(일부 회차 제외)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231218/20231218-47516.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 더데빌 : 파우스트 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -274,32 +300,6 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231218/20231218-48100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 엘리펀트 송 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/47516</link>
-            <guid>http://m.ticket.yes24.com/Perf/47516</guid>
-            <pubDate>Mon, 18 Dec 2023 03:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 엘리펀트 송
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">33</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">60,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">38,400원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">12/19(화)~1/7(일)(일부 회차 제외)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231218/20231218-47516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 친구의 전설 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/47008</link>
-            <guid>http://m.ticket.yes24.com/Perf/47008</guid>
-            <pubDate>Mon, 18 Dec 2023 03:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 친구의 전설
-
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">22,350원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202312/20231218/20231218-47008.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<2023 푸에르자 부르타 웨이라 인 서울> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -452,14 +452,6 @@
             <pubDate>Thu, 07 Dec 2023 12:27:52 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>&lt;장화 신은 고양이 비긴즈&gt; - 플레이 버전 	    2024년 1월 6일(토) 11시 공연 관람권]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231110/20231110-82de5680-5bb5-4c90-b650-e8cb65810d4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2023.06.19 ~ 2023.12.19 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3435</link>
-            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3435</guid>
-            <pubDate>Thu, 07 Dec 2023 12:27:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202306/20230616/20230616-a7a55e7b-c331-4a76-8492-0a8046f02a8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2019.08.09 ~ 2026.08.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
