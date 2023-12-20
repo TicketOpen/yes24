@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-12-20T08:15:35.103Z</updated>
+    <updated>2023-12-20T09:13:13.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 PARK SEO HAM FANMEETING [POSTBOXHAM : 서로, 함께] 2차 추가 MD 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13853</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13853"/>
+        <updated>2023-12-20T09:12:22.234Z</updated>
+        <content type="html"><![CDATA[2023.12.21(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [옆집 사람] 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13852</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13834"/>
         <updated>2023-12-11T07:13:36.199Z</updated>
         <content type="html"><![CDATA[2023.12.15(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈결투〉 3차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13833</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13833"/>
-        <updated>2023-12-11T05:14:06.913Z</updated>
-        <content type="html"><![CDATA[2023.12.18(월) 14:00]]></content>
     </entry>
 </feed>
