@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-12-22T07:14:12.066Z</updated>
+    <updated>2023-12-22T08:17:58.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<양인모 & 루체른 페스티벌 스트링스> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13864</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13864"/>
+        <updated>2023-12-22T08:17:11.116Z</updated>
+        <content type="html"><![CDATA[2023.12.28(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 봄에 내리는 젠틀레인 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13863</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13845"/>
         <updated>2023-12-14T05:13:25.637Z</updated>
         <content type="html"><![CDATA[2023.12.18(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 가족뮤지컬 [토닥토닥 꼬모 - 숲 속 캠핑놀이] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13844</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13844"/>
-        <updated>2023-12-14T04:17:18.135Z</updated>
-        <content type="html"><![CDATA[2023.12.20(수) 11:00]]></content>
     </entry>
 </feed>
