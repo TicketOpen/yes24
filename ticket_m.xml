@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-12-22T01:02:04.582Z</updated>
+    <updated>2023-12-22T01:58:44.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 TEN FIRST FAN-CON [1001] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13857&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13857&amp;order=1"/>
+        <updated>2023-12-22T01:58:03.786Z</updated>
+        <content type="html"><![CDATA[2024-01-08(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[70만 관객을 웃고 울린 명품연극 <염쟁이유씨> 제주 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13856&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13848&amp;order=1"/>
         <updated>2023-12-15T05:13:50.348Z</updated>
         <content type="html"><![CDATA[2023-12-19(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈리진 : 빛의 여인〉  4차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13847&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13847&amp;order=1"/>
-        <updated>2023-12-15T04:17:15.741Z</updated>
-        <content type="html"><![CDATA[2023-12-22(금) 14:00]]></content>
     </entry>
 </feed>
