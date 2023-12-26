@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-12-26T04:17:52.162Z</updated>
+    <updated>2023-12-26T05:14:23.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <헤르츠클란> 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13868</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13868"/>
+        <updated>2023-12-26T05:13:24.605Z</updated>
+        <content type="html"><![CDATA[2023.12.29(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈결투〉 4차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13867</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13849"/>
         <updated>2023-12-15T10:15:16.594Z</updated>
         <content type="html"><![CDATA[2023.12.18(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른이 뮤지컬 〈난쟁이들〉 보여드림데이 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13848</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13848"/>
-        <updated>2023-12-15T05:13:41.434Z</updated>
-        <content type="html"><![CDATA[2023.12.19(화) 16:00]]></content>
     </entry>
 </feed>

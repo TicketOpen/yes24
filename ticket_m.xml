@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-12-26T04:17:52.158Z</updated>
+    <updated>2023-12-26T05:14:23.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <헤르츠클란> 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13868&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13868&amp;order=1"/>
+        <updated>2023-12-26T05:13:33.772Z</updated>
+        <content type="html"><![CDATA[2023-12-29(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈결투〉 4차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13867&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13859&amp;order=1"/>
         <updated>2023-12-22T04:17:07.480Z</updated>
         <content type="html"><![CDATA[2023-12-28(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 가족뮤지컬 〈고고다이노 - 고고킹의 귀환〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13858&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13858&amp;order=1"/>
-        <updated>2023-12-22T04:17:07.481Z</updated>
-        <content type="html"><![CDATA[2023-12-27(수) 11:00]]></content>
     </entry>
 </feed>
