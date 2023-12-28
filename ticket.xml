@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-12-28T08:18:40.577Z</updated>
+    <updated>2023-12-28T09:14:48.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈미드나잇 : 액터뮤지션〉 예스나잇 티켓오픈]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13873</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13873"/>
+        <updated>2023-12-28T09:14:02.333Z</updated>
+        <content type="html"><![CDATA[2023.12.29(금) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[과천] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13872</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13872"/>
+        <updated>2023-12-28T09:14:02.350Z</updated>
+        <content type="html"><![CDATA[2024.01.04(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매King Gnu Asia Tour ‘THE GREATEST UNKNOWN’ in Seoul 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13871</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13853"/>
         <updated>2023-12-20T09:12:22.234Z</updated>
         <content type="html"><![CDATA[2023.12.21(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [옆집 사람] 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13852</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13852"/>
-        <updated>2023-12-20T06:14:58.042Z</updated>
-        <content type="html"><![CDATA[2023.12.22(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매MARK TUAN ‘The Other Side’ ASIA TOUR 2024 in SEOUL 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13851</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13851"/>
-        <updated>2023-12-20T04:14:11.082Z</updated>
-        <content type="html"><![CDATA[2024.01.03(수) 20:00]]></content>
     </entry>
 </feed>
