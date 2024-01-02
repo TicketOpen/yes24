@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-02T04:17:53.907Z</updated>
+    <updated>2024-01-02T05:14:33.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[어른이 뮤지컬 〈난쟁이들〉 연장 공연 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13881&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13881&amp;order=1"/>
+        <updated>2024-01-02T05:13:43.501Z</updated>
+        <content type="html"><![CDATA[2024-01-05(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 박서함 팬미팅 [POSTBOXHAM：서로, 함께] 3차 MD 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13880&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13872&amp;order=1"/>
         <updated>2023-12-28T09:14:09.281Z</updated>
         <content type="html"><![CDATA[2024-01-04(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[King Gnu Asia Tour ‘THE GREATEST UNKNOWN’ in Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13871&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13871&amp;order=1"/>
-        <updated>2023-12-28T03:14:45.691Z</updated>
-        <content type="html"><![CDATA[2024-01-09(화) 18:00]]></content>
     </entry>
 </feed>
