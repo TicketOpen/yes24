@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-02T09:14:49.605Z</updated>
+    <updated>2024-01-02T10:16:59.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13883&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13883&amp;order=1"/>
+        <updated>2024-01-02T10:15:05.834Z</updated>
+        <content type="html"><![CDATA[2024-01-05(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈모딜리아니〉 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13882&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13882&amp;order=1"/>
+        <updated>2024-01-02T10:15:05.834Z</updated>
+        <content type="html"><![CDATA[2024-01-04(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어른이 뮤지컬 〈난쟁이들〉 연장 공연 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13881&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13874&amp;order=1"/>
         <updated>2023-12-29T05:14:25.089Z</updated>
         <content type="html"><![CDATA[2024-01-03(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈미드나잇 : 액터뮤지션〉 예스나잇 티켓오픈]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13873&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13873&amp;order=1"/>
-        <updated>2023-12-28T09:14:09.280Z</updated>
-        <content type="html"><![CDATA[2023-12-29(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과천] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13872&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13872&amp;order=1"/>
-        <updated>2023-12-28T09:14:09.281Z</updated>
-        <content type="html"><![CDATA[2024-01-04(목) 14:00]]></content>
     </entry>
 </feed>
