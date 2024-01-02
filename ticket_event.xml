@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 03:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 04:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 29 Dec 2023 07:13:20 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.28 ~ 2024.01.24 | 2024.01.25 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202312/20231229/20231229-7efba947-b9c3-4be0-88d6-298d649c9a14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스페이 프로모션(2024~)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3533</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3533</guid>
-            <pubDate>Sun, 31 Dec 2023 15:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/images/common/defaultimg.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬<장화 신은 고양이 비긴즈  플레이 버전> 관람후기 이벤트]]></title>
@@ -75,6 +67,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
             <pubDate>Mon, 01 Jan 2024 15:14:14 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예술의전당]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
+            <pubDate>Tue, 02 Jan 2024 04:17:29 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
