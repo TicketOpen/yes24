@@ -2,18 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-05T05:14:51.978Z</updated>
+    <updated>2024-01-05T06:19:10.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[2024 ViViD CONCERT ＃2 [설레는 그날] 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 일 테노레（IL TENORE）마지막 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13899&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13899&amp;order=1"/>
+        <updated>2024-01-05T06:18:13.113Z</updated>
+        <content type="html"><![CDATA[2024-01-11(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[설레는 그날] ＃2 로이킴, 박창근, 범진 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13895&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13895&amp;order=1"/>
         <updated>2024-01-05T05:14:05.972Z</updated>
         <content type="html"><![CDATA[2024-01-11(목) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 ViViD CONCERT ＃1 [설레는 그날] 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[[설레는 그날] ＃1 B1A4, P1Harmony, AMPERS&ONE 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13894&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13894&amp;order=1"/>
         <updated>2024-01-05T05:14:05.972Z</updated>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13887&amp;order=1"/>
         <updated>2024-01-03T09:15:23.758Z</updated>
         <content type="html"><![CDATA[2024-01-09(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한수진과 브리티시 오리지널 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13886&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13886&amp;order=1"/>
-        <updated>2024-01-03T07:14:22.383Z</updated>
-        <content type="html"><![CDATA[2024-01-05(금) 14:00]]></content>
     </entry>
 </feed>

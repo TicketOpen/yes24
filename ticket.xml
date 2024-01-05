@@ -2,18 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-05T05:14:51.974Z</updated>
+    <updated>2024-01-05T06:19:10.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[2024 ViViD CONCERT ＃2 [설레는 그날] 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 일 테노레（IL TENORE）마지막 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13899</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13899"/>
+        <updated>2024-01-05T06:18:03.925Z</updated>
+        <content type="html"><![CDATA[2024.01.11(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[설레는 그날] ＃2 로이킴, 박창근, 범진 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13895</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13895"/>
         <updated>2024-01-05T05:13:57.405Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 ViViD CONCERT ＃1 [설레는 그날] 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[[설레는 그날] ＃1 B1A4, P1Harmony, AMPERS&ONE 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13894</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13894"/>
         <updated>2024-01-05T05:13:57.405Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13877"/>
         <updated>2023-12-29T05:14:16.803Z</updated>
         <content type="html"><![CDATA[2024.01.04(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈컴프롬어웨이〉 5차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13876</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13876"/>
-        <updated>2023-12-29T05:14:16.805Z</updated>
-        <content type="html"><![CDATA[2024.01.05(금) 14:00]]></content>
     </entry>
 </feed>
