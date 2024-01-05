@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-05T04:18:15.664Z</updated>
+    <updated>2024-01-05T05:14:51.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 ViViD CONCERT ＃2 [설레는 그날] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13895&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13895&amp;order=1"/>
+        <updated>2024-01-05T05:14:05.972Z</updated>
+        <content type="html"><![CDATA[2024-01-11(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 ViViD CONCERT ＃1 [설레는 그날] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13894&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13894&amp;order=1"/>
+        <updated>2024-01-05T05:14:05.972Z</updated>
+        <content type="html"><![CDATA[2024-01-11(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈리진 : 빛의 여인〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13893&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13893&amp;order=1"/>
+        <updated>2024-01-05T05:14:05.973Z</updated>
+        <content type="html"><![CDATA[2024-01-12(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[용인] 가족뮤지컬 [토닥토닥 꼬모 - 숲 속 캠핑놀이]]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13892&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13886&amp;order=1"/>
         <updated>2024-01-03T07:14:22.383Z</updated>
         <content type="html"><![CDATA[2024-01-05(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈엘리펀트 송〉5차 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13885&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13885&amp;order=1"/>
-        <updated>2024-01-03T05:13:33.050Z</updated>
-        <content type="html"><![CDATA[2024-01-09(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[당진] 2024 빅3＂행복한만남＂[강진,김용임,신승태] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13884&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13884&amp;order=1"/>
-        <updated>2024-01-03T04:17:10.557Z</updated>
-        <content type="html"><![CDATA[2024-01-10(수) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13883&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13883&amp;order=1"/>
-        <updated>2024-01-02T10:15:05.834Z</updated>
-        <content type="html"><![CDATA[2024-01-05(금) 15:00]]></content>
     </entry>
 </feed>
