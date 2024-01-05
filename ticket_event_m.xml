@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://m.ticket.yes24.com/Event/List.aspx</id>
-    <title>YES24 티켓 ─ 이벤트 모바일</title>
-    <updated>2024-01-05T11:13:07.285Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://m.ticket.yes24.com/Event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 이벤트 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 05 Jan 2024 12:26:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2023.12.28 ~ 2024.01.24]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=48197</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=48197</guid>
+            <pubDate>Fri, 05 Jan 2024 12:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>1월 30일(화) 7시 30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202312/20231229/20231229-7efba947-b9c3-4be0-88d6-298d649c9a14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.12.16 ~ 2024.02.25]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47231</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47231</guid>
+            <pubDate>Fri, 05 Jan 2024 12:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2024 HJ키즈 여름 공연 관람권]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202312/20231219/20231219-4807188d-758e-4487-897f-b1ac377c3911.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.12.09 ~ 2024.03.10]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47421</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47421</guid>
+            <pubDate>Fri, 05 Jan 2024 12:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>전 배우 사인 프로그램북]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202312/20231213/20231213-e8d690c8-4659-450f-bc33-adaa9a9ceba8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.12.09 ~ 2024.03.10]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47420</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47420</guid>
+            <pubDate>Fri, 05 Jan 2024 12:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>전 배우 사인 프로그램북]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202312/20231213/20231213-a730c13c-adaf-4773-8d1e-97aa0ff7b140.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2023.11.16 ~ 2024.01.11]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47720</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=47720</guid>
+            <pubDate>Fri, 05 Jan 2024 12:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2024년 1월 23일(화) 오후 7시 30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202311/20231116/20231116-0479b19c-1ea5-4852-a41f-f0f767d8254a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2019.08.09 ~ 2026.08.31]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3019</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Fri, 05 Jan 2024 12:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2016.01.01 ~ 2030.12.31]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=2450</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=2450</guid>
+            <pubDate>Fri, 05 Jan 2024 12:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202010/20201027/20201027-ev_list_guide_review.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
