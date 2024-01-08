@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-08T07:14:38.759Z</updated>
+    <updated>2024-01-08T08:20:25.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[신카이 마코토 영화음악 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13901&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13901&amp;order=1"/>
+        <updated>2024-01-08T08:19:34.298Z</updated>
+        <content type="html"><![CDATA[2024-01-09(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈키다리 아저씨〉 4차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13900&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13892&amp;order=1"/>
         <updated>2024-01-05T12:25:57.352Z</updated>
         <content type="html"><![CDATA[2024-01-11(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 가족뮤지컬 [꼬마버스 타요 - 용감한 구조대 레스큐 타요] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13891&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13891&amp;order=1"/>
-        <updated>2024-01-05T12:25:57.353Z</updated>
-        <content type="html"><![CDATA[2024-01-12(금) 11:00]]></content>
     </entry>
 </feed>
