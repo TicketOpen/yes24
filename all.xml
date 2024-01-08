@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 12:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 13:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,20 +218,20 @@
             <content:encoded><![CDATA[2024-01-11(목) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[화가시리즈 - 뮤지컬 〈모딜리아니〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/47420</link>
-            <guid>http://ticket.yes24.com/Perf/47420</guid>
-            <pubDate>Mon, 08 Jan 2024 01:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>25,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47420.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈장화 신은 고양이 비긴즈〉 - 플레이버전 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/47231</link>
             <guid>http://ticket.yes24.com/Perf/47231</guid>
             <pubDate>Mon, 08 Jan 2024 03:15:32 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47231.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화가시리즈 - 뮤지컬 〈모딜리아니〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/47420</link>
+            <guid>http://ticket.yes24.com/Perf/47420</guid>
+            <pubDate>Mon, 08 Jan 2024 01:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>25,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47420.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -242,19 +242,16 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47421.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 에곤 실레 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/47421</link>
-            <guid>http://m.ticket.yes24.com/Perf/47421</guid>
+            <title><![CDATA[장화 신은 고양이 비긴즈 - 플레이버전 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/47231</link>
+            <guid>http://m.ticket.yes24.com/Perf/47231</guid>
             <pubDate>Mon, 08 Jan 2024 03:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 에곤 실레
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">18,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/9(화)~1/21(일) 공연
-
-
+            <content:encoded><![CDATA[<p class="goods_name">장화 신은 고양이 비긴즈 - 플레이버전</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1월8일(화)~1월28일(일)
 </div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47421.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47231.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 모딜리아니 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -270,16 +267,19 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47420.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[장화 신은 고양이 비긴즈 - 플레이버전 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/47231</link>
-            <guid>http://m.ticket.yes24.com/Perf/47231</guid>
+            <title><![CDATA[뮤지컬 에곤 실레 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/47421</link>
+            <guid>http://m.ticket.yes24.com/Perf/47421</guid>
             <pubDate>Mon, 08 Jan 2024 03:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">장화 신은 고양이 비긴즈 - 플레이버전</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1월8일(화)~1월28일(일)
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 에곤 실레
+</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">18,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/9(화)~1/21(일) 공연
+
+
 </div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47231.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47421.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<라움 마티네 콘서트> 1월 공연 1차 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
