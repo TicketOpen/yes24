@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-09T06:19:31.382Z</updated>
+    <updated>2024-01-09T07:16:07.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈벚꽃팝콘〉 - 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13903&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13903&amp;order=1"/>
+        <updated>2024-01-09T07:15:15.400Z</updated>
+        <content type="html"><![CDATA[2024-01-11(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[푸에르자부르타 웨이라 인 서울 4차 티켓 오픈안내 [FUEZA BRUTA WAYRA IN SEOUL]]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13902&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13894&amp;order=1"/>
         <updated>2024-01-05T12:25:57.349Z</updated>
         <content type="html"><![CDATA[2024-01-11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈리진 : 빛의 여인〉 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13893&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13893&amp;order=1"/>
-        <updated>2024-01-05T12:25:57.350Z</updated>
-        <content type="html"><![CDATA[2024-01-12(금) 14:00]]></content>
     </entry>
 </feed>
