@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-08T23:15:21.109Z</updated>
+    <updated>2024-01-09T01:04:37.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[푸에르자부르타 웨이라 인 서울 4차 티켓 오픈안내 [FUEZA BRUTA WAYRA IN SEOUL]]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13902&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13902&amp;order=1"/>
+        <updated>2024-01-09T01:03:43.110Z</updated>
+        <content type="html"><![CDATA[2024-01-11(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신카이 마코토 영화음악 콘서트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13901&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13893&amp;order=1"/>
         <updated>2024-01-05T12:25:57.350Z</updated>
         <content type="html"><![CDATA[2024-01-12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 가족뮤지컬 [토닥토닥 꼬모 - 숲 속 캠핑놀이]]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13892&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13892&amp;order=1"/>
-        <updated>2024-01-05T12:25:57.352Z</updated>
-        <content type="html"><![CDATA[2024-01-11(목) 11:00]]></content>
     </entry>
 </feed>
