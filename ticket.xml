@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-10T03:16:18.021Z</updated>
+    <updated>2024-01-10T04:18:28.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[리그 오브 레전드 : 뮤직 유니버스 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13910</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13910"/>
+        <updated>2024-01-10T04:17:33.652Z</updated>
+        <content type="html"><![CDATA[2024.01.12(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [디아길레프] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13907</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13889"/>
         <updated>2024-01-05T12:25:49.291Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[온라인] SHARING＆TOGETHER CONCERT - K-트로트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13888</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13888"/>
-        <updated>2024-01-05T12:25:49.293Z</updated>
-        <content type="html"><![CDATA[2024.01.04(목) 16:00]]></content>
     </entry>
 </feed>
