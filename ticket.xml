@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-10T05:14:54.711Z</updated>
+    <updated>2024-01-10T06:19:40.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[LG아트센터 서울 2024년 기획공연 시즌 CoMPAS 24 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13912</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13912"/>
+        <updated>2024-01-10T06:18:47.887Z</updated>
+        <content type="html"><![CDATA[2024.01.12(금) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 TEN FIRST FAN-CON [1001] 회차 추가 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13911</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13893"/>
         <updated>2024-01-05T12:25:49.285Z</updated>
         <content type="html"><![CDATA[2024.01.12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 가족뮤지컬 [토닥토닥 꼬모 - 숲 속 캠핑놀이]]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13892</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13892"/>
-        <updated>2024-01-05T12:25:49.286Z</updated>
-        <content type="html"><![CDATA[2024.01.11(목) 11:00]]></content>
     </entry>
 </feed>
