@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-11T01:04:26.280Z</updated>
+    <updated>2024-01-11T02:30:31.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[리그 오브 레전드 : 뮤직 유니버스 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13914</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13914"/>
+        <updated>2024-01-11T02:28:38.736Z</updated>
+        <content type="html"><![CDATA[2024.01.12(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG아트센터 서울 2024년 기획공연 시즌 CoMPAS 24 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13912</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13894"/>
         <updated>2024-01-05T12:25:49.283Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈리진 : 빛의 여인〉 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13893</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13893"/>
-        <updated>2024-01-05T12:25:49.285Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 14:00]]></content>
     </entry>
 </feed>
