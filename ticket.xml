@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-11T07:14:47.588Z</updated>
+    <updated>2024-01-11T08:19:46.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매paris match 내한공연(paris match Live in Seoul) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13915</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13915"/>
+        <updated>2024-01-11T08:18:51.049Z</updated>
+        <content type="html"><![CDATA[2024.01.18(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리그 오브 레전드 : 뮤직 유니버스 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13914</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13895</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13895"/>
         <updated>2024-01-05T12:25:49.282Z</updated>
-        <content type="html"><![CDATA[2024.01.11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[설레는 그날] ＃1 B1A4, P1Harmony, AMPERS&ONE 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13894</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13894"/>
-        <updated>2024-01-05T12:25:49.283Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 14:00]]></content>
     </entry>
 </feed>
