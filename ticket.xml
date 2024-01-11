@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-11T03:17:05.881Z</updated>
+    <updated>2024-01-11T04:18:20.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13911"/>
         <updated>2024-01-10T05:13:49.479Z</updated>
         <content type="html"><![CDATA[2024.01.15(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.01.12(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리그 오브 레전드 : 뮤직 유니버스 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13910</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13910"/>
-        <updated>2024-01-10T04:17:33.652Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2024 김태균쇼 [당신이 행복해질 때까지..] 티켓 오픈 안내]]></title>
@@ -144,5 +137,12 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13894"/>
         <updated>2024-01-05T12:25:49.283Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈리진 : 빛의 여인〉 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13893</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13893"/>
+        <updated>2024-01-11T04:17:12.976Z</updated>
+        <content type="html"><![CDATA[2024.01.12(금) 14:00]]></content>
     </entry>
 </feed>
