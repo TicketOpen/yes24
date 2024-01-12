@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 06:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 07:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[용인] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13919</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13919</guid>
+            <pubDate>Fri, 12 Jan 2024 07:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.17(수) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[댄스콘서트 희노애락 시즌 3 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13918</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2024.01.11(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매[창원] 2024 화요모닝콘서트 - 4월「해설이 있는 4 Cello」 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13898</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13898</guid>
-            <pubDate>Fri, 05 Jan 2024 12:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.09(화) 14:00]]></content:encoded>
+            <title><![CDATA[[용인] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13919&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13919&amp;order=1</guid>
+            <pubDate>Fri, 12 Jan 2024 07:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024-01-17(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[댄스콘서트 희노애락 시즌 3 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,13 +218,6 @@
             <content:encoded><![CDATA[2024-01-15(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [여기, 피화당] 2차 티켓 오픈 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13908&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13908&amp;order=1</guid>
-            <pubDate>Wed, 10 Jan 2024 05:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024-01-17(수) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[화가시리즈 - 뮤지컬 〈모딜리아니〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/47420</link>
             <guid>http://ticket.yes24.com/Perf/47420</guid>
@@ -240,6 +240,19 @@
             <pubDate>Mon, 08 Jan 2024 01:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>25,800원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47421.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 모딜리아니 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/47420</link>
+            <guid>http://m.ticket.yes24.com/Perf/47420</guid>
+            <pubDate>Mon, 08 Jan 2024 01:04:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 모딜리아니</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">18,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/9(화)~1/21(일) 공연
+
+</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47420.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장화 신은 고양이 비긴즈 - 플레이버전 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -269,17 +282,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47421.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 모딜리아니 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/47420</link>
-            <guid>http://m.ticket.yes24.com/Perf/47420</guid>
-            <pubDate>Mon, 08 Jan 2024 01:04:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 모딜리아니</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">18,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/9(화)~1/21(일) 공연
-
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202401/20240108/20240108-47420.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <스쿨 오브 락> 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47720&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47720&amp;Tab=2</guid>
+            <pubDate>Fri, 12 Jan 2024 07:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.12 ~ 2024.03.24 | 2024.03.25 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202401/20240112/20240112-0bef60c7-b9ee-4c25-8348-8cab11e3da17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬<여기,피화당> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -344,11 +352,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Thu, 11 Jan 2024 15:15:21 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
+            <title><![CDATA[이벤트 기간2024.01.12 ~ 2024.03.24 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47720</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47720</guid>
+            <pubDate>Fri, 12 Jan 2024 07:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>I’M IN THE BAND 패키지 스페셜 기프트(랜덤 5종)]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202401/20240112/20240112-0bef60c7-b9ee-4c25-8348-8cab11e3da17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.01.10 ~ 2024.01.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>

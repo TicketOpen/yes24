@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-12T06:20:00.993Z</updated>
+    <updated>2024-01-12T07:14:10.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[용인] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13919</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13919"/>
+        <updated>2024-01-12T07:13:12.003Z</updated>
+        <content type="html"><![CDATA[2024.01.17(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[댄스콘서트 희노애락 시즌 3 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13918</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13899"/>
         <updated>2024-01-05T12:25:49.278Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 2024 화요모닝콘서트 - 4월「해설이 있는 4 Cello」 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13898</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13898"/>
-        <updated>2024-01-05T12:25:49.279Z</updated>
-        <content type="html"><![CDATA[2024.01.09(화) 14:00]]></content>
     </entry>
 </feed>

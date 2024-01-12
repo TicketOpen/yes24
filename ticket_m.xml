@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-12T06:20:00.997Z</updated>
+    <updated>2024-01-12T07:14:10.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[용인] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13919&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13919&amp;order=1"/>
+        <updated>2024-01-12T07:13:20.982Z</updated>
+        <content type="html"><![CDATA[2024-01-17(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[댄스콘서트 희노애락 시즌 3 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13918&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13909&amp;order=1"/>
         <updated>2024-01-10T05:13:58.358Z</updated>
         <content type="html"><![CDATA[2024-01-15(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [여기, 피화당] 2차 티켓 오픈]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13908&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13908&amp;order=1"/>
-        <updated>2024-01-10T05:13:58.372Z</updated>
-        <content type="html"><![CDATA[2024-01-17(수) 14:00]]></content>
     </entry>
 </feed>
