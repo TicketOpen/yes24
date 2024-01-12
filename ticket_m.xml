@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-12T03:16:23.001Z</updated>
+    <updated>2024-01-12T04:19:01.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 가족뮤지컬 [고고다이노 - 고고킹의 귀환] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13917&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13917&amp;order=1"/>
+        <updated>2024-01-12T04:18:21.586Z</updated>
+        <content type="html"><![CDATA[2024-01-17(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬〈고고다이노 - 고고킹의 귀환〉- 성남 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13916&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13916&amp;order=1"/>
+        <updated>2024-01-12T04:18:21.587Z</updated>
+        <content type="html"><![CDATA[2024-01-17(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[paris match 내한공연(paris match Live in Seoul) 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13915&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13907&amp;order=1"/>
         <updated>2024-01-10T01:04:08.687Z</updated>
         <content type="html"><![CDATA[2024-01-16(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[충주] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13906&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13906&amp;order=1"/>
-        <updated>2024-01-09T08:18:45.070Z</updated>
-        <content type="html"><![CDATA[2024-01-12(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAY6 공식 팬클럽 My Day 4기 모집오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13905&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13905&amp;order=1"/>
-        <updated>2024-01-09T09:15:20.678Z</updated>
-        <content type="html"><![CDATA[2024-01-11(목) 12:00]]></content>
     </entry>
 </feed>
