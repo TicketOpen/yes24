@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-12T04:19:01.856Z</updated>
+    <updated>2024-01-12T05:15:35.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[댄스콘서트 희노애락 시즌 3 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13918&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13918&amp;order=1"/>
+        <updated>2024-01-12T05:14:46.660Z</updated>
+        <content type="html"><![CDATA[2024-01-17(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 가족뮤지컬 [고고다이노 - 고고킹의 귀환] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13917&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13908&amp;order=1"/>
         <updated>2024-01-10T05:13:58.372Z</updated>
         <content type="html"><![CDATA[2024-01-17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [디아길레프] 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13907&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13907&amp;order=1"/>
-        <updated>2024-01-10T01:04:08.687Z</updated>
-        <content type="html"><![CDATA[2024-01-16(화) 14:00]]></content>
     </entry>
 </feed>
