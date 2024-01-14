@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 14:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 15:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sun, 14 Jan 2024 06:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.10 ~ 2024.01.31 | 2024.02.02 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202401/20240110/20240110-a4fa8f88-fc00-4b1e-ac64-a1bb91cbda5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<라움 마티네 콘서트> 1월 공연 1차 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48175&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48175&amp;Tab=3</guid>
-            <pubDate>Sun, 14 Jan 2024 06:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.05 ~ 2024.01.14 | 2024.01.15 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202401/20240108/20240108-4810d81d-3061-4ab2-87ed-168ff5de521f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <이상한 나라의 아빠> 기대평 이벤트]]></title>
@@ -76,6 +68,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Sun, 14 Jan 2024 06:18:06 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Sun, 14 Jan 2024 15:13:45 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
