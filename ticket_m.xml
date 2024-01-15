@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-15T04:19:26.233Z</updated>
+    <updated>2024-01-15T05:15:42.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈결투〉 마지막 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13923&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13923&amp;order=1"/>
+        <updated>2024-01-15T05:14:53.422Z</updated>
+        <content type="html"><![CDATA[2024-01-22(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OHM PAWAT 1st SOLO FANMEETING IN KOREA 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13922&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13914&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13914&amp;order=1"/>
         <updated>2024-01-11T02:28:45.701Z</updated>
-        <content type="html"><![CDATA[2024-01-12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 실황 DVD 판매 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13913&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13913&amp;order=1"/>
-        <updated>2024-01-11T05:14:10.099Z</updated>
         <content type="html"><![CDATA[2024-01-12(금) 14:00]]></content>
     </entry>
 </feed>
