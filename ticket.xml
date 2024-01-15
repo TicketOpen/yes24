@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-15T03:16:24.676Z</updated>
+    <updated>2024-01-15T04:19:26.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매OHM PAWAT 1st SOLO FANMEETING IN KOREA 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13922</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13922"/>
+        <updated>2024-01-15T04:18:20.436Z</updated>
+        <content type="html"><![CDATA[2024.01.16(화) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Stray Kids 공식 팬클럽 STAY 4기 모집 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13921</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13902"/>
         <updated>2024-01-09T01:03:33.296Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신카이 마코토 영화음악 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13901</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13901"/>
-        <updated>2024-01-08T08:19:24.941Z</updated>
-        <content type="html"><![CDATA[2024.01.09(화) 11:00]]></content>
     </entry>
 </feed>
