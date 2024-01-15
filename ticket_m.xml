@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-15T01:06:29.267Z</updated>
+    <updated>2024-01-15T02:32:19.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13920&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13920&amp;order=1"/>
+        <updated>2024-01-15T02:31:21.550Z</updated>
+        <content type="html"><![CDATA[2024-01-19(금) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[용인] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13919&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13911&amp;order=1"/>
         <updated>2024-01-10T05:13:58.356Z</updated>
         <content type="html"><![CDATA[2024-01-15(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2024 김태균쇼 [당신이 행복해질 때까지..] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13909&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13909&amp;order=1"/>
-        <updated>2024-01-10T05:13:58.358Z</updated>
-        <content type="html"><![CDATA[2024-01-15(월) 14:00]]></content>
     </entry>
 </feed>

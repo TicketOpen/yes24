@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-15T01:06:29.258Z</updated>
+    <updated>2024-01-15T02:32:19.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13920</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13920"/>
+        <updated>2024-01-15T02:31:12.701Z</updated>
+        <content type="html"><![CDATA[2024.01.19(금) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[용인] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13919</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13900</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13900"/>
         <updated>2024-01-05T12:25:49.277Z</updated>
-        <content type="html"><![CDATA[2024.01.11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 일 테노레（IL TENORE）마지막 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13899</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13899"/>
-        <updated>2024-01-05T12:25:49.278Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 14:00]]></content>
     </entry>
 </feed>
