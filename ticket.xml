@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-15T05:15:42.918Z</updated>
+    <updated>2024-01-15T06:20:23.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 연극 고도를 기다리며 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13926</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13926"/>
+        <updated>2024-01-15T06:19:30.189Z</updated>
+        <content type="html"><![CDATA[2024.01.22(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<막심 벤게로프 바이올린 리사이틀> 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13925</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13925"/>
+        <updated>2024-01-15T06:19:30.190Z</updated>
+        <content type="html"><![CDATA[2024.01.18(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인 하우스 아티스트 첼리스트 한재민 <무반주 첼로 리사이틀> 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13924</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13924"/>
+        <updated>2024-01-15T06:19:30.191Z</updated>
+        <content type="html"><![CDATA[2024.01.18(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈결투〉 마지막 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13923</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13906"/>
         <updated>2024-01-09T08:18:37.817Z</updated>
         <content type="html"><![CDATA[2024.01.12(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매DAY6 공식 팬클럽 My Day 4기 모집오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13905</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13905"/>
-        <updated>2024-01-09T09:15:10.210Z</updated>
-        <content type="html"><![CDATA[2024.01.11(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매LOUD BRIDGE FESTIVAL SEOUL 2024 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13904</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13904"/>
-        <updated>2024-01-09T09:15:10.211Z</updated>
-        <content type="html"><![CDATA[2024.01.16(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈벚꽃팝콘〉 - 서울 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13903</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13903"/>
-        <updated>2024-01-09T07:15:06.569Z</updated>
-        <content type="html"><![CDATA[2024.01.11(목) 10:00]]></content>
     </entry>
 </feed>
