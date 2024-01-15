@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-15T02:32:19.120Z</updated>
+    <updated>2024-01-15T03:16:24.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매Stray Kids 공식 팬클럽 STAY 4기 모집 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13921</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13921"/>
+        <updated>2024-01-15T03:15:27.586Z</updated>
+        <content type="html"><![CDATA[2024.01.15(월) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13920</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13901"/>
         <updated>2024-01-08T08:19:24.941Z</updated>
         <content type="html"><![CDATA[2024.01.09(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈키다리 아저씨〉 4차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13900</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13900"/>
-        <updated>2024-01-05T12:25:49.277Z</updated>
-        <content type="html"><![CDATA[2024.01.11(목) 14:00]]></content>
     </entry>
 </feed>
