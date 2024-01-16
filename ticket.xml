@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-16T07:14:19.861Z</updated>
+    <updated>2024-01-16T08:19:13.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 서울예술단 창작가무극〈다윈 영의 악의 기원〉티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13928</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13928"/>
+        <updated>2024-01-16T08:18:24.398Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매썸 41 내한공연 (Sum 41 Live in Seoul) 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13927</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13908"/>
         <updated>2024-01-10T05:13:49.480Z</updated>
         <content type="html"><![CDATA[2024.01.17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [디아길레프] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13907</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13907"/>
-        <updated>2024-01-10T01:04:01.700Z</updated>
-        <content type="html"><![CDATA[2024.01.16(화) 14:00]]></content>
     </entry>
 </feed>
