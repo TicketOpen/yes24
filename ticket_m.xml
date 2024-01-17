@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-17T04:18:36.906Z</updated>
+    <updated>2024-01-17T05:15:04.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <헤르츠클란> 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13930&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13930&amp;order=1"/>
+        <updated>2024-01-17T05:14:22.536Z</updated>
+        <content type="html"><![CDATA[2024-01-24(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 가족뮤지컬 [다이노스터 공룡수호대 - 퀸텀코어를 지켜라] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13929&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13921&amp;order=1"/>
         <updated>2024-01-15T03:15:35.396Z</updated>
         <content type="html"><![CDATA[2024-01-15(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13920&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13920&amp;order=1"/>
-        <updated>2024-01-15T02:31:21.550Z</updated>
-        <content type="html"><![CDATA[2024-01-19(금) 17:00]]></content>
     </entry>
 </feed>

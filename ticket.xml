@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-17T04:18:36.904Z</updated>
+    <updated>2024-01-17T05:15:04.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매연극 <헤르츠클란> 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13930</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13930"/>
+        <updated>2024-01-17T05:14:15.659Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 가족뮤지컬 [다이노스터 공룡수호대 - 퀸텀코어를 지켜라] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13929</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13911"/>
         <updated>2024-01-10T05:13:49.479Z</updated>
         <content type="html"><![CDATA[2024.01.15(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.01.12(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2024 김태균쇼 [당신이 행복해질 때까지..] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13909</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13909"/>
-        <updated>2024-01-10T05:13:49.480Z</updated>
-        <content type="html"><![CDATA[2024.01.15(월) 14:00]]></content>
     </entry>
 </feed>
