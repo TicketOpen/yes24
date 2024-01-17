@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-17T07:14:48.595Z</updated>
+    <updated>2024-01-17T08:19:34.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤직 드라마 <장막을 걷어라> 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13932&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13932&amp;order=1"/>
+        <updated>2024-01-17T08:18:53.563Z</updated>
+        <content type="html"><![CDATA[2024-01-18(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <이카이노 바이크> 1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13931&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13931&amp;order=1"/>
+        <updated>2024-01-17T08:18:53.563Z</updated>
+        <content type="html"><![CDATA[2024-01-23(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <헤르츠클란> 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13930&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13923&amp;order=1"/>
         <updated>2024-01-15T05:14:53.422Z</updated>
         <content type="html"><![CDATA[2024-01-22(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OHM PAWAT 1st SOLO FANMEETING IN KOREA 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13922&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13922&amp;order=1"/>
-        <updated>2024-01-15T04:18:29.400Z</updated>
-        <content type="html"><![CDATA[2024-01-16(화) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids 공식 팬클럽 STAY 4기 모집 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13921&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13921&amp;order=1"/>
-        <updated>2024-01-15T03:15:35.396Z</updated>
-        <content type="html"><![CDATA[2024-01-15(월) 13:00]]></content>
     </entry>
 </feed>
