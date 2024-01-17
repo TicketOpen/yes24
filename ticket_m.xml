@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-17T03:17:36.997Z</updated>
+    <updated>2024-01-17T04:18:36.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 가족뮤지컬 [다이노스터 공룡수호대 - 퀸텀코어를 지켜라] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13929&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13929&amp;order=1"/>
+        <updated>2024-01-17T04:17:51.147Z</updated>
+        <content type="html"><![CDATA[2024-01-24(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 서울예술단 창작가무극〈다윈 영의 악의 기원〉티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13928&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13920&amp;order=1"/>
         <updated>2024-01-15T02:31:21.550Z</updated>
         <content type="html"><![CDATA[2024-01-19(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13919&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13919&amp;order=1"/>
-        <updated>2024-01-12T07:13:20.982Z</updated>
-        <content type="html"><![CDATA[2024-01-17(수) 14:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-17T03:17:37.009Z</updated>
+    <updated>2024-01-17T04:18:36.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 가족뮤지컬 [다이노스터 공룡수호대 - 퀸텀코어를 지켜라] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13929</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13929"/>
+        <updated>2024-01-17T04:17:42.662Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 서울예술단 창작가무극〈다윈 영의 악의 기원〉티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13928</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13909"/>
         <updated>2024-01-10T05:13:49.480Z</updated>
         <content type="html"><![CDATA[2024.01.15(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [여기, 피화당] 2차 티켓 오픈]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13908</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13908"/>
-        <updated>2024-01-10T05:13:49.480Z</updated>
-        <content type="html"><![CDATA[2024.01.17(수) 14:00]]></content>
     </entry>
 </feed>
