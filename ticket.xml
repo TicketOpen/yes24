@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-18T04:17:58.189Z</updated>
+    <updated>2024-01-18T05:14:54.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 뮤지컬 [레베카] 10주년 기념 공연 앙코르 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13938</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13938"/>
+        <updated>2024-01-18T05:14:07.616Z</updated>
+        <content type="html"><![CDATA[2024.01.23(화) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[성남] 뮤지컬 [레베카] 10주년 기념 공연 앙코르 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13937</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13937"/>
+        <updated>2024-01-18T05:14:07.617Z</updated>
+        <content type="html"><![CDATA[2024.01.23(화) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 [레베카] 10주년 기념 공연 앙코르 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13936</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13936"/>
+        <updated>2024-01-18T05:14:07.618Z</updated>
+        <content type="html"><![CDATA[2024.01.23(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2024_부천 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13935</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13918"/>
         <updated>2024-01-12T05:14:38.337Z</updated>
         <content type="html"><![CDATA[2024.01.17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 가족뮤지컬 [고고다이노 - 고고킹의 귀환] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13917</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13917"/>
-        <updated>2024-01-12T04:18:14.399Z</updated>
-        <content type="html"><![CDATA[2024.01.17(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬〈고고다이노 - 고고킹의 귀환〉- 성남 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13916</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13916"/>
-        <updated>2024-01-12T04:18:14.399Z</updated>
-        <content type="html"><![CDATA[2024.01.17(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매paris match 내한공연(paris match Live in Seoul) 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13915</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13915"/>
-        <updated>2024-01-11T08:18:51.049Z</updated>
-        <content type="html"><![CDATA[2024.01.18(목) 18:00]]></content>
     </entry>
 </feed>
