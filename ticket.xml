@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-18T08:19:13.961Z</updated>
+    <updated>2024-01-18T09:15:49.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 YB TOUR [LIGHTS：INFINITY] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13939</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13939"/>
+        <updated>2024-01-18T09:14:53.867Z</updated>
+        <content type="html"><![CDATA[2024.01.22(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 뮤지컬 [레베카] 10주년 기념 공연 앙코르 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13938</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13919</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13919"/>
         <updated>2024-01-12T07:13:12.003Z</updated>
-        <content type="html"><![CDATA[2024.01.17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[댄스콘서트 희노애락 시즌 3 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13918</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13918"/>
-        <updated>2024-01-12T05:14:38.337Z</updated>
         <content type="html"><![CDATA[2024.01.17(수) 14:00]]></content>
     </entry>
 </feed>

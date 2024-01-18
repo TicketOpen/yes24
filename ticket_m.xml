@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-18T08:19:13.959Z</updated>
+    <updated>2024-01-18T09:15:49.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 YB TOUR [LIGHTS：INFINITY] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13939&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13939&amp;order=1"/>
+        <updated>2024-01-18T09:15:01.933Z</updated>
+        <content type="html"><![CDATA[2024-01-22(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 뮤지컬 [레베카] 10주년 기념 공연 앙코르 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13938&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13929&amp;order=1"/>
         <updated>2024-01-17T04:17:51.147Z</updated>
         <content type="html"><![CDATA[2024-01-24(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 서울예술단 창작가무극〈다윈 영의 악의 기원〉티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13928&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13928&amp;order=1"/>
-        <updated>2024-01-16T08:18:31.783Z</updated>
-        <content type="html"><![CDATA[2024-01-24(수) 14:00]]></content>
     </entry>
 </feed>
