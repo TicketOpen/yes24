@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-18T23:16:17.804Z</updated>
+    <updated>2024-01-19T01:04:57.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13945</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13945"/>
+        <updated>2024-01-19T01:04:05.092Z</updated>
+        <content type="html"><![CDATA[2024.01.23(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청주] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13944</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13944"/>
+        <updated>2024-01-19T01:04:05.094Z</updated>
+        <content type="html"><![CDATA[2024.01.22(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[여수] 헬로카봇 뮤지컬 시즌7 [웰컴 투 파라다이스] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13943</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13943"/>
+        <updated>2024-01-19T01:04:05.100Z</updated>
+        <content type="html"><![CDATA[2024.01.22(월) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 YB TOUR [LIGHTS：INFINITY] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13939</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13922"/>
         <updated>2024-01-15T04:18:20.436Z</updated>
         <content type="html"><![CDATA[2024.01.16(화) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Stray Kids 공식 팬클럽 STAY 4기 모집 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13921</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13921"/>
-        <updated>2024-01-15T03:15:27.586Z</updated>
-        <content type="html"><![CDATA[2024.01.15(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13920</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13920"/>
-        <updated>2024-01-15T02:31:12.701Z</updated>
-        <content type="html"><![CDATA[2024.01.19(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13919</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13919"/>
-        <updated>2024-01-12T07:13:12.003Z</updated>
-        <content type="html"><![CDATA[2024.01.17(수) 14:00]]></content>
     </entry>
 </feed>
