@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-19T01:04:57.548Z</updated>
+    <updated>2024-01-19T02:30:42.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 5차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13947&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13947&amp;order=1"/>
+        <updated>2024-01-19T02:30:02.021Z</updated>
+        <content type="html"><![CDATA[2024-01-24(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈모딜리아니〉 5차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13946&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13946&amp;order=1"/>
+        <updated>2024-01-19T02:30:02.024Z</updated>
+        <content type="html"><![CDATA[2024-01-23(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13945&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13935&amp;order=1"/>
         <updated>2024-01-18T02:28:43.537Z</updated>
         <content type="html"><![CDATA[2024-01-24(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <디어 에반 핸슨> 오프닝위크 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13933&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13933&amp;order=1"/>
-        <updated>2024-01-18T01:03:20.475Z</updated>
-        <content type="html"><![CDATA[2024-01-25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤직 드라마 <장막을 걷어라> 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13932&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13932&amp;order=1"/>
-        <updated>2024-01-17T08:18:53.563Z</updated>
-        <content type="html"><![CDATA[2024-01-18(목) 10:00]]></content>
     </entry>
 </feed>
