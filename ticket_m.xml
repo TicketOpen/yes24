@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-19T03:16:23.052Z</updated>
+    <updated>2024-01-19T04:18:45.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -41,6 +41,27 @@
         <content type="html"><![CDATA[2024-01-22(월) 13:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 시즌 2 - 용인 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13942&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13942&amp;order=1"/>
+        <updated>2024-01-19T04:17:59.498Z</updated>
+        <content type="html"><![CDATA[2024-01-25(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <다이노스터 공룡수호대 - 퀸텀코어를 지켜라> - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13941&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13941&amp;order=1"/>
+        <updated>2024-01-19T04:17:59.500Z</updated>
+        <content type="html"><![CDATA[2024-01-26(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 대전 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13940&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13940&amp;order=1"/>
+        <updated>2024-01-19T04:17:59.501Z</updated>
+        <content type="html"><![CDATA[2024-01-26(금) 11:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[대구] 2024 YB TOUR [LIGHTS：INFINITY] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13939&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13939&amp;order=1"/>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13938&amp;order=1"/>
         <updated>2024-01-18T05:14:14.709Z</updated>
         <content type="html"><![CDATA[2024-01-23(화) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 뮤지컬 [레베카] 10주년 기념 공연 앙코르 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13937&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13937&amp;order=1"/>
-        <updated>2024-01-18T05:14:14.709Z</updated>
-        <content type="html"><![CDATA[2024-01-23(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤지컬 [레베카] 10주년 기념 공연 앙코르 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13936&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13936&amp;order=1"/>
-        <updated>2024-01-18T05:14:14.710Z</updated>
-        <content type="html"><![CDATA[2024-01-23(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2024_부천 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13935&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13935&amp;order=1"/>
-        <updated>2024-01-18T02:28:43.537Z</updated>
-        <content type="html"><![CDATA[2024-01-24(수) 14:00]]></content>
     </entry>
 </feed>
