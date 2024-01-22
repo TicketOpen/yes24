@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-22T06:20:40.459Z</updated>
+    <updated>2024-01-22T07:15:26.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 전주 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13955&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13955&amp;order=1"/>
+        <updated>2024-01-22T07:14:32.892Z</updated>
+        <content type="html"><![CDATA[2024-01-26(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 천안 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13954&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13954&amp;order=1"/>
+        <updated>2024-01-22T07:14:32.893Z</updated>
+        <content type="html"><![CDATA[2024-01-26(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 안산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13953&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13953&amp;order=1"/>
+        <updated>2024-01-22T07:14:32.894Z</updated>
+        <content type="html"><![CDATA[2024-01-26(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[제주] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13952&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13946&amp;order=1"/>
         <updated>2024-01-19T02:30:02.024Z</updated>
         <content type="html"><![CDATA[2024-01-23(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13945&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13945&amp;order=1"/>
-        <updated>2024-01-19T01:04:12.062Z</updated>
-        <content type="html"><![CDATA[2024-01-23(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13944&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13944&amp;order=1"/>
-        <updated>2024-01-19T01:04:12.063Z</updated>
-        <content type="html"><![CDATA[2024-01-22(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 헬로카봇 뮤지컬 시즌7 [웰컴 투 파라다이스] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13943&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13943&amp;order=1"/>
-        <updated>2024-01-19T01:04:12.064Z</updated>
-        <content type="html"><![CDATA[2024-01-22(월) 13:00]]></content>
     </entry>
 </feed>
