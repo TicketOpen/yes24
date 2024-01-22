@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-22T01:07:12.655Z</updated>
+    <updated>2024-01-22T02:33:20.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 <2024 세종시즌> 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13949</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13949"/>
+        <updated>2024-01-22T02:32:31.112Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [더데빌:파우스트] 마지막 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13948</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13929"/>
         <updated>2024-01-17T04:17:42.662Z</updated>
         <content type="html"><![CDATA[2024.01.24(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 서울예술단 창작가무극〈다윈 영의 악의 기원〉티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13928</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13928"/>
-        <updated>2024-01-16T08:18:24.398Z</updated>
-        <content type="html"><![CDATA[2024.01.24(수) 14:00]]></content>
     </entry>
 </feed>
