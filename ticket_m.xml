@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-24T04:19:04.466Z</updated>
+    <updated>2024-01-24T05:15:11.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[여수] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13959&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13959&amp;order=1"/>
+        <updated>2024-01-24T05:14:16.065Z</updated>
+        <content type="html"><![CDATA[2024-01-26(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [클럽 드바이] 쇼케이스 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13958&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13950&amp;order=1"/>
         <updated>2024-01-22T05:14:14.522Z</updated>
         <content type="html"><![CDATA[2024-01-24(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종문화회관 <2024 세종시즌> 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13949&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13949&amp;order=1"/>
-        <updated>2024-01-22T02:32:38.338Z</updated>
-        <content type="html"><![CDATA[2024-01-24(수) 14:00]]></content>
     </entry>
 </feed>
