@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-25T04:18:52.149Z</updated>
+    <updated>2024-01-25T05:15:28.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈스쿨 오브 락〉 월드투어 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13963</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13963"/>
+        <updated>2024-01-25T05:14:40.909Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 뮤지컬 [레베카] 10주년 기념공연 앙코르 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13962</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13962"/>
+        <updated>2024-01-25T05:14:40.909Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전주] 뮤지컬 [레베카] 10주년 기념공연 앙코르 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13961</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13961"/>
+        <updated>2024-01-25T05:14:40.909Z</updated>
+        <content type="html"><![CDATA[2024.01.30(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eve Asia Tour 2024 ＂Culture” in Seoul 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13960</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13944"/>
         <updated>2024-01-19T01:04:05.094Z</updated>
         <content type="html"><![CDATA[2024.01.22(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 헬로카봇 뮤지컬 시즌7 [웰컴 투 파라다이스] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13943</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13943"/>
-        <updated>2024-01-19T01:04:05.100Z</updated>
-        <content type="html"><![CDATA[2024.01.22(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 시즌 2 - 용인 티켓오픈 ..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13942</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13942"/>
-        <updated>2024-01-19T04:17:51.332Z</updated>
-        <content type="html"><![CDATA[2024.01.25(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <다이노스터 공룡수호대 - 퀸텀코어를 지켜라> - 인천 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13941</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13941"/>
-        <updated>2024-01-19T04:17:51.334Z</updated>
-        <content type="html"><![CDATA[2024.01.26(금) 11:00]]></content>
     </entry>
 </feed>

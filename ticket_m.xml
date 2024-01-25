@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-25T04:18:52.135Z</updated>
+    <updated>2024-01-25T05:15:28.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈스쿨 오브 락〉 월드투어 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13963&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13963&amp;order=1"/>
+        <updated>2024-01-25T05:14:48.139Z</updated>
+        <content type="html"><![CDATA[2024-02-02(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 뮤지컬 [레베카] 10주년 기념공연 앙코르 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13962&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13962&amp;order=1"/>
+        <updated>2024-01-25T05:14:48.140Z</updated>
+        <content type="html"><![CDATA[2024-02-02(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전주] 뮤지컬 [레베카] 10주년 기념공연 앙코르 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13961&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13961&amp;order=1"/>
+        <updated>2024-01-25T05:14:48.142Z</updated>
+        <content type="html"><![CDATA[2024-01-30(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eve Asia Tour 2024 ＂Culture” in Seoul 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13960&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13954&amp;order=1"/>
         <updated>2024-01-22T07:14:32.893Z</updated>
         <content type="html"><![CDATA[2024-01-26(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 안산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13953&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13953&amp;order=1"/>
-        <updated>2024-01-22T07:14:32.894Z</updated>
-        <content type="html"><![CDATA[2024-01-26(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제주] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13952&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13952&amp;order=1"/>
-        <updated>2024-01-22T06:19:49.515Z</updated>
-        <content type="html"><![CDATA[2024-01-25(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [은하철도의 밤] 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13951&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13951&amp;order=1"/>
-        <updated>2024-01-22T05:14:14.521Z</updated>
-        <content type="html"><![CDATA[2024-01-29(월) 14:00]]></content>
     </entry>
 </feed>
