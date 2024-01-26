@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-25T23:15:09.221Z</updated>
+    <updated>2024-01-26T01:00:55.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ITZY 2ND WORLD TOUR〈BORN TO BE〉in SEOUL 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13964&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13964&amp;order=1"/>
+        <updated>2024-01-26T01:00:09.329Z</updated>
+        <content type="html"><![CDATA[2024-01-30(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈스쿨 오브 락〉 월드투어 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13963&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13955&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13955&amp;order=1"/>
         <updated>2024-01-22T07:14:32.892Z</updated>
-        <content type="html"><![CDATA[2024-01-26(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 천안 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13954&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13954&amp;order=1"/>
-        <updated>2024-01-22T07:14:32.893Z</updated>
         <content type="html"><![CDATA[2024-01-26(금) 15:00]]></content>
     </entry>
 </feed>

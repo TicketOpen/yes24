@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-25T23:15:09.213Z</updated>
+    <updated>2024-01-26T01:00:55.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매ITZY 2ND WORLD TOUR〈BORN TO BE〉in SEOUL 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13964</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13964"/>
+        <updated>2024-01-26T01:00:01.183Z</updated>
+        <content type="html"><![CDATA[2024.01.30(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.01.29(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈스쿨 오브 락〉 월드투어 마지막 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13963</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13945"/>
         <updated>2024-01-19T01:04:05.092Z</updated>
         <content type="html"><![CDATA[2024.01.23(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13944</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13944"/>
-        <updated>2024-01-19T01:04:05.094Z</updated>
-        <content type="html"><![CDATA[2024.01.22(월) 14:00]]></content>
     </entry>
 </feed>
