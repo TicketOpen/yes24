@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-29T04:17:14.456Z</updated>
+    <updated>2024-01-29T05:15:32.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 EVNNE FAN-CONCERT [SQUAD:R] ASIA TOUR IN SEOUL 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13971</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13971"/>
+        <updated>2024-01-29T05:14:45.070Z</updated>
+        <content type="html"><![CDATA[2024.02.05(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.01.31(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 오르간 시리즈 I. 벤 판 우스텐 오르간 리사이틀 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13969</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13969"/>
+        <updated>2024-01-29T05:14:45.077Z</updated>
+        <content type="html"><![CDATA[2024.01.31(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＂CONNECT＂ in Korea [FLOW x LUCKLIFE] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13968</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13950"/>
         <updated>2024-01-22T05:14:05.488Z</updated>
         <content type="html"><![CDATA[2024.01.24(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종문화회관 <2024 세종시즌> 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13949</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13949"/>
-        <updated>2024-01-22T02:32:31.112Z</updated>
-        <content type="html"><![CDATA[2024.01.24(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [더데빌:파우스트] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13948</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13948"/>
-        <updated>2024-01-19T07:13:32.262Z</updated>
-        <content type="html"><![CDATA[2024.01.25(목) 11:00]]></content>
     </entry>
 </feed>
