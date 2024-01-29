@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-28T23:15:17.986Z</updated>
+    <updated>2024-01-29T01:00:25.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[＂CONNECT＂ in Korea [FLOW x LUCKLIFE] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13968&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13968&amp;order=1"/>
+        <updated>2024-01-29T00:59:46.126Z</updated>
+        <content type="html"><![CDATA[2024-02-05(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원] 3월 토요콘서트 모던록 특집 [짙은 봄：ZITTEN] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13967&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13967&amp;order=1"/>
+        <updated>2024-01-29T00:59:46.127Z</updated>
+        <content type="html"><![CDATA[2024-02-02(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브가족뮤지컬 <아기돼지삼형제> - 청주 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13966&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13958&amp;order=1"/>
         <updated>2024-01-24T02:29:47.383Z</updated>
         <content type="html"><![CDATA[2024-01-26(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13957&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13957&amp;order=1"/>
-        <updated>2024-01-23T07:14:08.520Z</updated>
-        <content type="html"><![CDATA[2024-01-26(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIRIBOY CONCERT: PRBOY 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13956&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13956&amp;order=1"/>
-        <updated>2024-01-22T08:19:45.547Z</updated>
-        <content type="html"><![CDATA[2024-01-26(금) 12:00]]></content>
     </entry>
 </feed>
