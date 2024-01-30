@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-30T05:14:23.126Z</updated>
+    <updated>2024-01-30T06:19:08.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 베스트셀러 어린이 뮤지컬[콧구멍을 후비면] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13977</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13977"/>
+        <updated>2024-01-30T06:18:20.131Z</updated>
+        <content type="html"><![CDATA[2024.02.01(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fortena concert  ‘Empire in Busan’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13976</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13957"/>
         <updated>2024-01-23T07:14:00.404Z</updated>
         <content type="html"><![CDATA[2024.01.26(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIRIBOY CONCERT: PRBOY 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13956</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13956"/>
-        <updated>2024-01-22T08:19:37.063Z</updated>
-        <content type="html"><![CDATA[2024.01.26(금) 12:00]]></content>
     </entry>
 </feed>
