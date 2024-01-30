@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-30T02:19:56.664Z</updated>
+    <updated>2024-01-30T03:14:52.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈은하철도의 밤〉 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13975&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13975&amp;order=1"/>
+        <updated>2024-01-30T03:14:02.247Z</updated>
+        <content type="html"><![CDATA[2024-02-05(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈이프아이월유〉 프리뷰 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13974&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13974&amp;order=1"/>
         <updated>2024-01-30T02:19:17.490Z</updated>
         <content type="html"><![CDATA[2024-02-06(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SMINO LIVE IN SEOUL 2024 - ‘SOMWHERE OVER THURR’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13973&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13973&amp;order=1"/>
+        <updated>2024-01-30T03:14:02.252Z</updated>
+        <content type="html"><![CDATA[2024-02-05(월) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프라이부르크 바로크 오케스트라 <마태 수난곡> 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13966&amp;order=1"/>
         <updated>2024-01-26T09:14:15.378Z</updated>
         <content type="html"><![CDATA[2024-02-01(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY 2ND WORLD TOUR 〈BORN TO BE〉 in SEOUL 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13964&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13964&amp;order=1"/>
-        <updated>2024-01-26T01:00:09.329Z</updated>
-        <content type="html"><![CDATA[2024-01-30(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈스쿨 오브 락〉 월드투어 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13963&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13963&amp;order=1"/>
-        <updated>2024-01-25T05:14:48.139Z</updated>
-        <content type="html"><![CDATA[2024-02-02(금) 15:00]]></content>
     </entry>
 </feed>
