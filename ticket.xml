@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-30T01:52:37.367Z</updated>
+    <updated>2024-01-30T02:19:56.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈이프아이월유〉 프리뷰 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13974</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13974"/>
+        <updated>2024-01-30T02:19:10.576Z</updated>
+        <content type="html"><![CDATA[2024.02.06(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프라이부르크 바로크 오케스트라 <마태 수난곡> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13972</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13953"/>
         <updated>2024-01-22T07:14:24.567Z</updated>
         <content type="html"><![CDATA[2024.01.26(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제주] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13952</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13952"/>
-        <updated>2024-01-22T06:19:37.664Z</updated>
-        <content type="html"><![CDATA[2024.01.25(목) 12:00]]></content>
     </entry>
 </feed>
