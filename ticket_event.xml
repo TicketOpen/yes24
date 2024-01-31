@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 10:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 11:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 [디어 에반 핸슨]  기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48485&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48485&amp;Tab=3</guid>
+            <pubDate>Wed, 31 Jan 2024 11:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.30 ~ 2024.03.08 | 2024.03.13 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202401/20240131/20240131-b6f12766-312c-424e-97dc-6fa50ca19cab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[창작가무극 <다윈 영의 악의 기원>기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48419&amp;Tab=3</link>
@@ -69,13 +77,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Sun, 14 Jan 2024 06:18:06 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 보호 캠페인]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
-            <pubDate>Wed, 24 Jan 2024 15:15:59 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
