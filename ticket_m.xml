@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-31T07:14:31.443Z</updated>
+    <updated>2024-01-31T08:17:19.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[매직 미디어쇼 〈폴리팝(두들팝ver.2)-부산〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13982&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13982&amp;order=1"/>
+        <updated>2024-01-31T08:16:31.366Z</updated>
+        <content type="html"><![CDATA[2024-02-01(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[얼리버드] 힙노시스：롱 플레잉 스토리 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13981&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13981&amp;order=1"/>
+        <updated>2024-01-31T08:16:31.367Z</updated>
+        <content type="html"><![CDATA[2024-02-01(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브 가족뮤지컬 〈아기돼지 삼형제〉 - 군포 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13980&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13973&amp;order=1"/>
         <updated>2024-01-30T03:14:02.252Z</updated>
         <content type="html"><![CDATA[2024-02-05(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프라이부르크 바로크 오케스트라 <마태 수난곡> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13972&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13972&amp;order=1"/>
-        <updated>2024-01-29T08:16:57.598Z</updated>
-        <content type="html"><![CDATA[2024-01-31(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 EVNNE FAN-CONCERT [SQUAD:R] ASIA TOUR IN SEOUL 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13971&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13971&amp;order=1"/>
-        <updated>2024-01-29T05:14:52.026Z</updated>
-        <content type="html"><![CDATA[2024-02-05(월) 20:00]]></content>
     </entry>
 </feed>
