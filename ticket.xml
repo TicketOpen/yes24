@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-31T06:18:41.416Z</updated>
+    <updated>2024-01-31T07:14:31.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 〈아기돼지 삼형제〉 - 군포 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13980</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13980"/>
+        <updated>2024-01-31T07:13:38.547Z</updated>
+        <content type="html"><![CDATA[2024.02.05(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [비더슈탄트] 2022 DVD (글로벌) 판매오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13979</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13979"/>
+        <updated>2024-01-31T07:13:38.548Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [비더슈탄트] 2022 DVD 판매오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13978</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13978"/>
+        <updated>2024-01-31T07:13:38.551Z</updated>
+        <content type="html"><![CDATA[2024.02.01(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 베스트셀러 어린이 뮤지컬[콧구멍을 후비면] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13977</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13960"/>
         <updated>2024-01-25T04:18:05.147Z</updated>
         <content type="html"><![CDATA[2024.01.29(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13959</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13959"/>
-        <updated>2024-01-24T05:14:07.378Z</updated>
-        <content type="html"><![CDATA[2024.01.26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [클럽 드바이] 쇼케이스 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13958</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13958"/>
-        <updated>2024-01-24T02:29:39.016Z</updated>
-        <content type="html"><![CDATA[2024.01.26(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13957</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13957"/>
-        <updated>2024-01-23T07:14:00.404Z</updated>
-        <content type="html"><![CDATA[2024.01.26(금) 10:00]]></content>
     </entry>
 </feed>

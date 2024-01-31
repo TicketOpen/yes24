@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-31T06:18:41.410Z</updated>
+    <updated>2024-01-31T07:14:31.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 〈아기돼지 삼형제〉 - 군포 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13980&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13980&amp;order=1"/>
+        <updated>2024-01-31T07:13:46.757Z</updated>
+        <content type="html"><![CDATA[2024-02-05(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [비더슈탄트] 2022 DVD (글로벌) 판매오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13979&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13979&amp;order=1"/>
+        <updated>2024-01-31T07:13:46.757Z</updated>
+        <content type="html"><![CDATA[2024-02-02(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [비더슈탄트] 2022 DVD 판매오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13978&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13978&amp;order=1"/>
+        <updated>2024-01-31T07:13:46.758Z</updated>
+        <content type="html"><![CDATA[2024-02-01(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 베스트셀러 어린이 뮤지컬[콧구멍을 후비면] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13977&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13971&amp;order=1"/>
         <updated>2024-01-29T05:14:52.026Z</updated>
         <content type="html"><![CDATA[2024-02-05(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2024 서울바앤스피릿쇼] 1차 얼리버드 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13970&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13970&amp;order=1"/>
-        <updated>2024-01-30T00:59:07.039Z</updated>
-        <content type="html"><![CDATA[2024-02-05(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 오르간 시리즈 I. 벤 판 우스텐 오르간 리사이틀 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13969&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13969&amp;order=1"/>
-        <updated>2024-01-29T05:14:52.026Z</updated>
-        <content type="html"><![CDATA[2024-01-31(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂CONNECT＂ in Korea [FLOW x LUCKLIFE] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13968&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13968&amp;order=1"/>
-        <updated>2024-01-29T00:59:46.126Z</updated>
-        <content type="html"><![CDATA[2024-02-05(월) 18:00]]></content>
     </entry>
 </feed>
