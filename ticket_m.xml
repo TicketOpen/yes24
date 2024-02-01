@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-01T05:14:32.571Z</updated>
+    <updated>2024-02-01T06:19:10.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈난설〉 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13988&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13988&amp;order=1"/>
+        <updated>2024-02-01T06:18:18.213Z</updated>
+        <content type="html"><![CDATA[2024-02-06(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[King Gnu Asia Tour ‘THE GREATEST UNKNOWN’ in Seoul 추가 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13986&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13978&amp;order=1"/>
         <updated>2024-01-31T07:13:46.758Z</updated>
         <content type="html"><![CDATA[2024-02-01(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 베스트셀러 어린이 뮤지컬[콧구멍을 후비면] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13977&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13977&amp;order=1"/>
-        <updated>2024-01-30T06:18:26.954Z</updated>
-        <content type="html"><![CDATA[2024-02-01(목) 10:00]]></content>
     </entry>
 </feed>
