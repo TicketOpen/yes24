@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-02T01:00:21.401Z</updated>
+    <updated>2024-02-02T01:53:39.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <이카이노 바이크> 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13991&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13991&amp;order=1"/>
+        <updated>2024-02-02T01:52:53.639Z</updated>
+        <content type="html"><![CDATA[2024-02-05(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸에르자부르타 웨이라 인 서울 4차 [FUEZA BRUTA WAYRA IN SEOUL] 연장 티켓 오픈]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13990&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13990&amp;order=1"/>
+        <updated>2024-02-02T01:52:53.643Z</updated>
+        <content type="html"><![CDATA[2024-02-06(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브 가족뮤지컬〈신데렐라〉-부산 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13989&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13981&amp;order=1"/>
         <updated>2024-01-31T08:16:31.367Z</updated>
         <content type="html"><![CDATA[2024-02-01(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 〈아기돼지 삼형제〉 - 군포 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13980&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13980&amp;order=1"/>
-        <updated>2024-01-31T07:13:46.757Z</updated>
-        <content type="html"><![CDATA[2024-02-05(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [비더슈탄트] 2022 DVD (글로벌) 판매오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13979&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13979&amp;order=1"/>
-        <updated>2024-01-31T07:13:46.757Z</updated>
-        <content type="html"><![CDATA[2024-02-02(금) 11:00]]></content>
     </entry>
 </feed>
