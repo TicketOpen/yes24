@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-02T04:17:38.590Z</updated>
+    <updated>2024-02-02T05:15:12.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 뮤지컬 [광염 소나타] 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13995</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13995"/>
+        <updated>2024-02-02T05:14:13.718Z</updated>
+        <content type="html"><![CDATA[2024.02.15(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매정홍일 팬미팅 [두 번째 이야기：고백] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13994</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13994"/>
+        <updated>2024-02-02T05:14:13.719Z</updated>
+        <content type="html"><![CDATA[2024.02.06(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 마지막 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13993</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13975"/>
         <updated>2024-01-30T03:13:53.354Z</updated>
         <content type="html"><![CDATA[2024.02.05(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈이프아이월유〉 프리뷰 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13974</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13974"/>
-        <updated>2024-01-30T02:19:10.576Z</updated>
-        <content type="html"><![CDATA[2024.02.06(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매SMINO LIVE IN SEOUL 2024 - ‘SOMWHERE OVER THURR’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13973</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13973"/>
-        <updated>2024-01-30T03:13:53.362Z</updated>
-        <content type="html"><![CDATA[2024.02.05(월) 10:00]]></content>
     </entry>
 </feed>
