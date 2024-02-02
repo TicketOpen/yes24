@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-02T07:13:41.445Z</updated>
+    <updated>2024-02-02T08:18:11.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매HOTEI TOMOYASU LIVE IN SEOUL 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13997</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13997"/>
+        <updated>2024-02-02T08:17:25.740Z</updated>
+        <content type="html"><![CDATA[2024.02.07(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 뮤지컬 [광염 소나타] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13995</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13976"/>
         <updated>2024-01-30T05:13:23.917Z</updated>
         <content type="html"><![CDATA[2024.02.02(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈은하철도의 밤〉 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13975</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13975"/>
-        <updated>2024-01-30T03:13:53.354Z</updated>
-        <content type="html"><![CDATA[2024.02.05(월) 14:00]]></content>
     </entry>
 </feed>
