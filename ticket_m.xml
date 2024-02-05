@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-05T09:14:42.036Z</updated>
+    <updated>2024-02-05T10:16:11.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[새벽부터 황혼까지 - 스웨덴 국립미술관 컬렉션 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14003&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14003&amp;order=1"/>
+        <updated>2024-02-05T10:15:22.080Z</updated>
+        <content type="html"><![CDATA[2024-02-06(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈이상한나라의앨리스〉 - 대전 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14001&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13992&amp;order=1"/>
         <updated>2024-02-02T04:16:47.933Z</updated>
         <content type="html"><![CDATA[2024-02-07(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <이카이노 바이크> 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13991&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13991&amp;order=1"/>
-        <updated>2024-02-02T01:52:53.639Z</updated>
-        <content type="html"><![CDATA[2024-02-05(월) 14:00]]></content>
     </entry>
 </feed>

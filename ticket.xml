@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-05T09:14:42.090Z</updated>
+    <updated>2024-02-05T10:16:11.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[새벽부터 황혼까지 - 스웨덴 국립미술관 컬렉션 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14003</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14003"/>
+        <updated>2024-02-05T10:15:14.037Z</updated>
+        <content type="html"><![CDATA[2024.02.06(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(2/11, 2/18, 2/19, 2/25)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14002</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13982"/>
         <updated>2024-01-31T08:16:21.901Z</updated>
         <content type="html"><![CDATA[2024.02.01(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[얼리버드] 힙노시스：롱 플레잉 스토리 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13981</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13981"/>
-        <updated>2024-01-31T08:16:21.901Z</updated>
-        <content type="html"><![CDATA[2024.02.01(목) 09:00]]></content>
     </entry>
 </feed>
