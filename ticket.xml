@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-05T05:16:23.327Z</updated>
+    <updated>2024-02-05T06:18:35.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족매직쇼 〈매직사이언스콘서트〉 - 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13998</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13998"/>
+        <updated>2024-02-05T06:17:34.792Z</updated>
+        <content type="html"><![CDATA[2024.02.08(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매HOTEI TOMOYASU LIVE IN SEOUL 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13997</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13977"/>
         <updated>2024-01-30T06:18:20.131Z</updated>
         <content type="html"><![CDATA[2024.02.01(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르테나콘서트 ‘Empire in Busan’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13976</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13976"/>
-        <updated>2024-01-30T05:13:23.917Z</updated>
-        <content type="html"><![CDATA[2024.02.02(금) 20:00]]></content>
     </entry>
 </feed>
