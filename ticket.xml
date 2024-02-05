@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-05T08:18:46.472Z</updated>
+    <updated>2024-02-05T09:14:42.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(2/11, 2/18, 2/19, 2/25)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14002</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14002"/>
+        <updated>2024-02-05T09:13:44.324Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈이상한나라의앨리스〉 - 대전 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14001</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13981"/>
         <updated>2024-01-31T08:16:21.901Z</updated>
         <content type="html"><![CDATA[2024.02.01(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 〈아기돼지 삼형제〉 - 군포 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13980</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13980"/>
-        <updated>2024-01-31T07:13:38.547Z</updated>
-        <content type="html"><![CDATA[2024.02.05(월) 09:00]]></content>
     </entry>
 </feed>
