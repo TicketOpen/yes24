@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-06T04:17:01.451Z</updated>
+    <updated>2024-02-06T05:14:08.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 2am Concert "One Take" 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14007</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14007"/>
+        <updated>2024-02-06T05:13:22.286Z</updated>
+        <content type="html"><![CDATA[2024.02.08(목) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 2am Concert "One Take" 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14006</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14006"/>
+        <updated>2024-02-06T05:13:22.287Z</updated>
+        <content type="html"><![CDATA[2024.02.08(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쥬세뻬 비탈레 특별전: 나의 새 친구 이야기] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14005</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13986"/>
         <updated>2024-02-01T05:13:33.985Z</updated>
         <content type="html"><![CDATA[2024.02.06(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 글로우 2024(THE GLOW 2024) 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13985</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13985"/>
-        <updated>2024-01-31T11:11:23.753Z</updated>
-        <content type="html"><![CDATA[2024.02.15(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 YB TOUR LIGHTS ; INFINITY 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13984</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13984"/>
-        <updated>2024-01-31T09:13:02.097Z</updated>
-        <content type="html"><![CDATA[2024.02.07(수) 14:00]]></content>
     </entry>
 </feed>
