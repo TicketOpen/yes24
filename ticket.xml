@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-06T00:59:39.825Z</updated>
+    <updated>2024-02-06T01:51:42.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[쥬세뻬 비탈레 특별전: 나의 새 친구 이야기] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14005</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14005"/>
+        <updated>2024-02-06T01:50:47.128Z</updated>
+        <content type="html"><![CDATA[2024.02.07(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [낭만별곡] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14004</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13984"/>
         <updated>2024-01-31T09:13:02.097Z</updated>
         <content type="html"><![CDATA[2024.02.07(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 YB TOUR LIGHTS ; INFINITY 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13983</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13983"/>
-        <updated>2024-01-31T09:13:02.098Z</updated>
-        <content type="html"><![CDATA[2024.02.06(화) 14:00]]></content>
     </entry>
 </feed>
