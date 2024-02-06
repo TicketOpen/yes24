@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-05T23:17:25.903Z</updated>
+    <updated>2024-02-06T00:59:39.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [낭만별곡] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14004&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14004&amp;order=1"/>
+        <updated>2024-02-06T00:58:49.322Z</updated>
+        <content type="html"><![CDATA[2024-02-13(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새벽부터 황혼까지 - 스웨덴 국립미술관 컬렉션 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14003&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13993&amp;order=1"/>
         <updated>2024-02-02T04:16:47.933Z</updated>
         <content type="html"><![CDATA[2024-02-08(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈모딜리아니〉 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13992&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13992&amp;order=1"/>
-        <updated>2024-02-02T04:16:47.933Z</updated>
-        <content type="html"><![CDATA[2024-02-07(수) 14:00]]></content>
     </entry>
 </feed>
