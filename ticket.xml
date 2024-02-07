@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-06T23:14:32.385Z</updated>
+    <updated>2024-02-07T00:58:13.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 앤서니브라운 가족뮤지컬  [우리아빠가최고야] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14009</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14009"/>
+        <updated>2024-02-07T00:57:23.748Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 2am Concert "One Take" 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14007</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13988"/>
         <updated>2024-02-01T06:18:09.618Z</updated>
         <content type="html"><![CDATA[2024.02.06(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매King Gnu Asia Tour ‘THE GREATEST UNKNOWN’ in Seoul 추가 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13986</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13986"/>
-        <updated>2024-02-01T05:13:33.985Z</updated>
-        <content type="html"><![CDATA[2024.02.06(화) 18:00]]></content>
     </entry>
 </feed>
