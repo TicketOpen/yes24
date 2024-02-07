@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-07T01:48:53.602Z</updated>
+    <updated>2024-02-07T02:19:15.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 케니 지（Kenny G） 월드투어 내한공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14011</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14011"/>
+        <updated>2024-02-07T02:18:29.098Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 케니 지（Kenny G） 월드투어 내한공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14010</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14010"/>
+        <updated>2024-02-07T02:18:29.098Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 앤서니브라운 가족뮤지컬  [우리아빠가최고야] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14009</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13990"/>
         <updated>2024-02-02T01:52:45.851Z</updated>
         <content type="html"><![CDATA[2024.02.06(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬〈신데렐라〉-부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13989</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13989"/>
-        <updated>2024-02-01T07:13:41.974Z</updated>
-        <content type="html"><![CDATA[2024.02.06(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈난설〉 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13988</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13988"/>
-        <updated>2024-02-01T06:18:09.618Z</updated>
-        <content type="html"><![CDATA[2024.02.06(화) 15:00]]></content>
     </entry>
 </feed>

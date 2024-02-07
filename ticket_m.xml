@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-07T01:48:53.592Z</updated>
+    <updated>2024-02-07T02:19:15.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 케니 지（Kenny G） 월드투어 내한공연 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14011&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14011&amp;order=1"/>
+        <updated>2024-02-07T02:18:35.799Z</updated>
+        <content type="html"><![CDATA[2024-02-14(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 케니 지（Kenny G） 월드투어 내한공연 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14010&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14010&amp;order=1"/>
+        <updated>2024-02-07T02:18:35.800Z</updated>
+        <content type="html"><![CDATA[2024-02-14(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 앤서니브라운 가족뮤지컬  [우리아빠가최고야] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14009&amp;order=1</id>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14000&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14000&amp;order=1"/>
         <updated>2024-02-05T07:13:47.325Z</updated>
-        <content type="html"><![CDATA[2024-02-08(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족매직쇼 〈매직사이언스콘서트〉 - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13999&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13999&amp;order=1"/>
-        <updated>2024-02-05T07:13:47.330Z</updated>
-        <content type="html"><![CDATA[2024-02-08(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족매직쇼 〈매직사이언스콘서트〉 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13998&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13998&amp;order=1"/>
-        <updated>2024-02-05T06:17:43.406Z</updated>
         <content type="html"><![CDATA[2024-02-08(목) 09:00]]></content>
     </entry>
 </feed>
