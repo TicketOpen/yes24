@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-07T03:16:15.386Z</updated>
+    <updated>2024-02-07T04:17:34.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14009"/>
         <updated>2024-02-07T00:57:23.748Z</updated>
         <content type="html"><![CDATA[2024.02.14(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 부천 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14008</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14008"/>
+        <updated>2024-02-07T04:16:43.540Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 2am Concert "One Take" 티켓 오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13992"/>
         <updated>2024-02-02T04:16:39.467Z</updated>
         <content type="html"><![CDATA[2024.02.07(수) 14:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2024.02.07(수) 10:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매연극 <이카이노 바이크> 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13991</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13991"/>
-        <updated>2024-02-02T01:52:45.847Z</updated>
-        <content type="html"><![CDATA[2024.02.05(월) 14:00]]></content>
     </entry>
 </feed>
