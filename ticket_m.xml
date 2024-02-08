@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-08T03:17:05.556Z</updated>
+    <updated>2024-02-08T04:17:55.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <렛미플라이> 2023 OST 판매오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14021&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14021&amp;order=1"/>
+        <updated>2024-02-08T04:17:06.183Z</updated>
+        <content type="html"><![CDATA[2024-02-14(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <헤르츠클란> 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14020&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14020&amp;order=1"/>
+        <updated>2024-02-08T04:17:06.185Z</updated>
+        <content type="html"><![CDATA[2024-02-13(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 - 성남 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14019&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14019&amp;order=1"/>
+        <updated>2024-02-08T04:17:06.191Z</updated>
+        <content type="html"><![CDATA[2024-02-15(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈토닥토닥 꼬모 - 숲 속 캠핑놀이〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14018&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14018&amp;order=1"/>
+        <updated>2024-02-08T04:17:06.192Z</updated>
+        <content type="html"><![CDATA[2024-02-16(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14017&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14012&amp;order=1"/>
         <updated>2024-02-07T03:15:25.833Z</updated>
         <content type="html"><![CDATA[2024-02-14(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 케니 지（Kenny G） 월드투어 내한공연 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14011&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14011&amp;order=1"/>
-        <updated>2024-02-07T02:18:35.799Z</updated>
-        <content type="html"><![CDATA[2024-02-14(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 케니 지（Kenny G） 월드투어 내한공연 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14010&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14010&amp;order=1"/>
-        <updated>2024-02-07T02:18:35.800Z</updated>
-        <content type="html"><![CDATA[2024-02-14(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 앤서니브라운 가족뮤지컬  [우리아빠가최고야] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14009&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14009&amp;order=1"/>
-        <updated>2024-02-07T00:57:32.627Z</updated>
-        <content type="html"><![CDATA[2024-02-14(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 부천 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14008&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14008&amp;order=1"/>
-        <updated>2024-02-07T04:16:50.511Z</updated>
-        <content type="html"><![CDATA[2024-02-14(수) 11:00]]></content>
     </entry>
 </feed>
