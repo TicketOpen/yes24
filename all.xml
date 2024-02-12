@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 14:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 15:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,14 +218,6 @@
             <content:encoded><![CDATA[2024-02-13(화) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[설 연휴 할인 공연을 한눈에! (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3543</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3543</guid>
-            <pubDate>Wed, 07 Feb 2024 08:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.07 ~ 2024.02.12]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202402/20240207/20240207-2cecdec9-6dcf-4a01-9e66-39a01462ce71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [디어 에반 핸슨]  기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48485&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48485&amp;Tab=3</guid>
@@ -240,14 +232,6 @@
             <pubDate>Wed, 24 Jan 2024 01:05:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.24 ~ 2024.02.18 | 2024.02.19 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202401/20240124/20240124-00b6769c-9093-44e3-986e-bda84baa7845.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <내 마음은 무지> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47873&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47873&amp;Tab=2</guid>
-            <pubDate>Mon, 22 Jan 2024 02:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.20 ~ 2024.02.12 | 2024.02.16 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202401/20240122/20240122-0f55302c-529d-43ee-a672-f3238be0cc79.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <스쿨 오브 락> 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -289,12 +273,18 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이벤트 기간2024.02.07 ~ 2024.02.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3543</link>
-            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3543</guid>
-            <pubDate>Wed, 07 Feb 2024 08:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202402/20240207/20240207-2cecdec9-6dcf-4a01-9e66-39a01462ce71.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Mon, 12 Feb 2024 15:14:29 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Mon, 12 Feb 2024 15:14:29 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.01.30 ~ 2024.03.08 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -311,14 +301,6 @@
             <pubDate>Wed, 24 Jan 2024 01:05:14 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>3월 8일 (금) 19시 30분]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202401/20240124/20240124-00b6769c-9093-44e3-986e-bda84baa7845.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.01.20 ~ 2024.02.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47873</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=47873</guid>
-            <pubDate>Mon, 22 Jan 2024 02:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2024.02. 18 (일)]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202401/20240122/20240122-0f55302c-529d-43ee-a672-f3238be0cc79.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.01.12 ~ 2024.03.24 (YES24 티켓 ─ 이벤트 모바일)]]></title>
