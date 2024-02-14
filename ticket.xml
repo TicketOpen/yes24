@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-14T05:15:08.290Z</updated>
+    <updated>2024-02-14T06:19:33.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬〈꼬마버스 타요-용감한 구조대 레스큐 타요〉 - 대전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14041</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14041"/>
+        <updated>2024-02-14T06:18:25.649Z</updated>
+        <content type="html"><![CDATA[2024.02.16(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 LOVESOME - 마음 방울 채집 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14040</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14021"/>
         <updated>2024-02-08T04:16:57.557Z</updated>
         <content type="html"><![CDATA[2024.02.14(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매연극 <헤르츠클란> 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14020</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14020"/>
-        <updated>2024-02-08T04:16:57.558Z</updated>
-        <content type="html"><![CDATA[2024.02.13(화) 15:00]]></content>
     </entry>
 </feed>
