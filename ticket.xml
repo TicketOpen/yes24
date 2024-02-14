@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-14T02:21:12.925Z</updated>
+    <updated>2024-02-14T03:16:49.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈미녀와야수〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14036</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14036"/>
+        <updated>2024-02-14T03:15:52.468Z</updated>
+        <content type="html"><![CDATA[2024.02.16(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매eill 내한공연(eill BLUE ROSE SHOW 2024 in SEOUL) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14035</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14035"/>
+        <updated>2024-02-14T03:15:52.469Z</updated>
+        <content type="html"><![CDATA[2024.02.19(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족라이브뮤지컬 〈브레멘음악대〉 - 대구 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14033</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14012"/>
         <updated>2024-02-07T03:15:17.207Z</updated>
         <content type="html"><![CDATA[2024.02.14(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 케니 지（Kenny G） 월드투어 내한공연 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14011</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14011"/>
-        <updated>2024-02-07T02:18:29.098Z</updated>
-        <content type="html"><![CDATA[2024.02.14(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 케니 지（Kenny G） 월드투어 내한공연 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14010</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14010"/>
-        <updated>2024-02-07T02:18:29.098Z</updated>
-        <content type="html"><![CDATA[2024.02.14(수) 15:00]]></content>
     </entry>
 </feed>
