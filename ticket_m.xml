@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-14T08:18:06.439Z</updated>
+    <updated>2024-02-14T09:15:47.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[전주] 2024 YB TOUR LIGHTS ; INFINITY 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14042&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14042&amp;order=1"/>
+        <updated>2024-02-14T09:14:55.173Z</updated>
+        <content type="html"><![CDATA[2024-02-22(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬〈꼬마버스 타요-용감한 구조대 레스큐 타요〉 - 대전 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14041&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14033&amp;order=1"/>
         <updated>2024-02-14T00:59:29.379Z</updated>
         <content type="html"><![CDATA[2024-02-16(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 뮤지컬 [친구의 전설] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14031&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14031&amp;order=1"/>
-        <updated>2024-02-14T05:14:27.281Z</updated>
-        <content type="html"><![CDATA[2024-02-20(화) 11:00]]></content>
     </entry>
 </feed>
