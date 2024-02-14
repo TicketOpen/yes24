@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-14T06:19:33.160Z</updated>
+    <updated>2024-02-14T07:15:01.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14040"/>
         <updated>2024-02-14T05:14:20.414Z</updated>
         <content type="html"><![CDATA[2024.02.22(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14039</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14039"/>
+        <updated>2024-02-14T07:14:11.080Z</updated>
+        <content type="html"><![CDATA[2024.02.19(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 KIM MYUNGSOO BIRTHDAY PARTY ‘Every day, L+ovely day’ 티켓 오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14022"/>
         <updated>2024-02-08T05:14:52.830Z</updated>
         <content type="html"><![CDATA[2024.02.13(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <렛미플라이> 2023 OST 판매오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14021</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14021"/>
-        <updated>2024-02-08T04:16:57.557Z</updated>
-        <content type="html"><![CDATA[2024.02.14(수) 14:00]]></content>
     </entry>
 </feed>
