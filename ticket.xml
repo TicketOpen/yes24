@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-15T01:53:05.802Z</updated>
+    <updated>2024-02-15T02:21:01.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 이은결 〈MAGIC & ILLUSION〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14044</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14044"/>
+        <updated>2024-02-15T02:19:58.989Z</updated>
+        <content type="html"><![CDATA[2024.02.23(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 헬로카봇 뮤지컬 시즌7 [웰컴 투 파라다이스] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14043</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14025"/>
         <updated>2024-02-13T04:15:44.754Z</updated>
         <content type="html"><![CDATA[2024.02.16(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 김범수 25주년 기념 콘서트 [여행, The Original] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14024</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14024"/>
-        <updated>2024-02-08T09:14:30.663Z</updated>
-        <content type="html"><![CDATA[2024.02.16(금) 17:00]]></content>
     </entry>
 </feed>

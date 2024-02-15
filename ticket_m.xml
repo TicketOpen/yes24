@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-15T01:53:05.803Z</updated>
+    <updated>2024-02-15T02:21:01.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 이은결 〈MAGIC & ILLUSION〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14044&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14044&amp;order=1"/>
+        <updated>2024-02-15T02:20:07.463Z</updated>
+        <content type="html"><![CDATA[2024-02-23(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 헬로카봇 뮤지컬 시즌7 [웰컴 투 파라다이스] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14043&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14035&amp;order=1"/>
         <updated>2024-02-14T03:16:01.208Z</updated>
         <content type="html"><![CDATA[2024-02-19(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [디아길레프] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14034&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14034&amp;order=1"/>
-        <updated>2024-02-14T05:14:27.279Z</updated>
-        <content type="html"><![CDATA[2024-02-19(월) 14:00]]></content>
     </entry>
 </feed>
