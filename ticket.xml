@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-15T02:21:01.908Z</updated>
+    <updated>2024-02-15T03:17:35.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 - 안양 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14045</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14045"/>
+        <updated>2024-02-15T03:16:38.020Z</updated>
+        <content type="html"><![CDATA[2024.02.19(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 이은결 〈MAGIC & ILLUSION〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14044</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14026"/>
         <updated>2024-02-13T08:18:01.960Z</updated>
         <content type="html"><![CDATA[2024.02.13(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힐러리 한＆안드레아스 해플리거 듀오 리사이틀 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14025</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14025"/>
-        <updated>2024-02-13T04:15:44.754Z</updated>
-        <content type="html"><![CDATA[2024.02.16(금) 15:00]]></content>
     </entry>
 </feed>
