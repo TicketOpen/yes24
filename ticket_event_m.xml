@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 06:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 07:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2024.02.15 ~ 2024.03.15]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=48752</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=48752</guid>
+            <pubDate>Thu, 15 Feb 2024 07:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>3월 22일(금) 오후 8시 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202402/20240215/20240215-450facbf-f3be-4466-abdb-fa2723ff13b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2024.01.30 ~ 2024.03.08]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=48485</link>

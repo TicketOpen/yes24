@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-15T06:18:46.108Z</updated>
+    <updated>2024-02-15T07:13:29.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈사운드오브뮤직〉 - 용인 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14049</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14049"/>
+        <updated>2024-02-15T07:12:32.271Z</updated>
+        <content type="html"><![CDATA[2024.02.19(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브 가족뮤지컬 〈라푼젤〉 - 울산 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14048</id>
@@ -135,13 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14030</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14030"/>
         <updated>2024-02-14T05:14:20.428Z</updated>
-        <content type="html"><![CDATA[2024.02.20(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 뮤지컬 [친구의 전설] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14029</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14029"/>
-        <updated>2024-02-14T05:14:20.429Z</updated>
         <content type="html"><![CDATA[2024.02.20(화) 11:00]]></content>
     </entry>
 </feed>
