@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-15T07:13:29.609Z</updated>
+    <updated>2024-02-15T08:17:41.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 4월 티켓오픈]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14052&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14052&amp;order=1"/>
+        <updated>2024-02-15T08:17:01.457Z</updated>
+        <content type="html"><![CDATA[2024-02-23(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈사운드오브뮤직〉 - 용인 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14049&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14041&amp;order=1"/>
         <updated>2024-02-14T06:18:34.429Z</updated>
         <content type="html"><![CDATA[2024-02-16(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 LOVESOME - 마음 방울 채집 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14040&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14040&amp;order=1"/>
-        <updated>2024-02-14T05:14:27.276Z</updated>
-        <content type="html"><![CDATA[2024-02-22(목) 14:00]]></content>
     </entry>
 </feed>
