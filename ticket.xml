@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-15T05:15:30.741Z</updated>
+    <updated>2024-02-15T06:18:46.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 〈라푼젤〉 - 울산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14048</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14048"/>
+        <updated>2024-02-15T06:17:34.643Z</updated>
+        <content type="html"><![CDATA[2024.02.19(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[과천] 뮤지컬 [친구의 전설] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14047</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14047"/>
+        <updated>2024-02-15T06:17:34.648Z</updated>
+        <content type="html"><![CDATA[2024.02.20(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[과천] 가족뮤지컬 [엄마까투리는 슈퍼맘] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14046</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14046"/>
+        <updated>2024-02-15T06:17:34.649Z</updated>
+        <content type="html"><![CDATA[2024.02.21(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 - 안양 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14045</id>
@@ -122,26 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14029"/>
         <updated>2024-02-14T05:14:20.429Z</updated>
         <content type="html"><![CDATA[2024.02.20(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 뮤지컬 [친구의 전설] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14028</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14028"/>
-        <updated>2024-02-14T05:14:20.431Z</updated>
-        <content type="html"><![CDATA[2024.02.20(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박신양：제 4의 벽] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14027</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14027"/>
-        <updated>2024-02-13T10:14:00.824Z</updated>
-        <content type="html"><![CDATA[2024.02.14(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 뮤지컬 [친구의 전설] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14026</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14026"/>
-        <updated>2024-02-13T08:18:01.960Z</updated>
-        <content type="html"><![CDATA[2024.02.13(화) 16:00]]></content>
     </entry>
 </feed>

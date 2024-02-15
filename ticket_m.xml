@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-15T05:15:30.720Z</updated>
+    <updated>2024-02-15T06:18:46.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 〈라푼젤〉 - 울산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14048&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14048&amp;order=1"/>
+        <updated>2024-02-15T06:17:44.284Z</updated>
+        <content type="html"><![CDATA[2024-02-19(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[과천] 뮤지컬 [친구의 전설] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14047&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14047&amp;order=1"/>
+        <updated>2024-02-15T06:17:44.289Z</updated>
+        <content type="html"><![CDATA[2024-02-20(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[과천] 가족뮤지컬 [엄마까투리는 슈퍼맘] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14046&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14046&amp;order=1"/>
+        <updated>2024-02-15T06:17:44.289Z</updated>
+        <content type="html"><![CDATA[2024-02-21(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 - 안양 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14045&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14039&amp;order=1"/>
         <updated>2024-02-14T07:14:17.989Z</updated>
         <content type="html"><![CDATA[2024-02-19(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 KIM MYUNGSOO BIRTHDAY PARTY ‘Every day, L+ovely day’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14038&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14038&amp;order=1"/>
-        <updated>2024-02-14T05:14:27.277Z</updated>
-        <content type="html"><![CDATA[2024-02-22(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 V.O.S 20TH ANNIVERSARY FANMEETING [OUR WISH] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14037&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14037&amp;order=1"/>
-        <updated>2024-02-14T05:14:27.277Z</updated>
-        <content type="html"><![CDATA[2024-02-16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈미녀와야수〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14036&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14036&amp;order=1"/>
-        <updated>2024-02-14T03:16:01.208Z</updated>
-        <content type="html"><![CDATA[2024-02-16(금) 09:00]]></content>
     </entry>
 </feed>
