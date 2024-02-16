@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-16T08:18:07.384Z</updated>
+    <updated>2024-02-16T09:14:04.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 Soundberry Theater 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14056</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14056"/>
+        <updated>2024-02-16T09:13:18.063Z</updated>
+        <content type="html"><![CDATA[2024.02.19(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [파가니니] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14055</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14036"/>
         <updated>2024-02-14T03:15:52.468Z</updated>
         <content type="html"><![CDATA[2024.02.16(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매eill 내한공연(eill BLUE ROSE SHOW 2024 in SEOUL) 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14035</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14035"/>
-        <updated>2024-02-14T03:15:52.469Z</updated>
-        <content type="html"><![CDATA[2024.02.19(월) 12:00]]></content>
     </entry>
 </feed>
