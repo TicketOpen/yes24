@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-16T02:20:11.387Z</updated>
+    <updated>2024-02-16T03:16:54.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [파가니니] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14055&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14055&amp;order=1"/>
+        <updated>2024-02-16T03:16:12.827Z</updated>
+        <content type="html"><![CDATA[2024-02-29(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [파가니니] 프리뷰 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14054&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14054&amp;order=1"/>
+        <updated>2024-02-16T03:16:12.827Z</updated>
+        <content type="html"><![CDATA[2024-02-22(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 4월 티켓오픈]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14052&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14044&amp;order=1"/>
         <updated>2024-02-15T02:20:07.463Z</updated>
         <content type="html"><![CDATA[2024-02-23(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 헬로카봇 뮤지컬 시즌7 [웰컴 투 파라다이스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14043&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14043&amp;order=1"/>
-        <updated>2024-02-15T01:52:16.220Z</updated>
-        <content type="html"><![CDATA[2024-02-19(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주] 2024 YB TOUR LIGHTS ; INFINITY 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14042&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14042&amp;order=1"/>
-        <updated>2024-02-14T09:14:55.173Z</updated>
-        <content type="html"><![CDATA[2024-02-22(목) 14:00]]></content>
     </entry>
 </feed>
