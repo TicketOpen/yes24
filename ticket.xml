@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-19T04:17:16.113Z</updated>
+    <updated>2024-02-19T05:14:29.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[이천] 헬로카봇 뮤지컬 시즌7 [웰컴 투 파라다이스] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14060</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14060"/>
+        <updated>2024-02-19T05:13:30.797Z</updated>
+        <content type="html"><![CDATA[2024.02.21(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김해] 제10회 인제피아노소사이어티 정기연주회 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14059</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14040"/>
         <updated>2024-02-14T05:14:20.414Z</updated>
         <content type="html"><![CDATA[2024.02.22(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14039</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14039"/>
-        <updated>2024-02-14T07:14:11.080Z</updated>
-        <content type="html"><![CDATA[2024.02.19(월) 14:00]]></content>
     </entry>
 </feed>
