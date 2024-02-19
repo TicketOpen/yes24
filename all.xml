@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 01:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 01:54:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단독판매[창원] SUPER! 수요콘서트 「4월 기타리스트 장하은 콘서트」 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14057</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14057</guid>
+            <pubDate>Mon, 19 Feb 2024 01:53:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.22(목) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2024 Soundberry Theater 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14056</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2024.02.16(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 라이브가족뮤지컬 〈미녀와야수〉 - 대구 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14036</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14036</guid>
-            <pubDate>Wed, 14 Feb 2024 03:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.16(금) 09:00]]></content:encoded>
+            <title><![CDATA[[창원] SUPER! 수요콘서트 「4월 기타리스트 장하은 콘서트」 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14057&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14057&amp;order=1</guid>
+            <pubDate>Mon, 19 Feb 2024 01:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024-02-22(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 Soundberry Theater 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,11 +218,27 @@
             <content:encoded><![CDATA[2024-02-20(화) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[과천] 가족뮤지컬 [엄마까투리는 슈퍼맘] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14046&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14046&amp;order=1</guid>
-            <pubDate>Thu, 15 Feb 2024 06:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024-02-21(수) 11:00]]></content:encoded>
+            <title><![CDATA[공포연극 [조각] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/48414</link>
+            <guid>http://ticket.yes24.com/Perf/48414</guid>
+            <pubDate>Mon, 19 Feb 2024 01:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>12,400원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202402/20240219/20240219-48414.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 조각 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/48414</link>
+            <guid>http://m.ticket.yes24.com/Perf/48414</guid>
+            <pubDate>Mon, 19 Feb 2024 01:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 조각
+
+</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">70</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">50,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">12,400원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">평일, 주말 할인율 상이
+
+</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202402/20240219/20240219-48414.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <광염 소나타> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>

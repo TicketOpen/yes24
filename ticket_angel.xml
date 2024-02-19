@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://ticket.yes24.com/Pages/Events/HotEvent/PromotionInfo.aspx?id=2577</id>
-    <title>YES24 티켓 ─ 엔젤티켓</title>
-    <updated>2024-02-19T01:00:46.737Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://tkfile.yes24.com/img/icon.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 엔젤티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 19 Feb 2024 01:54:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공포연극 [조각]]]></title>
+            <link>http://ticket.yes24.com/Perf/48414</link>
+            <guid>http://ticket.yes24.com/Perf/48414</guid>
+            <pubDate>Mon, 19 Feb 2024 01:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>12,400원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202402/20240219/20240219-48414.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

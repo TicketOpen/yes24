@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-19T01:00:46.741Z</updated>
+    <updated>2024-02-19T01:54:35.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[창원] SUPER! 수요콘서트 「4월 기타리스트 장하은 콘서트」 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14057</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14057"/>
+        <updated>2024-02-19T01:53:38.764Z</updated>
+        <content type="html"><![CDATA[2024.02.22(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Soundberry Theater 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14056</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14037"/>
         <updated>2024-02-14T05:14:20.415Z</updated>
         <content type="html"><![CDATA[2024.02.16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈미녀와야수〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14036</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14036"/>
-        <updated>2024-02-14T03:15:52.468Z</updated>
-        <content type="html"><![CDATA[2024.02.16(금) 09:00]]></content>
     </entry>
 </feed>
