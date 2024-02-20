@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-20T04:19:10.781Z</updated>
+    <updated>2024-02-20T05:15:28.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14066&amp;order=1"/>
         <updated>2024-02-20T03:14:31.894Z</updated>
         <content type="html"><![CDATA[2024-02-21(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈이프아이월유〉1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14065&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14065&amp;order=1"/>
+        <updated>2024-02-20T05:14:35.577Z</updated>
+        <content type="html"><![CDATA[2024-02-27(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬[아기돼지삼형제] 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14057&amp;order=1"/>
         <updated>2024-02-19T01:53:47.235Z</updated>
         <content type="html"><![CDATA[2024-02-22(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Soundberry Theater 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14056&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14056&amp;order=1"/>
-        <updated>2024-02-16T09:13:24.875Z</updated>
-        <content type="html"><![CDATA[2024-02-19(월) 18:00]]></content>
     </entry>
 </feed>
