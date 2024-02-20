@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-20T05:15:28.861Z</updated>
+    <updated>2024-02-20T06:19:01.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[고양] 2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14067&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14067&amp;order=1"/>
+        <updated>2024-02-20T06:18:10.587Z</updated>
+        <content type="html"><![CDATA[2024-02-22(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시발레단 창단 사전 공연 <봄의 제전> 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14066&amp;order=1</id>
@@ -17,7 +24,7 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14065&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14065&amp;order=1"/>
         <updated>2024-02-20T05:14:35.577Z</updated>
-        <content type="html"><![CDATA[2024-02-27(화) 14:00]]></content>
+        <content type="html"><![CDATA[2024-02-27(화) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬[아기돼지삼형제] 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14058&amp;order=1"/>
         <updated>2024-02-19T03:14:58.008Z</updated>
         <content type="html"><![CDATA[2024-02-20(화) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] SUPER! 수요콘서트 「4월 기타리스트 장하은 콘서트」 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14057&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14057&amp;order=1"/>
-        <updated>2024-02-19T01:53:47.235Z</updated>
-        <content type="html"><![CDATA[2024-02-22(목) 14:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-20T05:15:28.848Z</updated>
+    <updated>2024-02-20T06:19:01.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[고양] 2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14067</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14067"/>
+        <updated>2024-02-20T06:18:02.122Z</updated>
+        <content type="html"><![CDATA[2024.02.22(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시발레단 창단 사전 공연 <봄의 제전> 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14066</id>
@@ -17,7 +24,7 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14065</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14065"/>
         <updated>2024-02-20T05:14:25.760Z</updated>
-        <content type="html"><![CDATA[2024.02.27(화) 14:00]]></content>
+        <content type="html"><![CDATA[2024.02.27(화) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬[아기돼지삼형제] 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14046"/>
         <updated>2024-02-15T06:17:34.649Z</updated>
         <content type="html"><![CDATA[2024.02.21(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 - 안양 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14045</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14045"/>
-        <updated>2024-02-15T03:16:38.020Z</updated>
-        <content type="html"><![CDATA[2024.02.19(월) 09:00]]></content>
     </entry>
 </feed>
