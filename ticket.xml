@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-20T08:18:09.374Z</updated>
+    <updated>2024-02-20T09:17:34.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[인천] 2024 라이브가족뮤지컬[아기돼지삼형제] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14068</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14068"/>
+        <updated>2024-02-20T09:16:32.213Z</updated>
+        <content type="html"><![CDATA[2024.02.22(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고양] 2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14067</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14047"/>
         <updated>2024-02-15T06:17:34.648Z</updated>
         <content type="html"><![CDATA[2024.02.20(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과천] 가족뮤지컬 [엄마까투리는 슈퍼맘] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14046</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14046"/>
-        <updated>2024-02-15T06:17:34.649Z</updated>
-        <content type="html"><![CDATA[2024.02.21(수) 11:00]]></content>
     </entry>
 </feed>
