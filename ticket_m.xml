@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-20T00:58:42.053Z</updated>
+    <updated>2024-02-20T01:49:53.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬[아기돼지삼형제] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14064&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14064&amp;order=1"/>
+        <updated>2024-02-20T01:49:05.978Z</updated>
+        <content type="html"><![CDATA[2024-02-21(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREAT UNITY 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14063&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14055&amp;order=1"/>
         <updated>2024-02-16T03:16:12.827Z</updated>
         <content type="html"><![CDATA[2024-02-29(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [파가니니] 프리뷰 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14054&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14054&amp;order=1"/>
-        <updated>2024-02-16T03:16:12.827Z</updated>
-        <content type="html"><![CDATA[2024-02-22(목) 15:00]]></content>
     </entry>
 </feed>
