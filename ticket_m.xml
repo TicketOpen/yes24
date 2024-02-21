@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-21T02:20:04.808Z</updated>
+    <updated>2024-02-21T03:15:16.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉- 수원 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14072&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14072&amp;order=1"/>
+        <updated>2024-02-21T03:14:22.229Z</updated>
+        <content type="html"><![CDATA[2024-02-22(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보이즈 라이크 걸스 내한공연 (Boys Like Girls Live in Seoul) 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14071&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14071&amp;order=1"/>
+        <updated>2024-02-21T03:14:22.231Z</updated>
+        <content type="html"><![CDATA[2024-02-29(목) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROCK SPRING 2024 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14070&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14070&amp;order=1"/>
+        <updated>2024-02-21T03:14:22.231Z</updated>
+        <content type="html"><![CDATA[2024-02-26(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <헤르츠클란> 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14069&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14063&amp;order=1"/>
         <updated>2024-02-19T11:11:53.298Z</updated>
         <content type="html"><![CDATA[2024-02-23(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 스카 페스티벌[Spin-off] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14062&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14062&amp;order=1"/>
-        <updated>2024-02-19T08:17:51.374Z</updated>
-        <content type="html"><![CDATA[2024-02-22(목) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈넓은 하늘의 무지개를 보면 내 마음은 춤춘다〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14061&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14061&amp;order=1"/>
-        <updated>2024-02-19T06:18:42.358Z</updated>
-        <content type="html"><![CDATA[2024-02-23(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이천] 헬로카봇 뮤지컬 시즌7 [웰컴 투 파라다이스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14060&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14060&amp;order=1"/>
-        <updated>2024-02-19T05:13:39.729Z</updated>
-        <content type="html"><![CDATA[2024-02-21(수) 14:00]]></content>
     </entry>
 </feed>
