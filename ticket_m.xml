@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-21T04:17:07.112Z</updated>
+    <updated>2024-02-21T05:15:01.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 시우민 생일 팬미팅 〈FROZEN TIME〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14073&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14073&amp;order=1"/>
+        <updated>2024-02-21T05:14:10.908Z</updated>
+        <content type="html"><![CDATA[2024-02-27(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉- 수원 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14072&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14064&amp;order=1"/>
         <updated>2024-02-20T01:49:05.978Z</updated>
         <content type="html"><![CDATA[2024-02-21(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREAT UNITY 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14063&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14063&amp;order=1"/>
-        <updated>2024-02-19T11:11:53.298Z</updated>
-        <content type="html"><![CDATA[2024-02-23(금) 20:00]]></content>
     </entry>
 </feed>
