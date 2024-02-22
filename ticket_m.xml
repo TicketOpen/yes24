@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-22T07:14:05.917Z</updated>
+    <updated>2024-02-22T08:19:25.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[쉐라톤 그랜드 인천 호텔 [윤한 라이브 샌드 아트 ＆ 재즈 콘서트] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14084&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14084&amp;order=1"/>
+        <updated>2024-02-22T08:17:38.895Z</updated>
+        <content type="html"><![CDATA[2024-02-23(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전주] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14081&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14073&amp;order=1"/>
         <updated>2024-02-21T05:14:10.908Z</updated>
         <content type="html"><![CDATA[2024-02-27(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉- 수원 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14072&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14072&amp;order=1"/>
-        <updated>2024-02-21T03:14:22.229Z</updated>
-        <content type="html"><![CDATA[2024-02-22(목) 09:00]]></content>
     </entry>
 </feed>
