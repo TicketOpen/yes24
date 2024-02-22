@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-22T04:16:57.295Z</updated>
+    <updated>2024-02-22T05:15:25.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[전주] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14081&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14081&amp;order=1"/>
+        <updated>2024-02-22T05:14:34.913Z</updated>
+        <content type="html"><![CDATA[2024-02-27(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14080&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14080&amp;order=1"/>
+        <updated>2024-02-22T05:14:34.913Z</updated>
+        <content type="html"><![CDATA[2024-02-27(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[춘천] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14079&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14079&amp;order=1"/>
+        <updated>2024-02-22T05:14:34.913Z</updated>
+        <content type="html"><![CDATA[2024-02-27(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 가족라이브뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14078&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14072&amp;order=1"/>
         <updated>2024-02-21T03:14:22.229Z</updated>
         <content type="html"><![CDATA[2024-02-22(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이즈 라이크 걸스 내한공연 (Boys Like Girls Live in Seoul) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14071&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14071&amp;order=1"/>
-        <updated>2024-02-21T03:14:22.231Z</updated>
-        <content type="html"><![CDATA[2024-02-29(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROCK SPRING 2024 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14070&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14070&amp;order=1"/>
-        <updated>2024-02-21T03:14:22.231Z</updated>
-        <content type="html"><![CDATA[2024-02-26(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <헤르츠클란> 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14069&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14069&amp;order=1"/>
-        <updated>2024-02-21T01:51:59.036Z</updated>
-        <content type="html"><![CDATA[2024-02-26(월) 14:00]]></content>
     </entry>
 </feed>

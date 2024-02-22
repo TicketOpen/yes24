@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-22T04:16:57.299Z</updated>
+    <updated>2024-02-22T05:15:25.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[전주] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14081</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14081"/>
+        <updated>2024-02-22T05:14:26.242Z</updated>
+        <content type="html"><![CDATA[2024.02.27(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14080</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14080"/>
+        <updated>2024-02-22T05:14:26.243Z</updated>
+        <content type="html"><![CDATA[2024.02.27(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[춘천] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14079</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14079"/>
+        <updated>2024-02-22T05:14:26.243Z</updated>
+        <content type="html"><![CDATA[2024.02.27(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 가족라이브뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14078</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14062"/>
         <updated>2024-02-19T08:17:43.154Z</updated>
         <content type="html"><![CDATA[2024.02.22(목) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈넓은 하늘의 무지개를 보면 내 마음은 춤춘다〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14061</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14061"/>
-        <updated>2024-02-19T06:18:33.797Z</updated>
-        <content type="html"><![CDATA[2024.02.23(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이천] 헬로카봇 뮤지컬 시즌7 [웰컴 투 파라다이스] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14060</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14060"/>
-        <updated>2024-02-19T05:13:30.797Z</updated>
-        <content type="html"><![CDATA[2024.02.21(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김해] 제10회 인제피아노소사이어티 정기연주회 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14059</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14059"/>
-        <updated>2024-02-19T03:14:49.361Z</updated>
-        <content type="html"><![CDATA[2024.02.22(목) 14:00]]></content>
     </entry>
 </feed>
