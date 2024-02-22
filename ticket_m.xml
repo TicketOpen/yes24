@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-22T08:19:25.141Z</updated>
+    <updated>2024-02-22T09:15:14.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14084&amp;order=1"/>
         <updated>2024-02-22T08:17:38.895Z</updated>
         <content type="html"><![CDATA[2024-02-23(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 YB TOUR LIGHTS ; INFINITY 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14083&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14083&amp;order=1"/>
+        <updated>2024-02-22T09:14:27.735Z</updated>
+        <content type="html"><![CDATA[2024-03-05(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[전주] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14074&amp;order=1"/>
         <updated>2024-02-21T08:18:12.629Z</updated>
         <content type="html"><![CDATA[2024-03-06(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 시우민 생일 팬미팅 〈FROZEN TIME〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14073&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14073&amp;order=1"/>
-        <updated>2024-02-21T05:14:10.908Z</updated>
-        <content type="html"><![CDATA[2024-02-27(화) 20:00]]></content>
     </entry>
 </feed>
