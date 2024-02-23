@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-23T05:14:46.089Z</updated>
+    <updated>2024-02-23T06:19:08.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족어린이공연〈공룡애니멀쇼〉- 안양 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14089</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14089"/>
+        <updated>2024-02-23T06:18:08.407Z</updated>
+        <content type="html"><![CDATA[2024.02.28(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[구미] 가족뮤지컬 [꼬마버스 타요 - 용감한 구조대 레스큐 타요] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14088</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14088"/>
+        <updated>2024-02-23T06:18:08.407Z</updated>
+        <content type="html"><![CDATA[2024.02.28(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<메트로폴리탄 오페라 오케스트라> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14087</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14069"/>
         <updated>2024-02-21T01:51:52.314Z</updated>
         <content type="html"><![CDATA[2024.02.26(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천] 2024 라이브가족뮤지컬[아기돼지삼형제] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14068</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14068"/>
-        <updated>2024-02-20T09:16:32.213Z</updated>
-        <content type="html"><![CDATA[2024.02.22(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14067</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14067"/>
-        <updated>2024-02-20T06:18:02.122Z</updated>
-        <content type="html"><![CDATA[2024.02.22(목) 09:00]]></content>
     </entry>
 </feed>
