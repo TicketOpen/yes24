@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-26T06:19:49.967Z</updated>
+    <updated>2024-02-26T07:15:48.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 김창옥토크콘서트 시즌 4 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14095&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14095&amp;order=1"/>
+        <updated>2024-02-26T07:14:57.529Z</updated>
+        <content type="html"><![CDATA[2024-02-29(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14094&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14094&amp;order=1"/>
+        <updated>2024-02-26T07:14:57.530Z</updated>
+        <content type="html"><![CDATA[2024-02-27(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 음악극 〈캐롤〉 1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14093&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14093&amp;order=1"/>
+        <updated>2024-02-26T07:14:57.531Z</updated>
+        <content type="html"><![CDATA[2024-03-04(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BOBBY ZERO GRAVITY IN SEOUL 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14092&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14086&amp;order=1"/>
         <updated>2024-02-23T02:19:51.236Z</updated>
         <content type="html"><![CDATA[2024-02-26(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX 공식 팬클럽 NSWER 2기 모집 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14085&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14085&amp;order=1"/>
-        <updated>2024-02-23T03:14:46.965Z</updated>
-        <content type="html"><![CDATA[2024-02-26(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉐라톤 그랜드 인천 호텔 [윤한 라이브 샌드 아트 ＆ 재즈 콘서트] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14084&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14084&amp;order=1"/>
-        <updated>2024-02-22T08:17:38.895Z</updated>
-        <content type="html"><![CDATA[2024-02-23(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2024 YB TOUR LIGHTS ; INFINITY 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14083&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14083&amp;order=1"/>
-        <updated>2024-02-22T09:14:27.735Z</updated>
-        <content type="html"><![CDATA[2024-03-05(화) 14:00]]></content>
     </entry>
 </feed>
