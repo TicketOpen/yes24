@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-26T07:15:48.734Z</updated>
+    <updated>2024-02-26T08:19:20.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[라트라비아타와 함께 떠나는 봄의 오페라 여행 - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14096&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14096&amp;order=1"/>
+        <updated>2024-02-26T08:18:28.926Z</updated>
+        <content type="html"><![CDATA[2024-03-04(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 김창옥토크콘서트 시즌 4 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14095&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14087&amp;order=1"/>
         <updated>2024-02-23T05:14:06.064Z</updated>
         <content type="html"><![CDATA[2024-02-29(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 라이브가족뮤지컬 〈어린이캣프렌즈〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14086&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14086&amp;order=1"/>
-        <updated>2024-02-23T02:19:51.236Z</updated>
-        <content type="html"><![CDATA[2024-02-26(월) 09:00]]></content>
     </entry>
 </feed>
