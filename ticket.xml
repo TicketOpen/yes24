@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-27T04:17:45.445Z</updated>
+    <updated>2024-02-27T05:15:21.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -10,6 +10,27 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14101</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14101"/>
         <updated>2024-02-27T03:15:42.610Z</updated>
+        <content type="html"><![CDATA[2024.02.29(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 뮤지컬 〈광염 소나타〉2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14099</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14099"/>
+        <updated>2024-02-27T05:14:34.787Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14098</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14098"/>
+        <updated>2024-02-27T05:14:34.787Z</updated>
+        <content type="html"><![CDATA[2024.02.29(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14097</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14097"/>
+        <updated>2024-02-27T05:14:34.788Z</updated>
         <content type="html"><![CDATA[2024.02.29(목) 14:00]]></content>
     </entry>
     <entry>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14080"/>
         <updated>2024-02-22T05:14:26.243Z</updated>
         <content type="html"><![CDATA[2024.02.27(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[춘천] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14079</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14079"/>
-        <updated>2024-02-22T05:14:26.243Z</updated>
-        <content type="html"><![CDATA[2024.02.27(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 가족라이브뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14078</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14078"/>
-        <updated>2024-02-22T03:14:52.616Z</updated>
-        <content type="html"><![CDATA[2024.02.22(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 [벌거벗은임금님] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14077</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14077"/>
-        <updated>2024-02-22T00:58:03.648Z</updated>
-        <content type="html"><![CDATA[2024.02.22(목) 09:00]]></content>
     </entry>
 </feed>
