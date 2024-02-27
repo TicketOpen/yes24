@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-27T05:15:21.592Z</updated>
+    <updated>2024-02-27T06:18:11.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14101&amp;order=1"/>
         <updated>2024-02-27T03:15:50.563Z</updated>
         <content type="html"><![CDATA[2024-02-29(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [난설] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14100&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14100&amp;order=1"/>
+        <updated>2024-02-27T06:17:31.095Z</updated>
+        <content type="html"><![CDATA[2024-03-05(화) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 뮤지컬 〈광염 소나타〉2차 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14092&amp;order=1"/>
         <updated>2024-02-26T03:15:34.726Z</updated>
         <content type="html"><![CDATA[2024-02-29(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천 남동소래아트홀] 2024 라이브 가족뮤지컬[아기돼지삼형제] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14091&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14091&amp;order=1"/>
-        <updated>2024-02-23T09:13:42.475Z</updated>
-        <content type="html"><![CDATA[2024-02-27(화) 09:00]]></content>
     </entry>
 </feed>
