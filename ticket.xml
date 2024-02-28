@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-28T04:17:23.390Z</updated>
+    <updated>2024-02-28T05:15:43.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 이천 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14106</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14106"/>
+        <updated>2024-02-28T05:14:48.029Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 춘천 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14105</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14105"/>
+        <updated>2024-02-28T05:14:48.032Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬〈엄마까투리는 슈퍼맘〉- 대전 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14104</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14104"/>
         <updated>2024-02-28T03:14:07.343Z</updated>
         <content type="html"><![CDATA[2024.03.05(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [여기, 피화당] 마지막 티켓 오픈]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14103</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14103"/>
+        <updated>2024-02-28T05:14:48.034Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <스쿨 오브 락> 월드투어-부산 3/6(수) 14시 티켓오픈!]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14087"/>
         <updated>2024-02-23T05:13:59.531Z</updated>
         <content type="html"><![CDATA[2024.02.29(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 라이브가족뮤지컬 〈어린이캣프렌즈〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14086</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14086"/>
-        <updated>2024-02-23T02:19:42.265Z</updated>
-        <content type="html"><![CDATA[2024.02.26(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매NMIXX 공식 팬클럽 NSWER 2기 모집 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14085</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14085"/>
-        <updated>2024-02-23T03:14:40.213Z</updated>
-        <content type="html"><![CDATA[2024.02.26(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉐라톤 그랜드 인천 호텔 [윤한 라이브 샌드 아트 ＆ 재즈 콘서트] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14084</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14084"/>
-        <updated>2024-02-22T08:17:31.081Z</updated>
-        <content type="html"><![CDATA[2024.02.23(금) 11:00]]></content>
     </entry>
 </feed>
