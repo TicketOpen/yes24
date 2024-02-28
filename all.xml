@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 00:58:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 01:53:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <스쿨 오브 락> 월드투어-부산 3/6(수) 14시 티켓오픈! (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14102</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14102</guid>
+            <pubDate>Wed, 28 Feb 2024 01:52:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.06(수) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[연극〈실종법칙〉1차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14101</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2024.03.05(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[전주] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14081</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14081</guid>
-            <pubDate>Thu, 22 Feb 2024 05:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.27(화) 14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <스쿨 오브 락> 월드투어-부산 3/6(수) 14시 티켓오픈! (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14102&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14102&amp;order=1</guid>
+            <pubDate>Wed, 28 Feb 2024 01:52:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024-03-06(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극〈실종법칙〉1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,11 +218,12 @@
             <content:encoded><![CDATA[2024-03-04(월) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BOBBY ZERO GRAVITY IN SEOUL 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14092&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14092&amp;order=1</guid>
-            <pubDate>Mon, 26 Feb 2024 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024-02-29(목) 20:00]]></content:encoded>
+            <title><![CDATA[공포연극 [자취] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/48405</link>
+            <guid>http://ticket.yes24.com/Perf/48405</guid>
+            <pubDate>Mon, 26 Feb 2024 01:54:59 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>12,400원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202402/20240226/20240226-48405_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈친구의 전설〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -224,14 +232,6 @@
             <pubDate>Mon, 26 Feb 2024 01:54:59 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>친구석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>27,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202402/20240226/20240226-48827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공포연극 [자취] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/48405</link>
-            <guid>http://ticket.yes24.com/Perf/48405</guid>
-            <pubDate>Mon, 26 Feb 2024 01:54:59 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>12,400원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202402/20240226/20240226-48405_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 친구의 전설 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
