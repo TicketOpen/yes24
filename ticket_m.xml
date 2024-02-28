@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-28T02:20:35.927Z</updated>
+    <updated>2024-02-28T03:15:06.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬〈엄마까투리는 슈퍼맘〉- 대전 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14104&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14104&amp;order=1"/>
+        <updated>2024-02-28T03:14:15.798Z</updated>
+        <content type="html"><![CDATA[2024-03-05(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <스쿨 오브 락> 월드투어-부산 3/6(수) 14시 티켓오픈!]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14102&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14094&amp;order=1"/>
         <updated>2024-02-26T07:14:57.530Z</updated>
         <content type="html"><![CDATA[2024-02-27(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 음악극 〈캐롤〉 1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14093&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14093&amp;order=1"/>
-        <updated>2024-02-26T07:14:57.531Z</updated>
-        <content type="html"><![CDATA[2024-03-04(월) 15:00]]></content>
     </entry>
 </feed>
