@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-29T02:19:00.490Z</updated>
+    <updated>2024-02-29T03:16:43.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매TeamY FAN MEETING in Seoul (presented by KOE) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14112</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14112"/>
+        <updated>2024-02-29T03:15:44.057Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <디어 에반 핸슨> 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14111</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14092"/>
         <updated>2024-02-26T03:15:27.680Z</updated>
         <content type="html"><![CDATA[2024.02.29(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천 남동소래아트홀] 2024 라이브 가족뮤지컬[아기돼지삼형제] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14091</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14091"/>
-        <updated>2024-02-23T09:13:35.560Z</updated>
-        <content type="html"><![CDATA[2024.02.27(화) 09:00]]></content>
     </entry>
 </feed>
