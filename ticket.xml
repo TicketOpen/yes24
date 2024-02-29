@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-29T06:19:00.763Z</updated>
+    <updated>2024-02-29T07:16:09.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <바스커빌 : 셜록홈즈 미스터리> 1차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14113</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14113"/>
+        <updated>2024-02-29T07:15:20.920Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매TeamY FAN MEETING in Seoul (presented by KOE) 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14112</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14093"/>
         <updated>2024-02-26T07:14:49.479Z</updated>
         <content type="html"><![CDATA[2024.03.04(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매BOBBY ZERO GRAVITY IN SEOUL 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14092</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14092"/>
-        <updated>2024-02-26T03:15:27.680Z</updated>
-        <content type="html"><![CDATA[2024.02.29(목) 20:00]]></content>
     </entry>
 </feed>
