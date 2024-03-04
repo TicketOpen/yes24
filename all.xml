@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 04:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 05:51:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단독판매2024 SEASON TEAM 노지훈 in SEOUL 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14117</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14117</guid>
+            <pubDate>Mon, 04 Mar 2024 05:50:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.07(목) 10:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[성수] 뮤지컬 [친구의 전설] 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14116</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2024.02.29(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[라트라비아타와 함께 떠나는 봄의 오페라 여행 - 부산 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14096</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14096</guid>
-            <pubDate>Mon, 26 Feb 2024 08:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.04(월) 14:00]]></content:encoded>
+            <title><![CDATA[2024 SEASON TEAM 노지훈 in SEOUL 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14117&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14117&amp;order=1</guid>
+            <pubDate>Mon, 04 Mar 2024 05:50:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024-03-07(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[성수] 뮤지컬 [친구의 전설] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,21 +218,6 @@
             <content:encoded><![CDATA[2024-03-06(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 연극 <친정엄마와 2박3일> - 이천 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14106&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14106&amp;order=1</guid>
-            <pubDate>Wed, 28 Feb 2024 05:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-04(월) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[화가시리즈 - 뮤지컬 〈모딜리아니〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/47420</link>
-            <guid>http://ticket.yes24.com/Perf/47420</guid>
-            <pubDate>Mon, 04 Mar 2024 02:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>21,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240304/20240304-47420.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/47421</link>
             <guid>http://ticket.yes24.com/Perf/47421</guid>
@@ -242,6 +234,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240304/20240304-47413.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[화가시리즈 - 뮤지컬 〈모딜리아니〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/47420</link>
+            <guid>http://ticket.yes24.com/Perf/47420</guid>
+            <pubDate>Mon, 04 Mar 2024 02:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>21,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240304/20240304-47420.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 모딜리아니 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/47420</link>
             <guid>http://m.ticket.yes24.com/Perf/47420</guid>
@@ -255,18 +255,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240304/20240304-47420.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 에곤 실레 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/47421</link>
-            <guid>http://m.ticket.yes24.com/Perf/47421</guid>
-            <pubDate>Mon, 04 Mar 2024 02:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 에곤 실레</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">15,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">(1인 4매)
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240304/20240304-47421.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 그곳에 있었다 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/47413</link>
             <guid>http://m.ticket.yes24.com/Perf/47413</guid>
@@ -278,6 +266,18 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240304/20240304-47413.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 에곤 실레 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/47421</link>
+            <guid>http://m.ticket.yes24.com/Perf/47421</guid>
+            <pubDate>Mon, 04 Mar 2024 02:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 에곤 실레</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">30,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">15,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">(1인 4매)
+</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240304/20240304-47421.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <파가니니> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>

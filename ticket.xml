@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-04T04:44:29.902Z</updated>
+    <updated>2024-03-04T05:51:08.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 SEASON TEAM 노지훈 in SEOUL 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14117</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14117"/>
+        <updated>2024-03-04T05:50:06.547Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[성수] 뮤지컬 [친구의 전설] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14116</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14097"/>
         <updated>2024-02-27T05:14:34.788Z</updated>
         <content type="html"><![CDATA[2024.02.29(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라트라비아타와 함께 떠나는 봄의 오페라 여행 - 부산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14096</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14096"/>
-        <updated>2024-02-26T08:18:20.167Z</updated>
-        <content type="html"><![CDATA[2024.03.04(월) 14:00]]></content>
     </entry>
 </feed>
