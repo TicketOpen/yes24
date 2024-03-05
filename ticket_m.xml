@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-05T04:17:10.792Z</updated>
+    <updated>2024-03-05T05:14:32.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 LOVESOME - 마음 방울 채집 2차 라인업 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14121&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14121&amp;order=1"/>
+        <updated>2024-03-05T05:13:49.282Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 2024 헤이즈 X 유라 [SUDDENLY FESTIVAL] 공연 취소 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14120&amp;order=1</id>
@@ -66,12 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14112&amp;order=1"/>
         <updated>2024-02-29T03:15:52.672Z</updated>
         <content type="html"><![CDATA[2024-03-04(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <디어 에반 핸슨> 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14111&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14111&amp;order=1"/>
-        <updated>2024-02-29T01:48:56.984Z</updated>
-        <content type="html"><![CDATA[2024-03-06(수) 11:00]]></content>
     </entry>
 </feed>
