@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-05T06:18:05.645Z</updated>
+    <updated>2024-03-05T07:13:30.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[여둘톡: 여자 둘이 토크하고 있습니다] 공개방송 ‘톡토로 투게더 2024’ 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14122</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14122"/>
+        <updated>2024-03-05T07:12:30.928Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 LOVESOME - 마음 방울 채집 2차 라인업 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14121</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14102"/>
         <updated>2024-02-28T01:52:49.070Z</updated>
         <content type="html"><![CDATA[2024.03.06(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극〈실종법칙〉1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14101</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14101"/>
-        <updated>2024-02-27T03:15:42.610Z</updated>
-        <content type="html"><![CDATA[2024.02.29(목) 14:00]]></content>
     </entry>
 </feed>
