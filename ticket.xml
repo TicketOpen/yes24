@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-06T08:19:32.059Z</updated>
+    <updated>2024-03-06T09:15:04.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매ZUTOMAYO INTENSE IN SEOUL, KOREA 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14125</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14125"/>
+        <updated>2024-03-06T09:14:05.362Z</updated>
+        <content type="html"><![CDATA[2024.03.12(화) 18:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.03.08(금) 18:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(3/9, 3/10, 3/16, 3/17, 3/18)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14124</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14105"/>
         <updated>2024-02-28T05:14:48.032Z</updated>
         <content type="html"><![CDATA[2024.03.04(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬〈엄마까투리는 슈퍼맘〉- 대전 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14104</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14104"/>
-        <updated>2024-02-28T03:14:07.343Z</updated>
-        <content type="html"><![CDATA[2024.03.05(화) 09:00]]></content>
     </entry>
 </feed>
