@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-06T02:19:48.453Z</updated>
+    <updated>2024-03-06T03:15:46.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[군포] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14123&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14123&amp;order=1"/>
+        <updated>2024-03-06T03:14:56.167Z</updated>
+        <content type="html"><![CDATA[2024-03-06(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여둘톡: 여자 둘이 토크하고 있습니다] 공개방송 ‘톡토로 투게더 2024’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14122&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14114&amp;order=1"/>
         <updated>2024-02-29T08:16:25.957Z</updated>
         <content type="html"><![CDATA[2024-03-04(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <바스커빌 : 셜록홈즈 미스터리> 1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14113&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14113&amp;order=1"/>
-        <updated>2024-02-29T07:15:28.014Z</updated>
-        <content type="html"><![CDATA[2024-03-06(수) 14:00]]></content>
     </entry>
 </feed>
