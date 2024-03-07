@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-07T03:14:03.195Z</updated>
+    <updated>2024-03-07T04:17:02.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[용인] 2024 라이브가족뮤지컬 〈피터팬〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14128</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14128"/>
+        <updated>2024-03-07T04:16:07.998Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[하남] 뮤지컬 [친구의 전설] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14127</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14109"/>
         <updated>2024-02-28T08:17:10.776Z</updated>
         <content type="html"><![CDATA[2024.03.06(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <마리 퀴리> 김해 공연 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14108</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14108"/>
-        <updated>2024-02-28T06:18:04.137Z</updated>
-        <content type="html"><![CDATA[2024.03.06(수) 14:00]]></content>
     </entry>
 </feed>
