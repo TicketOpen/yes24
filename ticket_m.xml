@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-07T02:14:25.441Z</updated>
+    <updated>2024-03-07T03:14:03.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14127&amp;order=1"/>
         <updated>2024-03-07T02:13:41.308Z</updated>
         <content type="html"><![CDATA[2024-03-11(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2024 가정의 달 특집 효(孝)콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14126&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14126&amp;order=1"/>
+        <updated>2024-03-07T03:13:12.049Z</updated>
+        <content type="html"><![CDATA[2024-03-08(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZUTOMAYO INTENSE IN SEOUL, KOREA 티켓 오픈 안내]]></title>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14117&amp;order=1"/>
         <updated>2024-03-04T05:50:14.563Z</updated>
         <content type="html"><![CDATA[2024-03-07(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성수] 뮤지컬 [친구의 전설] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14116&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14116&amp;order=1"/>
-        <updated>2024-03-04T02:05:34.884Z</updated>
-        <content type="html"><![CDATA[2024-03-08(금) 11:00]]></content>
     </entry>
 </feed>
