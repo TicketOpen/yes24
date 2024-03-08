@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-08T01:52:03.234Z</updated>
+    <updated>2024-03-08T02:21:18.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브가족뮤지컬 [이상한나라의 앨리스] - 안양 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14131&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14131&amp;order=1"/>
+        <updated>2024-03-08T02:20:37.520Z</updated>
+        <content type="html"><![CDATA[2024-03-12(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쉐라톤 그랜드 인천 호텔 [윤한 라이브 샌드 아트 ＆재즈 콘서트] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14130&amp;order=1</id>
@@ -67,11 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14121&amp;order=1"/>
         <updated>2024-03-05T05:13:49.282Z</updated>
         <content type="html"><![CDATA[2024-03-05(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 헤이즈 X 유라 [SUDDENLY FESTIVAL] 공연 취소 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14120&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14120&amp;order=1"/>
-        <updated>2024-03-05T04:16:30.458Z</updated>
     </entry>
 </feed>
