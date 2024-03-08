@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-08T08:17:37.880Z</updated>
+    <updated>2024-03-08T09:14:48.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정명훈＆도쿄 필하모닉 오케스트라 (협연:조성진) 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14138&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14138&amp;order=1"/>
+        <updated>2024-03-08T09:13:56.128Z</updated>
+        <content type="html"><![CDATA[2024-03-13(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클래식 디깅 클럽 - 드뷔시 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14137&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14137&amp;order=1"/>
+        <updated>2024-03-08T09:13:56.141Z</updated>
+        <content type="html"><![CDATA[2024-03-13(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유키 구라모토 내한 25주년 기념 콘서트 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14136&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14136&amp;order=1"/>
+        <updated>2024-03-08T09:13:56.141Z</updated>
+        <content type="html"><![CDATA[2024-03-12(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인천] 2024 라이브가족뮤지컬[브레멘음악대] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14135&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14129&amp;order=1"/>
         <updated>2024-03-07T05:11:53.748Z</updated>
         <content type="html"><![CDATA[2024-03-13(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 2024 라이브가족뮤지컬 〈피터팬〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14128&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14128&amp;order=1"/>
-        <updated>2024-03-07T04:16:16.329Z</updated>
-        <content type="html"><![CDATA[2024-03-07(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[하남] 뮤지컬 [친구의 전설] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14127&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14127&amp;order=1"/>
-        <updated>2024-03-07T02:13:41.308Z</updated>
-        <content type="html"><![CDATA[2024-03-11(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 가정의 달 특집 효(孝)콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14126&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14126&amp;order=1"/>
-        <updated>2024-03-07T03:13:12.049Z</updated>
-        <content type="html"><![CDATA[2024-03-08(금) 14:00]]></content>
     </entry>
 </feed>
