@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-08T06:18:08.647Z</updated>
+    <updated>2024-03-08T07:18:01.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14134"/>
         <updated>2024-03-08T06:17:05.036Z</updated>
         <content type="html"><![CDATA[2024.03.12(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14133</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14133"/>
+        <updated>2024-03-08T07:17:12.647Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매749번째 고백 - My love, My destiny 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14132</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14132"/>
+        <updated>2024-03-08T07:17:12.647Z</updated>
+        <content type="html"><![CDATA[2024.03.11(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브가족뮤지컬 [이상한나라의 앨리스] - 안양 티켓오픈안내]]></title>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14115"/>
         <updated>2024-02-29T10:16:04.959Z</updated>
         <content type="html"><![CDATA[2024.03.04(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2024 라이브 가족뮤지컬[아기돼지삼형제] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14114</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14114"/>
-        <updated>2024-02-29T08:16:16.491Z</updated>
-        <content type="html"><![CDATA[2024.03.04(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <바스커빌 : 셜록홈즈 미스터리> 1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14113</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14113"/>
-        <updated>2024-02-29T07:15:20.920Z</updated>
-        <content type="html"><![CDATA[2024.03.06(수) 14:00]]></content>
     </entry>
 </feed>

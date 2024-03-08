@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-08T06:18:08.639Z</updated>
+    <updated>2024-03-08T07:18:01.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14134&amp;order=1"/>
         <updated>2024-03-08T06:17:13.859Z</updated>
         <content type="html"><![CDATA[2024-03-12(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [넥스트 투 노멀] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14133&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14133&amp;order=1"/>
+        <updated>2024-03-08T07:17:20.209Z</updated>
+        <content type="html"><![CDATA[2024-03-14(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[749번째 고백 - My love, My destiny 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14132&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14132&amp;order=1"/>
+        <updated>2024-03-08T07:17:20.215Z</updated>
+        <content type="html"><![CDATA[2024-03-11(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브가족뮤지컬 [이상한나라의 앨리스] - 안양 티켓오픈안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14125&amp;order=1"/>
         <updated>2024-03-06T09:14:14.252Z</updated>
         <content type="html"><![CDATA[2024-03-12(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[군포] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14123&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14123&amp;order=1"/>
-        <updated>2024-03-06T03:14:56.167Z</updated>
-        <content type="html"><![CDATA[2024-03-06(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여둘톡: 여자 둘이 토크하고 있습니다] 공개방송 ‘톡토로 투게더 2024’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14122&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14122&amp;order=1"/>
-        <updated>2024-03-05T07:12:39.894Z</updated>
-        <content type="html"><![CDATA[2024-03-14(목) 12:00]]></content>
     </entry>
 </feed>
