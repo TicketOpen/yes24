@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 14:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 15:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,22 +30,6 @@
             <pubDate>Wed, 06 Mar 2024 12:26:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.12 ~ 2024.03.24 | 2024.03.25 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202401/20240112/20240112-0bef60c7-b9ee-4c25-8348-8cab11e3da17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <에곤 실레> 관람 후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47421&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47421&amp;Tab=2</guid>
-            <pubDate>Wed, 06 Mar 2024 12:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.09 ~ 2024.03.10 | 2024.03.12 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202312/20231213/20231213-e8d690c8-4659-450f-bc33-adaa9a9ceba8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <모딜리아니> 관람 후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47420&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=47420&amp;Tab=2</guid>
-            <pubDate>Wed, 06 Mar 2024 12:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.09 ~ 2024.03.10 | 2024.03.12 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202312/20231213/20231213-a730c13c-adaf-4773-8d1e-97aa0ff7b140.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NEW출석체크]]></title>
@@ -74,6 +58,14 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
             <pubDate>Fri, 08 Mar 2024 15:14:33 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[관람후기, YES포인트로 받아가세요]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2450</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2450</guid>
+            <pubDate>Sun, 10 Mar 2024 15:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[2016.01.01 ~ 2030.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202010/20201027/20201027-ev_list_guide_review.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
