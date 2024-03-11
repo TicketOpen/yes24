@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-11T01:00:37.785Z</updated>
+    <updated>2024-03-11T01:53:28.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 이신혁 1st Fanmeeting [It’s Goona Be] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14139&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14139&amp;order=1"/>
+        <updated>2024-03-11T01:52:45.337Z</updated>
+        <content type="html"><![CDATA[2024-03-13(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정명훈＆도쿄 필하모닉 오케스트라 (협연:조성진) 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14138&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14130&amp;order=1"/>
         <updated>2024-03-08T01:50:14.580Z</updated>
         <content type="html"><![CDATA[2024-02-23(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈넓은 하늘의 무지개를 보면 내 마음은 춤춘다〉 추가 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14129&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14129&amp;order=1"/>
-        <updated>2024-03-07T05:11:53.748Z</updated>
-        <content type="html"><![CDATA[2024-03-13(수) 14:00]]></content>
     </entry>
 </feed>
