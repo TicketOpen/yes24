@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-11T04:18:18.434Z</updated>
+    <updated>2024-03-11T05:15:20.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정명훈 & 도쿄필하모닉 내한공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14144</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14144"/>
+        <updated>2024-03-11T05:14:20.876Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 진주 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14143</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14143"/>
+        <updated>2024-03-11T05:14:20.878Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈이상한나라의앨리스〉티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14141</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14141"/>
         <updated>2024-03-11T03:16:33.317Z</updated>
         <content type="html"><![CDATA[2024.03.13(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세종] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14140</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14140"/>
+        <updated>2024-03-11T05:14:20.881Z</updated>
+        <content type="html"><![CDATA[2024.03.13(수) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 이신혁 1st Fanmeeting [It’s Goona Be] 티켓 오픈 안내]]></title>
@@ -122,26 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14124</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14124"/>
         <updated>2024-03-06T06:19:27.976Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[군포] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14123</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14123"/>
-        <updated>2024-03-06T03:14:47.286Z</updated>
-        <content type="html"><![CDATA[2024.03.06(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[여둘톡: 여자 둘이 토크하고 있습니다] 공개방송 ‘톡토로 투게더 2024’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14122</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14122"/>
-        <updated>2024-03-05T07:12:30.928Z</updated>
-        <content type="html"><![CDATA[2024.03.14(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 LOVESOME - 마음 방울 채집 2차 라인업 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14121</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14121"/>
-        <updated>2024-03-05T05:13:42.312Z</updated>
-        <content type="html"><![CDATA[2024.03.05(화) 14:00]]></content>
     </entry>
 </feed>
