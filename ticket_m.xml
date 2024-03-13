@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-13T07:13:39.831Z</updated>
+    <updated>2024-03-13T08:17:44.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14154&amp;order=1"/>
         <updated>2024-03-13T07:12:48.758Z</updated>
         <content type="html"><![CDATA[2024-03-14(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ELEPHANT GYM - The "World" Tour in Seoul 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14153&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14153&amp;order=1"/>
+        <updated>2024-03-13T08:17:02.494Z</updated>
+        <content type="html"><![CDATA[2024-03-18(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14145&amp;order=1"/>
         <updated>2024-03-12T03:17:32.451Z</updated>
         <content type="html"><![CDATA[2024-03-13(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정명훈 & 도쿄필하모닉 내한공연 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14144&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14144&amp;order=1"/>
-        <updated>2024-03-11T05:14:29.537Z</updated>
-        <content type="html"><![CDATA[2024-03-14(목) 15:00]]></content>
     </entry>
 </feed>
