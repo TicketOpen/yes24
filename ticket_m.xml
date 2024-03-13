@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-13T01:00:33.377Z</updated>
+    <updated>2024-03-13T01:55:42.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [낭만별곡] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14151&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14151&amp;order=1"/>
+        <updated>2024-03-13T01:54:25.631Z</updated>
+        <content type="html"><![CDATA[2024-03-19(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[용인] 2024 가족마술콘서트 〈매직오브아트시즌2〉티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14150&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14141&amp;order=1"/>
         <updated>2024-03-11T03:16:40.524Z</updated>
         <content type="html"><![CDATA[2024-03-13(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세종] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14140&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14140&amp;order=1"/>
-        <updated>2024-03-11T05:14:29.543Z</updated>
-        <content type="html"><![CDATA[2024-03-13(수) 14:00]]></content>
     </entry>
 </feed>

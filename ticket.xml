@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-13T01:00:33.380Z</updated>
+    <updated>2024-03-13T01:55:42.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [낭만별곡] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14151</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14151"/>
+        <updated>2024-03-13T01:54:16.452Z</updated>
+        <content type="html"><![CDATA[2024.03.19(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[용인] 2024 가족마술콘서트 〈매직오브아트시즌2〉티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14150</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14131"/>
         <updated>2024-03-08T02:20:30.867Z</updated>
         <content type="html"><![CDATA[2024.03.12(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉐라톤 그랜드 인천 호텔 [윤한 라이브 샌드 아트 ＆재즈 콘서트] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14130</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14130"/>
-        <updated>2024-03-08T01:50:01.308Z</updated>
-        <content type="html"><![CDATA[2024.02.23(금) 11:00]]></content>
     </entry>
 </feed>
