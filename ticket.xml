@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-13T04:16:42.899Z</updated>
+    <updated>2024-03-13T05:15:46.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14152</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14152"/>
+        <updated>2024-03-13T05:14:49.056Z</updated>
+        <content type="html"><![CDATA[2024.03.18(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [낭만별곡] 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14151</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14132"/>
         <updated>2024-03-08T07:17:12.647Z</updated>
         <content type="html"><![CDATA[2024.03.11(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브가족뮤지컬 [이상한나라의 앨리스] - 안양 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14131</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14131"/>
-        <updated>2024-03-08T02:20:30.867Z</updated>
-        <content type="html"><![CDATA[2024.03.12(화) 09:00]]></content>
     </entry>
 </feed>
