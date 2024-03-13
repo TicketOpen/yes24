@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2024-03-13T02:22:27.173Z</updated>
+    <updated>2024-03-13T03:17:43.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -19,6 +19,13 @@
         <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
         <updated>2024-01-05T12:26:37.868Z</updated>
         <content type="html"><![CDATA[<dt>발급기간</dt><dd>2024.03.12 ~ 2024.03.17</dd><dt>사용기간</dt><dd>2024.03.12 ~ 2024.03.17</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 노트르담 드 파리] 5,000원 할인 쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2024-01-05T12:26:37.868Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2024.03.13 ~ 2024.05.12</dd><dt>사용기간</dt><dd>2024.03.13 ~ 2024.05.12</dd>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인]]></title>

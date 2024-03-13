@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 02:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 03:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -347,6 +347,13 @@
             <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.03.12 ~ 2024.03.17</dd><dt>사용기간</dt><dd>2024.03.12 ~ 2024.03.17</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[뮤지컬 노트르담 드 파리] 5,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Fri, 05 Jan 2024 12:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.03.13 ~ 2024.05.12</dd><dt>사용기간</dt><dd>2024.03.13 ~ 2024.05.12</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -380,6 +387,13 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=46806</guid>
             <pubDate>Tue, 12 Mar 2024 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 노트르담 드 파리] 5,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=46804</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=46804</guid>
+            <pubDate>Wed, 13 Mar 2024 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
