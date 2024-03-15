@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-15T01:00:12.484Z</updated>
+    <updated>2024-03-15T01:54:16.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬〈신데렐라〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14162&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14162&amp;order=1"/>
+        <updated>2024-03-15T01:53:30.802Z</updated>
+        <content type="html"><![CDATA[2024-03-18(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 가족라이브뮤지컬 〈겨울이야기〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14160&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14151&amp;order=1"/>
         <updated>2024-03-13T01:54:25.631Z</updated>
         <content type="html"><![CDATA[2024-03-19(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 2024 가족마술콘서트 〈매직오브아트시즌2〉티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14150&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14150&amp;order=1"/>
-        <updated>2024-03-12T09:17:54.768Z</updated>
-        <content type="html"><![CDATA[2024-03-13(수) 09:00]]></content>
     </entry>
 </feed>
