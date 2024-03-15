@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-15T04:18:47.362Z</updated>
+    <updated>2024-03-15T05:15:01.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14162&amp;order=1"/>
         <updated>2024-03-15T01:53:30.802Z</updated>
         <content type="html"><![CDATA[2024-03-18(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 뮤지컬 〈광염 소나타〉 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14161&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14161&amp;order=1"/>
+        <updated>2024-03-15T05:14:07.769Z</updated>
+        <content type="html"><![CDATA[2024-03-21(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 가족라이브뮤지컬 〈겨울이야기〉 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14152&amp;order=1"/>
         <updated>2024-03-13T05:14:57.704Z</updated>
         <content type="html"><![CDATA[2024-03-18(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [낭만별곡] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14151&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14151&amp;order=1"/>
-        <updated>2024-03-13T01:54:25.631Z</updated>
-        <content type="html"><![CDATA[2024-03-19(화) 14:00]]></content>
     </entry>
 </feed>
