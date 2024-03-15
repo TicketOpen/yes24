@@ -4,9 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 09:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 10:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(3/9, 3/10, 3/16, 3/17, 3/18, 3/23) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14167</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14167</guid>
+            <pubDate>Fri, 15 Mar 2024 10:14:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[단독판매[JUSTJERK ACADEMY] JERKDEMY SHOWCASE 2024 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14165</link>
@@ -140,13 +146,6 @@
             <content:encoded><![CDATA[2024.03.15(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매Xdinary Heroes 공식 팬클럽 Villains 1기 추가 모집안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14145</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14145</guid>
-            <pubDate>Tue, 12 Mar 2024 03:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.13(수) 12:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[JUSTJERK ACADEMY] JERKDEMY SHOWCASE 2024 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14165&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14165&amp;order=1</guid>
@@ -222,7 +221,15 @@
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48752&amp;Tab=2</guid>
             <pubDate>Fri, 15 Mar 2024 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.15 ~ 2024.05.24 | 2024.05.27 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240315/20240315-874d6023-b780-4182-93e0-de4c15bb3d38.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240315/20240315-48840b25-7f27-4a95-9306-cf7b2d142722.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <광염 소나타>의 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48752&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48752&amp;Tab=2</guid>
+            <pubDate>Fri, 15 Mar 2024 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.15 ~ 2024.05.24 | 2024.05.27 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240315/20240315-99b801b6-03b6-4ee5-815d-e5f5c7ecef5f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창작가무극 〈다윈 영의 악의 기원> 관람 후기이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -279,11 +286,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Wed, 06 Mar 2024 12:26:46 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
+            <title><![CDATA[이벤트 기간2024.03.15 ~ 2024.05.24 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48752</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48752</guid>
+            <pubDate>Fri, 15 Mar 2024 09:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;광염 소나타&gt; 사인 프로그램북과 MD 세트]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240315/20240315-48840b25-7f27-4a95-9306-cf7b2d142722.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.03.15 ~ 2024.05.24 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -291,7 +299,7 @@
             <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48752</guid>
             <pubDate>Fri, 15 Mar 2024 09:14:04 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;광염 소나타&gt; 사인 프로그램북과 MD 세트]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240315/20240315-874d6023-b780-4182-93e0-de4c15bb3d38.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240315/20240315-99b801b6-03b6-4ee5-815d-e5f5c7ecef5f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.03.08 ~ 2024.03.24 (YES24 티켓 ─ 이벤트 모바일)]]></title>
