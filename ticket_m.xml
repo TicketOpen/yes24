@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-15T06:18:29.530Z</updated>
+    <updated>2024-03-15T07:15:08.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[JUSTJERK ACADEMY] JERKDEMY SHOWCASE 2024 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14165&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14165&amp;order=1"/>
+        <updated>2024-03-15T07:13:20.038Z</updated>
+        <content type="html"><![CDATA[2024-03-18(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAY6 CONCERT〈Welcome to the Show〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14164&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14164&amp;order=1"/>
+        <updated>2024-03-15T07:13:20.038Z</updated>
+        <content type="html"><![CDATA[2024-03-26(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 서울예술단 창작가무극 〈천 개의 파랑〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14163&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14155&amp;order=1"/>
         <updated>2024-03-13T09:14:49.701Z</updated>
         <content type="html"><![CDATA[2024-03-14(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids 4TH FANMEETING ‘SKZ’S MAGIC SCHOOL’시야제한석 추가 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14154&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14154&amp;order=1"/>
-        <updated>2024-03-13T07:12:48.758Z</updated>
-        <content type="html"><![CDATA[2024-03-14(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELEPHANT GYM - The "World" Tour in Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14153&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14153&amp;order=1"/>
-        <updated>2024-03-13T08:17:02.494Z</updated>
-        <content type="html"><![CDATA[2024-03-18(월) 14:00]]></content>
     </entry>
 </feed>
