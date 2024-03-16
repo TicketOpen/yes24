@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 01:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 02:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,6 +366,13 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[뮤지컬 광염소나타] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Fri, 05 Jan 2024 12:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.03.15 ~ 2024.03.24</dd><dt>사용기간</dt><dd>2024.03.15 ~ 2024.03.24</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[뮤지컬 난설, 이프아이월유] 개막 기념 3천원 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -420,6 +427,13 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=46804</guid>
             <pubDate>Wed, 13 Mar 2024 03:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 광염소나타] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=46837</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=46837</guid>
+            <pubDate>Sat, 16 Mar 2024 02:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
