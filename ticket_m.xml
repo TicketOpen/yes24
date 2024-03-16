@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-16T06:17:12.170Z</updated>
+    <updated>2024-03-16T07:14:57.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14169&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14169&amp;order=1"/>
+        <updated>2024-03-16T07:13:16.318Z</updated>
+        <content type="html"><![CDATA[2024-03-19(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[수원] 2024 가족매직쇼 〈매직사이언스콘서트〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14168&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14168&amp;order=1"/>
+        <updated>2024-03-16T07:13:16.319Z</updated>
+        <content type="html"><![CDATA[2024-03-18(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[JUSTJERK ACADEMY] JERKDEMY SHOWCASE 2024 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14165&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14158&amp;order=1"/>
         <updated>2024-03-14T05:13:04.277Z</updated>
         <content type="html"><![CDATA[2024-03-15(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김해] 2024 가족어린이공연 [버블버블쇼] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14156&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14156&amp;order=1"/>
-        <updated>2024-03-13T09:14:49.699Z</updated>
-        <content type="html"><![CDATA[2024-03-14(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김해] 2024 [어린이마술쇼] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14155&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14155&amp;order=1"/>
-        <updated>2024-03-13T09:14:49.701Z</updated>
-        <content type="html"><![CDATA[2024-03-14(목) 09:00]]></content>
     </entry>
 </feed>
