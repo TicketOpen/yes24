@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-18T08:18:06.173Z</updated>
+    <updated>2024-03-18T09:15:37.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[이천] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14178</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14178"/>
+        <updated>2024-03-18T09:14:30.136Z</updated>
+        <content type="html"><![CDATA[2024.03.19(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[전주] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14177</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14159"/>
         <updated>2024-03-14T05:12:57.375Z</updated>
         <content type="html"><![CDATA[2024.03.18(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 2024 주현미 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14158</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14158"/>
-        <updated>2024-03-14T05:12:57.378Z</updated>
-        <content type="html"><![CDATA[2024.03.15(금) 14:00]]></content>
     </entry>
 </feed>
