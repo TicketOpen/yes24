@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-18T01:00:38.775Z</updated>
+    <updated>2024-03-18T01:53:42.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14168&amp;order=1"/>
         <updated>2024-03-16T07:13:16.319Z</updated>
         <content type="html"><![CDATA[2024-03-18(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DURDN 1st Asia Tour ＂Komorebi＂ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14166&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14166&amp;order=1"/>
+        <updated>2024-03-18T01:53:01.340Z</updated>
+        <content type="html"><![CDATA[2024-03-18(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[JUSTJERK ACADEMY] JERKDEMY SHOWCASE 2024 티켓오픈안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14159&amp;order=1"/>
         <updated>2024-03-14T05:13:04.276Z</updated>
         <content type="html"><![CDATA[2024-03-18(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 주현미 콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14158&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14158&amp;order=1"/>
-        <updated>2024-03-14T05:13:04.277Z</updated>
-        <content type="html"><![CDATA[2024-03-15(금) 14:00]]></content>
     </entry>
 </feed>
