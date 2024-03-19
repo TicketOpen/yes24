@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 01:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 02:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈지옥에서〉 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14179</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14179</guid>
+            <pubDate>Tue, 19 Mar 2024 02:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.21(목) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[이천] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14178</link>
@@ -140,11 +147,11 @@
             <content:encoded><![CDATA[2024.03.18(월) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[얼리버드] 스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14159</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14159</guid>
-            <pubDate>Thu, 14 Mar 2024 05:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.18(월) 10:00]]></content:encoded>
+            <title><![CDATA[연극 〈지옥에서〉 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14179&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14179&amp;order=1</guid>
+            <pubDate>Tue, 19 Mar 2024 02:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024-03-21(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이천] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -208,13 +215,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14170&amp;order=1</guid>
             <pubDate>Mon, 18 Mar 2024 05:14:59 GMT</pubDate>
             <content:encoded><![CDATA[2024-03-22(금) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대전] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14169&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14169&amp;order=1</guid>
-            <pubDate>Mon, 18 Mar 2024 05:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-19(화) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈욘 John〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
