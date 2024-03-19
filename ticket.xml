@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-19T04:17:35.692Z</updated>
+    <updated>2024-03-19T05:14:50.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2024 이미자 노래인생 65주년 기념 음악회 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14181</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14181"/>
+        <updated>2024-03-19T05:13:51.588Z</updated>
+        <content type="html"><![CDATA[2024.03.22(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 이미자 노래인생 65주년 기념 음악회 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14180</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14180"/>
+        <updated>2024-03-19T05:13:51.589Z</updated>
+        <content type="html"><![CDATA[2024.03.22(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈지옥에서〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14179</id>
@@ -128,20 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14162</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14162"/>
         <updated>2024-03-15T01:53:22.366Z</updated>
-        <content type="html"><![CDATA[2024.03.18(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 뮤지컬 〈광염 소나타〉 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14161</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14161"/>
-        <updated>2024-03-15T05:13:59.635Z</updated>
-        <content type="html"><![CDATA[2024.03.21(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 가족라이브뮤지컬 〈겨울이야기〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14160</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14160"/>
-        <updated>2024-03-14T08:17:15.608Z</updated>
         <content type="html"><![CDATA[2024.03.18(월) 09:00]]></content>
     </entry>
 </feed>
