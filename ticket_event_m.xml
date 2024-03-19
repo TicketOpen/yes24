@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 08:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 09:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2024.03.19 ~ 2024.04.30]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48728</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48728</guid>
+            <pubDate>Tue, 19 Mar 2024 09:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em> 낭만별곡 출연배우(11인) 사인이 담긴 프로그램북 + 즉석사진(배우 11명 중 1명 지정)]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240319/20240319-6db790bf-3d16-4193-9677-94521e952bdb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2024.03.19 ~ 2024.03.31]]></title>
             <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3564</link>
