@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-20T00:59:27.595Z</updated>
+    <updated>2024-03-20T01:51:32.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈이프아이월유〉 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14185</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14185"/>
+        <updated>2024-03-20T01:50:45.634Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매아타라시이 각코!(ATARASHII GAKKO!) 첫 내한공연 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14184</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14166"/>
         <updated>2024-03-18T01:52:54.144Z</updated>
         <content type="html"><![CDATA[2024.03.18(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[JUSTJERK ACADEMY] JERKDEMY SHOWCASE 2024 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14165</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14165"/>
-        <updated>2024-03-15T07:13:11.351Z</updated>
-        <content type="html"><![CDATA[2024.03.18(월) 14:00]]></content>
     </entry>
 </feed>
