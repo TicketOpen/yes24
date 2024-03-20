@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-20T04:19:05.279Z</updated>
+    <updated>2024-03-20T05:15:39.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 뮤지컬 〈광염 소나타〉 추가 좌석 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14187</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14187"/>
+        <updated>2024-03-20T05:14:41.915Z</updated>
+        <content type="html"><![CDATA[2024.03.21(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여수] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14186</id>
@@ -137,11 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14168"/>
         <updated>2024-03-16T07:13:09.552Z</updated>
         <content type="html"><![CDATA[2024.03.18(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(3/9, 3/10, 3/16, 3/17, 3/18, 3/23)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14167</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14167"/>
-        <updated>2024-03-15T10:14:19.177Z</updated>
     </entry>
 </feed>

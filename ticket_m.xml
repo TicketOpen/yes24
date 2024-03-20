@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-20T04:19:05.257Z</updated>
+    <updated>2024-03-20T05:15:39.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 뮤지컬 〈광염 소나타〉 추가 좌석 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14187&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14187&amp;order=1"/>
+        <updated>2024-03-20T05:14:50.576Z</updated>
+        <content type="html"><![CDATA[2024-03-21(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여수] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14186&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14178&amp;order=1"/>
         <updated>2024-03-18T09:14:39.289Z</updated>
         <content type="html"><![CDATA[2024-03-19(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14177&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14177&amp;order=1"/>
-        <updated>2024-03-18T07:14:43.416Z</updated>
-        <content type="html"><![CDATA[2024-04-30(화) 10:00]]></content>
     </entry>
 </feed>
