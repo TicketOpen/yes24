@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 07:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 08:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2024.03.21 ~ 2024.03.29]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3569</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3569</guid>
+            <pubDate>Thu, 21 Mar 2024 08:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/images/common/defaultimg.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2024.03.19 ~ 2024.04.30]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48728</link>

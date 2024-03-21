@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-21T07:14:02.487Z</updated>
+    <updated>2024-03-21T08:18:09.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉- 파주 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14197&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14197&amp;order=1"/>
+        <updated>2024-03-21T08:17:25.128Z</updated>
+        <content type="html"><![CDATA[2024-03-26(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 라이브 가족뮤지컬 〈장화신은고양이〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14195&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14187&amp;order=1"/>
         <updated>2024-03-20T12:25:27.246Z</updated>
         <content type="html"><![CDATA[2024-03-21(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14186&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14186&amp;order=1"/>
-        <updated>2024-03-20T12:25:27.248Z</updated>
-        <content type="html"><![CDATA[2024-03-22(금) 14:00]]></content>
     </entry>
 </feed>
