@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-21T06:18:50.604Z</updated>
+    <updated>2024-03-21T07:14:02.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 라이브 가족뮤지컬 〈장화신은고양이〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14195</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14195"/>
+        <updated>2024-03-21T07:13:06.589Z</updated>
+        <content type="html"><![CDATA[2024.03.22(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 가족매직쇼 〈매직사이언스콘서트〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14194</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14176"/>
         <updated>2024-03-20T12:25:05.920Z</updated>
         <content type="html"><![CDATA[2024.04.23(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[천안] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14175</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14175"/>
-        <updated>2024-03-20T12:25:05.923Z</updated>
-        <content type="html"><![CDATA[2024.04.16(화) 10:00]]></content>
     </entry>
 </feed>
