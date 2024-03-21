@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-21T08:18:09.583Z</updated>
+    <updated>2024-03-21T09:14:40.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매King Gnu Asia Tour ‘THE GREATEST UNKNOWN’ in Seoul 추가 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14198</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14198"/>
+        <updated>2024-03-21T09:13:43.506Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉- 파주 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14197</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14197"/>
         <updated>2024-03-21T08:17:18.030Z</updated>
         <content type="html"><![CDATA[2024.03.26(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [파가니니] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14196</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14196"/>
+        <updated>2024-03-21T09:13:43.507Z</updated>
+        <content type="html"><![CDATA[2024.03.28(목) 16:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2024.03.28(목) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 라이브 가족뮤지컬 〈장화신은고양이〉 티켓오픈 안내]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14179"/>
         <updated>2024-03-20T12:25:05.915Z</updated>
         <content type="html"><![CDATA[2024.03.21(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이천] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14178</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14178"/>
-        <updated>2024-03-20T12:25:05.917Z</updated>
-        <content type="html"><![CDATA[2024.03.19(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[전주] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14177</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14177"/>
-        <updated>2024-03-20T12:25:05.918Z</updated>
-        <content type="html"><![CDATA[2024.04.30(화) 10:00]]></content>
     </entry>
 </feed>

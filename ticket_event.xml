@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 08:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 09:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 LOVESOME 프로모션]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3569</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3569</guid>
-            <pubDate>Thu, 21 Mar 2024 08:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.21 ~ 2024.03.29]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/images/common/defaultimg.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <낭만별곡>관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48728&amp;Tab=2</link>
@@ -78,6 +70,13 @@
             <pubDate>Wed, 20 Mar 2024 12:26:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.12 ~ 2024.03.24 | 2024.03.25 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202401/20240112/20240112-0bef60c7-b9ee-4c25-8348-8cab11e3da17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Thu, 21 Mar 2024 09:14:17 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
