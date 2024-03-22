@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-21T23:16:13.495Z</updated>
+    <updated>2024-03-22T00:59:44.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 5월 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14200</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14200"/>
+        <updated>2024-03-22T00:58:46.126Z</updated>
+        <content type="html"><![CDATA[2024.03.28(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 가족어린이공연 〈공룡애니멀쇼〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14199</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14199"/>
+        <updated>2024-03-22T00:58:46.126Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매King Gnu Asia Tour ‘THE GREATEST UNKNOWN’ in Seoul 추가 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14198</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14181"/>
         <updated>2024-03-20T12:25:05.912Z</updated>
         <content type="html"><![CDATA[2024.03.22(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 이미자 노래인생 65주년 기념 음악회 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14180</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14180"/>
-        <updated>2024-03-20T12:25:05.914Z</updated>
-        <content type="html"><![CDATA[2024.03.22(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈지옥에서〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14179</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14179"/>
-        <updated>2024-03-20T12:25:05.915Z</updated>
-        <content type="html"><![CDATA[2024.03.21(목) 14:00]]></content>
     </entry>
 </feed>
