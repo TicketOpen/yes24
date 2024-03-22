@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-22T02:21:00.866Z</updated>
+    <updated>2024-03-22T03:15:47.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[너, 내 동료가 돼라! -재패니메이션 OST 콘서트- 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14201</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14201"/>
+        <updated>2024-03-22T03:14:47.509Z</updated>
+        <content type="html"><![CDATA[2024.03.25(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 5월 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14200</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14182"/>
         <updated>2024-03-20T12:25:05.911Z</updated>
         <content type="html"><![CDATA[2024.03.21(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 이미자 노래인생 65주년 기념 음악회 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14181</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14181"/>
-        <updated>2024-03-20T12:25:05.912Z</updated>
-        <content type="html"><![CDATA[2024.03.22(금) 15:00]]></content>
     </entry>
 </feed>
