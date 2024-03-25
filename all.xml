@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 14:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 15:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,20 +218,20 @@
             <content:encoded><![CDATA[2024-03-28(목) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 뮤지컬 〈광염 소나타〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/48752</link>
-            <guid>http://ticket.yes24.com/Perf/48752</guid>
-            <pubDate>Mon, 25 Mar 2024 01:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240325/20240325-48752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈이프아이월유〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/48619</link>
             <guid>http://ticket.yes24.com/Perf/48619</guid>
             <pubDate>Mon, 25 Mar 2024 01:56:20 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									70,000원								</td>								<td class="dc_price">									<em>→</em>46,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240325/20240325-48619.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 뮤지컬 〈광염 소나타〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/48752</link>
+            <guid>http://ticket.yes24.com/Perf/48752</guid>
+            <pubDate>Mon, 25 Mar 2024 01:56:20 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240325/20240325-48752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 광염 소나타 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -256,6 +256,14 @@
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/26~4/7 공연 (1인 4매)
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240325/20240325-48619.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나훈아 '2024 고마웠습니다-라스트 콘서트(LAST CONCERT)' - 청주 취소표 오픈 사전 알림 신청 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</guid>
+            <pubDate>Mon, 25 Mar 2024 15:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.26 ~ 2024.03.27]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/images/common/defaultimg.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <낭만별곡>관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -320,11 +328,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Mon, 25 Mar 2024 12:24:55 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
+            <title><![CDATA[이벤트 기간2024.03.26 ~ 2024.03.27 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3568</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3568</guid>
+            <pubDate>Mon, 25 Mar 2024 15:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/images/common/defaultimg.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.03.19 ~ 2024.04.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
