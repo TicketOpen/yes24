@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-25T05:16:01.300Z</updated>
+    <updated>2024-03-25T06:20:21.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전시 리얼뱅크시[REAL BANKSY] - 슈퍼얼리버드 오픈 안내[한정수량판매]]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14207&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14207&amp;order=1"/>
+        <updated>2024-03-25T06:19:10.676Z</updated>
+        <content type="html"><![CDATA[2024-03-27(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<야노스 슈타커 탄생 100주년 기념 첼로 페스티벌> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14206&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14198&amp;order=1"/>
         <updated>2024-03-21T09:13:53.384Z</updated>
         <content type="html"><![CDATA[2024-03-26(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉- 파주 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14197&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14197&amp;order=1"/>
-        <updated>2024-03-21T08:17:25.128Z</updated>
-        <content type="html"><![CDATA[2024-03-26(화) 09:00]]></content>
     </entry>
 </feed>

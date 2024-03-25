@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-25T05:16:01.307Z</updated>
+    <updated>2024-03-25T06:20:21.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전시 리얼뱅크시[REAL BANKSY] - 슈퍼얼리버드 오픈 안내[한정수량판매]]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14207</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14207"/>
+        <updated>2024-03-25T06:18:59.456Z</updated>
+        <content type="html"><![CDATA[2024.03.27(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<야노스 슈타커 탄생 100주년 기념 첼로 페스티벌> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14206</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14188"/>
         <updated>2024-03-20T12:25:05.899Z</updated>
         <content type="html"><![CDATA[2024.03.22(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 뮤지컬 〈광염 소나타〉 추가 좌석 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14187</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14187"/>
-        <updated>2024-03-20T12:25:05.900Z</updated>
-        <content type="html"><![CDATA[2024.03.21(목) 14:00]]></content>
     </entry>
 </feed>
