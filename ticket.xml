@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-25T04:18:38.031Z</updated>
+    <updated>2024-03-25T05:16:01.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<야노스 슈타커 탄생 100주년 기념 첼로 페스티벌> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14206</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14206"/>
+        <updated>2024-03-25T05:14:36.798Z</updated>
+        <content type="html"><![CDATA[2024.03.29(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울] 2024 라이브 가족뮤지컬〈사운드오브뮤직〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14205</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14205"/>
         <updated>2024-03-25T04:17:04.736Z</updated>
         <content type="html"><![CDATA[2024.03.25(월) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 Y2K 고재근 단독 콘서트 (데뷔 25주년 기념) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14204</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14204"/>
+        <updated>2024-03-25T05:14:36.801Z</updated>
+        <content type="html"><![CDATA[2024.03.27(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 대구 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14203</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14203"/>
+        <updated>2024-03-25T05:14:36.801Z</updated>
+        <content type="html"><![CDATA[2024.03.28(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 [나는 왜 없지 않고 있는가?] 티켓 오픈 안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14187"/>
         <updated>2024-03-20T12:25:05.900Z</updated>
         <content type="html"><![CDATA[2024.03.21(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14186</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14186"/>
-        <updated>2024-03-20T12:25:05.904Z</updated>
-        <content type="html"><![CDATA[2024.03.22(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매뮤지컬 〈이프아이월유〉 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14185</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14185"/>
-        <updated>2024-03-20T12:25:05.906Z</updated>
-        <content type="html"><![CDATA[2024.03.26(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매아타라시이 각코!(ATARASHII GAKKO!) 첫 내한공연 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14184</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14184"/>
-        <updated>2024-03-20T12:25:05.908Z</updated>
-        <content type="html"><![CDATA[2024.03.28(목) 12:00]]></content>
     </entry>
 </feed>
