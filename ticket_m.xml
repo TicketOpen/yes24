@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-26T11:13:59.214Z</updated>
+    <updated>2024-03-26T12:26:36.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2024 가족매직쇼 〈매직사이언스콘서트〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14216&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14216&amp;order=1"/>
+        <updated>2024-03-26T12:25:46.142Z</updated>
+        <content type="html"><![CDATA[2024-03-27(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인천] 2024 라이브가족뮤지컬 〈캣프렌즈〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14215&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14215&amp;order=1"/>
+        <updated>2024-03-26T12:25:46.142Z</updated>
+        <content type="html"><![CDATA[2024-03-27(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PEAK FESTIVAL 2024 일반티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14214&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14207&amp;order=1"/>
         <updated>2024-03-26T01:52:19.510Z</updated>
         <content type="html"><![CDATA[2024-03-27(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<야노스 슈타커 탄생 100주년 기념 첼로 페스티벌> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14206&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14206&amp;order=1"/>
-        <updated>2024-03-26T01:52:19.512Z</updated>
-        <content type="html"><![CDATA[2024-03-29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 2024 라이브 가족뮤지컬〈사운드오브뮤직〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14205&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14205&amp;order=1"/>
-        <updated>2024-03-26T01:52:19.513Z</updated>
-        <content type="html"><![CDATA[2024-03-25(월) 13:00]]></content>
     </entry>
 </feed>
