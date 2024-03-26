@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 01:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 02:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,6 +258,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240325/20240325-48619.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <난설>을 관람후기이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48648&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48648&amp;Tab=2</guid>
+            <pubDate>Tue, 26 Mar 2024 02:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.19 ~ 2024.04.28 | 2024.04.29 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240326/20240326-32957208-f835-406e-a1f1-73f3243af2fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나훈아 '2024 고마웠습니다-라스트 콘서트(LAST CONCERT)' - 청주 취소표 오픈 사전 알림 신청 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</guid>
@@ -321,11 +329,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
-            <pubDate>Mon, 25 Mar 2024 12:24:55 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+            <title><![CDATA[이벤트 기간2024.03.19 ~ 2024.04.28 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48648</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48648</guid>
+            <pubDate>Tue, 26 Mar 2024 02:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>전 배우 사인 프로그램북]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240326/20240326-32957208-f835-406e-a1f1-73f3243af2fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.03.26 ~ 2024.03.27 (YES24 티켓 ─ 이벤트 모바일)]]></title>
