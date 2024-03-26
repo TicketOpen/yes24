@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-26T08:19:53.478Z</updated>
+    <updated>2024-03-26T09:16:12.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[PEAK FESTIVAL 2024 일반티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14214&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14214&amp;order=1"/>
+        <updated>2024-03-26T09:14:38.923Z</updated>
+        <content type="html"><![CDATA[2024-03-27(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2024 가족라이브뮤지컬 〈신데렐라〉  티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14213&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14205&amp;order=1"/>
         <updated>2024-03-26T01:52:19.513Z</updated>
         <content type="html"><![CDATA[2024-03-25(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Y2K 고재근 단독 콘서트 (데뷔 25주년 기념) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14204&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14204&amp;order=1"/>
-        <updated>2024-03-26T01:52:19.516Z</updated>
-        <content type="html"><![CDATA[2024-03-27(수) 20:00]]></content>
     </entry>
 </feed>
