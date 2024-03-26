@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-26T06:20:52.683Z</updated>
+    <updated>2024-03-26T07:14:33.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2024 가족라이브뮤지컬 〈신데렐라〉  티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14213&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14213&amp;order=1"/>
+        <updated>2024-03-26T07:12:50.066Z</updated>
+        <content type="html"><![CDATA[2024-03-27(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2024 가족어린이공연 〈공룡애니멀쇼〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14212&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14212&amp;order=1"/>
+        <updated>2024-03-26T07:12:50.066Z</updated>
+        <content type="html"><![CDATA[2024-03-27(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베어 더 뮤지컬(bare the musical) 프리뷰 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14211&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14204&amp;order=1"/>
         <updated>2024-03-26T01:52:19.516Z</updated>
         <content type="html"><![CDATA[2024-03-27(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 대구 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14203&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14203&amp;order=1"/>
-        <updated>2024-03-26T01:52:19.517Z</updated>
-        <content type="html"><![CDATA[2024-03-28(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [나는 왜 없지 않고 있는가?] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14202&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14202&amp;order=1"/>
-        <updated>2024-03-26T01:52:19.518Z</updated>
-        <content type="html"><![CDATA[2024-03-26(화) 10:00]]></content>
     </entry>
 </feed>

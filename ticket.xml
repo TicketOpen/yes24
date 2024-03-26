@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-26T06:20:52.687Z</updated>
+    <updated>2024-03-26T07:14:33.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2024 가족라이브뮤지컬 〈신데렐라〉  티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14213</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14213"/>
+        <updated>2024-03-26T07:12:30.367Z</updated>
+        <content type="html"><![CDATA[2024.03.27(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2024 가족어린이공연 〈공룡애니멀쇼〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14212</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14212"/>
+        <updated>2024-03-26T07:12:30.368Z</updated>
+        <content type="html"><![CDATA[2024.03.27(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베어 더 뮤지컬(bare the musical) 프리뷰 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14211</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14194"/>
         <updated>2024-03-25T12:24:21.934Z</updated>
         <content type="html"><![CDATA[2024.03.26(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 LOVESOME - 마음 방울 채집 최종 라인업 공개]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14193</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14193"/>
-        <updated>2024-03-25T12:24:21.936Z</updated>
-        <content type="html"><![CDATA[2024.03.28(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[목포] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14192</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14192"/>
-        <updated>2024-03-25T12:24:21.937Z</updated>
-        <content type="html"><![CDATA[2024.03.26(화) 14:00]]></content>
     </entry>
 </feed>
