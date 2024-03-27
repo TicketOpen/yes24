@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-26T23:17:14.898Z</updated>
+    <updated>2024-03-27T01:00:05.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes Concert 〈Closed ♭eta: v6.0〉티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14217&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14217&amp;order=1"/>
+        <updated>2024-03-27T00:59:19.625Z</updated>
+        <content type="html"><![CDATA[2024-04-02(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안양] 2024 가족매직쇼 〈매직사이언스콘서트〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14216&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14208&amp;order=1"/>
         <updated>2024-03-26T01:52:19.508Z</updated>
         <content type="html"><![CDATA[2024-03-27(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전시 리얼뱅크시[REAL BANKSY] - 슈퍼얼리버드 오픈 안내[한정수량판매]]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14207&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14207&amp;order=1"/>
-        <updated>2024-03-26T01:52:19.510Z</updated>
-        <content type="html"><![CDATA[2024-03-27(수) 10:00]]></content>
     </entry>
 </feed>
