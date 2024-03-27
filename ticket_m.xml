@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-27T01:00:05.726Z</updated>
+    <updated>2024-03-27T01:53:23.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 아람누리 마티네 콘서트<모닝 플레이리스트Ⅴ- 지휘자 이탐구의 아듀! 2024> 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14218&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14218&amp;order=1"/>
+        <updated>2024-03-27T01:52:33.057Z</updated>
+        <content type="html"><![CDATA[2024-03-29(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xdinary Heroes Concert 〈Closed ♭eta: v6.0〉티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14217&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14209&amp;order=1"/>
         <updated>2024-03-26T01:52:19.508Z</updated>
         <content type="html"><![CDATA[2024-03-26(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 dori first concert ‘CINEMA’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14208&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14208&amp;order=1"/>
-        <updated>2024-03-26T01:52:19.508Z</updated>
-        <content type="html"><![CDATA[2024-03-27(수) 20:00]]></content>
     </entry>
 </feed>
