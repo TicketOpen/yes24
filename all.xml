@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 14:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 15:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,17 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240325/20240325-48752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 광염 소나타 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/48752</link>
+            <guid>http://m.ticket.yes24.com/Perf/48752</guid>
+            <pubDate>Wed, 27 Mar 2024 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 광염 소나타</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">37,200원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/26 - 4/21 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240325/20240325-48752.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 이프아이월유 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/48619</link>
             <guid>http://m.ticket.yes24.com/Perf/48619</guid>
@@ -244,17 +255,6 @@
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/26~4/7 공연 (1인 4매)
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240325/20240325-48619.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 광염 소나타 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/48752</link>
-            <guid>http://m.ticket.yes24.com/Perf/48752</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 광염 소나타</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">37,200원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/26 - 4/21 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240325/20240325-48752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <난설> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -407,13 +407,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[디아길레프/낭만별곡] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.03.19 ~ 2024.03.27</dd><dt>사용기간</dt><dd>2024.03.19 ~ 2024.03.27</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[뮤지컬 노트르담 드 파리] 5,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -454,13 +447,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=46804</guid>
             <pubDate>Wed, 27 Mar 2024 06:18:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[디아길레프/낭만별곡] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=46875</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=46875</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
