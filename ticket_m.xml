@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-28T08:17:58.518Z</updated>
+    <updated>2024-03-28T09:15:37.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[특전소녀전선 스프링리그 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14232&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14232&amp;order=1"/>
+        <updated>2024-03-28T09:14:49.594Z</updated>
+        <content type="html"><![CDATA[2024-03-29(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 2024 화요모닝콘서트 - 7월  [THE PIANIST] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14231&amp;order=1</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[2024 아람누리 마티네 콘서트<모닝 플레이리스트Ⅱ- 지휘자 이탐구의 I Love You> 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14221&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14221&amp;order=1"/>
-        <updated>2024-03-27T06:18:02.229Z</updated>
-        <content type="html"><![CDATA[2024-03-29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 아람누리 마티네 콘서트<모닝 플레이리스트Ⅲ- 지휘자 지중배의 사랑의 슬픔과 기쁨> 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14220&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14220&amp;order=1"/>
         <updated>2024-03-27T06:18:02.229Z</updated>
         <content type="html"><![CDATA[2024-03-29(금) 14:00]]></content>
     </entry>
