@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 04:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 05:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패밀리 서커스 〈이상한 나라의 앨리스〉오리지널 내한공연 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14228</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14228</guid>
+            <pubDate>Thu, 28 Mar 2024 05:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.01(월) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2024 라이브가족뮤지컬〈인어공주〉- 인천 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14227</link>
@@ -140,11 +147,11 @@
             <content:encoded><![CDATA[2024.03.27(수) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전시 리얼뱅크시[REAL BANKSY] - 슈퍼얼리버드 오픈 안내[한정수량판매] (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14207</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14207</guid>
-            <pubDate>Wed, 27 Mar 2024 06:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.27(수) 10:00]]></content:encoded>
+            <title><![CDATA[패밀리 서커스 〈이상한 나라의 앨리스〉오리지널 내한공연 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14228&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14228&amp;order=1</guid>
+            <pubDate>Thu, 28 Mar 2024 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024-04-01(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 라이브가족뮤지컬〈인어공주〉- 인천 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -210,11 +217,12 @@
             <content:encoded><![CDATA[2024-04-02(화) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[안양] 2024 가족매직쇼 〈매직사이언스콘서트〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14216&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14216&amp;order=1</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-27(수) 09:00]]></content:encoded>
+            <title><![CDATA[2024 뮤지컬 〈광염 소나타〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/48752</link>
+            <guid>http://ticket.yes24.com/Perf/48752</guid>
+            <pubDate>Wed, 27 Mar 2024 06:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240325/20240325-48752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈이프아이월유〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -223,14 +231,6 @@
             <pubDate>Wed, 27 Mar 2024 06:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									70,000원								</td>								<td class="dc_price">									<em>→</em>46,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240325/20240325-48619.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 뮤지컬 〈광염 소나타〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/48752</link>
-            <guid>http://ticket.yes24.com/Perf/48752</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202403/20240325/20240325-48752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 광염 소나타 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
