@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-29T08:18:01.054Z</updated>
+    <updated>2024-03-29T09:14:16.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [낭만별곡] X 낭만대수 - 낭만을 찾아 함께 즐겨봅세 오픈공지 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14239</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14239"/>
+        <updated>2024-03-29T09:13:17.630Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 어린이베스트셀러 뮤지컬 〈사과가쿵〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14238</id>
@@ -135,13 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14219</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14219"/>
         <updated>2024-03-27T06:17:55.200Z</updated>
-        <content type="html"><![CDATA[2024.03.29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 아람누리 마티네 콘서트<모닝 플레이리스트Ⅴ- 지휘자 이탐구의 아듀! 2024> 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14218</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14218"/>
-        <updated>2024-03-27T06:17:55.201Z</updated>
         <content type="html"><![CDATA[2024.03.29(금) 14:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-29T08:18:01.059Z</updated>
+    <updated>2024-03-29T09:14:16.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [낭만별곡] X 낭만대수 - 낭만을 찾아 함께 즐겨봅세 오픈공지 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14239&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14239&amp;order=1"/>
+        <updated>2024-03-29T09:13:26.215Z</updated>
+        <content type="html"><![CDATA[2024-04-01(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 어린이베스트셀러 뮤지컬 〈사과가쿵〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14238&amp;order=1</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[창원] 2024 화요모닝콘서트 - 6월 [안세권x리사의 필모그라피] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14230&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14230&amp;order=1"/>
-        <updated>2024-03-28T06:18:04.387Z</updated>
-        <content type="html"><![CDATA[2024-03-29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 화요모닝콘서트 - 5월 [Morning date with 스윗소로우] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14229&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14229&amp;order=1"/>
         <updated>2024-03-28T06:18:04.387Z</updated>
         <content type="html"><![CDATA[2024-03-29(금) 14:00]]></content>
     </entry>
