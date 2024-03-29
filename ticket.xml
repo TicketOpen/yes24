@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-29T01:00:27.529Z</updated>
+    <updated>2024-03-29T01:52:56.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <디어 에반 핸슨> 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14233</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14233"/>
+        <updated>2024-03-29T01:51:58.912Z</updated>
+        <content type="html"><![CDATA[2024.04.04(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매특전소녀전선 스프링리그 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14232</id>
@@ -135,13 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14213</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14213"/>
         <updated>2024-03-27T06:17:55.212Z</updated>
-        <content type="html"><![CDATA[2024.03.27(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2024 가족어린이공연 〈공룡애니멀쇼〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14212</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14212"/>
-        <updated>2024-03-27T06:17:55.213Z</updated>
         <content type="html"><![CDATA[2024.03.27(수) 09:00]]></content>
     </entry>
 </feed>
