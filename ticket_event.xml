@@ -1,82 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 ─ 이벤트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 17:12:03 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<천 개의 파랑> 백일장 (기대평) 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49220&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49220&amp;Tab=3</guid>
-            <pubDate>Fri, 29 Mar 2024 10:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.29 ~ 2024.04.29 | 2024.04.30 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240329/20240329-fe75d3fb-5c27-4e46-88be-bc01f808f866.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <난설> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48648&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48648&amp;Tab=2</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.19 ~ 2024.04.28 | 2024.04.29 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240326/20240326-32957208-f835-406e-a1f1-73f3243af2fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <낭만별곡>관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48728&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48728&amp;Tab=2</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.19 ~ 2024.04.30 | 2024.05.02 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240319/20240319-6db790bf-3d16-4193-9677-94521e952bdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YES24아트원 개관 이벤트]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3564</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3564</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.19 ~ 2024.04.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240319/20240319-c4f8c46b-b987-4c8c-be8a-607ab8800f19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <광염 소나타>의 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48752&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48752&amp;Tab=2</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.15 ~ 2024.05.24 | 2024.05.27 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240315/20240315-48840b25-7f27-4a95-9306-cf7b2d142722.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬<이프아이월유> 관람 후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48619&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48619&amp;Tab=2</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.12 ~ 2024.03.31 | 2024.03.31 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240312/20240312-5ece3ca4-a748-4c59-ba81-63b36c4d1b49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <스쿨 오브 락>-부산 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48928&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48928&amp;Tab=3</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.06 ~ 2024.03.31 | 2024.04.01 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240305/20240305-04fa8a1f-3005-4bb2-bdd7-47093766ca09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <파가니니> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48819&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48819&amp;Tab=3</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.22 ~ 2024.04.04 | 2024.04.05 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202402/20240222/20240222-2304589d-f276-4d9b-928b-53543e8034fb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Wed, 27 Mar 2024 06:18:29 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
+    <title>YES24 티켓 ─ 이벤트</title>
+    <updated>2024-03-30T18:18:02.062Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
+</feed>
