@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 14:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 15:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,22 +48,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240315/20240315-48840b25-7f27-4a95-9306-cf7b2d142722.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬<이프아이월유> 관람 후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48619&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48619&amp;Tab=2</guid>
-            <pubDate>Sat, 30 Mar 2024 21:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.12 ~ 2024.03.31 | 2024.03.31 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240312/20240312-5ece3ca4-a748-4c59-ba81-63b36c4d1b49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <스쿨 오브 락>-부산 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48928&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48928&amp;Tab=3</guid>
-            <pubDate>Sat, 30 Mar 2024 21:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.06 ~ 2024.03.31 | 2024.04.01 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240305/20240305-04fa8a1f-3005-4bb2-bdd7-47093766ca09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <파가니니> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48819&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48819&amp;Tab=3</guid>
@@ -77,6 +61,20 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Sat, 30 Mar 2024 21:11:53 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 31 Mar 2024 15:12:44 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Sun, 31 Mar 2024 15:12:44 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
