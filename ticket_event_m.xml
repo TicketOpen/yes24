@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 06:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 07:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240329/20240329-fe75d3fb-5c27-4e46-88be-bc01f808f866.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이벤트 기간2024.03.28 ~ 2024.04.05]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3574</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3574</guid>
+            <pubDate>Mon, 01 Apr 2024 07:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-f7d5da0b-3be2-4f12-9faa-9c65b199c33b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이벤트 기간2024.03.19 ~ 2024.04.28]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48648</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48648</guid>
             <pubDate>Sat, 30 Mar 2024 21:12:02 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>전 배우 사인 프로그램북]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240326/20240326-32957208-f835-406e-a1f1-73f3243af2fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.04.01 ~ 2024.04.30]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3570</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3570</guid>
+            <pubDate>Mon, 01 Apr 2024 07:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-7b5b3310-d30a-44ae-b458-24ff1dc948ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.03.19 ~ 2024.04.30]]></title>
@@ -37,7 +53,7 @@
             <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3564</guid>
             <pubDate>Sat, 30 Mar 2024 21:12:02 GMT</pubDate>
             <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240319/20240319-c4f8c46b-b987-4c8c-be8a-607ab8800f19.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-11d5453a-edc3-4297-8da1-83e426839f77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.03.15 ~ 2024.05.24]]></title>
