@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-02T08:18:39.247Z</updated>
+    <updated>2024-04-02T09:15:31.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈잭과콩나무〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14246&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14246&amp;order=1"/>
+        <updated>2024-04-02T09:14:43.057Z</updated>
+        <content type="html"><![CDATA[2024-04-02(화) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 어린이 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14245&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14245&amp;order=1"/>
+        <updated>2024-04-02T09:14:43.058Z</updated>
+        <content type="html"><![CDATA[2024-04-02(화) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[라움아트센터] 2024년 어버이날 특별 공연 ‘금난새x뉴월드챔버오케스트라 콘서트, 가족을 담다’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14244&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14237&amp;order=1"/>
         <updated>2024-03-30T21:11:28.449Z</updated>
         <content type="html"><![CDATA[2024-04-02(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <바스커빌 : 셜록홈즈 미스터리> 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14236&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14236&amp;order=1"/>
-        <updated>2024-03-30T21:11:28.450Z</updated>
-        <content type="html"><![CDATA[2024-04-03(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천] 가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14235&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14235&amp;order=1"/>
-        <updated>2024-03-30T21:11:28.451Z</updated>
-        <content type="html"><![CDATA[2024-04-04(목) 11:00]]></content>
     </entry>
 </feed>
