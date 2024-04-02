@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 02:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 03:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Anthem 내한 공연 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14240</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14240</guid>
+            <pubDate>Tue, 02 Apr 2024 03:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.08(월) 18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 [낭만별곡] X 낭만대수 - 낭만을 찾아 함께 즐겨봅세 오픈공지 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14239</link>
@@ -140,11 +147,11 @@
             <content:encoded><![CDATA[2024.03.29(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 아람누리 마티네 콘서트<모닝 플레이리스트Ⅳ- 지휘자 지중배의 그리움> 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14219</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14219</guid>
-            <pubDate>Sat, 30 Mar 2024 21:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.29(금) 14:00]]></content:encoded>
+            <title><![CDATA[Anthem 내한 공연 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14240&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14240&amp;order=1</guid>
+            <pubDate>Tue, 02 Apr 2024 03:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024-04-08(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [낭만별곡] X 낭만대수 - 낭만을 찾아 함께 즐겨봅세 오픈공지 안내 (예스24 티켓 모바일)]]></title>
@@ -206,13 +213,6 @@
             <title><![CDATA[[창원] 2024 화요모닝콘서트 - 7월  [THE PIANIST] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14231&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14231&amp;order=1</guid>
-            <pubDate>Sat, 30 Mar 2024 21:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-29(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[창원] 2024 화요모닝콘서트 - 6월 [안세권x리사의 필모그라피] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14230&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14230&amp;order=1</guid>
             <pubDate>Sat, 30 Mar 2024 21:11:28 GMT</pubDate>
             <content:encoded><![CDATA[2024-03-29(금) 14:00]]></content:encoded>
         </item>
