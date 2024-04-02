@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-02T06:18:55.617Z</updated>
+    <updated>2024-04-02T07:15:47.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매연극 <쇄골에 천사가 잠들고 있다> 프리뷰 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14243</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14243"/>
+        <updated>2024-04-02T07:14:50.949Z</updated>
+        <content type="html"><![CDATA[2024.04.08(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 음악극 <캐롤> 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14242</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14242"/>
+        <updated>2024-04-02T07:14:50.954Z</updated>
+        <content type="html"><![CDATA[2024.04.08(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [파가니니] 추가좌석 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14241</id>
@@ -129,19 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14223</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14223"/>
         <updated>2024-03-30T21:11:19.996Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 아람누리 마티네 콘서트<모닝 플레이리스트Ⅰ- 지휘자 김광현의 봄, 깨우다> 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14222</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14222"/>
-        <updated>2024-03-30T21:11:19.997Z</updated>
-        <content type="html"><![CDATA[2024.03.29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 아람누리 마티네 콘서트<모닝 플레이리스트Ⅱ- 지휘자 이탐구의 I Love You> 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14221</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14221"/>
-        <updated>2024-03-30T21:11:19.999Z</updated>
-        <content type="html"><![CDATA[2024.03.29(금) 14:00]]></content>
     </entry>
 </feed>
