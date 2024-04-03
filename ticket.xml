@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-03T02:22:20.531Z</updated>
+    <updated>2024-04-03T03:16:29.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매DAY6 CONCERT〈Welcome to the Show〉추가 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14250</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14250"/>
+        <updated>2024-04-03T03:15:42.459Z</updated>
+        <content type="html"><![CDATA[2024.04.04(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈정글북〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14247</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14229"/>
         <updated>2024-03-30T21:11:19.985Z</updated>
         <content type="html"><![CDATA[2024.03.29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리 서커스 〈이상한 나라의 앨리스〉오리지널 내한공연 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14228</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14228"/>
-        <updated>2024-03-30T21:11:19.987Z</updated>
-        <content type="html"><![CDATA[2024.04.01(월) 14:00]]></content>
     </entry>
 </feed>
