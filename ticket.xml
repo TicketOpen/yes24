@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-03T03:16:29.951Z</updated>
+    <updated>2024-04-03T04:17:50.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [2인실 X 무간도] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14251</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14251"/>
+        <updated>2024-04-03T04:17:04.282Z</updated>
+        <content type="html"><![CDATA[2024.04.05(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매DAY6 CONCERT〈Welcome to the Show〉추가 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14250</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14250"/>
         <updated>2024-04-03T03:15:42.459Z</updated>
         <content type="html"><![CDATA[2024.04.04(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매뮤지컬 <무인도 탈출기> 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14248</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14248"/>
+        <updated>2024-04-03T04:17:04.284Z</updated>
+        <content type="html"><![CDATA[2024.04.08(월) 13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈정글북〉 티켓오픈 안내]]></title>
@@ -129,20 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14231</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14231"/>
         <updated>2024-03-30T21:11:19.983Z</updated>
-        <content type="html"><![CDATA[2024.03.29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 2024 화요모닝콘서트 - 6월 [안세권x리사의 필모그라피] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14230</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14230"/>
-        <updated>2024-03-30T21:11:19.984Z</updated>
-        <content type="html"><![CDATA[2024.03.29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 2024 화요모닝콘서트 - 5월 [Morning date with 스윗소로우] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14229</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14229"/>
-        <updated>2024-03-30T21:11:19.985Z</updated>
         <content type="html"><![CDATA[2024.03.29(금) 14:00]]></content>
     </entry>
 </feed>
