@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-04T08:18:50.940Z</updated>
+    <updated>2024-04-04T09:15:24.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[HAVE A NICE TRIP 2024 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14259</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14259"/>
+        <updated>2024-04-04T09:14:30.168Z</updated>
+        <content type="html"><![CDATA[2024.04.09(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김해] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14258</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14240"/>
         <updated>2024-04-02T03:17:04.944Z</updated>
         <content type="html"><![CDATA[2024.04.08(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [낭만별곡] X 낭만대수 - 낭만을 찾아 함께 즐겨봅세 오픈공지 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14239</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14239"/>
-        <updated>2024-03-30T21:11:19.973Z</updated>
-        <content type="html"><![CDATA[2024.04.01(월) 15:00]]></content>
     </entry>
 </feed>
