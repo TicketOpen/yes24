@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-04T04:19:05.960Z</updated>
+    <updated>2024-04-04T05:17:14.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[김해] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14258</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14258"/>
+        <updated>2024-04-04T05:16:21.797Z</updated>
+        <content type="html"><![CDATA[2024.04.08(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 2024 라이브가족뮤지컬 〈브레멘음악대〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14257</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14239"/>
         <updated>2024-03-30T21:11:19.973Z</updated>
         <content type="html"><![CDATA[2024.04.01(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 어린이베스트셀러 뮤지컬 〈사과가쿵〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14238</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14238"/>
-        <updated>2024-03-30T21:11:19.974Z</updated>
-        <content type="html"><![CDATA[2024.04.02(화) 09:00]]></content>
     </entry>
 </feed>
