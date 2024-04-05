@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-05T04:19:54.382Z</updated>
+    <updated>2024-04-05T05:14:18.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14262</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14262"/>
+        <updated>2024-04-05T05:13:31.730Z</updated>
+        <content type="html"><![CDATA[2024.04.09(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14261</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14261"/>
+        <updated>2024-04-05T05:13:31.732Z</updated>
+        <content type="html"><![CDATA[2024.04.11(목) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진주] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14260</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14260"/>
+        <updated>2024-04-05T05:13:31.732Z</updated>
+        <content type="html"><![CDATA[2024.04.11(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HAVE A NICE TRIP 2024 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14259</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14243"/>
         <updated>2024-04-02T07:14:50.949Z</updated>
         <content type="html"><![CDATA[2024.04.08(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 음악극 <캐롤> 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14242</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14242"/>
-        <updated>2024-04-02T07:14:50.954Z</updated>
-        <content type="html"><![CDATA[2024.04.08(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [파가니니] 추가좌석 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14241</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14241"/>
-        <updated>2024-04-02T06:17:57.575Z</updated>
-        <content type="html"><![CDATA[2024.04.03(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Anthem 내한 공연 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14240</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14240"/>
-        <updated>2024-04-02T03:17:04.944Z</updated>
-        <content type="html"><![CDATA[2024.04.08(월) 18:00]]></content>
     </entry>
 </feed>
