@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-08T07:15:55.245Z</updated>
+    <updated>2024-04-08T08:18:52.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 드로잉 매직쇼 [크레용용] - 안양 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14280</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14280"/>
+        <updated>2024-04-08T08:18:05.390Z</updated>
+        <content type="html"><![CDATA[2024.04.12(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 [어린이마술쇼] - 수원 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14279</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14279"/>
+        <updated>2024-04-08T08:18:05.390Z</updated>
+        <content type="html"><![CDATA[2024.04.12(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매ㅈㅂㅈ평일소공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14278</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14278"/>
+        <updated>2024-04-08T08:18:05.390Z</updated>
+        <content type="html"><![CDATA[2024.04.09(화) 19:00<a class="noti-btn-pop" presaletit1="5월 공연" presaletit2="" presaletime1="2024.04.29(월) 19:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안산] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14277</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14277"/>
+        <updated>2024-04-08T08:18:05.391Z</updated>
+        <content type="html"><![CDATA[2024.04.12(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 21회 부산국제연극제 - 티핑포인트 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14276</id>
@@ -115,33 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14261"/>
         <updated>2024-04-07T17:12:12.350Z</updated>
         <content type="html"><![CDATA[2024.04.11(목) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진주] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14260</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14260"/>
-        <updated>2024-04-07T17:12:12.351Z</updated>
-        <content type="html"><![CDATA[2024.04.11(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HAVE A NICE TRIP 2024 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14259</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14259"/>
-        <updated>2024-04-07T17:12:12.352Z</updated>
-        <content type="html"><![CDATA[2024.04.09(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김해] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14258</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14258"/>
-        <updated>2024-04-07T17:12:12.353Z</updated>
-        <content type="html"><![CDATA[2024.04.08(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2024 라이브가족뮤지컬 〈브레멘음악대〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14257</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14257"/>
-        <updated>2024-04-07T17:12:12.354Z</updated>
-        <content type="html"><![CDATA[2024.04.04(목) 09:00]]></content>
     </entry>
 </feed>

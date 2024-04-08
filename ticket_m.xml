@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-08T07:15:55.249Z</updated>
+    <updated>2024-04-08T08:18:52.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 드로잉 매직쇼 [크레용용] - 안양 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14280&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14280&amp;order=1"/>
+        <updated>2024-04-08T08:18:12.304Z</updated>
+        <content type="html"><![CDATA[2024-04-12(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 [어린이마술쇼] - 수원 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14279&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14279&amp;order=1"/>
+        <updated>2024-04-08T08:18:12.306Z</updated>
+        <content type="html"><![CDATA[2024-04-12(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ㅈㅂㅈ평일소공연 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14278&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14278&amp;order=1"/>
+        <updated>2024-04-08T08:18:12.308Z</updated>
+        <content type="html"><![CDATA[2024-04-09(화) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안산] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14277&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14277&amp;order=1"/>
+        <updated>2024-04-08T08:18:12.309Z</updated>
+        <content type="html"><![CDATA[2024-04-12(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 21회 부산국제연극제 - 티핑포인트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14276&amp;order=1</id>
@@ -45,34 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14271&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14271&amp;order=1"/>
         <updated>2024-04-08T07:15:05.602Z</updated>
-        <content type="html"><![CDATA[2024-04-12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 21회 부산국제연극제 - 인사이더 (The Insider) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14270&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14270&amp;order=1"/>
-        <updated>2024-04-08T07:15:05.605Z</updated>
-        <content type="html"><![CDATA[2024-04-12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 21회 부산국제연극제 - 자비 (Misericordia) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14269&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14269&amp;order=1"/>
-        <updated>2024-04-08T07:15:05.606Z</updated>
-        <content type="html"><![CDATA[2024-04-12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 21회 부산국제연극제 - 부재 불균형 균형 (Absence Imbalance Balance) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14268&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14268&amp;order=1"/>
-        <updated>2024-04-08T07:15:05.607Z</updated>
-        <content type="html"><![CDATA[2024-04-12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 21회 부산국제연극제 - 시추 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14267&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14267&amp;order=1"/>
-        <updated>2024-04-08T07:15:05.608Z</updated>
         <content type="html"><![CDATA[2024-04-12(금) 14:00]]></content>
     </entry>
 </feed>
