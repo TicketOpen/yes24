@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-08T09:15:57.073Z</updated>
+    <updated>2024-04-08T10:18:07.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 〈어린이마술쇼〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14281&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14281&amp;order=1"/>
+        <updated>2024-04-08T10:17:05.923Z</updated>
+        <content type="html"><![CDATA[2024-04-09(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 드로잉 매직쇼 [크레용용] - 안양 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14280&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14272&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14272&amp;order=1"/>
         <updated>2024-04-08T07:15:05.601Z</updated>
-        <content type="html"><![CDATA[2024-04-12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 21회 부산국제연극제 - 맥베투(Macbettu) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14271&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14271&amp;order=1"/>
-        <updated>2024-04-08T07:15:05.602Z</updated>
         <content type="html"><![CDATA[2024-04-12(금) 14:00]]></content>
     </entry>
 </feed>
