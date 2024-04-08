@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 02:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 03:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_부천 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48482&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48482&amp;Tab=3</guid>
+            <pubDate>Mon, 08 Apr 2024 03:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.08 ~ 2024.04.28 | 2024.04.29 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240408/20240408-8ee6655e-5065-475f-9a2f-77698f6d1c43.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <이프아이월유> 관람 후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48619&amp;Tab=2</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 17:12:44 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.19 ~ 2024.04.30 | 2024.05.02 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240319/20240319-6db790bf-3d16-4193-9677-94521e952bdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <광염 소나타>의 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48752&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48752&amp;Tab=2</guid>
-            <pubDate>Sun, 07 Apr 2024 17:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.15 ~ 2024.05.24 | 2024.05.27 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240315/20240315-48840b25-7f27-4a95-9306-cf7b2d142722.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
