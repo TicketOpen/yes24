@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-08T04:17:54.980Z</updated>
+    <updated>2024-04-08T05:15:29.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 오산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14265&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14265&amp;order=1"/>
+        <updated>2024-04-08T05:14:40.647Z</updated>
+        <content type="html"><![CDATA[2024-04-11(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 ONEWE 3rd Live Concert ‘O! NEW E!volution Ⅲ’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14264&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14256&amp;order=1"/>
         <updated>2024-04-07T17:12:20.841Z</updated>
         <content type="html"><![CDATA[2024-04-05(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 고두영의 어린이날 매직쇼 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14255&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14255&amp;order=1"/>
-        <updated>2024-04-07T17:12:20.843Z</updated>
-        <content type="html"><![CDATA[2024-04-04(목) 10:00]]></content>
     </entry>
 </feed>
