@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-09T04:19:18.901Z</updated>
+    <updated>2024-04-09T05:14:24.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코믹 뮤지컬 < 5! 해피맨> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14282</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14282"/>
+        <updated>2024-04-09T05:13:30.884Z</updated>
+        <content type="html"><![CDATA[2024.04.19(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2024 〈어린이마술쇼〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14281</id>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14263</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14263"/>
         <updated>2024-04-07T17:12:12.347Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14262</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14262"/>
-        <updated>2024-04-07T17:12:12.348Z</updated>
-        <content type="html"><![CDATA[2024.04.09(화) 10:00]]></content>
     </entry>
 </feed>

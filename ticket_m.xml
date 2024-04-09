@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-09T04:19:18.912Z</updated>
+    <updated>2024-04-09T05:14:24.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코믹 뮤지컬 < 5! 해피맨> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14282&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14282&amp;order=1"/>
+        <updated>2024-04-09T05:13:39.262Z</updated>
+        <content type="html"><![CDATA[2024-04-19(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2024 〈어린이마술쇼〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14281&amp;order=1</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[제 21회 부산국제연극제 - 메이드 인 코리아 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14273&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14273&amp;order=1"/>
-        <updated>2024-04-08T07:15:05.601Z</updated>
-        <content type="html"><![CDATA[2024-04-12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 21회 부산국제연극제 - 4후 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14272&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14272&amp;order=1"/>
         <updated>2024-04-08T07:15:05.601Z</updated>
         <content type="html"><![CDATA[2024-04-12(금) 14:00]]></content>
     </entry>
