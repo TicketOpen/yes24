@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-12T05:16:55.558Z</updated>
+    <updated>2024-04-12T06:19:12.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매LIVE ON 플라워콘서트 with 미교 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14293</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14293"/>
+        <updated>2024-04-12T06:18:14.269Z</updated>
+        <content type="html"><![CDATA[2024.04.15(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 부산원아시아페스티벌 ‘BOF Big CONCERT’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14292</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14274</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14274"/>
         <updated>2024-04-08T07:14:56.909Z</updated>
-        <content type="html"><![CDATA[2024.04.12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 21회 부산국제연극제 - 메이드 인 코리아 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14273</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14273"/>
-        <updated>2024-04-08T07:14:56.911Z</updated>
         <content type="html"><![CDATA[2024.04.12(금) 14:00]]></content>
     </entry>
 </feed>
