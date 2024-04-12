@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-12T03:16:56.034Z</updated>
+    <updated>2024-04-12T04:18:04.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 부산원아시아페스티벌 ‘BOF Big CONCERT’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14292&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14292&amp;order=1"/>
+        <updated>2024-04-12T04:17:13.203Z</updated>
+        <content type="html"><![CDATA[2024-04-19(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매튜 본의 ‘로미오와 줄리엣’-부산 티켓오픈!]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14291&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14283&amp;order=1"/>
         <updated>2024-04-09T07:15:00.734Z</updated>
         <content type="html"><![CDATA[2024-04-12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코믹 뮤지컬 < 5! 해피맨> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14282&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14282&amp;order=1"/>
-        <updated>2024-04-09T05:13:39.262Z</updated>
-        <content type="html"><![CDATA[2024-04-19(금) 10:00]]></content>
     </entry>
 </feed>
