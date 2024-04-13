@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 14:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 15:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -402,13 +402,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[뮤지컬 파가니니] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Sun, 07 Apr 2024 17:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.04.05 ~ 2024.04.13</dd><dt>사용기간</dt><dd>2024.04.05 ~ 2024.04.13</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[뮤지컬 노트르담 드 파리] 5,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -449,13 +442,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=46804</guid>
             <pubDate>Sun, 07 Apr 2024 17:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 파가니니] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=47131</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=47131</guid>
-            <pubDate>Sun, 07 Apr 2024 17:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
