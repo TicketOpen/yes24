@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-15T00:03:06.099Z</updated>
+    <updated>2024-04-15T03:49:49.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [파가니니] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14296&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14296&amp;order=1"/>
+        <updated>2024-04-15T03:49:01.789Z</updated>
+        <content type="html"><![CDATA[2024-04-22(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 AB6IX FAN CONCERT ＂Find YOU＂ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14295&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14295&amp;order=1"/>
+        <updated>2024-04-15T03:49:01.790Z</updated>
+        <content type="html"><![CDATA[2024-04-29(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHINee WORLD Ⅵ [PERFECT ILLUMINATION : SHINee’S BACK] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14294&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14294&amp;order=1"/>
+        <updated>2024-04-15T03:49:01.791Z</updated>
+        <content type="html"><![CDATA[2024-04-25(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LIVE ON 플라워콘서트 with 미교 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14293&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14287&amp;order=1"/>
         <updated>2024-04-11T03:14:43.851Z</updated>
         <content type="html"><![CDATA[2024-04-11(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [낭만별곡] 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14286&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14286&amp;order=1"/>
-        <updated>2024-04-11T05:14:08.420Z</updated>
-        <content type="html"><![CDATA[2024-04-15(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX 공식 팬클럽 NSWER 2기 추가 모집 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14285&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14285&amp;order=1"/>
-        <updated>2024-04-11T03:14:43.853Z</updated>
-        <content type="html"><![CDATA[2024-04-11(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 셰프 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14284&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14284&amp;order=1"/>
-        <updated>2024-04-11T01:00:33.676Z</updated>
-        <content type="html"><![CDATA[2024-04-09(화) 18:00]]></content>
     </entry>
 </feed>
