@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-16T02:22:28.737Z</updated>
+    <updated>2024-04-16T03:17:20.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제 45회 서울연극제 자유경연작 ‘Be’ 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14301</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14301"/>
+        <updated>2024-04-16T03:16:22.576Z</updated>
+        <content type="html"><![CDATA[2024.04.17(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매Yui Ogura Fan Meeting in Seoul (presented by KOE) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14300</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14300"/>
+        <updated>2024-04-16T03:16:22.577Z</updated>
+        <content type="html"><![CDATA[2024.04.19(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 드로잉 매직쇼 [크레용용] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14299</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14282"/>
         <updated>2024-04-09T05:13:30.884Z</updated>
         <content type="html"><![CDATA[2024.04.19(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 〈어린이마술쇼〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14281</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14281"/>
-        <updated>2024-04-08T10:16:56.011Z</updated>
-        <content type="html"><![CDATA[2024.04.09(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 드로잉 매직쇼 [크레용용] - 안양 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14280</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14280"/>
-        <updated>2024-04-08T08:18:05.390Z</updated>
-        <content type="html"><![CDATA[2024.04.12(금) 09:00]]></content>
     </entry>
 </feed>
