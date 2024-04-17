@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-16T23:15:22.932Z</updated>
+    <updated>2024-04-17T01:03:05.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈이프아이월유〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14302&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14302&amp;order=1"/>
+        <updated>2024-04-17T01:02:13.157Z</updated>
+        <content type="html"><![CDATA[2024-04-23(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 45회 서울연극제 자유경연작 ‘Be’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14301&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14293&amp;order=1"/>
         <updated>2024-04-12T06:18:23.036Z</updated>
         <content type="html"><![CDATA[2024-04-15(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 부산원아시아페스티벌 ‘BOF Big CONCERT’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14292&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14292&amp;order=1"/>
-        <updated>2024-04-12T04:17:13.203Z</updated>
-        <content type="html"><![CDATA[2024-04-19(금) 19:00]]></content>
     </entry>
 </feed>

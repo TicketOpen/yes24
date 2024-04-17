@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-16T23:15:22.934Z</updated>
+    <updated>2024-04-17T01:03:05.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈이프아이월유〉 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14302</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14302"/>
+        <updated>2024-04-17T01:02:05.034Z</updated>
+        <content type="html"><![CDATA[2024.04.23(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 45회 서울연극제 자유경연작 ‘Be’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14301</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14283"/>
         <updated>2024-04-09T07:14:52.162Z</updated>
         <content type="html"><![CDATA[2024.04.12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코믹 뮤지컬 < 5! 해피맨> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14282</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14282"/>
-        <updated>2024-04-09T05:13:30.884Z</updated>
-        <content type="html"><![CDATA[2024.04.19(금) 10:00]]></content>
     </entry>
 </feed>
