@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-18T01:00:34.781Z</updated>
+    <updated>2024-04-18T01:55:20.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <클로저> 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14309&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14309&amp;order=1"/>
+        <updated>2024-04-18T01:54:34.463Z</updated>
+        <content type="html"><![CDATA[2024-04-25(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <디어 에반 핸슨> 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14308&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14308&amp;order=1"/>
+        <updated>2024-04-18T01:54:34.463Z</updated>
+        <content type="html"><![CDATA[2024-04-25(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈오즈의마법사〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14307&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14300&amp;order=1"/>
         <updated>2024-04-16T03:16:31.086Z</updated>
         <content type="html"><![CDATA[2024-04-19(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 드로잉 매직쇼 [크레용용] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14299&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14299&amp;order=1"/>
-        <updated>2024-04-15T08:14:56.635Z</updated>
-        <content type="html"><![CDATA[2024-04-16(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FINEDAY FESTIVAL 2024 일반 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14298&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14298&amp;order=1"/>
-        <updated>2024-04-15T08:14:56.635Z</updated>
-        <content type="html"><![CDATA[2024-04-16(화) 18:00]]></content>
     </entry>
 </feed>
