@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-19T02:25:34.222Z</updated>
+    <updated>2024-04-19T03:16:48.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[썬더 프롬 다운 언더 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14314&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14314&amp;order=1"/>
+        <updated>2024-04-19T03:16:02.409Z</updated>
+        <content type="html"><![CDATA[2024-04-24(수) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꿈과 환상이 숨 쉬는 마술의 섬 ＇MAGIC SHOW 원더랜드＇ 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14313&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14305&amp;order=1"/>
         <updated>2024-04-17T05:13:56.466Z</updated>
         <content type="html"><![CDATA[2024-04-24(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAE173 2nd FAN CONCERT : POLARIS 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14304&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14304&amp;order=1"/>
-        <updated>2024-04-17T06:20:58.907Z</updated>
-        <content type="html"><![CDATA[2024-04-24(수) 20:00]]></content>
     </entry>
 </feed>
