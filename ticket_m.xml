@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-19T05:15:02.868Z</updated>
+    <updated>2024-04-19T06:19:40.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 드로잉 매직쇼 ‘크레용용’ 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14315&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14315&amp;order=1"/>
+        <updated>2024-04-19T06:18:55.038Z</updated>
+        <content type="html"><![CDATA[2024-04-24(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[썬더 프롬 다운 언더 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14314&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14306&amp;order=1"/>
         <updated>2024-04-17T07:15:06.378Z</updated>
         <content type="html"><![CDATA[2024-04-18(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베어 더 뮤지컬(bare the musical) 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14305&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14305&amp;order=1"/>
-        <updated>2024-04-17T05:13:56.466Z</updated>
-        <content type="html"><![CDATA[2024-04-24(수) 14:00]]></content>
     </entry>
 </feed>
