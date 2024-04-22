@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-22T04:17:55.811Z</updated>
+    <updated>2024-04-22T05:15:10.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [디아길레프] 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14316&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14316&amp;order=1"/>
+        <updated>2024-04-22T05:14:14.814Z</updated>
+        <content type="html"><![CDATA[2024-04-29(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 드로잉 매직쇼 ‘크레용용’ 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14315&amp;order=1</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈오즈의마법사〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14307&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14307&amp;order=1"/>
-        <updated>2024-04-17T07:15:06.378Z</updated>
-        <content type="html"><![CDATA[2024-04-18(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 〈도깨비가족마술쇼〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14306&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14306&amp;order=1"/>
         <updated>2024-04-17T07:15:06.378Z</updated>
         <content type="html"><![CDATA[2024-04-18(목) 09:00]]></content>
     </entry>
