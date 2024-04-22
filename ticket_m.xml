@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-22T07:14:45.118Z</updated>
+    <updated>2024-04-22T08:19:55.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈사운드오브뮤직〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14322&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14322&amp;order=1"/>
+        <updated>2024-04-22T08:19:09.253Z</updated>
+        <content type="html"><![CDATA[2024-04-23(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 오은영의 더할나위없이 [날마다 당당당] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14320&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14320&amp;order=1"/>
+        <updated>2024-04-22T08:19:09.255Z</updated>
+        <content type="html"><![CDATA[2024-04-26(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <바스커빌 : 셜록홈즈 미스터리> 3차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14319&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14312&amp;order=1"/>
         <updated>2024-04-19T01:00:44.378Z</updated>
         <content type="html"><![CDATA[2024-04-22(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 OMEGA X ENCORE CONCERT in SEOUL 〈ISLAND : FOR EVERLASTING〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14311&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14311&amp;order=1"/>
-        <updated>2024-04-18T09:14:47.425Z</updated>
-        <content type="html"><![CDATA[2024-04-26(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 6월 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14310&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14310&amp;order=1"/>
-        <updated>2024-04-18T05:15:07.295Z</updated>
-        <content type="html"><![CDATA[2024-04-22(월) 11:00]]></content>
     </entry>
 </feed>
