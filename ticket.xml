@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-22T08:19:55.467Z</updated>
+    <updated>2024-04-22T09:17:04.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14322"/>
         <updated>2024-04-22T08:19:01.051Z</updated>
         <content type="html"><![CDATA[2024.04.23(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매KARDI 단독 콘서트 [Are you ready to fly?] In Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14321</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14321"/>
+        <updated>2024-04-22T09:16:02.899Z</updated>
+        <content type="html"><![CDATA[2024.04.26(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 오은영의 더할나위없이 [날마다 당당당] 티켓 오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14303"/>
         <updated>2024-04-17T05:13:48.288Z</updated>
         <content type="html"><![CDATA[2024.04.25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매뮤지컬 〈이프아이월유〉 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14302</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14302"/>
-        <updated>2024-04-17T01:02:05.034Z</updated>
-        <content type="html"><![CDATA[2024.04.23(화) 15:00]]></content>
     </entry>
 </feed>
