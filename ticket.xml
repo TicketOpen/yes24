@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-23T04:18:11.107Z</updated>
+    <updated>2024-04-23T05:14:56.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 이찬원 콘서트 ‘찬가(燦歌)’ 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14325</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14325"/>
+        <updated>2024-04-23T05:13:43.898Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 울산국제아트페어 얼리버드 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14324</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14306"/>
         <updated>2024-04-17T07:14:59.811Z</updated>
         <content type="html"><![CDATA[2024.04.18(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베어 더 뮤지컬(bare the musical) 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14305</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14305"/>
-        <updated>2024-04-17T05:13:48.287Z</updated>
-        <content type="html"><![CDATA[2024.04.24(수) 14:00]]></content>
     </entry>
 </feed>
