@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-23T07:14:04.106Z</updated>
+    <updated>2024-04-23T08:18:38.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[여수] 2024 변진섭 전국투어 콘서트：변천사 공연 취소 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14326&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14326&amp;order=1"/>
+        <updated>2024-04-23T08:17:53.839Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 이찬원 콘서트 ‘찬가(燦歌)’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14325&amp;order=1</id>
@@ -66,12 +72,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14317&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14317&amp;order=1"/>
         <updated>2024-04-22T06:18:54.206Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [디아길레프] 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14316&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14316&amp;order=1"/>
-        <updated>2024-04-22T05:14:14.814Z</updated>
-        <content type="html"><![CDATA[2024-04-29(월) 14:00]]></content>
     </entry>
 </feed>
