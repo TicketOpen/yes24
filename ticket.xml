@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-24T06:22:02.155Z</updated>
+    <updated>2024-04-24T07:14:08.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2024 드로잉 매직쇼 [크레용용] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14331</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14331"/>
+        <updated>2024-04-24T07:13:14.554Z</updated>
+        <content type="html"><![CDATA[2024.04.25(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 오르간 시리즈 II. 이민준 오르간 리사이틀 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14330</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14312"/>
         <updated>2024-04-19T01:00:35.522Z</updated>
         <content type="html"><![CDATA[2024.04.22(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 OMEGA X ENCORE CONCERT in SEOUL 〈ISLAND : FOR EVERLASTING〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14311</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14311"/>
-        <updated>2024-04-18T09:14:40.523Z</updated>
-        <content type="html"><![CDATA[2024.04.26(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.04.24(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
