@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-24T05:16:25.003Z</updated>
+    <updated>2024-04-24T06:22:02.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 오르간 시리즈 II. 이민준 오르간 리사이틀 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14330</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14330"/>
+        <updated>2024-04-24T06:21:01.500Z</updated>
+        <content type="html"><![CDATA[2024.04.26(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인 하우스 아티스트 한재민 <트리오 리사이틀> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14329</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14329"/>
+        <updated>2024-04-24T06:21:01.500Z</updated>
+        <content type="html"><![CDATA[2024.04.26(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매밴드뮤지컬 머피  티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14328</id>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14311"/>
         <updated>2024-04-18T09:14:40.523Z</updated>
         <content type="html"><![CDATA[2024.04.26(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.04.24(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 6월 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14310</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14310"/>
-        <updated>2024-04-18T05:14:59.574Z</updated>
-        <content type="html"><![CDATA[2024.04.22(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <클로저> 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14309</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14309"/>
-        <updated>2024-04-18T01:54:26.264Z</updated>
-        <content type="html"><![CDATA[2024.04.25(목) 11:00]]></content>
     </entry>
 </feed>
