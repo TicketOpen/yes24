@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-24T02:24:56.478Z</updated>
+    <updated>2024-04-24T03:17:39.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매뮤지컬 <머피> 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14328</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14328"/>
+        <updated>2024-04-24T03:16:38.100Z</updated>
+        <content type="html"><![CDATA[2024.04.26(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여수] 2024 변진섭 전국투어 콘서트：변천사 공연 취소 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14326</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14308"/>
         <updated>2024-04-18T01:54:26.264Z</updated>
         <content type="html"><![CDATA[2024.04.25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈오즈의마법사〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14307</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14307"/>
-        <updated>2024-04-17T07:14:59.810Z</updated>
-        <content type="html"><![CDATA[2024.04.18(목) 09:00]]></content>
     </entry>
 </feed>
