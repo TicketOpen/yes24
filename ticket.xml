@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-24T04:17:24.510Z</updated>
+    <updated>2024-04-24T05:16:25.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14328"/>
         <updated>2024-04-24T03:16:38.100Z</updated>
         <content type="html"><![CDATA[2024.04.26(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 N.Flying LIVE ‘HIDE-OUT’ 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14327</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14327"/>
+        <updated>2024-04-24T05:15:26.831Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 19:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.04.29(월) 19:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[여수] 2024 변진섭 전국투어 콘서트：변천사 공연 취소 안내]]></title>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14309"/>
         <updated>2024-04-18T01:54:26.264Z</updated>
         <content type="html"><![CDATA[2024.04.25(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <디어 에반 핸슨> 4차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14308</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14308"/>
-        <updated>2024-04-18T01:54:26.264Z</updated>
-        <content type="html"><![CDATA[2024.04.25(목) 14:00]]></content>
     </entry>
 </feed>
