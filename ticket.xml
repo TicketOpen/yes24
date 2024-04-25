@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-25T04:17:53.239Z</updated>
+    <updated>2024-04-25T05:14:41.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[수원] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14335</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14335"/>
+        <updated>2024-04-25T05:13:47.026Z</updated>
+        <content type="html"><![CDATA[2024.04.29(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천안] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14334</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14334"/>
+        <updated>2024-04-25T05:13:47.030Z</updated>
+        <content type="html"><![CDATA[2024.04.29(월) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14333</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14333"/>
+        <updated>2024-04-25T05:13:47.030Z</updated>
+        <content type="html"><![CDATA[2024.04.29(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 정홍일 라이브 콘서트 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14332</id>
@@ -121,26 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14316"/>
         <updated>2024-04-22T05:14:06.218Z</updated>
         <content type="html"><![CDATA[2024.04.29(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 드로잉 매직쇼 ‘크레용용’ 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14315</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14315"/>
-        <updated>2024-04-19T06:18:47.178Z</updated>
-        <content type="html"><![CDATA[2024.04.24(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매썬더 프롬 다운 언더 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14314</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14314"/>
-        <updated>2024-04-19T03:15:53.546Z</updated>
-        <content type="html"><![CDATA[2024.04.24(수) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿈과 환상이 숨 쉬는 마술의 섬 ＇MAGIC SHOW 원더랜드＇ 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14313</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14313"/>
-        <updated>2024-04-18T09:14:40.522Z</updated>
-        <content type="html"><![CDATA[2024.04.23(화) 14:00]]></content>
     </entry>
 </feed>
