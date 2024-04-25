@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-25T08:20:31.731Z</updated>
+    <updated>2024-04-25T09:16:20.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 라이브 가족뮤지컬 〈미녀와야수〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14337&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14337&amp;order=1"/>
+        <updated>2024-04-25T09:15:33.045Z</updated>
+        <content type="html"><![CDATA[2024-04-26(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xdinary Heroes Concert〈Closed ♭eta: v6.1〉티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14336&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14328&amp;order=1"/>
         <updated>2024-04-24T03:16:46.170Z</updated>
         <content type="html"><![CDATA[2024-04-26(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 N.Flying LIVE ‘HIDE-OUT’ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14327&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14327&amp;order=1"/>
-        <updated>2024-04-24T05:15:35.646Z</updated>
-        <content type="html"><![CDATA[2024-05-02(목) 19:00]]></content>
     </entry>
 </feed>
