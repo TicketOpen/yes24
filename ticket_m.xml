@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-25T06:19:31.704Z</updated>
+    <updated>2024-04-25T07:15:40.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes Concert〈Closed ♭eta: v6.1〉티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14336&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14336&amp;order=1"/>
+        <updated>2024-04-25T07:14:32.948Z</updated>
+        <content type="html"><![CDATA[2024-05-08(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14335&amp;order=1</id>
@@ -67,11 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14327&amp;order=1"/>
         <updated>2024-04-24T05:15:35.646Z</updated>
         <content type="html"><![CDATA[2024-05-02(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 2024 변진섭 전국투어 콘서트：변천사 공연 취소 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14326&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14326&amp;order=1"/>
-        <updated>2024-04-23T08:17:53.839Z</updated>
     </entry>
 </feed>
