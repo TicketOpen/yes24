@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 15:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 17:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,17 +217,20 @@
             <content:encoded><![CDATA[2024-04-26(금) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 이프아이월유 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/48619</link>
-            <guid>http://m.ticket.yes24.com/Perf/48619</guid>
-            <pubDate>Mon, 22 Apr 2024 02:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 이프아이월유
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">50,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">27,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">4/23(화) - 5/6(월) 공연
-</div>]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈이프아이월유〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/48619</link>
+            <guid>http://ticket.yes24.com/Perf/48619</guid>
+            <pubDate>Thu, 25 Apr 2024 17:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									70,000원								</td>								<td class="dc_price">									<em>→</em>39,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202404/20240422/20240422-48619.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈파가니니〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/48819</link>
+            <guid>http://ticket.yes24.com/Perf/48819</guid>
+            <pubDate>Thu, 25 Apr 2024 17:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									99,000원								</td>								<td class="dc_price">									<em>→</em>66,900원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202404/20240422/20240422-48819.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 파가니니 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -240,6 +243,19 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">19,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">4.23(화) ~ 5.12(일) 공연 좌석별 할인율 상이</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202404/20240422/20240422-48819.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 이프아이월유 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/48619</link>
+            <guid>http://m.ticket.yes24.com/Perf/48619</guid>
+            <pubDate>Mon, 22 Apr 2024 02:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 이프아이월유
+</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">50,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">27,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">4/23(화) - 5/6(월) 공연
+</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202404/20240422/20240422-48619.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <파가니니> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -400,6 +416,42 @@
             <pubDate>Sun, 07 Apr 2024 17:12:52 GMT</pubDate>
             <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202010/20201027/20201027-ev_list_guide_review.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[매거진 수신회원] 뮤지컬 2,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
+				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 이프아이월유] 마지막 티켓오픈 3천원 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.04.23 ~ 2024.04.26</dd><dt>사용기간</dt><dd>2024.04.23 ~ 2024.04.26</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 노트르담 드 파리] 5,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.03.13 ~ 2024.05.12</dd><dt>사용기간</dt><dd>2024.03.13 ~ 2024.05.12</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2017.10.01 ~ 2024.12.31</dd><dt>사용기간</dt><dd>발급일로 부터 30일</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2012.02.09 ~ 2030.12.31</dd><dt>사용기간</dt><dd>2012.02.09 ~ 2030.12.31</dd>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
