@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-24T23:17:34.823Z</updated>
+    <updated>2024-04-25T01:05:17.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 정홍일 라이브 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14332&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14332&amp;order=1"/>
+        <updated>2024-04-25T01:04:33.742Z</updated>
+        <content type="html"><![CDATA[2024-04-30(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2024 드로잉 매직쇼 [크레용용] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14331&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14323&amp;order=1"/>
         <updated>2024-04-23T01:01:41.601Z</updated>
         <content type="html"><![CDATA[2024-04-26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈사운드오브뮤직〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14322&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14322&amp;order=1"/>
-        <updated>2024-04-22T08:19:09.253Z</updated>
-        <content type="html"><![CDATA[2024-04-23(화) 09:00]]></content>
     </entry>
 </feed>
