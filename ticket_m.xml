@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-26T04:17:10.235Z</updated>
+    <updated>2024-04-26T05:14:18.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14339&amp;order=1"/>
         <updated>2024-04-26T03:16:14.025Z</updated>
         <content type="html"><![CDATA[2024-05-07(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <에밀> 프리뷰 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14338&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14338&amp;order=1"/>
+        <updated>2024-04-26T05:13:31.168Z</updated>
+        <content type="html"><![CDATA[2024-05-02(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 라이브 가족뮤지컬 〈미녀와야수〉 티켓오픈 안내]]></title>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14330&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14330&amp;order=1"/>
         <updated>2024-04-24T06:21:10.616Z</updated>
-        <content type="html"><![CDATA[2024-04-26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인 하우스 아티스트 한재민 <트리오 리사이틀> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14329&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14329&amp;order=1"/>
-        <updated>2024-04-24T06:21:10.618Z</updated>
         <content type="html"><![CDATA[2024-04-26(금) 14:00]]></content>
     </entry>
 </feed>
