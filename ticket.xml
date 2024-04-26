@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-26T07:15:58.212Z</updated>
+    <updated>2024-04-26T08:19:04.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <일리아드> 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14342</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14342"/>
+        <updated>2024-04-26T08:18:01.300Z</updated>
+        <content type="html"><![CDATA[2024.05.03(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[극단 김장하는날 <누에> - 제45회 서울연극제 공식선정작 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14341</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14341"/>
+        <updated>2024-04-26T08:18:01.300Z</updated>
+        <content type="html"><![CDATA[2024.04.30(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매연극 <빵야> 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14340</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14323"/>
         <updated>2024-04-23T01:01:34.448Z</updated>
         <content type="html"><![CDATA[2024.04.26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈사운드오브뮤직〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14322</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14322"/>
-        <updated>2024-04-22T08:19:01.051Z</updated>
-        <content type="html"><![CDATA[2024.04.23(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매KARDI 단독 콘서트 [Are you ready to fly?] In Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14321</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14321"/>
-        <updated>2024-04-22T09:16:02.899Z</updated>
-        <content type="html"><![CDATA[2024.04.26(금) 20:00]]></content>
     </entry>
 </feed>

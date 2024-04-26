@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-26T07:15:58.234Z</updated>
+    <updated>2024-04-26T08:19:04.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <일리아드> 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14342&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14342&amp;order=1"/>
+        <updated>2024-04-26T08:18:11.415Z</updated>
+        <content type="html"><![CDATA[2024-05-03(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[극단 김장하는날 <누에> - 제45회 서울연극제 공식선정작 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14341&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14341&amp;order=1"/>
+        <updated>2024-04-26T08:18:11.415Z</updated>
+        <content type="html"><![CDATA[2024-04-30(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <빵야> 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14340&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14333&amp;order=1"/>
         <updated>2024-04-25T05:13:54.813Z</updated>
         <content type="html"><![CDATA[2024-04-29(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 정홍일 라이브 콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14332&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14332&amp;order=1"/>
-        <updated>2024-04-25T01:04:33.742Z</updated>
-        <content type="html"><![CDATA[2024-04-30(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 드로잉 매직쇼 [크레용용] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14331&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14331&amp;order=1"/>
-        <updated>2024-04-24T07:13:22.480Z</updated>
-        <content type="html"><![CDATA[2024-04-25(목) 09:00]]></content>
     </entry>
 </feed>
