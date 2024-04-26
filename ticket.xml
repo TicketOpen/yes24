@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-26T05:14:18.861Z</updated>
+    <updated>2024-04-26T06:21:05.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매연극 <빵야> 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14340</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14340"/>
+        <updated>2024-04-26T06:20:09.996Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[창원] SUPER! 수요콘서트 6월 [SURL × Lacuna] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14339</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14321"/>
         <updated>2024-04-22T09:16:02.899Z</updated>
         <content type="html"><![CDATA[2024.04.26(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 오은영의 더할나위없이 [날마다 당당당] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14320</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14320"/>
-        <updated>2024-04-22T08:19:01.054Z</updated>
-        <content type="html"><![CDATA[2024.04.26(금) 10:00]]></content>
     </entry>
 </feed>
