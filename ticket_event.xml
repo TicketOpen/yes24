@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 14:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 15:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 25 Apr 2024 12:22:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.06 ~ 2024.06.02 | 2024.06.04 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240408/20240408-2630f4e3-de86-4abd-be36-730e72ef15e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_부천 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48482&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48482&amp;Tab=3</guid>
-            <pubDate>Thu, 25 Apr 2024 12:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.08 ~ 2024.04.28 | 2024.04.29 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240408/20240408-8ee6655e-5065-475f-9a2f-77698f6d1c43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <이프아이월유> 관람 후기 이벤트]]></title>
@@ -48,14 +40,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240329/20240329-fe75d3fb-5c27-4e46-88be-bc01f808f866.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <난설> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48648&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48648&amp;Tab=2</guid>
-            <pubDate>Thu, 25 Apr 2024 12:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.19 ~ 2024.04.28 | 2024.04.29 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240326/20240326-32957208-f835-406e-a1f1-73f3243af2fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[청년문화예술패스]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</guid>
@@ -78,6 +62,20 @@
             <pubDate>Thu, 25 Apr 2024 12:22:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.15 ~ 2024.05.24 | 2024.05.27 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240315/20240315-48840b25-7f27-4a95-9306-cf7b2d142722.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Sun, 28 Apr 2024 15:14:29 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 28 Apr 2024 15:14:29 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
