@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 04:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 05:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14344</guid>
             <pubDate>Mon, 29 Apr 2024 02:25:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.02(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[얼리버드] 이토 준지 호러하우스 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14343</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14343</guid>
+            <pubDate>Mon, 29 Apr 2024 05:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.30(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <일리아드> 1차 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -140,13 +147,6 @@
             <pubDate>Tue, 23 Apr 2024 08:17:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[단독판매2024 이찬원 콘서트 ‘찬가(燦歌)’ 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14325</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14325</guid>
-            <pubDate>Tue, 23 Apr 2024 05:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.02(목) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[메타코미디 Stand Up Assemble 24' Tour 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14345&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14345&amp;order=1</guid>
@@ -159,6 +159,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14344&amp;order=1</guid>
             <pubDate>Mon, 29 Apr 2024 02:25:14 GMT</pubDate>
             <content:encoded><![CDATA[2024-05-02(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[얼리버드] 이토 준지 호러하우스 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14343&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14343&amp;order=1</guid>
+            <pubDate>Mon, 29 Apr 2024 05:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024-04-30(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <일리아드> 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -210,11 +217,12 @@
             <content:encoded><![CDATA[2024-05-08(수) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[수원] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14335&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14335&amp;order=1</guid>
-            <pubDate>Thu, 25 Apr 2024 05:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024-04-29(월) 15:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈파가니니〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/48819</link>
+            <guid>http://ticket.yes24.com/Perf/48819</guid>
+            <pubDate>Mon, 29 Apr 2024 01:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									99,000원								</td>								<td class="dc_price">									<em>→</em>66,900원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202404/20240422/20240422-48819.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [디아길레프] (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -223,14 +231,6 @@
             <pubDate>Mon, 29 Apr 2024 01:02:48 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									70,000원								</td>								<td class="dc_price">									<em>→</em>43,100원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202404/20240429/20240429-48339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈파가니니〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/48819</link>
-            <guid>http://ticket.yes24.com/Perf/48819</guid>
-            <pubDate>Mon, 29 Apr 2024 01:02:48 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									99,000원								</td>								<td class="dc_price">									<em>→</em>66,900원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202404/20240422/20240422-48819.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 디아길레프 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-29T04:17:54.820Z</updated>
+    <updated>2024-04-29T05:17:26.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14344"/>
         <updated>2024-04-29T02:25:06.402Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[얼리버드] 이토 준지 호러하우스 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14343</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14343"/>
+        <updated>2024-04-29T05:16:25.213Z</updated>
+        <content type="html"><![CDATA[2024.04.30(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <일리아드> 1차 티켓오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14326</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14326"/>
         <updated>2024-04-23T08:17:46.997Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 이찬원 콘서트 ‘찬가(燦歌)’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14325</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14325"/>
-        <updated>2024-04-23T05:13:43.898Z</updated>
-        <content type="html"><![CDATA[2024.05.02(목) 20:00]]></content>
     </entry>
 </feed>
