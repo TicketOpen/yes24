@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-29T03:16:38.839Z</updated>
+    <updated>2024-04-29T04:17:54.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[메타코미디 Stand Up Assemble 24' Tour 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14345&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14345&amp;order=1"/>
+        <updated>2024-04-29T04:17:07.771Z</updated>
+        <content type="html"><![CDATA[2024-04-30(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 주현미 콘서트〈The Original〉- 천안 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14344&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14335&amp;order=1"/>
         <updated>2024-04-25T05:13:54.810Z</updated>
         <content type="html"><![CDATA[2024-04-29(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천안] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14334&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14334&amp;order=1"/>
-        <updated>2024-04-25T05:13:54.812Z</updated>
-        <content type="html"><![CDATA[2024-04-29(월) 17:00]]></content>
     </entry>
 </feed>

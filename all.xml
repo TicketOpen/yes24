@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 03:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 04:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단독판매메타코미디 Stand Up Assemble 24' Tour 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14345</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14345</guid>
+            <pubDate>Mon, 29 Apr 2024 04:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.30(화) 16:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2024 주현미 콘서트〈The Original〉- 천안 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14344</link>
@@ -140,11 +147,11 @@
             <content:encoded><![CDATA[2024.05.02(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 울산국제아트페어 얼리버드 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14324</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14324</guid>
-            <pubDate>Tue, 23 Apr 2024 03:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.29(월) 09:00]]></content:encoded>
+            <title><![CDATA[메타코미디 Stand Up Assemble 24' Tour 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14345&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14345&amp;order=1</guid>
+            <pubDate>Mon, 29 Apr 2024 04:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024-04-30(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 주현미 콘서트〈The Original〉- 천안 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -210,21 +217,6 @@
             <content:encoded><![CDATA[2024-04-29(월) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[천안] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14334&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14334&amp;order=1</guid>
-            <pubDate>Thu, 25 Apr 2024 05:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024-04-29(월) 17:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈파가니니〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/48819</link>
-            <guid>http://ticket.yes24.com/Perf/48819</guid>
-            <pubDate>Mon, 29 Apr 2024 01:02:48 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									99,000원								</td>								<td class="dc_price">									<em>→</em>66,900원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202404/20240422/20240422-48819.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [디아길레프] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/48339</link>
             <guid>http://ticket.yes24.com/Perf/48339</guid>
@@ -233,15 +225,11 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202404/20240429/20240429-48339.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 파가니니 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/48819</link>
-            <guid>http://m.ticket.yes24.com/Perf/48819</guid>
-            <pubDate>Mon, 29 Apr 2024 01:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 파가니니
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">19,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">4.30(화) ~ 5.12(일) 공연 좌석별 할인율 상이</div>]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈파가니니〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/48819</link>
+            <guid>http://ticket.yes24.com/Perf/48819</guid>
+            <pubDate>Mon, 29 Apr 2024 01:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									99,000원								</td>								<td class="dc_price">									<em>→</em>66,900원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202404/20240422/20240422-48819.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -257,6 +245,18 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202404/20240429/20240429-48339.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 파가니니 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/48819</link>
+            <guid>http://m.ticket.yes24.com/Perf/48819</guid>
+            <pubDate>Mon, 29 Apr 2024 01:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 파가니니
+</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">19,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">4.30(화) ~ 5.12(일) 공연 좌석별 할인율 상이</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202404/20240422/20240422-48819.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <파가니니> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
