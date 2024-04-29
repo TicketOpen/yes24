@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-29T01:03:25.684Z</updated>
+    <updated>2024-04-29T02:26:00.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 주현미 콘서트〈The Original〉- 천안 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14344</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14344"/>
+        <updated>2024-04-29T02:25:06.402Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <일리아드> 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14342</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14324"/>
         <updated>2024-04-23T03:14:48.792Z</updated>
         <content type="html"><![CDATA[2024.04.29(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매연극 <쇄골에 천사가 잠들고 있다> 1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14323</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14323"/>
-        <updated>2024-04-23T01:01:34.448Z</updated>
-        <content type="html"><![CDATA[2024.04.26(금) 14:00]]></content>
     </entry>
 </feed>

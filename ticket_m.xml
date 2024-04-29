@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-29T01:03:25.690Z</updated>
+    <updated>2024-04-29T02:26:00.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 주현미 콘서트〈The Original〉- 천안 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14344&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14344&amp;order=1"/>
+        <updated>2024-04-29T02:25:14.620Z</updated>
+        <content type="html"><![CDATA[2024-05-02(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <일리아드> 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14342&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14334&amp;order=1"/>
         <updated>2024-04-25T05:13:54.812Z</updated>
         <content type="html"><![CDATA[2024-04-29(월) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14333&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14333&amp;order=1"/>
-        <updated>2024-04-25T05:13:54.813Z</updated>
-        <content type="html"><![CDATA[2024-04-29(월) 14:00]]></content>
     </entry>
 </feed>
