@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-29T10:16:53.963Z</updated>
+    <updated>2024-04-29T11:15:01.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 BAEKHO&BIGONE CONCERT <우리樂> 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14346</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14346"/>
+        <updated>2024-04-29T11:14:03.945Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매메타코미디 Stand Up Assemble 24' Tour 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14345</id>
@@ -137,11 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14327"/>
         <updated>2024-04-24T05:15:26.831Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 19:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.04.29(월) 19:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 2024 변진섭 전국투어 콘서트：변천사 공연 취소 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14326</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14326"/>
-        <updated>2024-04-23T08:17:46.997Z</updated>
     </entry>
 </feed>
