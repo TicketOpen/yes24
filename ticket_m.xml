@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-30T08:20:37.668Z</updated>
+    <updated>2024-04-30T09:16:36.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[디제이맥스 미라클: 드라이브 (DJMAX MIRACLE: DRIVE) 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14349&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14349&amp;order=1"/>
+        <updated>2024-04-30T09:15:56.716Z</updated>
+        <content type="html"><![CDATA[2024-05-03(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10CM ‘너와 밤새고 싶어’ 발매기념 스페셜 라이브 쇼 : 쇼츠쇼츠 대작전 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14348&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14340&amp;order=1"/>
         <updated>2024-04-26T06:20:18.401Z</updated>
         <content type="html"><![CDATA[2024-05-02(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] SUPER! 수요콘서트 6월 [SURL × Lacuna] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14339&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14339&amp;order=1"/>
-        <updated>2024-04-26T03:16:14.025Z</updated>
-        <content type="html"><![CDATA[2024-05-07(화) 14:00]]></content>
     </entry>
 </feed>
