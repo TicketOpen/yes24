@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 14:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 15:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -276,38 +276,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240408/20240408-2630f4e3-de86-4abd-be36-730e72ef15e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <이프아이월유> 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48619&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48619&amp;Tab=2</guid>
-            <pubDate>Thu, 25 Apr 2024 12:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.03 ~ 2024.04.30 | 2024.05.01 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240403/20240403-f053e46e-9507-4db2-be67-8e47eea31f7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <디어 에반 핸슨> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48485&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48485&amp;Tab=2</guid>
-            <pubDate>Thu, 25 Apr 2024 12:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.29 ~ 2024.04.30 | 2024.05.07 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-35d138a4-d809-44da-ac6c-ca68b413dcdf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년문화예술패스 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</guid>
-            <pubDate>Thu, 25 Apr 2024 12:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.01 ~ 2024.04.30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-7b5b3310-d30a-44ae-b458-24ff1dc948ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <낭만별곡>관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48728&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48728&amp;Tab=2</guid>
-            <pubDate>Thu, 25 Apr 2024 12:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.19 ~ 2024.04.30 | 2024.05.02 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240319/20240319-6db790bf-3d16-4193-9677-94521e952bdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <광염 소나타>의 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48752&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48752&amp;Tab=2</guid>
@@ -330,6 +298,28 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Tue, 30 Apr 2024 15:13:09 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예술의전당 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
+            <pubDate>Tue, 30 Apr 2024 15:13:09 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[관람후기, YES포인트로 받아가세요 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2450</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2450</guid>
+            <pubDate>Tue, 30 Apr 2024 15:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2016.01.01 ~ 2030.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202010/20201027/20201027-ev_list_guide_review.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이벤트 기간2024.04.29 ~ 2024.05.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=49146</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=49146</guid>
@@ -344,38 +334,6 @@
             <pubDate>Mon, 08 Apr 2024 10:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;파가니니&gt; 싸인 프로그램 북]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240408/20240408-2630f4e3-de86-4abd-be36-730e72ef15e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.04.03 ~ 2024.04.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48619</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48619</guid>
-            <pubDate>Sun, 07 Apr 2024 17:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em>경품</em>스페셜 MD 기억의 펜던트]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240403/20240403-f053e46e-9507-4db2-be67-8e47eea31f7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.03.29 ~ 2024.04.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48485</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48485</guid>
-            <pubDate>Sun, 07 Apr 2024 17:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;디어 에반 핸슨&gt; 2024.05.19(일) 19시 R석 초대권 (1인 2매) 2명<br>에반 배우 친필 사인 프로그램북 3명]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-35d138a4-d809-44da-ac6c-ca68b413dcdf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.04.01 ~ 2024.04.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3570</link>
-            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3570</guid>
-            <pubDate>Sun, 07 Apr 2024 17:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-7b5b3310-d30a-44ae-b458-24ff1dc948ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.03.19 ~ 2024.04.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48728</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=48728</guid>
-            <pubDate>Sun, 07 Apr 2024 17:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em>경품</em> 낭만별곡 출연배우(11인) 사인이 담긴 프로그램북 + 즉석사진(배우 11명 중 1명 지정)]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240319/20240319-6db790bf-3d16-4193-9677-94521e952bdb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.03.15 ~ 2024.05.24 (YES24 티켓 ─ 이벤트 모바일)]]></title>
