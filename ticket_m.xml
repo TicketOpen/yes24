@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-02T05:15:56.577Z</updated>
+    <updated>2024-05-02T06:19:54.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <클럽 드바이> 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14353&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14353&amp;order=1"/>
+        <updated>2024-05-02T06:19:09.067Z</updated>
+        <content type="html"><![CDATA[2024-05-08(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디 첼리스텐 앙상블 제14회 정기연주회 - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14352&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14352&amp;order=1"/>
+        <updated>2024-05-02T06:19:09.067Z</updated>
+        <content type="html"><![CDATA[2024-05-03(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 라이브 가족뮤지컬 〈인어공주〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14350&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14343&amp;order=1"/>
         <updated>2024-04-29T05:16:33.578Z</updated>
         <content type="html"><![CDATA[2024-04-30(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <일리아드> 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14342&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14342&amp;order=1"/>
-        <updated>2024-04-26T08:18:11.415Z</updated>
-        <content type="html"><![CDATA[2024-05-03(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극단 김장하는날 <누에> - 제45회 서울연극제 공식선정작 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14341&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14341&amp;order=1"/>
-        <updated>2024-04-26T08:18:11.415Z</updated>
-        <content type="html"><![CDATA[2024-04-30(화) 11:00]]></content>
     </entry>
 </feed>
