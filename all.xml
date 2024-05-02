@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 01:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 01:58:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,6 +268,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240429/20240429-3bfe236f-0428-436a-aa8f-e62623272669.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이버페이로 예매하면 포인트 적립해드려요! (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</guid>
+            <pubDate>Thu, 02 May 2024 01:57:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.02 ~ 2024.05.08]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240502/20240502-351cedac-3f42-46cf-bd40-8285834b9cae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <파가니니> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48819&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48819&amp;Tab=2</guid>
@@ -326,6 +334,14 @@
             <pubDate>Mon, 29 Apr 2024 11:14:45 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>연극 &lt;클로저&gt; 프로그램 북]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240429/20240429-3bfe236f-0428-436a-aa8f-e62623272669.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.05.02 ~ 2024.05.08 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3593</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3593</guid>
+            <pubDate>Thu, 02 May 2024 01:57:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240502/20240502-351cedac-3f42-46cf-bd40-8285834b9cae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.04.06 ~ 2024.06.02 (YES24 티켓 ─ 이벤트 모바일)]]></title>

@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 01:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 01:58:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 29 Apr 2024 11:14:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.29 ~ 2024.05.31 | 2024.06.05 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240429/20240429-3bfe236f-0428-436a-aa8f-e62623272669.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버페이로 예매하면 포인트 적립해드려요!]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</guid>
+            <pubDate>Thu, 02 May 2024 01:57:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.02 ~ 2024.05.08]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240502/20240502-351cedac-3f42-46cf-bd40-8285834b9cae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <파가니니> 관람후기 이벤트]]></title>
