@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-03T05:14:50.284Z</updated>
+    <updated>2024-05-03T06:19:47.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Kiefer Live With Trio In Seoul 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14358&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14358&amp;order=1"/>
+        <updated>2024-05-03T06:18:58.980Z</updated>
+        <content type="html"><![CDATA[2024-05-10(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 부산원아시아페스티벌 ‘BOF Big CONCERT’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14357&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14349&amp;order=1"/>
         <updated>2024-04-30T09:15:56.716Z</updated>
         <content type="html"><![CDATA[2024-05-03(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10CM ‘너랑 밤새고 싶어’ 발매기념 스페셜 라이브 쇼 : 쇼츠쇼츠 대작전 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14348&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14348&amp;order=1"/>
-        <updated>2024-04-30T03:15:17.469Z</updated>
-        <content type="html"><![CDATA[2024-05-03(금) 20:00]]></content>
     </entry>
 </feed>
