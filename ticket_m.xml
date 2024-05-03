@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-03T02:27:39.305Z</updated>
+    <updated>2024-05-03T03:17:06.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Something About Us 2024 A-FUZZ X Chihiro Yamazaki 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14356&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14356&amp;order=1"/>
+        <updated>2024-05-03T03:16:15.652Z</updated>
+        <content type="html"><![CDATA[2024-05-09(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2024 센텀맥주축제 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14354&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14346&amp;order=1"/>
         <updated>2024-04-29T11:14:12.679Z</updated>
         <content type="html"><![CDATA[2024-05-02(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타코미디 Stand Up Assemble 24' Tour 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14345&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14345&amp;order=1"/>
-        <updated>2024-04-29T04:17:07.771Z</updated>
-        <content type="html"><![CDATA[2024-04-30(화) 10:00]]></content>
     </entry>
 </feed>
