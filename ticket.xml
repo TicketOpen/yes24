@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-03T04:19:01.546Z</updated>
+    <updated>2024-05-03T05:14:50.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 부산원아시아페스티벌 ‘BOF Big CONCERT’ 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14357</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14357"/>
+        <updated>2024-05-03T05:13:55.073Z</updated>
+        <content type="html"><![CDATA[2024.05.03(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Something About Us 2024 A-FUZZ X Chihiro Yamazaki 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14356</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14356"/>
         <updated>2024-05-03T03:16:07.416Z</updated>
         <content type="html"><![CDATA[2024.05.09(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [이블데드] 부활하는 좀비들의 밤 - 블러드밤 피켓팅 오픈 안내 빠밤]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14355</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14355"/>
+        <updated>2024-05-03T05:13:55.074Z</updated>
+        <content type="html"><![CDATA[2024.05.10(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2024 센텀맥주축제 티켓 오픈 안내]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14338"/>
         <updated>2024-04-26T05:13:23.060Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 라이브 가족뮤지컬 〈미녀와야수〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14337</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14337"/>
-        <updated>2024-04-25T09:15:26.390Z</updated>
-        <content type="html"><![CDATA[2024.04.26(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Xdinary Heroes Concert〈Closed ♭eta: v6.1〉티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14336</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14336"/>
-        <updated>2024-04-25T07:14:05.282Z</updated>
-        <content type="html"><![CDATA[2024.05.08(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.05.07(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-03T04:19:01.552Z</updated>
+    <updated>2024-05-03T05:14:50.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 부산원아시아페스티벌 ‘BOF Big CONCERT’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14357&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14357&amp;order=1"/>
+        <updated>2024-05-03T05:14:03.558Z</updated>
+        <content type="html"><![CDATA[2024-05-03(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Something About Us 2024 A-FUZZ X Chihiro Yamazaki 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14356&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14356&amp;order=1"/>
         <updated>2024-05-03T03:16:15.652Z</updated>
         <content type="html"><![CDATA[2024-05-09(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [이블데드] 부활하는 좀비들의 밤 - 블러드밤 피켓팅 오픈 안내 빠밤]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14355&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14355&amp;order=1"/>
+        <updated>2024-05-03T05:14:03.571Z</updated>
+        <content type="html"><![CDATA[2024-05-10(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2024 센텀맥주축제 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14348&amp;order=1"/>
         <updated>2024-04-30T03:15:17.469Z</updated>
         <content type="html"><![CDATA[2024-05-03(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [파가니니] 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14347&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14347&amp;order=1"/>
-        <updated>2024-04-30T02:25:20.418Z</updated>
-        <content type="html"><![CDATA[2024-05-03(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 BAEKHO&BIGONE CONCERT <우리樂> 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14346&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14346&amp;order=1"/>
-        <updated>2024-04-29T11:14:12.679Z</updated>
-        <content type="html"><![CDATA[2024-05-02(목) 16:00]]></content>
     </entry>
 </feed>
