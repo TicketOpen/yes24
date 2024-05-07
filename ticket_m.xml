@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-07T06:21:06.859Z</updated>
+    <updated>2024-05-07T07:21:11.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제45회 서울연극제 공식선정작 〈다이빙 보드〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14364&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14364&amp;order=1"/>
+        <updated>2024-05-07T07:20:14.385Z</updated>
+        <content type="html"><![CDATA[2024-05-09(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새들의 무덤 - 제45회 서울연극제 공식참가작 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14363&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14363&amp;order=1"/>
+        <updated>2024-05-07T07:20:14.388Z</updated>
+        <content type="html"><![CDATA[2024-05-13(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈등등곡〉1차 프리뷰 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14362&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14355&amp;order=1"/>
         <updated>2024-05-03T05:14:03.571Z</updated>
         <content type="html"><![CDATA[2024-05-10(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 센텀맥주축제 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14354&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14354&amp;order=1"/>
-        <updated>2024-05-02T09:15:40.363Z</updated>
-        <content type="html"><![CDATA[2024-05-03(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <클럽 드바이> 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14353&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14353&amp;order=1"/>
-        <updated>2024-05-02T06:19:09.067Z</updated>
-        <content type="html"><![CDATA[2024-05-08(수) 15:00]]></content>
     </entry>
 </feed>
