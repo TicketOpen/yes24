@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-07T05:17:00.954Z</updated>
+    <updated>2024-05-07T06:21:06.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[단독판매ATEEZ 2024 FANMEETING 〈ATINY'S VOYAGE : FROM A TO Z〉 티켓오픈안내]]></title>
+        <title type="html"><![CDATA[뮤지컬〈등등곡〉1차 프리뷰 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14362</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14362"/>
+        <updated>2024-05-07T06:19:50.324Z</updated>
+        <content type="html"><![CDATA[2024.05.14(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매ATEEZ 2024 FANMEETING〈ATINY'S VOYAGE : FROM A TO Z〉티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14361</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14361"/>
         <updated>2024-05-07T05:16:06.094Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14343"/>
         <updated>2024-04-29T05:16:25.213Z</updated>
         <content type="html"><![CDATA[2024.04.30(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <일리아드> 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14342</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14342"/>
-        <updated>2024-04-26T08:18:01.300Z</updated>
-        <content type="html"><![CDATA[2024.05.03(금) 14:00]]></content>
     </entry>
 </feed>
