@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-07T07:21:11.071Z</updated>
+    <updated>2024-05-07T08:19:00.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(5/12, 5/19, 5/20)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14365</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14365"/>
+        <updated>2024-05-07T08:17:49.693Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제45회 서울연극제 공식선정작 〈다이빙 보드〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14364</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14346"/>
         <updated>2024-04-29T11:14:03.945Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매메타코미디 Stand Up Assemble 24' Tour 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14345</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14345"/>
-        <updated>2024-04-29T04:16:59.733Z</updated>
-        <content type="html"><![CDATA[2024.04.30(화) 10:00]]></content>
     </entry>
 </feed>
