@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-08T01:35:06.517Z</updated>
+    <updated>2024-05-08T02:16:52.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈어쩌면해피엔딩〉2024 OPENING WEEK 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14366&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14366&amp;order=1"/>
+        <updated>2024-05-08T02:16:11.146Z</updated>
+        <content type="html"><![CDATA[2024-05-13(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제45회 서울연극제 공식선정작 〈다이빙 보드〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14364&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14356&amp;order=1"/>
         <updated>2024-05-03T03:16:15.652Z</updated>
         <content type="html"><![CDATA[2024-05-09(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이블데드] 부활하는 좀비들의 밤 - 블러드밤 피켓팅 오픈 안내 빠밤]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14355&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14355&amp;order=1"/>
-        <updated>2024-05-03T05:14:03.571Z</updated>
-        <content type="html"><![CDATA[2024-05-10(금) 14:00]]></content>
     </entry>
 </feed>
