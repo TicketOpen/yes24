@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-08T06:17:59.075Z</updated>
+    <updated>2024-05-08T07:16:10.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[패밀리 아이스쇼〈피터팬 온 아이스〉오리지널 내한공연 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14367&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14367&amp;order=1"/>
+        <updated>2024-05-08T07:15:20.698Z</updated>
+        <content type="html"><![CDATA[2024-05-16(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈어쩌면해피엔딩〉2024 OPENING WEEK 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14366&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14357&amp;order=1"/>
         <updated>2024-05-03T05:14:03.558Z</updated>
         <content type="html"><![CDATA[2024-05-03(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Something About Us 2024 A-FUZZ X Chihiro Yamazaki 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14356&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14356&amp;order=1"/>
-        <updated>2024-05-03T03:16:15.652Z</updated>
-        <content type="html"><![CDATA[2024-05-09(목) 12:00]]></content>
     </entry>
 </feed>
