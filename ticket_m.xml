@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-10T01:03:39.158Z</updated>
+    <updated>2024-05-10T02:31:34.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2024 키즈 클래식 8월 코믹음악극 〈엄마, 아빠는 음치 왕!〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14373&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14373&amp;order=1"/>
+        <updated>2024-05-10T02:30:52.710Z</updated>
+        <content type="html"><![CDATA[2024-05-20(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2024 키즈 클래식 7월〈애니멀 파크 인 더 클래식〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14372&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14372&amp;order=1"/>
+        <updated>2024-05-10T02:30:52.711Z</updated>
+        <content type="html"><![CDATA[2024-05-20(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈디어 에반 핸슨〉마지막 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14370&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14362&amp;order=1"/>
         <updated>2024-05-07T06:20:05.654Z</updated>
         <content type="html"><![CDATA[2024-05-14(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATEEZ 2024 FANMEETING〈ATINY'S VOYAGE : FROM A TO Z〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14361&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14361&amp;order=1"/>
-        <updated>2024-05-07T05:16:14.240Z</updated>
-        <content type="html"><![CDATA[2024-05-22(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14360&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14360&amp;order=1"/>
-        <updated>2024-05-03T07:13:50.555Z</updated>
-        <content type="html"><![CDATA[2024-05-08(수) 09:00]]></content>
     </entry>
 </feed>
