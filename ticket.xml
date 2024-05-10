@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-10T07:15:58.398Z</updated>
+    <updated>2024-05-10T08:19:12.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 〈어린이마술쇼〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14376</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14376"/>
+        <updated>2024-05-10T08:18:08.713Z</updated>
+        <content type="html"><![CDATA[2024.05.13(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 인천펜타포트 락 페스티벌 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14375</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14375"/>
+        <updated>2024-05-10T08:18:08.714Z</updated>
+        <content type="html"><![CDATA[2024.05.17(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] PITTA 강형호 콘서트: New Normal Life 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14374</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14357"/>
         <updated>2024-05-03T05:13:55.073Z</updated>
         <content type="html"><![CDATA[2024.05.03(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Something About Us 2024 A-FUZZ X Chihiro Yamazaki 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14356</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14356"/>
-        <updated>2024-05-03T03:16:07.416Z</updated>
-        <content type="html"><![CDATA[2024.05.09(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이블데드] 부활하는 좀비들의 밤 - 블러드밤 피켓팅 오픈 안내 빠밤]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14355</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14355"/>
-        <updated>2024-05-03T05:13:55.074Z</updated>
-        <content type="html"><![CDATA[2024.05.10(금) 14:00]]></content>
     </entry>
 </feed>

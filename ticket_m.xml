@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-10T07:15:58.390Z</updated>
+    <updated>2024-05-10T08:19:12.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 〈어린이마술쇼〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14376&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14376&amp;order=1"/>
+        <updated>2024-05-10T08:18:17.269Z</updated>
+        <content type="html"><![CDATA[2024-05-13(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 인천펜타포트 락 페스티벌 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14375&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14375&amp;order=1"/>
+        <updated>2024-05-10T08:18:17.269Z</updated>
+        <content type="html"><![CDATA[2024-05-17(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] PITTA 강형호 콘서트: New Normal Life 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14374&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14367&amp;order=1"/>
         <updated>2024-05-08T07:15:20.698Z</updated>
         <content type="html"><![CDATA[2024-05-16(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈어쩌면해피엔딩〉2024 OPENING WEEK 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14366&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14366&amp;order=1"/>
-        <updated>2024-05-08T02:16:11.146Z</updated>
-        <content type="html"><![CDATA[2024-05-13(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제45회 서울연극제 공식선정작 〈다이빙 보드〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14364&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14364&amp;order=1"/>
-        <updated>2024-05-07T07:20:14.385Z</updated>
-        <content type="html"><![CDATA[2024-05-09(목) 10:00]]></content>
     </entry>
 </feed>
