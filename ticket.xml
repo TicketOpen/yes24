@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-10T04:17:40.433Z</updated>
+    <updated>2024-05-10T05:15:33.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] PITTA 강형호 콘서트: New Normal Life 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14374</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14374"/>
+        <updated>2024-05-10T05:14:35.823Z</updated>
+        <content type="html"><![CDATA[2024.05.17(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 2024 키즈 클래식 8월 코믹음악극 〈엄마, 아빠는 음치 왕!〉티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14373</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14355"/>
         <updated>2024-05-03T05:13:55.074Z</updated>
         <content type="html"><![CDATA[2024.05.10(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 센텀맥주축제 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14354</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14354"/>
-        <updated>2024-05-02T09:15:31.668Z</updated>
-        <content type="html"><![CDATA[2024.05.03(금) 14:00]]></content>
     </entry>
 </feed>

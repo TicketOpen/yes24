@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-10T04:17:40.446Z</updated>
+    <updated>2024-05-10T05:15:33.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] PITTA 강형호 콘서트: New Normal Life 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14374&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14374&amp;order=1"/>
+        <updated>2024-05-10T05:14:44.964Z</updated>
+        <content type="html"><![CDATA[2024-05-17(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 2024 키즈 클래식 8월 코믹음악극 〈엄마, 아빠는 음치 왕!〉티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14373&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14364&amp;order=1"/>
         <updated>2024-05-07T07:20:14.385Z</updated>
         <content type="html"><![CDATA[2024-05-09(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새들의 무덤 - 제45회 서울연극제 공식참가작 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14363&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14363&amp;order=1"/>
-        <updated>2024-05-07T07:20:14.388Z</updated>
-        <content type="html"><![CDATA[2024-05-14(화) 14:00]]></content>
     </entry>
 </feed>
