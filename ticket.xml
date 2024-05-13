@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-13T05:17:07.394Z</updated>
+    <updated>2024-05-13T06:20:51.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈4월은 너의 거짓말〉]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14378</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14378"/>
+        <updated>2024-05-13T06:20:03.343Z</updated>
+        <content type="html"><![CDATA[2024.05.17(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오픈일시변경] PITTA 강형호 콘서트: New Normal Life - 부산 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14377</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14358"/>
         <updated>2024-05-03T06:18:50.899Z</updated>
         <content type="html"><![CDATA[2024.05.10(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 부산원아시아페스티벌 ‘BOF Big CONCERT’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14357</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14357"/>
-        <updated>2024-05-03T05:13:55.073Z</updated>
-        <content type="html"><![CDATA[2024.05.03(금) 19:00]]></content>
     </entry>
 </feed>
