@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-13T07:15:15.270Z</updated>
+    <updated>2024-05-13T08:20:56.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <매직 판타지아-도로시 리턴즈> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14382</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14382"/>
+        <updated>2024-05-13T08:19:55.912Z</updated>
+        <content type="html"><![CDATA[2024.05.20(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 오은영의 더할나위없이 [날마다 당당당] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14380</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14380"/>
+        <updated>2024-05-13T08:19:55.919Z</updated>
+        <content type="html"><![CDATA[2024.05.24(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매[창원] 7월 토요콘서트 - KARDI CONCERT 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14379</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14379"/>
+        <updated>2024-05-13T08:19:55.919Z</updated>
+        <content type="html"><![CDATA[2024.05.16(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈4월은 너의 거짓말〉]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14378</id>
@@ -122,26 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14361"/>
         <updated>2024-05-07T05:16:06.094Z</updated>
         <content type="html"><![CDATA[2024.05.22(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.05.21(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14360</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14360"/>
-        <updated>2024-05-03T07:13:42.192Z</updated>
-        <content type="html"><![CDATA[2024.05.08(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [메노포즈] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14359</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14359"/>
-        <updated>2024-05-03T07:13:42.195Z</updated>
-        <content type="html"><![CDATA[2024.05.08(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kiefer Live With Trio In Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14358</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14358"/>
-        <updated>2024-05-03T06:18:50.899Z</updated>
-        <content type="html"><![CDATA[2024.05.10(금) 14:00]]></content>
     </entry>
 </feed>
