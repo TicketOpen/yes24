@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-13T08:20:56.737Z</updated>
+    <updated>2024-05-13T09:16:35.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[경향아트힐] 페인터즈 6월 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14383&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14383&amp;order=1"/>
+        <updated>2024-05-13T09:15:55.760Z</updated>
+        <content type="html"><![CDATA[2024-05-14(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <매직 판타지아-도로시 리턴즈> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14382&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14382&amp;order=1"/>
         <updated>2024-05-13T08:20:04.603Z</updated>
         <content type="html"><![CDATA[2024-05-20(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트릿 댄스 퀸 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14381&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14381&amp;order=1"/>
+        <updated>2024-05-13T09:15:55.762Z</updated>
+        <content type="html"><![CDATA[2024-05-17(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 오은영의 더할나위없이 [날마다 당당당] 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14373&amp;order=1"/>
         <updated>2024-05-10T02:30:52.710Z</updated>
         <content type="html"><![CDATA[2024-05-20(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 키즈 클래식 7월〈애니멀 파크 인 더 클래식〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14372&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14372&amp;order=1"/>
-        <updated>2024-05-10T02:30:52.711Z</updated>
-        <content type="html"><![CDATA[2024-05-20(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 UKISS FAN CONCERT ‘First Memories’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14371&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14371&amp;order=1"/>
-        <updated>2024-05-10T03:15:34.877Z</updated>
-        <content type="html"><![CDATA[2024-05-17(금) 20:00]]></content>
     </entry>
 </feed>
