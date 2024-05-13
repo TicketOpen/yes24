@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 04:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 05:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오픈일시변경] PITTA 강형호 콘서트: New Normal Life - 부산 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14377</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14377</guid>
+            <pubDate>Mon, 13 May 2024 05:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.27(월) 16:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[광주] 2024 〈어린이마술쇼〉 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14376</link>
@@ -20,13 +27,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14375</guid>
             <pubDate>Fri, 10 May 2024 08:18:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.17(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부산] PITTA 강형호 콘서트: New Normal Life 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14374</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14374</guid>
-            <pubDate>Fri, 10 May 2024 05:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.17(금) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[창원] 2024 키즈 클래식 8월 코믹음악극 〈엄마, 아빠는 음치 왕!〉티켓오픈안내 (예스24 티켓)]]></title>
@@ -147,6 +147,13 @@
             <content:encoded><![CDATA[2024.05.03(금) 19:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[오픈일시변경] PITTA 강형호 콘서트: New Normal Life - 부산 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14377&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14377&amp;order=1</guid>
+            <pubDate>Mon, 13 May 2024 05:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-27(월) 16:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[광주] 2024 〈어린이마술쇼〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14376&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14376&amp;order=1</guid>
@@ -159,13 +166,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14375&amp;order=1</guid>
             <pubDate>Fri, 10 May 2024 08:18:17 GMT</pubDate>
             <content:encoded><![CDATA[2024-05-17(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부산] PITTA 강형호 콘서트: New Normal Life 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14374&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14374&amp;order=1</guid>
-            <pubDate>Fri, 10 May 2024 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024-05-17(금) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[창원] 2024 키즈 클래식 8월 코믹음악극 〈엄마, 아빠는 음치 왕!〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
