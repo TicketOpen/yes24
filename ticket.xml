@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-14T05:16:03.703Z</updated>
+    <updated>2024-05-14T06:22:20.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈에밀〉 1차 티켓오픈 공지]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14386</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14386"/>
+        <updated>2024-05-14T06:21:18.819Z</updated>
+        <content type="html"><![CDATA[2024.05.21(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매연극 <빵야> 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14385</id>
@@ -137,11 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14366"/>
         <updated>2024-05-08T02:16:04.039Z</updated>
         <content type="html"><![CDATA[2024.05.13(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(5/12, 5/19, 5/20)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14365</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14365"/>
-        <updated>2024-05-07T08:17:49.693Z</updated>
     </entry>
 </feed>
