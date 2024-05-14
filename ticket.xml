@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-14T06:22:20.122Z</updated>
+    <updated>2024-05-14T07:16:16.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14387</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14387"/>
+        <updated>2024-05-14T07:15:23.476Z</updated>
+        <content type="html"><![CDATA[2024.05.17(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈에밀〉 1차 티켓오픈 공지]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14386</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14367"/>
         <updated>2024-05-08T07:15:12.323Z</updated>
         <content type="html"><![CDATA[2024.05.16(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈어쩌면해피엔딩〉2024 OPENING WEEK 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14366</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14366"/>
-        <updated>2024-05-08T02:16:04.039Z</updated>
-        <content type="html"><![CDATA[2024.05.13(월) 14:00]]></content>
     </entry>
 </feed>

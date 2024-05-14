@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-14T06:22:20.098Z</updated>
+    <updated>2024-05-14T07:16:16.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14387&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14387&amp;order=1"/>
+        <updated>2024-05-14T07:15:30.437Z</updated>
+        <content type="html"><![CDATA[2024-05-17(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈에밀〉 1차 티켓오픈 공지]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14386&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14378&amp;order=1"/>
         <updated>2024-05-13T06:20:09.959Z</updated>
         <content type="html"><![CDATA[2024-05-17(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오픈일시변경] PITTA 강형호 콘서트: New Normal Life - 부산 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14377&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14377&amp;order=1"/>
-        <updated>2024-05-13T05:16:20.434Z</updated>
-        <content type="html"><![CDATA[2024-05-27(월) 16:00]]></content>
     </entry>
 </feed>
