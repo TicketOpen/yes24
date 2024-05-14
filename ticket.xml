@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-14T02:27:08.981Z</updated>
+    <updated>2024-05-14T03:18:05.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Live ＆ Music Festival 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14384</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14384"/>
+        <updated>2024-05-14T03:17:08.693Z</updated>
+        <content type="html"><![CDATA[2024.05.17(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경향아트힐] 페인터즈 6월 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14383</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14364"/>
         <updated>2024-05-07T07:20:05.716Z</updated>
         <content type="html"><![CDATA[2024.05.09(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새들의 무덤 - 제45회 서울연극제 공식참가작 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14363</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14363"/>
-        <updated>2024-05-07T07:20:05.721Z</updated>
-        <content type="html"><![CDATA[2024.05.14(화) 14:00]]></content>
     </entry>
 </feed>

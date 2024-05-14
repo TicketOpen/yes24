@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-14T02:27:09.001Z</updated>
+    <updated>2024-05-14T03:18:05.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Live ＆ Music Festival 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14384&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14384&amp;order=1"/>
+        <updated>2024-05-14T03:17:17.460Z</updated>
+        <content type="html"><![CDATA[2024-05-17(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경향아트힐] 페인터즈 6월 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14383&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14375&amp;order=1"/>
         <updated>2024-05-10T08:18:17.269Z</updated>
         <content type="html"><![CDATA[2024-05-17(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 키즈 클래식 8월 코믹음악극 〈엄마, 아빠는 음치 왕!〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14373&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14373&amp;order=1"/>
-        <updated>2024-05-10T02:30:52.710Z</updated>
-        <content type="html"><![CDATA[2024-05-20(월) 11:00]]></content>
     </entry>
 </feed>
