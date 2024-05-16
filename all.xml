@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 01:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 02:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세종문화회관 컨템퍼러리 시즌 Sync Next 24(싱크 넥스트 24) 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14389</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14389</guid>
+            <pubDate>Thu, 16 May 2024 02:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.16(목) 16:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <살리에르> 프리뷰 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14388</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2024.05.10(금) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 뮤지컬〈하데스타운〉첫 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14368</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14368</guid>
-            <pubDate>Thu, 09 May 2024 06:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.17(금) 14:00]]></content:encoded>
+            <title><![CDATA[세종문화회관 컨템퍼러리 시즌 Sync Next 24(싱크 넥스트 24) 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14389&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14389&amp;order=1</guid>
+            <pubDate>Thu, 16 May 2024 02:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-16(목) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <살리에르> 프리뷰 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -209,13 +216,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14380&amp;order=1</guid>
             <pubDate>Mon, 13 May 2024 08:20:04 GMT</pubDate>
             <content:encoded><![CDATA[2024-05-24(금) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[창원] 7월 토요콘서트 - KARDI CONCERT 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14379&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14379&amp;order=1</guid>
-            <pubDate>Mon, 13 May 2024 08:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024-05-16(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈이프아이월유〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -390,6 +390,13 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[뮤지컬 넥스트 투 노멀] 5천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.05.16 ~ 2024.05.19</dd><dt>사용기간</dt><dd>2024.05.16 ~ 2024.05.19</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -416,6 +423,13 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</guid>
             <pubDate>Sun, 07 Apr 2024 17:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 넥스트 투 노멀] 5천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=47579</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=47579</guid>
+            <pubDate>Thu, 16 May 2024 02:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 5,000원]]></content:encoded>
         </item>
     </channel>
 </rss>

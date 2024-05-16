@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-16T01:04:15.103Z</updated>
+    <updated>2024-05-16T02:28:04.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 컨템퍼러리 시즌 Sync Next 24(싱크 넥스트 24) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14389</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14389"/>
+        <updated>2024-05-16T02:27:05.745Z</updated>
+        <content type="html"><![CDATA[2024.05.16(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <살리에르> 프리뷰 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14388</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14369"/>
         <updated>2024-05-09T09:15:37.170Z</updated>
         <content type="html"><![CDATA[2024.05.10(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 뮤지컬〈하데스타운〉첫 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14368</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14368"/>
-        <updated>2024-05-09T06:19:55.944Z</updated>
-        <content type="html"><![CDATA[2024.05.17(금) 14:00]]></content>
     </entry>
 </feed>
