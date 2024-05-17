@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-17T07:15:33.964Z</updated>
+    <updated>2024-05-17T08:19:19.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매연극 〈쇄골에 천사가 잠들고 있다〉 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14394</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14394"/>
+        <updated>2024-05-17T08:18:20.022Z</updated>
+        <content type="html"><![CDATA[2024.05.21(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 미술관 옆 공연장 - 그림에 음악과 향기를 더하다 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14393</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14375"/>
         <updated>2024-05-10T08:18:08.714Z</updated>
         <content type="html"><![CDATA[2024.05.17(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 키즈 클래식 8월 코믹음악극 〈엄마, 아빠는 음치 왕!〉티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14373</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14373"/>
-        <updated>2024-05-10T02:30:46.088Z</updated>
-        <content type="html"><![CDATA[2024.05.20(월) 11:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-17T07:15:33.967Z</updated>
+    <updated>2024-05-17T08:19:19.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈쇄골에 천사가 잠들고 있다〉 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14394&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14394&amp;order=1"/>
+        <updated>2024-05-17T08:18:28.828Z</updated>
+        <content type="html"><![CDATA[2024-05-21(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 미술관 옆 공연장 - 그림에 음악과 향기를 더하다 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14393&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14385&amp;order=1"/>
         <updated>2024-05-14T04:16:50.873Z</updated>
         <content type="html"><![CDATA[2024-05-20(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live ＆ Music Festival 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14384&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14384&amp;order=1"/>
-        <updated>2024-05-14T03:17:17.460Z</updated>
-        <content type="html"><![CDATA[2024-05-17(금) 12:00]]></content>
     </entry>
 </feed>
