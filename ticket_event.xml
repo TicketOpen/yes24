@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 09:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 10:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <매직 판타지아-도로시 리턴즈> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49741&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49741&amp;Tab=3</guid>
+            <pubDate>Mon, 20 May 2024 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.20 ~ 2024.07.07 | 2024.07.09 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240520/20240520-d620814c-f22a-4fa7-82ea-7ca593411ff7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <클럽 드바이> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49632&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 25 Apr 2024 12:22:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.06 ~ 2024.06.02 | 2024.06.04 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240408/20240408-2630f4e3-de86-4abd-be36-730e72ef15e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <광염 소나타>의 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48752&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48752&amp;Tab=2</guid>
-            <pubDate>Thu, 25 Apr 2024 12:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.15 ~ 2024.05.24 | 2024.05.27 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202403/20240315/20240315-48840b25-7f27-4a95-9306-cf7b2d142722.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
