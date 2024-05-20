@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-20T05:16:52.323Z</updated>
+    <updated>2024-05-20T06:22:25.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14399</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14399"/>
+        <updated>2024-05-20T06:21:20.855Z</updated>
+        <content type="html"><![CDATA[2024.05.21(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 7월 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14397</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14379"/>
         <updated>2024-05-13T08:19:55.919Z</updated>
         <content type="html"><![CDATA[2024.05.16(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈4월은 너의 거짓말〉]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14378</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14378"/>
-        <updated>2024-05-13T06:20:03.343Z</updated>
-        <content type="html"><![CDATA[2024.05.17(금) 11:00]]></content>
     </entry>
 </feed>
