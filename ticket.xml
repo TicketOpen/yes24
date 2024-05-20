@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-19T23:16:38.985Z</updated>
+    <updated>2024-05-20T01:04:51.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매정홍일 라이브 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14395</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14395"/>
+        <updated>2024-05-20T01:03:52.250Z</updated>
+        <content type="html"><![CDATA[2024.05.24(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매연극 〈쇄골에 천사가 잠들고 있다〉 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14394</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14376"/>
         <updated>2024-05-10T08:18:08.713Z</updated>
         <content type="html"><![CDATA[2024.05.13(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 인천펜타포트 락 페스티벌 - 마니아 티켓 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14375</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14375"/>
-        <updated>2024-05-10T08:18:08.714Z</updated>
-        <content type="html"><![CDATA[2024.05.17(금) 14:00]]></content>
     </entry>
 </feed>
