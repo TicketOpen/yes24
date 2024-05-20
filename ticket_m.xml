@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-20T06:22:25.604Z</updated>
+    <updated>2024-05-20T07:16:19.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14399&amp;order=1"/>
         <updated>2024-05-20T06:21:29.516Z</updated>
         <content type="html"><![CDATA[2024-05-21(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Rolling Quartz Concert [VICTORY] - EP 앨범 발매 기념 - 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14398&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14398&amp;order=1"/>
+        <updated>2024-05-20T07:15:25.004Z</updated>
+        <content type="html"><![CDATA[2024-05-23(목) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 7월 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14390&amp;order=1"/>
         <updated>2024-05-17T01:03:46.513Z</updated>
         <content type="html"><![CDATA[2024-05-22(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종문화회관 컨템퍼러리 시즌 Sync Next 24(싱크 넥스트 24) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14389&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14389&amp;order=1"/>
-        <updated>2024-05-16T02:27:15.343Z</updated>
-        <content type="html"><![CDATA[2024-05-16(목) 16:00]]></content>
     </entry>
 </feed>

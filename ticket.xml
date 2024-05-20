@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-20T06:22:25.584Z</updated>
+    <updated>2024-05-20T07:16:19.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14399"/>
         <updated>2024-05-20T06:21:20.855Z</updated>
         <content type="html"><![CDATA[2024.05.21(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 Rolling Quartz Concert [VICTORY] - EP 앨범 발매 기념 - 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14398</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14398"/>
+        <updated>2024-05-20T07:15:16.674Z</updated>
+        <content type="html"><![CDATA[2024.05.23(목) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 7월 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14380"/>
         <updated>2024-05-13T08:19:55.919Z</updated>
         <content type="html"><![CDATA[2024.05.24(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 7월 토요콘서트 - KARDI CONCERT 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14379</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14379"/>
-        <updated>2024-05-13T08:19:55.919Z</updated>
-        <content type="html"><![CDATA[2024.05.16(목) 14:00]]></content>
     </entry>
 </feed>
