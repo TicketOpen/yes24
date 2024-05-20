@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-20T01:04:51.082Z</updated>
+    <updated>2024-05-20T02:30:53.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 7월 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14397&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14397&amp;order=1"/>
+        <updated>2024-05-20T02:30:11.141Z</updated>
+        <content type="html"><![CDATA[2024-05-24(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XG 첫 월드 투어 [THE FIRST HOWL - Landing at Seoul] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14396&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14396&amp;order=1"/>
+        <updated>2024-05-20T02:30:11.142Z</updated>
+        <content type="html"><![CDATA[2024-05-30(목) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정홍일 라이브 콘서트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14395&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14388&amp;order=1"/>
         <updated>2024-05-14T09:15:58.383Z</updated>
         <content type="html"><![CDATA[2024-05-20(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14387&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14387&amp;order=1"/>
-        <updated>2024-05-14T07:15:30.437Z</updated>
-        <content type="html"><![CDATA[2024-05-17(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈에밀〉 1차 티켓오픈 공지]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14386&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14386&amp;order=1"/>
-        <updated>2024-05-14T06:21:27.255Z</updated>
-        <content type="html"><![CDATA[2024-05-21(화) 10:00]]></content>
     </entry>
 </feed>
