@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-21T05:16:14.832Z</updated>
+    <updated>2024-05-21T06:21:20.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [클럽 드바이] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14404</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14404"/>
+        <updated>2024-05-21T06:20:20.682Z</updated>
+        <content type="html"><![CDATA[2024.05.30(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부천] 뮤지컬 <친구의 전설> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14403</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14385"/>
         <updated>2024-05-14T04:16:42.000Z</updated>
         <content type="html"><![CDATA[2024.05.20(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live ＆ Music Festival 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14384</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14384"/>
-        <updated>2024-05-14T03:17:08.693Z</updated>
-        <content type="html"><![CDATA[2024.05.17(금) 12:00]]></content>
     </entry>
 </feed>
