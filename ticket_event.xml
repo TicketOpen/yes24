@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 08:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 09:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극<쇄골에 천사가 잠들고 있다> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49371&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49371&amp;Tab=2</guid>
+            <pubDate>Thu, 23 May 2024 09:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.21 ~ 2024.06.30 | 2024.07.05 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240523/20240523-98a3c24e-697b-4a6d-a59f-bcd246d4c161.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <매직 판타지아-도로시 리턴즈> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49741&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 19 May 2024 15:14:28 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.20 ~ 2024.05.24]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240517/20240517-7d3d4893-cedd-4953-9933-bababd702993.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <파가니니> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48819&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48819&amp;Tab=2</guid>
-            <pubDate>Thu, 25 Apr 2024 12:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.06 ~ 2024.06.02 | 2024.06.04 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240408/20240408-2630f4e3-de86-4abd-be36-730e72ef15e7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
