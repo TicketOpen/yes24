@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-23T04:18:09.668Z</updated>
+    <updated>2024-05-23T05:17:50.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [어쩌면 해피엔딩] 2024 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14411</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14411"/>
+        <updated>2024-05-23T05:16:50.921Z</updated>
+        <content type="html"><![CDATA[2024.05.29(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14410</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14392"/>
         <updated>2024-05-17T06:19:47.751Z</updated>
         <content type="html"><![CDATA[2024.05.22(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베어 더 뮤지컬 （bare the musical）2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14391</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14391"/>
-        <updated>2024-05-17T05:15:07.464Z</updated>
-        <content type="html"><![CDATA[2024.05.23(목) 11:00]]></content>
     </entry>
 </feed>
