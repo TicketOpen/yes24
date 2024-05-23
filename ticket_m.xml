@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-23T02:28:47.527Z</updated>
+    <updated>2024-05-23T03:17:14.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14410&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14410&amp;order=1"/>
+        <updated>2024-05-23T03:16:23.284Z</updated>
+        <content type="html"><![CDATA[2024-05-27(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모차르트와 모짜렐라의 마술피리 이야기 - 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14409&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14401&amp;order=1"/>
         <updated>2024-05-21T02:28:05.601Z</updated>
         <content type="html"><![CDATA[2024-05-24(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈클로저〉 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14400&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14400&amp;order=1"/>
-        <updated>2024-05-21T01:03:27.503Z</updated>
-        <content type="html"><![CDATA[2024-05-28(화) 11:00]]></content>
     </entry>
 </feed>
