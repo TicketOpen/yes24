@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-24T04:19:05.650Z</updated>
+    <updated>2024-05-24T05:15:56.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 아시테지 국제여름축제 공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14417</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14417"/>
+        <updated>2024-05-24T05:14:56.453Z</updated>
+        <content type="html"><![CDATA[2024.05.28(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[eaJ Live in Seoul ＂when the rain stopped following me＂ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14416</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14398"/>
         <updated>2024-05-20T07:15:16.674Z</updated>
         <content type="html"><![CDATA[2024.05.23(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 7월 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14397</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14397"/>
-        <updated>2024-05-20T02:30:04.263Z</updated>
-        <content type="html"><![CDATA[2024.05.24(금) 11:00]]></content>
     </entry>
 </feed>
