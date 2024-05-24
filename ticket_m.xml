@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-23T23:19:51.345Z</updated>
+    <updated>2024-05-24T01:06:07.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[앵콜 얼리버드] 하리보 해피월드 인 제주 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14415&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14415&amp;order=1"/>
+        <updated>2024-05-24T01:04:28.039Z</updated>
+        <content type="html"><![CDATA[2024-05-28(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈라푼젤〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14414&amp;order=1</id>
@@ -66,12 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14406&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14406&amp;order=1"/>
         <updated>2024-05-21T08:18:27.119Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 뮤지컬 노트르담 드 파리 한국어버전 OP석 오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14405&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14405&amp;order=1"/>
-        <updated>2024-05-21T07:14:24.262Z</updated>
-        <content type="html"><![CDATA[2024-05-23(목) 16:00]]></content>
     </entry>
 </feed>
