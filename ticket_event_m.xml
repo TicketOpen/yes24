@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 08:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 09:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2024.05.20 ~ 2024.07.10]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=49727</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=49727</guid>
+            <pubDate>Fri, 24 May 2024 09:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;살리에르&gt; 7월 21일(일) 6시 30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240524/20240524-3b70db88-360f-4d1f-8bb9-45146d79918b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.05.24 ~ 2024.06.16]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=49804</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=49804</guid>
+            <pubDate>Fri, 24 May 2024 09:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>7월 20일(토) 오전 11시 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240524/20240524-2ef1d7d9-373e-4f1c-9184-8f889898ad03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2024.05.21 ~ 2024.06.30]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=49371</link>

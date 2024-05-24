@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 08:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 09:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <살리에르> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49727&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49727&amp;Tab=3</guid>
+            <pubDate>Fri, 24 May 2024 09:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.20 ~ 2024.07.10 | 2024.07.15 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240524/20240524-3b70db88-360f-4d1f-8bb9-45146d79918b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부천] 뮤지컬 <친구의 전설> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49804&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49804&amp;Tab=3</guid>
+            <pubDate>Fri, 24 May 2024 09:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.24 ~ 2024.06.16 | 2024.06.18 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240524/20240524-2ef1d7d9-373e-4f1c-9184-8f889898ad03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극<쇄골에 천사가 잠들고 있다> 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49371&amp;Tab=2</link>
@@ -62,22 +78,6 @@
             <pubDate>Wed, 08 May 2024 09:15:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.08 ~ 2024.05.26 | 2024.05.27 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240508/20240508-b7d4a872-88c3-4afc-94bb-5d99db6707c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <클로저>  관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49146&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49146&amp;Tab=2</guid>
-            <pubDate>Mon, 29 Apr 2024 11:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.29 ~ 2024.05.31 | 2024.06.05 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240429/20240429-3bfe236f-0428-436a-aa8f-e62623272669.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버페이로 예매하면 포인트 적립해드려요!]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</guid>
-            <pubDate>Sun, 19 May 2024 15:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.20 ~ 2024.05.24]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240517/20240517-7d3d4893-cedd-4953-9933-bababd702993.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
