@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 03:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 04:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,6 +217,14 @@
             <content:encoded><![CDATA[2024-05-24(금) 20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈파가니니〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/48819</link>
+            <guid>http://ticket.yes24.com/Perf/48819</guid>
+            <pubDate>Mon, 20 May 2024 02:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									99,000원								</td>								<td class="dc_price">									<em>→</em>66,900원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240520/20240520-48819.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 뮤지컬 〈광염 소나타〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/48752</link>
             <guid>http://ticket.yes24.com/Perf/48752</guid>
@@ -225,12 +233,16 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240520/20240520-48752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈파가니니〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/48819</link>
-            <guid>http://ticket.yes24.com/Perf/48819</guid>
-            <pubDate>Mon, 20 May 2024 02:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									99,000원								</td>								<td class="dc_price">									<em>→</em>66,900원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240520/20240520-48819.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 광염 소나타 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/48752</link>
+            <guid>http://m.ticket.yes24.com/Perf/48752</guid>
+            <pubDate>Mon, 20 May 2024 01:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 광염 소나타</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">53</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">28,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5/21(화) ~ 5/31(금)(1인 2매)(35,000원 할인)
+</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240520/20240520-48752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 파가니니 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -245,18 +257,6 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240520/20240520-48819.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 광염 소나타 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/48752</link>
-            <guid>http://m.ticket.yes24.com/Perf/48752</guid>
-            <pubDate>Mon, 20 May 2024 01:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 광염 소나타</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">53</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">28,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">5/21(화) ~ 5/31(금)(1인 2매)(35,000원 할인)
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240520/20240520-48752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극<쇄골에 천사가 잠들고 있다> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
