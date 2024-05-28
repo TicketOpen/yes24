@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-28T07:15:40.222Z</updated>
+    <updated>2024-05-28T08:21:08.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[라디안테 뮤지컬 갈라쇼 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14428</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14428"/>
+        <updated>2024-05-28T08:20:08.793Z</updated>
+        <content type="html"><![CDATA[2024.06.04(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 팬터마임 지니스토리 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14427</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14408"/>
         <updated>2024-05-22T05:16:00.033Z</updated>
         <content type="html"><![CDATA[2024.05.24(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매LAY ZHANG WORLD TOUR GRANDLINE4:STEP IN SEOUL 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14407</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14407"/>
-        <updated>2024-05-22T03:19:05.959Z</updated>
-        <content type="html"><![CDATA[2024.05.24(금) 20:00]]></content>
     </entry>
 </feed>
