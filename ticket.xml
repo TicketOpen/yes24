@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-29T05:16:44.127Z</updated>
+    <updated>2024-05-29T06:22:00.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14431</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14431"/>
+        <updated>2024-05-29T06:21:08.654Z</updated>
+        <content type="html"><![CDATA[2024.06.03(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14430</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14411"/>
         <updated>2024-05-23T05:16:50.921Z</updated>
         <content type="html"><![CDATA[2024.05.29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14410</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14410"/>
-        <updated>2024-05-23T03:16:14.675Z</updated>
-        <content type="html"><![CDATA[2024.05.27(월) 09:00]]></content>
     </entry>
 </feed>
