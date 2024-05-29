@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-29T03:18:24.928Z</updated>
+    <updated>2024-05-29T04:20:23.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14430</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14430"/>
+        <updated>2024-05-29T04:19:36.947Z</updated>
+        <content type="html"><![CDATA[2024.05.30(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 라이브 가족뮤지컬 〈알라딘〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14429</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14410"/>
         <updated>2024-05-23T03:16:14.675Z</updated>
         <content type="html"><![CDATA[2024.05.27(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모차르트와 모짜렐라의 마술피리 이야기 - 부산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14409</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14409"/>
-        <updated>2024-05-22T02:28:15.495Z</updated>
-        <content type="html"><![CDATA[2024.05.28(화) 14:00]]></content>
     </entry>
 </feed>

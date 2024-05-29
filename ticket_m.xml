@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-29T03:18:24.927Z</updated>
+    <updated>2024-05-29T04:20:23.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14430&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14430&amp;order=1"/>
+        <updated>2024-05-29T04:19:44.288Z</updated>
+        <content type="html"><![CDATA[2024-05-30(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 라이브 가족뮤지컬 〈알라딘〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14429&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14420&amp;order=1"/>
         <updated>2024-05-27T13:17:24.601Z</updated>
         <content type="html"><![CDATA[2024-05-30(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE BOYZ WORLD TOUR : ZENERATION Ⅱ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14419&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14419&amp;order=1"/>
-        <updated>2024-05-27T13:17:24.607Z</updated>
-        <content type="html"><![CDATA[2024-06-05(수) 20:00]]></content>
     </entry>
 </feed>
