@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-29T23:15:49.273Z</updated>
+    <updated>2024-05-30T01:06:07.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[제주] 뮤지컬! 캐치 티니핑  <두근두근 싱어롱 콘서트!> 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14432</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14432"/>
+        <updated>2024-05-30T01:04:56.942Z</updated>
+        <content type="html"><![CDATA[2024.06.04(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14431</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14412"/>
         <updated>2024-05-23T08:18:57.663Z</updated>
         <content type="html"><![CDATA[2024.05.27(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [어쩌면 해피엔딩] 2024 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14411</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14411"/>
-        <updated>2024-05-23T05:16:50.921Z</updated>
-        <content type="html"><![CDATA[2024.05.29(수) 14:00]]></content>
     </entry>
 </feed>
