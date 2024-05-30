@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 04:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 05:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,14 @@
             <content:encoded><![CDATA[2024-05-31(금) 20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 [디어 에반 핸슨] （Dear Evan Hansen） (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/48485</link>
+            <guid>http://ticket.yes24.com/Perf/48485</guid>
+            <pubDate>Mon, 27 May 2024 01:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									160,000원								</td>								<td class="dc_price">									<em>→</em>125,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240527/20240527-48485.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[광주] 뮤지컬 〈친구의 전설〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/48827</link>
             <guid>http://ticket.yes24.com/Perf/48827</guid>
@@ -226,12 +234,16 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240527/20240527-48827.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [디어 에반 핸슨] （Dear Evan Hansen） (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/48485</link>
-            <guid>http://ticket.yes24.com/Perf/48485</guid>
-            <pubDate>Mon, 27 May 2024 01:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									160,000원								</td>								<td class="dc_price">									<em>→</em>125,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240527/20240527-48485.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[광주] 뮤지컬 〈친구의 전설〉 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/48827</link>
+            <guid>http://m.ticket.yes24.com/Perf/48827</guid>
+            <pubDate>Mon, 27 May 2024 01:05:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">[광주] 뮤지컬 〈친구의 전설〉
+</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">50,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">20,100원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240527/20240527-48827.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 디어 에반 핸슨 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -247,16 +259,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240527/20240527-48485.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[광주] 뮤지컬 〈친구의 전설〉 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/48827</link>
-            <guid>http://m.ticket.yes24.com/Perf/48827</guid>
-            <pubDate>Mon, 27 May 2024 01:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">[광주] 뮤지컬 〈친구의 전설〉
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">50,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">20,100원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240527/20240527-48827.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[그래이공 1주년 기념 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3608</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3608</guid>
+            <pubDate>Thu, 30 May 2024 05:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.30 ~ 2024.06.12]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240530/20240530-343f6f4a-569c-4d0b-b58f-06e9b80e8317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <살리에르> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -323,12 +331,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240429/20240429-3bfe236f-0428-436a-aa8f-e62623272669.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <파가니니> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48819&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48819&amp;Tab=2</guid>
-            <pubDate>Mon, 27 May 2024 12:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.06 ~ 2024.06.02 | 2024.06.04 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240408/20240408-2630f4e3-de86-4abd-be36-730e72ef15e7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2024.05.30 ~ 2024.06.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3608</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3608</guid>
+            <pubDate>Thu, 30 May 2024 05:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240530/20240530-343f6f4a-569c-4d0b-b58f-06e9b80e8317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.05.20 ~ 2024.07.10 (YES24 티켓 ─ 이벤트 모바일)]]></title>
