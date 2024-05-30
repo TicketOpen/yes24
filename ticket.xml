@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-30T08:20:53.602Z</updated>
+    <updated>2024-05-30T09:17:59.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14437</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14437"/>
+        <updated>2024-05-30T09:17:04.549Z</updated>
+        <content type="html"><![CDATA[2024.06.03(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈캣프렌즈〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14436</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14436"/>
+        <updated>2024-05-30T09:17:04.549Z</updated>
+        <content type="html"><![CDATA[2024.06.03(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1ST ROCK CAFE 광주 콘서트 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14435</id>
@@ -83,7 +97,7 @@
         <content type="html"><![CDATA[2024.05.31(금) 11:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2024.05.29(수) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 1차 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 프리뷰 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14424</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14424"/>
         <updated>2024-05-27T09:16:41.392Z</updated>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14417"/>
         <updated>2024-05-24T05:14:56.453Z</updated>
         <content type="html"><![CDATA[2024.05.28(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매eaJ Live in Seoul ＂when the rain stopped following me＂ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14416</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14416"/>
-        <updated>2024-05-24T03:16:26.484Z</updated>
-        <content type="html"><![CDATA[2024.05.28(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[앵콜 얼리버드] 하리보 해피월드 인 제주 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14415</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14415"/>
-        <updated>2024-05-24T01:04:07.865Z</updated>
-        <content type="html"><![CDATA[2024.05.28(화) 10:00]]></content>
     </entry>
 </feed>
