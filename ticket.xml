@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-30T02:31:02.134Z</updated>
+    <updated>2024-05-30T03:18:11.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[[제주도] 2024 오누이 ＂우리들의 학창시절＂ [김용임,진성] 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[1ST ROCK CAFE 광주 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14435</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14435"/>
+        <updated>2024-05-30T03:17:13.643Z</updated>
+        <content type="html"><![CDATA[2024.05.31(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[제주] 2024 오누이 ＂우리들의 학창시절＂ [김용임,진성] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14433</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14433"/>
         <updated>2024-05-30T02:30:14.660Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14414"/>
         <updated>2024-05-23T10:16:47.714Z</updated>
         <content type="html"><![CDATA[2024.05.27(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매a子 X dosii Live in Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14413</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14413"/>
-        <updated>2024-05-23T09:16:49.904Z</updated>
-        <content type="html"><![CDATA[2024.05.28(화) 18:00]]></content>
     </entry>
 </feed>

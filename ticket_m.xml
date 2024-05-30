@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-30T02:31:02.123Z</updated>
+    <updated>2024-05-30T03:18:11.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[[제주도] 2024 오누이 ＂우리들의 학창시절＂ [김용임,진성] 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[1ST ROCK CAFE 광주 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14435&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14435&amp;order=1"/>
+        <updated>2024-05-30T03:17:22.721Z</updated>
+        <content type="html"><![CDATA[2024-05-31(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[제주] 2024 오누이 ＂우리들의 학창시절＂ [김용임,진성] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14433&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14433&amp;order=1"/>
         <updated>2024-05-30T02:30:21.426Z</updated>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14425&amp;order=1"/>
         <updated>2024-05-28T01:04:07.417Z</updated>
         <content type="html"><![CDATA[2024-05-31(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14424&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14424&amp;order=1"/>
-        <updated>2024-05-27T13:17:24.599Z</updated>
-        <content type="html"><![CDATA[2024-06-03(월) 11:00]]></content>
     </entry>
 </feed>
