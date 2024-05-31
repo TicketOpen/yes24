@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-30T23:16:17.573Z</updated>
+    <updated>2024-05-31T01:06:08.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈프린세스공주〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14439</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14439"/>
+        <updated>2024-05-31T01:05:12.409Z</updated>
+        <content type="html"><![CDATA[2024.06.03(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매XinU EP ＃03 Release Live Tour at West Bridge, Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14438</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14438"/>
+        <updated>2024-05-31T01:05:12.410Z</updated>
+        <content type="html"><![CDATA[2024.06.03(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14437</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14419"/>
         <updated>2024-05-27T03:17:17.232Z</updated>
         <content type="html"><![CDATA[2024.06.05(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.06.03(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <바스커빌 : 셜록홈즈 미스터리> Chapter2 1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14418</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14418"/>
-        <updated>2024-05-24T09:15:59.399Z</updated>
-        <content type="html"><![CDATA[2024.05.28(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 아시테지 국제여름축제 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14417</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14417"/>
-        <updated>2024-05-24T05:14:56.453Z</updated>
-        <content type="html"><![CDATA[2024.05.28(화) 14:00]]></content>
     </entry>
 </feed>
