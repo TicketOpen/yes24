@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-05-31T01:06:08.747Z</updated>
+    <updated>2024-05-31T02:31:08.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[커트 로젠윈클 The Next Step Band 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14440&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14440&amp;order=1"/>
+        <updated>2024-05-31T02:30:21.234Z</updated>
+        <content type="html"><![CDATA[2024-06-07(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈프린세스공주〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14439&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14431&amp;order=1"/>
         <updated>2024-05-29T06:21:15.562Z</updated>
         <content type="html"><![CDATA[2024-06-03(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14430&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14430&amp;order=1"/>
-        <updated>2024-05-29T04:19:44.288Z</updated>
-        <content type="html"><![CDATA[2024-05-30(목) 09:00]]></content>
     </entry>
 </feed>
