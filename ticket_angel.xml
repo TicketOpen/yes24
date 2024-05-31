@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 04:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 05:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 [디어 에반 핸슨] （Dear Evan Hansen）]]></title>
-            <link>http://ticket.yes24.com/Perf/48485</link>
-            <guid>http://ticket.yes24.com/Perf/48485</guid>
-            <pubDate>Mon, 27 May 2024 01:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									160,000원								</td>								<td class="dc_price">									<em>→</em>125,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240527/20240527-48485.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[광주] 뮤지컬 〈친구의 전설〉]]></title>
             <link>http://ticket.yes24.com/Perf/48827</link>
@@ -22,6 +14,14 @@
             <pubDate>Mon, 27 May 2024 01:05:25 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>친구석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>24,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240527/20240527-48827.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [디어 에반 핸슨] （Dear Evan Hansen）]]></title>
+            <link>http://ticket.yes24.com/Perf/48485</link>
+            <guid>http://ticket.yes24.com/Perf/48485</guid>
+            <pubDate>Mon, 27 May 2024 01:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									160,000원								</td>								<td class="dc_price">									<em>→</em>125,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240527/20240527-48485.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
