@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 14:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 15:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -321,12 +321,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240513/20240513-70a2d23b-f826-469e-ad13-f6fbb867e5b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <클로저>  관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49146&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49146&amp;Tab=2</guid>
-            <pubDate>Mon, 27 May 2024 12:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.29 ~ 2024.05.31 | 2024.06.05 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240429/20240429-3bfe236f-0428-436a-aa8f-e62623272669.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <파가니니> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48819&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=48819&amp;Tab=2</guid>
+            <pubDate>Fri, 31 May 2024 15:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.06 ~ 2024.06.02 | 2024.06.04 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240408/20240408-2630f4e3-de86-4abd-be36-730e72ef15e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.05.30 ~ 2024.06.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -391,14 +391,6 @@
             <pubDate>Mon, 27 May 2024 13:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;에밀〉 6월 16일(일) 6시 공연]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240513/20240513-70a2d23b-f826-469e-ad13-f6fbb867e5b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.04.29 ~ 2024.05.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=49146</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=49146</guid>
-            <pubDate>Mon, 27 May 2024 13:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em>경품</em>연극 &lt;클로저&gt; 프로그램 북]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240429/20240429-3bfe236f-0428-436a-aa8f-e62623272669.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.04.06 ~ 2024.06.02 (YES24 티켓 ─ 이벤트 모바일)]]></title>
