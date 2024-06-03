@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 04:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 05:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 27 May 2024 01:05:25 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>친구석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>24,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202406/20240603/20240603-48827.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 뮤지컬 〈광염 소나타〉]]></title>
+            <link>http://ticket.yes24.com/Perf/48752</link>
+            <guid>http://ticket.yes24.com/Perf/48752</guid>
+            <pubDate>Mon, 03 Jun 2024 05:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>32,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202405/20240527/20240527-48752.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
