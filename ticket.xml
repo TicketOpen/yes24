@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-03T09:17:25.766Z</updated>
+    <updated>2024-06-03T10:20:07.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 여름방학특집 가족뮤지컬 〈로보카폴리：잡아라! 황금트로피!〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14449</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14449"/>
+        <updated>2024-06-03T10:19:00.402Z</updated>
+        <content type="html"><![CDATA[2024.06.04(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카운터테너 이동규 리사이틀 〈Dream Quilter : 꿈을 누비는 자〉]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14448</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14448"/>
+        <updated>2024-06-03T10:19:00.402Z</updated>
+        <content type="html"><![CDATA[2024.06.05(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오산] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14447</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14430"/>
         <updated>2024-05-29T04:19:36.947Z</updated>
         <content type="html"><![CDATA[2024.05.30(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브 가족뮤지컬 〈알라딘〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14429</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14429"/>
-        <updated>2024-05-29T01:07:25.091Z</updated>
-        <content type="html"><![CDATA[2024.05.30(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 라디안테 뮤지컬 갈라쇼 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14428</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14428"/>
-        <updated>2024-05-28T08:20:08.793Z</updated>
-        <content type="html"><![CDATA[2024.06.04(화) 14:00]]></content>
     </entry>
 </feed>
