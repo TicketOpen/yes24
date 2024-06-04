@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-04T05:19:38.488Z</updated>
+    <updated>2024-06-04T06:21:50.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제1245회 서초금요음악회 [여름소리] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14452&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14452&amp;order=1"/>
+        <updated>2024-06-04T06:20:51.671Z</updated>
+        <content type="html"><![CDATA[2024-06-07(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈디어 에반 핸슨〉 - 부산 (Dear Evan Hansen) 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14451&amp;order=1</id>
@@ -31,7 +38,7 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14448&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14448&amp;order=1"/>
         <updated>2024-06-03T10:19:08.584Z</updated>
-        <content type="html"><![CDATA[2024-06-05(수) 14:00]]></content>
+        <content type="html"><![CDATA[2024-06-11(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오산] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14443&amp;order=1"/>
         <updated>2024-05-31T08:19:14.868Z</updated>
         <content type="html"><![CDATA[2024-06-07(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국립오페라단〈마술피리〉- 고양 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14442&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14442&amp;order=1"/>
-        <updated>2024-05-31T05:17:08.546Z</updated>
-        <content type="html"><![CDATA[2024-06-05(수) 14:00]]></content>
     </entry>
 </feed>
