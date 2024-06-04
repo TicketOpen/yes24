@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-04T06:21:50.241Z</updated>
+    <updated>2024-06-04T07:16:51.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부천] [구구쌤의 매직쑈라구] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14453</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14453"/>
+        <updated>2024-06-04T07:15:34.756Z</updated>
+        <content type="html"><![CDATA[2024.06.10(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제1245회 서초금요음악회 [여름소리] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14452</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14434"/>
         <updated>2024-05-30T04:20:57.441Z</updated>
         <content type="html"><![CDATA[2024.06.04(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제주] 2024 오누이 ＂우리들의 학창시절＂ [김용임,진성] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14433</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14433"/>
-        <updated>2024-05-30T02:30:14.660Z</updated>
-        <content type="html"><![CDATA[2024.06.18(화) 11:00]]></content>
     </entry>
 </feed>
