@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-05T02:31:37.535Z</updated>
+    <updated>2024-06-05T03:19:37.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 부산 밀 페스티벌 사전예매 밀약과체험 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14460&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14460&amp;order=1"/>
+        <updated>2024-06-05T03:18:56.968Z</updated>
+        <content type="html"><![CDATA[2024-06-10(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 부산 밀 페스티벌 사전예매 통밀쿠키아이싱체험 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14459&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14459&amp;order=1"/>
+        <updated>2024-06-05T03:18:56.968Z</updated>
+        <content type="html"><![CDATA[2024-06-10(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 부산 밀 페스티벌 사전예매 제면체험 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14458&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14458&amp;order=1"/>
+        <updated>2024-06-05T03:18:56.976Z</updated>
+        <content type="html"><![CDATA[2024-06-10(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이블데드] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14457&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14451&amp;order=1"/>
         <updated>2024-06-04T05:18:51.885Z</updated>
         <content type="html"><![CDATA[2024-06-12(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나씽 벗 띠브스 내한공연 (Nothing But Thieves Live in Seoul) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14450&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14450&amp;order=1"/>
-        <updated>2024-06-04T03:17:48.777Z</updated>
-        <content type="html"><![CDATA[2024-06-11(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 여름방학특집 가족뮤지컬 〈로보카폴리：잡아라! 황금트로피!〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14449&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14449&amp;order=1"/>
-        <updated>2024-06-03T10:19:08.582Z</updated>
-        <content type="html"><![CDATA[2024-06-04(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카운터테너 이동규 리사이틀 〈Dream Quilter : 꿈을 누비는 자〉]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14448&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14448&amp;order=1"/>
-        <updated>2024-06-03T10:19:08.584Z</updated>
-        <content type="html"><![CDATA[2024-06-11(화) 14:00]]></content>
     </entry>
 </feed>
