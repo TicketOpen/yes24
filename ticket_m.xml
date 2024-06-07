@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-07T08:20:08.971Z</updated>
+    <updated>2024-06-07T09:17:08.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14470&amp;order=1"/>
         <updated>2024-06-07T08:19:17.073Z</updated>
         <content type="html"><![CDATA[2024-06-10(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김수로 Curated18 정상윤 단독콘서트 <토로(吐露)> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14469&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14469&amp;order=1"/>
+        <updated>2024-06-07T09:16:19.956Z</updated>
+        <content type="html"><![CDATA[2024-06-11(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 블루밍 스테이지 [ 헤이즈 x 로꼬 ] 티켓 오픈 안내]]></title>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[2024 부산 밀 페스티벌 사전예매 밀약과체험 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14460&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14460&amp;order=1"/>
-        <updated>2024-06-05T03:18:56.968Z</updated>
-        <content type="html"><![CDATA[2024-06-10(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 부산 밀 페스티벌 사전예매 통밀쿠키아이싱체험 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14459&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14459&amp;order=1"/>
         <updated>2024-06-05T03:18:56.968Z</updated>
         <content type="html"><![CDATA[2024-06-10(월) 10:00]]></content>
     </entry>
