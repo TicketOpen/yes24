@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 02:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 03:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,22 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202406/20240603/20240603-48752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <일리아드> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49541&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49541&amp;Tab=3</guid>
+            <pubDate>Fri, 07 Jun 2024 03:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.07 ~ 2024.06.16 | 2024.06.17 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240607/20240607-67d01f28-a242-4368-bc13-4688a9d60c9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49904&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49904&amp;Tab=3</guid>
+            <pubDate>Fri, 07 Jun 2024 03:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.04 ~ 2024.07.14 | 2024.07.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240607/20240607-41ad73b7-2034-4f0d-8fbc-f7270cde1be8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <헤드윅> YES24DAY 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49618&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49618&amp;Tab=2</guid>
@@ -294,19 +310,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240513/20240513-ab355573-27fe-44d1-b0e3-e490e337bf3c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청년문화예술패스 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</guid>
-            <pubDate>Fri, 07 Jun 2024 01:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-7b5b3310-d30a-44ae-b458-24ff1dc948ef.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2024.06.07 ~ 2024.06.16 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=49541</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=49541</guid>
+            <pubDate>Fri, 07 Jun 2024 03:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>6월 23일(일) 오후 6시 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240607/20240607-67d01f28-a242-4368-bc13-4688a9d60c9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NEW출석체크 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Mon, 03 Jun 2024 13:19:17 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2024.06.04 ~ 2024.07.14 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=49904</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=49904</guid>
+            <pubDate>Fri, 07 Jun 2024 03:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;조선 이야기꾼 전기수&gt; 7월 28일(일) 3시]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240607/20240607-41ad73b7-2034-4f0d-8fbc-f7270cde1be8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.06.03 ~ 2024.06.15 (YES24 티켓 ─ 이벤트 모바일)]]></title>
