@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-07T04:19:55.232Z</updated>
+    <updated>2024-06-07T05:17:15.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14468</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14468"/>
         <updated>2024-06-07T04:18:55.131Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 블루밍 스테이지 [ 헤이즈 x 로꼬 ] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14467</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14467"/>
+        <updated>2024-06-07T05:16:18.342Z</updated>
+        <content type="html"><![CDATA[2024.06.14(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sync Next 24 박다울 X 유태평양 X 류성실 <돌고 돌고> OP석 추가 오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14449"/>
         <updated>2024-06-03T10:19:00.402Z</updated>
         <content type="html"><![CDATA[2024.06.04(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카운터테너 이동규 리사이틀 〈Dream Quilter : 꿈을 누비는 자〉]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14448</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14448"/>
-        <updated>2024-06-03T10:19:00.402Z</updated>
-        <content type="html"><![CDATA[2024.06.11(화) 14:00]]></content>
     </entry>
 </feed>

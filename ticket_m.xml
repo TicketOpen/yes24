@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-07T04:19:55.245Z</updated>
+    <updated>2024-06-07T05:17:15.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 블루밍 스테이지 [ 헤이즈 x 로꼬 ] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14467&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14467&amp;order=1"/>
+        <updated>2024-06-07T05:16:26.687Z</updated>
+        <content type="html"><![CDATA[2024-06-14(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sync Next 24 박다울 X 유태평양 X 류성실 <돌고 돌고> OP석 추가 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14466&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14458&amp;order=1"/>
         <updated>2024-06-05T03:18:56.976Z</updated>
         <content type="html"><![CDATA[2024-06-10(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이블데드] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14457&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14457&amp;order=1"/>
-        <updated>2024-06-05T02:30:56.612Z</updated>
-        <content type="html"><![CDATA[2024-06-12(수) 11:00]]></content>
     </entry>
 </feed>
