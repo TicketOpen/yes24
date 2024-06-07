@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-07T07:14:50.067Z</updated>
+    <updated>2024-06-07T08:20:08.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매연극 〈쇄골에 천사가 잠들고 있다〉 마지막 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14470</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14470"/>
+        <updated>2024-06-07T08:19:08.584Z</updated>
+        <content type="html"><![CDATA[2024.06.10(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(6/8, 6/9, 6/15, 6/16, 6/17)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14468</id>
@@ -23,7 +30,7 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14466</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14466"/>
         <updated>2024-06-07T02:32:22.518Z</updated>
-        <content type="html"><![CDATA[2024.06.10(월) 14:00]]></content>
+        <content type="html"><![CDATA[2024.06.10(월) 16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시데레우스> 1차 티켓오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14450"/>
         <updated>2024-06-04T03:17:39.753Z</updated>
         <content type="html"><![CDATA[2024.06.11(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 여름방학특집 가족뮤지컬 〈로보카폴리：잡아라! 황금트로피!〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14449</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14449"/>
-        <updated>2024-06-03T10:19:00.402Z</updated>
-        <content type="html"><![CDATA[2024.06.04(화) 09:00]]></content>
     </entry>
 </feed>
