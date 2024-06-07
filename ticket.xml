@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-06T23:19:40.117Z</updated>
+    <updated>2024-06-07T01:08:20.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 드라큘라(Dracula) OST <10TH ANNIVERSARY CAST RECORDING> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14462</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14462"/>
+        <updated>2024-06-07T01:07:22.524Z</updated>
+        <content type="html"><![CDATA[2024.06.10(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[익산] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14461</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14461"/>
+        <updated>2024-06-07T01:07:22.525Z</updated>
+        <content type="html"><![CDATA[2024.06.14(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 부산 밀 페스티벌 사전예매 밀약과체험 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14460</id>
@@ -130,18 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14443"/>
         <updated>2024-05-31T08:19:06.136Z</updated>
         <content type="html"><![CDATA[2024.06.07(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국립오페라단〈마술피리〉- 고양 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14442</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14442"/>
-        <updated>2024-05-31T05:16:59.554Z</updated>
-        <content type="html"><![CDATA[2024.06.05(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[imase 1st Asia Tour ＂Shiki＂ 러닝타임 조정 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14441</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14441"/>
-        <updated>2024-05-31T05:16:59.554Z</updated>
     </entry>
 </feed>
