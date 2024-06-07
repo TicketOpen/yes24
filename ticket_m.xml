@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-07T01:08:20.628Z</updated>
+    <updated>2024-06-07T02:33:09.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Sync Next 24 박다울 X 유태평양 X 류성실 <돌고 돌고> OP석 추가 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14466&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14466&amp;order=1"/>
+        <updated>2024-06-07T02:32:29.349Z</updated>
+        <content type="html"><![CDATA[2024-06-10(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <시데레우스> 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14465&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14465&amp;order=1"/>
+        <updated>2024-06-07T02:32:29.349Z</updated>
+        <content type="html"><![CDATA[2024-06-13(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘서트 [투가이즈쇼] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14464&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14464&amp;order=1"/>
+        <updated>2024-06-07T02:32:29.350Z</updated>
+        <content type="html"><![CDATA[2024-06-12(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘서트 [투가이즈쇼] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14463&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14463&amp;order=1"/>
+        <updated>2024-06-07T02:32:29.351Z</updated>
+        <content type="html"><![CDATA[2024-06-11(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 드라큘라(Dracula) OST <10TH ANNIVERSARY CAST RECORDING> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14462&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14457&amp;order=1"/>
         <updated>2024-06-05T02:30:56.612Z</updated>
         <content type="html"><![CDATA[2024-06-12(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 라이브가족뮤지컬 〈사운드오브뮤직〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14456&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14456&amp;order=1"/>
-        <updated>2024-06-05T02:30:56.612Z</updated>
-        <content type="html"><![CDATA[2024-06-07(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yonige Live in Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14455&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14455&amp;order=1"/>
-        <updated>2024-06-05T02:30:56.614Z</updated>
-        <content type="html"><![CDATA[2024-06-11(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes Concert〈Closed ♭eta: v6.2〉티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14454&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14454&amp;order=1"/>
-        <updated>2024-06-04T08:19:17.692Z</updated>
-        <content type="html"><![CDATA[2024-06-11(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부천] [구구쌤의 매직쑈라구] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14453&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14453&amp;order=1"/>
-        <updated>2024-06-04T07:15:43.855Z</updated>
-        <content type="html"><![CDATA[2024-06-10(월) 14:00]]></content>
     </entry>
 </feed>
