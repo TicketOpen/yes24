@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-07T09:17:08.991Z</updated>
+    <updated>2024-06-07T10:17:03.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2024 라이브가족뮤지컬 〈인어공주〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14471&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14471&amp;order=1"/>
+        <updated>2024-06-07T10:16:22.420Z</updated>
+        <content type="html"><![CDATA[2024-06-10(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈쇄골에 천사가 잠들고 있다〉 마지막 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14470&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14461&amp;order=1"/>
         <updated>2024-06-07T01:07:31.097Z</updated>
         <content type="html"><![CDATA[2024-06-14(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 부산 밀 페스티벌 사전예매 밀약과체험 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14460&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14460&amp;order=1"/>
-        <updated>2024-06-05T03:18:56.968Z</updated>
-        <content type="html"><![CDATA[2024-06-10(월) 10:00]]></content>
     </entry>
 </feed>

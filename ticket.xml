@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-07T09:17:08.994Z</updated>
+    <updated>2024-06-07T10:17:03.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2024 라이브가족뮤지컬 〈인어공주〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14471</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14471"/>
+        <updated>2024-06-07T10:16:15.273Z</updated>
+        <content type="html"><![CDATA[2024.06.10(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매연극 〈쇄골에 천사가 잠들고 있다〉 마지막 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14470</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14452"/>
         <updated>2024-06-04T06:20:43.003Z</updated>
         <content type="html"><![CDATA[2024.06.07(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈디어 에반 핸슨〉 - 부산 (Dear Evan Hansen) 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14451</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14451"/>
-        <updated>2024-06-04T05:18:43.548Z</updated>
-        <content type="html"><![CDATA[2024.06.12(수) 14:00]]></content>
     </entry>
 </feed>
