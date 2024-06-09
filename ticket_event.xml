@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jun 2024 14:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 15:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240520/20240520-d620814c-f22a-4fa7-82ea-7ca593411ff7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <어쩌면 해피엔딩> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49543&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49543&amp;Tab=3</guid>
-            <pubDate>Mon, 03 Jun 2024 13:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.13 ~ 2024.06.09 | 2024.06.12 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240513/20240513-ab355573-27fe-44d1-b0e3-e490e337bf3c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[청년문화예술패스]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</guid>
+            <pubDate>Sun, 09 Jun 2024 15:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-7b5b3310-d30a-44ae-b458-24ff1dc948ef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
