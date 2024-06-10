@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-09T23:15:44.616Z</updated>
+    <updated>2024-06-10T01:08:50.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 서울팝콘(서울 팝 컬쳐 컨벤션) 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14472</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14472"/>
+        <updated>2024-06-10T01:07:42.393Z</updated>
+        <content type="html"><![CDATA[2024.06.12(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울] 2024 라이브가족뮤지컬 〈인어공주〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14471</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14453"/>
         <updated>2024-06-04T07:15:34.756Z</updated>
         <content type="html"><![CDATA[2024.06.10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매제1245회 서초금요음악회 [여름소리] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14452</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14452"/>
-        <updated>2024-06-04T06:20:43.003Z</updated>
-        <content type="html"><![CDATA[2024.06.07(금) 09:00]]></content>
     </entry>
 </feed>
