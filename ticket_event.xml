@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 14:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 15:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 03 Jun 2024 13:19:17 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.03 ~ 2024.06.15 | 2024.06.18 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240603/20240603-3dd6afbb-9efa-48fa-9f15-8bfa7a318916.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그래이공 1주년 기념 이벤트]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3608</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3608</guid>
-            <pubDate>Mon, 03 Jun 2024 13:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.30 ~ 2024.06.12]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240530/20240530-343f6f4a-569c-4d0b-b58f-06e9b80e8317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <살리에르> 기대평 이벤트]]></title>
@@ -78,6 +70,13 @@
             <pubDate>Sun, 09 Jun 2024 15:15:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-7b5b3310-d30a-44ae-b458-24ff1dc948ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Wed, 12 Jun 2024 15:16:46 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
