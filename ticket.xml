@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-13T04:19:15.217Z</updated>
+    <updated>2024-06-13T05:16:51.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14488"/>
         <updated>2024-06-13T03:16:58.462Z</updated>
         <content type="html"><![CDATA[2024.06.28(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.06.26(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [어쩌면 해피엔딩] 2024 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14487</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14487"/>
+        <updated>2024-06-13T05:16:02.594Z</updated>
+        <content type="html"><![CDATA[2024.06.20(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <빨간기타> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14486</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14486"/>
+        <updated>2024-06-13T05:16:02.594Z</updated>
+        <content type="html"><![CDATA[2024.06.17(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코믹 뮤지컬 〈5!해피맨〉 마지막 티켓오픈 안내]]></title>
@@ -130,18 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14470"/>
         <updated>2024-06-07T08:19:08.584Z</updated>
         <content type="html"><![CDATA[2024.06.10(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매김수로 Curated18 정상윤 단독콘서트 <토로(吐露)> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14469</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14469"/>
-        <updated>2024-06-07T09:16:11.305Z</updated>
-        <content type="html"><![CDATA[2024.06.11(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(6/8, 6/9, 6/15, 6/16, 6/17)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14468</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14468"/>
-        <updated>2024-06-07T04:18:55.131Z</updated>
     </entry>
 </feed>
