@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-14T01:06:57.733Z</updated>
+    <updated>2024-06-14T02:32:56.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 두둥프로젝트 - 연극 〈My Dear Anger〉 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14500&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14500&amp;order=1"/>
+        <updated>2024-06-14T02:32:05.619Z</updated>
+        <content type="html"><![CDATA[2024-06-20(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구각노리〈잘 살아 보세〉 - 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14499&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14491&amp;order=1"/>
         <updated>2024-06-13T07:14:29.253Z</updated>
         <content type="html"><![CDATA[2024-06-24(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천안] 2024 뮤지컬 노트르담 드 파리 한국어버전 OP석 추가오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14490&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14490&amp;order=1"/>
-        <updated>2024-06-13T08:19:12.551Z</updated>
-        <content type="html"><![CDATA[2024-06-14(금) 16:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-14T01:06:57.764Z</updated>
+    <updated>2024-06-14T02:32:56.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 두둥프로젝트 - 연극 〈My Dear Anger〉 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14500</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14500"/>
+        <updated>2024-06-14T02:31:56.711Z</updated>
+        <content type="html"><![CDATA[2024.06.20(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구각노리〈잘 살아 보세〉 - 부산 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14499</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14481"/>
         <updated>2024-06-11T08:20:31.874Z</updated>
         <content type="html"><![CDATA[2024.06.14(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 〈어린이마술쇼〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14480</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14480"/>
-        <updated>2024-06-11T08:20:31.876Z</updated>
-        <content type="html"><![CDATA[2024.06.12(수) 09:00]]></content>
     </entry>
 </feed>
