@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-14T06:22:15.854Z</updated>
+    <updated>2024-06-14T07:16:09.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 진성 30주년 기념 콘서트 [진성 빅쇼] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14503&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14503&amp;order=1"/>
+        <updated>2024-06-14T07:15:09.903Z</updated>
+        <content type="html"><![CDATA[2024-06-19(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈에밀〉 2차 & 판매보류석 티켓오픈 공지]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14502&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14494&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14494&amp;order=1"/>
         <updated>2024-06-13T07:14:29.249Z</updated>
-        <content type="html"><![CDATA[2024-06-24(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제22회 김천국제가족연극제_어린이 CAT 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14493&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14493&amp;order=1"/>
-        <updated>2024-06-13T07:14:29.250Z</updated>
         <content type="html"><![CDATA[2024-06-24(월) 10:00]]></content>
     </entry>
 </feed>
