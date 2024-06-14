@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-14T08:19:30.280Z</updated>
+    <updated>2024-06-14T09:17:04.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DAY6 3RD FANMEETING ‘I Need My Day’ 추가 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14504&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14504&amp;order=1"/>
+        <updated>2024-06-14T09:16:13.766Z</updated>
+        <content type="html"><![CDATA[2024-06-17(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 진성 30주년 기념 콘서트 [진성 빅쇼] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14503&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14495&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14495&amp;order=1"/>
         <updated>2024-06-13T07:14:29.248Z</updated>
-        <content type="html"><![CDATA[2024-06-24(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제22회 김천국제가족연극제_마스크드 쇼맨 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14494&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14494&amp;order=1"/>
-        <updated>2024-06-13T07:14:29.249Z</updated>
         <content type="html"><![CDATA[2024-06-24(월) 10:00]]></content>
     </entry>
 </feed>

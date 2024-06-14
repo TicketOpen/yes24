@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-14T08:19:30.275Z</updated>
+    <updated>2024-06-14T09:17:04.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매DAY6 3RD FANMEETING ‘I Need My Day’ 추가 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14504</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14504"/>
+        <updated>2024-06-14T09:16:05.090Z</updated>
+        <content type="html"><![CDATA[2024.06.17(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 진성 30주년 기념 콘서트 [진성 빅쇼] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14503</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14485"/>
         <updated>2024-06-13T01:05:57.033Z</updated>
         <content type="html"><![CDATA[2024.06.17(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2024 가족어린이공연 〈공룡애니멀쇼시즌2〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14484</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14484"/>
-        <updated>2024-06-12T10:16:14.778Z</updated>
-        <content type="html"><![CDATA[2024.06.14(금) 09:00]]></content>
     </entry>
 </feed>
