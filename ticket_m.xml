@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-17T06:22:47.883Z</updated>
+    <updated>2024-06-17T07:15:45.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [메노포즈] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14505&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14505&amp;order=1"/>
+        <updated>2024-06-17T07:14:51.946Z</updated>
+        <content type="html"><![CDATA[2024-06-21(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAY6 3RD FANMEETING ‘I Need My Day’ 추가 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14504&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14496&amp;order=1"/>
         <updated>2024-06-13T10:15:53.395Z</updated>
         <content type="html"><![CDATA[2024-06-14(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제22회 김천국제가족연극제_서시의 꿈을 찾아서 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14495&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14495&amp;order=1"/>
-        <updated>2024-06-13T07:14:29.248Z</updated>
-        <content type="html"><![CDATA[2024-06-24(월) 10:00]]></content>
     </entry>
 </feed>
