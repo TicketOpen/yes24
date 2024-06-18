@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 08:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 09:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <어쩌면 해피엔딩> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49543&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49543&amp;Tab=2</guid>
+            <pubDate>Tue, 18 Jun 2024 09:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.18 ~ 2024.07.28 | 2024.08.01 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240618/20240618-7c0e607d-2666-4ccc-b4ce-17d1234f85d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬<클럽 드바이> 관람평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49632&amp;Tab=2</link>
@@ -70,13 +78,6 @@
             <pubDate>Sun, 09 Jun 2024 15:15:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-7b5b3310-d30a-44ae-b458-24ff1dc948ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Sat, 15 Jun 2024 15:16:21 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-18T08:21:07.971Z</updated>
+    <updated>2024-06-18T09:17:33.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -31,13 +31,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14508</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14508"/>
         <updated>2024-06-18T05:15:49.817Z</updated>
-        <content type="html"><![CDATA[2024.06.21(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] [ EUNOIA ] 크로스오버 콘서트 in 김광석 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14507</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14507"/>
-        <updated>2024-06-18T05:15:49.818Z</updated>
         <content type="html"><![CDATA[2024.06.21(금) 14:00]]></content>
     </entry>
     <entry>
@@ -143,6 +136,13 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14492</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14492"/>
         <updated>2024-06-13T07:14:20.048Z</updated>
+        <content type="html"><![CDATA[2024.06.24(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매제22회 김천국제가족연극제_인피니티플라잉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14491</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14491"/>
+        <updated>2024-06-18T09:16:45.648Z</updated>
         <content type="html"><![CDATA[2024.06.24(월) 10:00]]></content>
     </entry>
 </feed>
