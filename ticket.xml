@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-18T04:19:04.143Z</updated>
+    <updated>2024-06-18T05:16:38.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매연극 <빵야> 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14510</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14510"/>
+        <updated>2024-06-18T05:15:49.811Z</updated>
+        <content type="html"><![CDATA[2024.06.20(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프레드 허쉬 Solo Piano 2024 - Silent, Listening 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14509</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14509"/>
         <updated>2024-06-18T04:18:10.025Z</updated>
         <content type="html"><![CDATA[2024.06.21(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[수원] 뮤지컬 <영웅> 15주년 기념공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14508</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14508"/>
+        <updated>2024-06-18T05:15:49.817Z</updated>
+        <content type="html"><![CDATA[2024.06.21(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] [ EUNOIA ] 크로스오버 콘서트 in 김광석 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14507</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14507"/>
+        <updated>2024-06-18T05:15:49.818Z</updated>
+        <content type="html"><![CDATA[2024.06.21(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Soundberry Festa’ 24 티켓 오픈 안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14491"/>
         <updated>2024-06-13T07:14:20.049Z</updated>
         <content type="html"><![CDATA[2024.06.24(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천안] 2024 뮤지컬 노트르담 드 파리 한국어버전 OP석 추가오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14490</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14490"/>
-        <updated>2024-06-13T08:19:04.200Z</updated>
-        <content type="html"><![CDATA[2024.06.14(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매스웨이드 내한공연 (Suede Live in Seoul) 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14489</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14489"/>
-        <updated>2024-06-13T03:16:58.462Z</updated>
-        <content type="html"><![CDATA[2024.06.21(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 VANNER 1ST ENCORE CONCERT [THE FLAG：A TO V] IN SEOUL 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14488</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14488"/>
-        <updated>2024-06-13T03:16:58.462Z</updated>
-        <content type="html"><![CDATA[2024.06.28(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.06.26(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

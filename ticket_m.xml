@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-18T04:19:04.113Z</updated>
+    <updated>2024-06-18T05:16:38.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <빵야> 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14510&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14510&amp;order=1"/>
+        <updated>2024-06-18T05:15:56.555Z</updated>
+        <content type="html"><![CDATA[2024-06-20(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프레드 허쉬 Solo Piano 2024 - Silent, Listening 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14509&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14509&amp;order=1"/>
         <updated>2024-06-18T04:18:17.902Z</updated>
         <content type="html"><![CDATA[2024-06-21(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[수원] 뮤지컬 <영웅> 15주년 기념공연 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14508&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14508&amp;order=1"/>
+        <updated>2024-06-18T05:15:56.557Z</updated>
+        <content type="html"><![CDATA[2024-06-21(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] [ EUNOIA ] 크로스오버 콘서트 in 김광석 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14507&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14507&amp;order=1"/>
+        <updated>2024-06-18T05:15:56.558Z</updated>
+        <content type="html"><![CDATA[2024-06-21(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Soundberry Festa’ 24 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14501&amp;order=1"/>
         <updated>2024-06-14T06:21:25.770Z</updated>
         <content type="html"><![CDATA[2024-06-21(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 두둥프로젝트 - 연극 〈My Dear Anger〉 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14500&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14500&amp;order=1"/>
-        <updated>2024-06-14T02:32:05.619Z</updated>
-        <content type="html"><![CDATA[2024-06-20(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구각노리〈잘 살아 보세〉 - 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14499&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14499&amp;order=1"/>
-        <updated>2024-06-14T01:06:16.142Z</updated>
-        <content type="html"><![CDATA[2024-06-19(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 〈피터팬〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14498&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14498&amp;order=1"/>
-        <updated>2024-06-13T11:13:55.962Z</updated>
-        <content type="html"><![CDATA[2024-06-17(월) 09:00]]></content>
     </entry>
 </feed>
