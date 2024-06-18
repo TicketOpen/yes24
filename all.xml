@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 01:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 02:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundberry Festa’ 24 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14506</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14506</guid>
+            <pubDate>Tue, 18 Jun 2024 02:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.18(화) 18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 [메노포즈] 2차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14505</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2024.06.20(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <빨간기타> 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14486</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14486</guid>
-            <pubDate>Thu, 13 Jun 2024 05:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.17(월) 11:00]]></content:encoded>
+            <title><![CDATA[Soundberry Festa’ 24 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14506&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14506&amp;order=1</guid>
+            <pubDate>Tue, 18 Jun 2024 02:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024-06-18(화) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [메노포즈] 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,13 +218,6 @@
             <content:encoded><![CDATA[2024-06-17(월) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[울산] 2024 라이브 가족뮤지컬 〈인어공주〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14496&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14496&amp;order=1</guid>
-            <pubDate>Thu, 13 Jun 2024 10:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024-06-14(금) 09:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[고양] 뮤지컬 〈친구의 전설〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/48829</link>
             <guid>http://ticket.yes24.com/Perf/48829</guid>
@@ -247,9 +247,9 @@
         </item>
         <item>
             <title><![CDATA[이토 준지 호러하우스_청년문화예술패스 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</guid>
-            <pubDate>Mon, 17 Jun 2024 05:19:28 GMT</pubDate>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3615</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3615</guid>
+            <pubDate>Tue, 18 Jun 2024 02:32:19 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.17 ~ 2024.06.30]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240617/20240617-fdad9657-0314-4385-9a37-1ca693560a24.png" length="0" type="image/png"/>
         </item>

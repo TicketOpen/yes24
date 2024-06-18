@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-18T01:07:29.004Z</updated>
+    <updated>2024-06-18T02:32:43.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Soundberry Festa’ 24 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14506</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14506"/>
+        <updated>2024-06-18T02:31:45.701Z</updated>
+        <content type="html"><![CDATA[2024.06.18(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [메노포즈] 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14505</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14487"/>
         <updated>2024-06-13T05:16:02.594Z</updated>
         <content type="html"><![CDATA[2024.06.20(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <빨간기타> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14486</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14486"/>
-        <updated>2024-06-13T05:16:02.594Z</updated>
-        <content type="html"><![CDATA[2024.06.17(월) 11:00]]></content>
     </entry>
 </feed>
