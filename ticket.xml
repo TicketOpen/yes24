@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-18T23:17:08.768Z</updated>
+    <updated>2024-06-19T01:07:36.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족발레〈거인의 정원〉- 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14512</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14512"/>
+        <updated>2024-06-19T01:06:40.834Z</updated>
+        <content type="html"><![CDATA[2024.06.25(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매연극 <쇄골에 천사가 잠들고 있다> 추가 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14511</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14492</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14492"/>
         <updated>2024-06-13T07:14:20.048Z</updated>
-        <content type="html"><![CDATA[2024.06.24(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매제22회 김천국제가족연극제_인피니티플라잉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14491</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14491"/>
-        <updated>2024-06-18T09:16:45.648Z</updated>
         <content type="html"><![CDATA[2024.06.24(월) 10:00]]></content>
     </entry>
 </feed>
