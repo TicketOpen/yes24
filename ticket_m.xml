@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-19T23:16:17.597Z</updated>
+    <updated>2024-06-20T01:05:36.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[멜랑제앙상블 [여름연가] - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14516&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14516&amp;order=1"/>
+        <updated>2024-06-20T01:04:45.843Z</updated>
+        <content type="html"><![CDATA[2024-06-26(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광양] 2024 베스트셀러 어린이뮤지컬<콧구멍을 후비면> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14514&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14505&amp;order=1"/>
         <updated>2024-06-17T07:14:51.946Z</updated>
         <content type="html"><![CDATA[2024-06-21(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAY6 3RD FANMEETING ‘I Need My Day’ 추가 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14504&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14504&amp;order=1"/>
-        <updated>2024-06-14T09:16:13.766Z</updated>
-        <content type="html"><![CDATA[2024-06-17(월) 20:00]]></content>
     </entry>
 </feed>
