@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-20T02:31:35.967Z</updated>
+    <updated>2024-06-20T03:17:51.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사의찬미> 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14518&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14518&amp;order=1"/>
+        <updated>2024-06-20T03:17:08.337Z</updated>
+        <content type="html"><![CDATA[2024-06-21(금) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <일리아드> 3차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14517&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14517&amp;order=1"/>
+        <updated>2024-06-20T03:17:08.338Z</updated>
+        <content type="html"><![CDATA[2024-06-25(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멜랑제앙상블 [여름연가] - 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14516&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14516&amp;order=1"/>
         <updated>2024-06-20T01:04:45.843Z</updated>
         <content type="html"><![CDATA[2024-06-26(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NARICISSISM - JAEMIN 1st PHOTO EXHIBITION GLOBAL 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14515&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14515&amp;order=1"/>
+        <updated>2024-06-20T03:17:08.341Z</updated>
+        <content type="html"><![CDATA[2024-06-21(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[광양] 2024 베스트셀러 어린이뮤지컬<콧구멍을 후비면> 티켓오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14509&amp;order=1"/>
         <updated>2024-06-18T04:18:17.902Z</updated>
         <content type="html"><![CDATA[2024-06-21(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 뮤지컬 <영웅> 15주년 기념공연 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14508&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14508&amp;order=1"/>
-        <updated>2024-06-18T05:15:56.557Z</updated>
-        <content type="html"><![CDATA[2024-06-21(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soundberry Festa’ 24 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14506&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14506&amp;order=1"/>
-        <updated>2024-06-18T02:31:54.005Z</updated>
-        <content type="html"><![CDATA[2024-06-18(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [메노포즈] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14505&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14505&amp;order=1"/>
-        <updated>2024-06-17T07:14:51.946Z</updated>
-        <content type="html"><![CDATA[2024-06-21(금) 14:00]]></content>
     </entry>
 </feed>

@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-20T02:31:35.956Z</updated>
+    <updated>2024-06-20T03:17:51.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사의찬미> 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14518</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14518"/>
+        <updated>2024-06-20T03:17:00.656Z</updated>
+        <content type="html"><![CDATA[2024.06.21(금) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <일리아드> 3차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14517</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14517"/>
+        <updated>2024-06-20T03:17:00.658Z</updated>
+        <content type="html"><![CDATA[2024.06.25(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멜랑제앙상블 [여름연가] - 부산 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14516</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14516"/>
         <updated>2024-06-20T01:04:36.827Z</updated>
         <content type="html"><![CDATA[2024.06.26(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NARICISSISM - JAEMIN 1st PHOTO EXHIBITION GLOBAL 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14515</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14515"/>
+        <updated>2024-06-20T03:17:00.660Z</updated>
+        <content type="html"><![CDATA[2024.06.21(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[광양] 2024 베스트셀러 어린이뮤지컬<콧구멍을 후비면> 티켓오픈 안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14498"/>
         <updated>2024-06-13T11:13:47.844Z</updated>
         <content type="html"><![CDATA[2024.06.17(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광명] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14497</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14497"/>
-        <updated>2024-06-13T10:15:46.620Z</updated>
-        <content type="html"><![CDATA[2024.06.17(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 라이브 가족뮤지컬 〈인어공주〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14496</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14496"/>
-        <updated>2024-06-13T10:15:46.622Z</updated>
-        <content type="html"><![CDATA[2024.06.14(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매제22회 김천국제가족연극제_서시의 꿈을 찾아서 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14495</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14495"/>
-        <updated>2024-06-13T07:14:20.041Z</updated>
-        <content type="html"><![CDATA[2024.06.24(월) 10:00]]></content>
     </entry>
 </feed>
