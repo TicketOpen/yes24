@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-21T01:06:19.408Z</updated>
+    <updated>2024-06-21T02:32:34.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[제주] 연극 [고도를 기다리며] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14523</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14523"/>
+        <updated>2024-06-21T02:31:41.454Z</updated>
+        <content type="html"><![CDATA[2024.06.24(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 하데스타운 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14521</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14521"/>
+        <updated>2024-06-21T02:31:41.454Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[강릉] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14520</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14502"/>
         <updated>2024-06-14T06:21:17.106Z</updated>
         <content type="html"><![CDATA[2024.06.20(목) 10:00<a class="noti-btn-pop" presaletit1="판매보류석 티켓오픈" presaletit2="" presaletime1="2024.06.17(월) 16:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [클럽 드바이] 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14501</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14501"/>
-        <updated>2024-06-14T06:21:17.106Z</updated>
-        <content type="html"><![CDATA[2024.06.21(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 두둥프로젝트 - 연극 〈My Dear Anger〉 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14500</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14500"/>
-        <updated>2024-06-14T02:31:56.711Z</updated>
-        <content type="html"><![CDATA[2024.06.20(목) 15:00]]></content>
     </entry>
 </feed>

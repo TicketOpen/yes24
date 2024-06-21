@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-21T01:06:19.411Z</updated>
+    <updated>2024-06-21T02:32:34.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[제주] 연극 [고도를 기다리며] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14523&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14523&amp;order=1"/>
+        <updated>2024-06-21T02:31:48.403Z</updated>
+        <content type="html"><![CDATA[2024-06-24(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 하데스타운 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14521&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14521&amp;order=1"/>
+        <updated>2024-06-21T02:31:48.403Z</updated>
+        <content type="html"><![CDATA[2024-06-27(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[강릉] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14520&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14513&amp;order=1"/>
         <updated>2024-06-19T05:15:41.551Z</updated>
         <content type="html"><![CDATA[2024-06-24(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족발레〈거인의 정원〉- 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14512&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14512&amp;order=1"/>
-        <updated>2024-06-19T01:06:48.820Z</updated>
-        <content type="html"><![CDATA[2024-06-25(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <쇄골에 천사가 잠들고 있다> 추가 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14511&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14511&amp;order=1"/>
-        <updated>2024-06-18T06:21:34.303Z</updated>
-        <content type="html"><![CDATA[2024-06-19(수) 14:00]]></content>
     </entry>
 </feed>
