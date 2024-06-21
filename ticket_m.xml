@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-21T04:19:06.213Z</updated>
+    <updated>2024-06-21T05:17:13.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14526&amp;order=1"/>
         <updated>2024-06-21T04:18:15.445Z</updated>
         <content type="html"><![CDATA[2024-06-27(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOOAH FAN CONCERT [WOOAH - LAND] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14525&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14525&amp;order=1"/>
+        <updated>2024-06-21T05:16:22.983Z</updated>
+        <content type="html"><![CDATA[2024-06-28(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] [ EUNOIA ] 크로스오버 콘서트 in 김광석 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14524&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14524&amp;order=1"/>
+        <updated>2024-06-21T05:16:22.984Z</updated>
+        <content type="html"><![CDATA[2024-06-24(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shuka Saito Fan Meeting in Seoul (presented by KOE) 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14516&amp;order=1"/>
         <updated>2024-06-20T01:04:45.843Z</updated>
         <content type="html"><![CDATA[2024-06-26(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NARICISSISM - JAEMIN 1st PHOTO EXHIBITION GLOBAL 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14515&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14515&amp;order=1"/>
-        <updated>2024-06-20T03:17:08.341Z</updated>
-        <content type="html"><![CDATA[2024-06-21(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광양] 2024 베스트셀러 어린이뮤지컬<콧구멍을 후비면> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14514&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14514&amp;order=1"/>
-        <updated>2024-06-19T08:19:27.368Z</updated>
-        <content type="html"><![CDATA[2024-06-25(화) 09:00]]></content>
     </entry>
 </feed>
