@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 14:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 15:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -414,13 +414,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[뮤지컬 이블데드] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.06.20 ~ 2024.06.21</dd><dt>사용기간</dt><dd>2024.06.20 ~ 2024.06.21</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[240618_대개막기념] 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -460,13 +453,6 @@
             <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=47966</link>
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=47966</guid>
             <pubDate>Tue, 18 Jun 2024 07:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 이블데드] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=47996</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=47996</guid>
-            <pubDate>Thu, 20 Jun 2024 06:22:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
