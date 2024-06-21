@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-20T23:17:52.924Z</updated>
+    <updated>2024-06-21T01:06:19.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[강릉] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14520&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14520&amp;order=1"/>
+        <updated>2024-06-21T01:05:37.980Z</updated>
+        <content type="html"><![CDATA[2024-06-25(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈브레멘음악대〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14519&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14511&amp;order=1"/>
         <updated>2024-06-18T06:21:34.303Z</updated>
         <content type="html"><![CDATA[2024-06-19(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <빵야> 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14510&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14510&amp;order=1"/>
-        <updated>2024-06-18T05:15:56.555Z</updated>
-        <content type="html"><![CDATA[2024-06-20(목) 15:00]]></content>
     </entry>
 </feed>
