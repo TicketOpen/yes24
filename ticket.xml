@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-24T06:22:06.303Z</updated>
+    <updated>2024-06-24T07:16:44.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 〈캣프렌즈〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14535</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14535"/>
+        <updated>2024-06-24T07:15:41.102Z</updated>
+        <content type="html"><![CDATA[2024.06.26(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 국립국악원 순회공연 - 유네스코 세계가 인정한 우리 음악과 춤 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14534</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14514"/>
         <updated>2024-06-19T08:19:20.275Z</updated>
         <content type="html"><![CDATA[2024.06.25(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매연극 <빵야> 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14513</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14513"/>
-        <updated>2024-06-19T05:15:33.566Z</updated>
-        <content type="html"><![CDATA[2024.06.24(월) 13:00]]></content>
     </entry>
 </feed>
