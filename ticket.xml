@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-23T23:15:54.116Z</updated>
+    <updated>2024-06-24T01:08:48.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] YEONGDO INDIE CONCERT [Romantic 영도] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14529</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14529"/>
+        <updated>2024-06-24T01:07:54.964Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 콘서트 가이드 김성민과 함께하는 [Summer Latin Concert] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14528</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14528"/>
+        <updated>2024-06-24T01:07:54.964Z</updated>
+        <content type="html"><![CDATA[2024.06.28(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [조선 이야기꾼 전기수] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14526</id>
@@ -129,20 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14508</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14508"/>
         <updated>2024-06-18T05:15:49.817Z</updated>
-        <content type="html"><![CDATA[2024.06.21(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soundberry Festa’ 24 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14506</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14506"/>
-        <updated>2024-06-18T02:31:45.701Z</updated>
-        <content type="html"><![CDATA[2024.06.18(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [메노포즈] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14505</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14505"/>
-        <updated>2024-06-17T07:14:43.110Z</updated>
         <content type="html"><![CDATA[2024.06.21(금) 14:00]]></content>
     </entry>
 </feed>

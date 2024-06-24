@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-23T23:15:54.109Z</updated>
+    <updated>2024-06-24T01:08:48.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] YEONGDO INDIE CONCERT [Romantic 영도] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14529&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14529&amp;order=1"/>
+        <updated>2024-06-24T01:08:03.305Z</updated>
+        <content type="html"><![CDATA[2024-06-27(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 콘서트 가이드 김성민과 함께하는 [Summer Latin Concert] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14528&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14528&amp;order=1"/>
+        <updated>2024-06-24T01:08:03.305Z</updated>
+        <content type="html"><![CDATA[2024-06-28(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [조선 이야기꾼 전기수] 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14526&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14518&amp;order=1"/>
         <updated>2024-06-20T03:17:08.337Z</updated>
         <content type="html"><![CDATA[2024-06-21(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <일리아드> 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14517&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14517&amp;order=1"/>
-        <updated>2024-06-20T03:17:08.338Z</updated>
-        <content type="html"><![CDATA[2024-06-25(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멜랑제앙상블 [여름연가] - 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14516&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14516&amp;order=1"/>
-        <updated>2024-06-20T01:04:45.843Z</updated>
-        <content type="html"><![CDATA[2024-06-26(수) 14:00]]></content>
     </entry>
 </feed>
