@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-25T10:17:44.597Z</updated>
+    <updated>2024-06-25T11:14:42.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 나이트레이스 인 부산 - 얼리버드 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14541</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14541"/>
+        <updated>2024-06-25T11:13:37.832Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14540</id>
@@ -17,7 +24,7 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14539</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14539"/>
         <updated>2024-06-25T06:21:22.477Z</updated>
-        <content type="html"><![CDATA[2024.06.26(수) 14:00]]></content>
+        <content type="html"><![CDATA[2024.07.01(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sync Next 24 조영숙X장영규X박민희 <조 도깨비 영숙> OP석·사이드석 추가 오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14520"/>
         <updated>2024-06-21T01:05:30.926Z</updated>
         <content type="html"><![CDATA[2024.06.25(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈브레멘음악대〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14519</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14519"/>
-        <updated>2024-06-20T08:20:02.195Z</updated>
-        <content type="html"><![CDATA[2024.06.24(월) 09:00]]></content>
     </entry>
 </feed>
