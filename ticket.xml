@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-25T04:18:45.206Z</updated>
+    <updated>2024-06-25T05:16:06.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Sync Next 24 조영숙X장영규X박민희 <조 도깨비 영숙> OP석·사이드석 추가 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14538</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14538"/>
+        <updated>2024-06-25T05:15:09.404Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매BADA THE OCEAN CONCERT ‘PINK SUMMER DREAM’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14537</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14517"/>
         <updated>2024-06-20T03:17:00.658Z</updated>
         <content type="html"><![CDATA[2024.06.25(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멜랑제앙상블 [여름연가] - 부산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14516</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14516"/>
-        <updated>2024-06-20T01:04:36.827Z</updated>
-        <content type="html"><![CDATA[2024.06.26(수) 14:00]]></content>
     </entry>
 </feed>

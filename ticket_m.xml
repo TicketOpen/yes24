@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-25T04:18:45.173Z</updated>
+    <updated>2024-06-25T05:16:06.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Sync Next 24 조영숙X장영규X박민희 <조 도깨비 영숙> OP석·사이드석 추가 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14538&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14538&amp;order=1"/>
+        <updated>2024-06-25T05:15:17.512Z</updated>
+        <content type="html"><![CDATA[2024-06-27(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BADA THE OCEAN CONCERT ‘PINK SUMMER DREAM’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14537&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14529&amp;order=1"/>
         <updated>2024-06-24T01:08:03.305Z</updated>
         <content type="html"><![CDATA[2024-06-27(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 콘서트 가이드 김성민과 함께하는 [Summer Latin Concert] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14528&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14528&amp;order=1"/>
-        <updated>2024-06-24T01:08:03.305Z</updated>
-        <content type="html"><![CDATA[2024-06-28(금) 14:00]]></content>
     </entry>
 </feed>
