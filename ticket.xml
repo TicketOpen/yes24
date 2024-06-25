@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-25T05:16:06.748Z</updated>
+    <updated>2024-06-25T06:22:22.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[제주] 연극 [고도를 기다리며] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14539</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14539"/>
+        <updated>2024-06-25T06:21:22.477Z</updated>
+        <content type="html"><![CDATA[2024.06.26(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sync Next 24 조영숙X장영규X박민희 <조 도깨비 영숙> OP석·사이드석 추가 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14538</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14518"/>
         <updated>2024-06-20T03:17:00.656Z</updated>
         <content type="html"><![CDATA[2024.06.21(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <일리아드> 3차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14517</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14517"/>
-        <updated>2024-06-20T03:17:00.658Z</updated>
-        <content type="html"><![CDATA[2024.06.25(화) 14:00]]></content>
     </entry>
 </feed>

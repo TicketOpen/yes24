@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-25T05:16:06.757Z</updated>
+    <updated>2024-06-25T06:22:22.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[제주] 연극 [고도를 기다리며] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14539&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14539&amp;order=1"/>
+        <updated>2024-06-25T06:21:33.662Z</updated>
+        <content type="html"><![CDATA[2024-06-26(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sync Next 24 조영숙X장영규X박민희 <조 도깨비 영숙> OP석·사이드석 추가 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14538&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14530&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14530&amp;order=1"/>
         <updated>2024-06-24T02:33:08.648Z</updated>
-        <content type="html"><![CDATA[2024-06-27(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] YEONGDO INDIE CONCERT [Romantic 영도] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14529&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14529&amp;order=1"/>
-        <updated>2024-06-24T01:08:03.305Z</updated>
         <content type="html"><![CDATA[2024-06-27(목) 14:00]]></content>
     </entry>
 </feed>
