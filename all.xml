@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 02:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 03:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14548</guid>
             <pubDate>Wed, 26 Jun 2024 02:31:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.01(월) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 전주얼티밋뮤직페스티벌 사전예매 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14547</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14547</guid>
+            <pubDate>Wed, 26 Jun 2024 03:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27(목) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매[얼리버드] 브라이언 레 창원 특별전 : LOVE STORIES - 얼리버드 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -141,13 +148,6 @@
             <content:encoded><![CDATA[2024.06.27(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매[부산] YEONGDO INDIE CONCERT [Romantic 영도] 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14529</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14529</guid>
-            <pubDate>Mon, 24 Jun 2024 01:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.27(목) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[안산] 가족매직쇼<구구쌤의 매직쑈라구> 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14549&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14549&amp;order=1</guid>
@@ -160,6 +160,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14548&amp;order=1</guid>
             <pubDate>Wed, 26 Jun 2024 02:31:49 GMT</pubDate>
             <content:encoded><![CDATA[2024-07-01(월) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 전주얼티밋뮤직페스티벌 사전예매 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14547&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14547&amp;order=1</guid>
+            <pubDate>Wed, 26 Jun 2024 03:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024-06-27(목) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[얼리버드] 브라이언 레 창원 특별전 : LOVE STORIES - 얼리버드 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -209,13 +216,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14540&amp;order=1</guid>
             <pubDate>Tue, 25 Jun 2024 07:14:15 GMT</pubDate>
             <content:encoded><![CDATA[2024-07-01(월) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[제주] 연극 [고도를 기다리며] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14539&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14539&amp;order=1</guid>
-            <pubDate>Tue, 25 Jun 2024 06:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-01(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈쇄골에 천사가 잠들고 있다〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
