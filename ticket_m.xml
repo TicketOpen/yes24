@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-26T06:23:42.958Z</updated>
+    <updated>2024-06-26T07:15:24.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NEKIRU 5th ONEMAN LIVE「낭만주의」티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14550&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14550&amp;order=1"/>
+        <updated>2024-06-26T07:14:24.568Z</updated>
+        <content type="html"><![CDATA[2024-06-28(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안산] 가족매직쇼<구구쌤의 매직쑈라구> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14549&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14541&amp;order=1"/>
         <updated>2024-06-25T11:13:46.867Z</updated>
         <content type="html"><![CDATA[2024-06-27(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14540&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14540&amp;order=1"/>
-        <updated>2024-06-25T07:14:15.430Z</updated>
-        <content type="html"><![CDATA[2024-07-01(월) 09:00]]></content>
     </entry>
 </feed>
