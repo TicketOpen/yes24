@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-26T01:07:15.014Z</updated>
+    <updated>2024-06-26T02:32:34.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안산] 가족매직쇼<구구쌤의 매직쑈라구> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14549&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14549&amp;order=1"/>
+        <updated>2024-06-26T02:31:49.439Z</updated>
+        <content type="html"><![CDATA[2024-07-01(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 제3회 인디뮤직페스티벌 인디오텀 [In-die-Autumn] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14548&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14548&amp;order=1"/>
+        <updated>2024-06-26T02:31:49.439Z</updated>
+        <content type="html"><![CDATA[2024-07-01(월) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[얼리버드] 브라이언 레 창원 특별전 : LOVE STORIES - 얼리버드 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14546&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14539&amp;order=1"/>
         <updated>2024-06-25T06:21:33.662Z</updated>
         <content type="html"><![CDATA[2024-07-01(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sync Next 24 조영숙X장영규X박민희 <조 도깨비 영숙> OP석·사이드석 추가 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14538&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14538&amp;order=1"/>
-        <updated>2024-06-25T05:15:17.512Z</updated>
-        <content type="html"><![CDATA[2024-06-27(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BADA THE OCEAN CONCERT ‘PINK SUMMER DREAM’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14537&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14537&amp;order=1"/>
-        <updated>2024-06-25T01:06:22.594Z</updated>
-        <content type="html"><![CDATA[2024-06-25(화) 14:00]]></content>
     </entry>
 </feed>

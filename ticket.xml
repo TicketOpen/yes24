@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-26T01:07:15.009Z</updated>
+    <updated>2024-06-26T02:32:34.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안산] 가족매직쇼<구구쌤의 매직쑈라구> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14549</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14549"/>
+        <updated>2024-06-26T02:31:42.383Z</updated>
+        <content type="html"><![CDATA[2024.07.01(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 제3회 인디뮤직페스티벌 인디오텀 [In-die-Autumn] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14548</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14548"/>
+        <updated>2024-06-26T02:31:42.383Z</updated>
+        <content type="html"><![CDATA[2024.07.01(월) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[얼리버드] 브라이언 레 창원 특별전 : LOVE STORIES - 얼리버드 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14546</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14529"/>
         <updated>2024-06-24T01:07:54.964Z</updated>
         <content type="html"><![CDATA[2024.06.27(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] 콘서트 가이드 김성민과 함께하는 [Summer Latin Concert] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14528</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14528"/>
-        <updated>2024-06-24T01:07:54.964Z</updated>
-        <content type="html"><![CDATA[2024.06.28(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [조선 이야기꾼 전기수] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14526</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14526"/>
-        <updated>2024-06-21T04:18:07.015Z</updated>
-        <content type="html"><![CDATA[2024.06.27(목) 11:00]]></content>
     </entry>
 </feed>
