@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-27T09:17:06.575Z</updated>
+    <updated>2024-06-27T10:18:23.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매양홍원 단독 콘서트 [오보에] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14554</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14554"/>
+        <updated>2024-06-27T10:17:26.529Z</updated>
+        <content type="html"><![CDATA[2024.07.01(월) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소란 여름 콘서트 ‘Squeeze!’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14553</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14535"/>
         <updated>2024-06-24T07:15:41.102Z</updated>
         <content type="html"><![CDATA[2024.06.26(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 국립국악원 순회공연 - 유네스코 세계가 인정한 우리 음악과 춤 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14534</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14534"/>
-        <updated>2024-06-24T02:33:00.543Z</updated>
-        <content type="html"><![CDATA[2024.07.02(화) 14:00]]></content>
     </entry>
 </feed>
