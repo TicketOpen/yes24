@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-27T08:19:54.591Z</updated>
+    <updated>2024-06-27T09:17:06.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[소란 여름 콘서트 ‘Squeeze!’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14553&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14553&amp;order=1"/>
+        <updated>2024-06-27T09:16:14.130Z</updated>
+        <content type="html"><![CDATA[2024-07-05(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROCK CAFE RETRO 순천 SUMMER CONCERT 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14552&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14544&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14544&amp;order=1"/>
         <updated>2024-06-26T01:06:28.133Z</updated>
-        <content type="html"><![CDATA[2024-07-01(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 진성 30주년 기념 콘서트 [진성 빅쇼] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14543&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14543&amp;order=1"/>
-        <updated>2024-06-26T01:06:28.137Z</updated>
         <content type="html"><![CDATA[2024-07-01(월) 14:00]]></content>
     </entry>
 </feed>
