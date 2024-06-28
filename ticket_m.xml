@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-28T05:15:45.142Z</updated>
+    <updated>2024-06-28T06:21:57.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14559&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14559&amp;order=1"/>
+        <updated>2024-06-28T06:21:16.045Z</updated>
+        <content type="html"><![CDATA[2024-07-02(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베어 더 뮤지컬 （bare the musical） 4차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14558&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14558&amp;order=1"/>
         <updated>2024-06-28T05:14:55.751Z</updated>
         <content type="html"><![CDATA[2024-07-04(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE-THE BOYZ WORLD TOUR : ZENERATION Ⅱ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14557&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14557&amp;order=1"/>
+        <updated>2024-06-28T06:21:16.050Z</updated>
+        <content type="html"><![CDATA[2024-06-28(금) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이블데드] 3차 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14550&amp;order=1"/>
         <updated>2024-06-26T07:14:24.568Z</updated>
         <content type="html"><![CDATA[2024-06-28(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안산] 가족매직쇼<구구쌤의 매직쑈라구> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14549&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14549&amp;order=1"/>
-        <updated>2024-06-26T02:31:49.439Z</updated>
-        <content type="html"><![CDATA[2024-07-01(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 제3회 인디뮤직페스티벌 인디오텀 [In-die-Autumn] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14548&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14548&amp;order=1"/>
-        <updated>2024-06-26T02:31:49.439Z</updated>
-        <content type="html"><![CDATA[2024-07-01(월) 13:00]]></content>
     </entry>
 </feed>

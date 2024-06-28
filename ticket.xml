@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-28T05:15:45.109Z</updated>
+    <updated>2024-06-28T06:21:57.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14559</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14559"/>
+        <updated>2024-06-28T06:21:08.073Z</updated>
+        <content type="html"><![CDATA[2024.07.02(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베어 더 뮤지컬 （bare the musical） 4차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14558</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14558"/>
         <updated>2024-06-28T05:14:48.454Z</updated>
         <content type="html"><![CDATA[2024.07.04(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE-THE BOYZ WORLD TOUR : ZENERATION Ⅱ 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14557</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14557"/>
+        <updated>2024-06-28T06:21:08.075Z</updated>
+        <content type="html"><![CDATA[2024.06.28(금) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이블데드] 3차 티켓오픈 안내]]></title>
@@ -90,11 +104,11 @@
         <content type="html"><![CDATA[2024.06.27(목) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단독판매제1247회 서초금요음악회〈30주년기념 특별 금요음악회〉티켓오픈안내]]></title>
+        <title type="html"><![CDATA[단독판매[오픈시간 변경] 제1247회 서초금요음악회〈30주년기념 특별 금요음악회〉티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14545</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14545"/>
         <updated>2024-06-26T01:06:19.687Z</updated>
-        <content type="html"><![CDATA[2024.07.01(월) 09:00]]></content>
+        <content type="html"><![CDATA[2024.07.01(월) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 진성 30주년 기념 콘서트 [진성 빅쇼] 티켓 오픈 안내]]></title>
@@ -118,7 +132,7 @@
         <content type="html"><![CDATA[2024.06.26(수) 10:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단독판매2024 나이트레이스 인 부산 - 얼리버드 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[단독판매2024 나이트레이스 인 부산 - 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14541</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14541"/>
         <updated>2024-06-25T11:13:37.832Z</updated>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14540"/>
         <updated>2024-06-25T07:14:05.474Z</updated>
         <content type="html"><![CDATA[2024.07.01(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[제주] 연극 [고도를 기다리며] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14539</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14539"/>
-        <updated>2024-06-25T06:21:22.477Z</updated>
-        <content type="html"><![CDATA[2024.07.01(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sync Next 24 조영숙X장영규X박민희 <조 도깨비 영숙> OP석·사이드석 추가 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14538</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14538"/>
-        <updated>2024-06-25T05:15:09.404Z</updated>
-        <content type="html"><![CDATA[2024.06.27(목) 16:00]]></content>
     </entry>
 </feed>
