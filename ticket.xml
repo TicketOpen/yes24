@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-28T04:18:36.220Z</updated>
+    <updated>2024-06-28T05:15:45.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[베어 더 뮤지컬 （bare the musical） 4차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14558</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14558"/>
+        <updated>2024-06-28T05:14:48.454Z</updated>
+        <content type="html"><![CDATA[2024.07.04(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [이블데드] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14556</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14556"/>
+        <updated>2024-06-28T05:14:48.457Z</updated>
+        <content type="html"><![CDATA[2024.07.03(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BREN JOY LIVE IN SEOUL 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14555</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14538"/>
         <updated>2024-06-25T05:15:09.404Z</updated>
         <content type="html"><![CDATA[2024.06.27(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매BADA THE OCEAN CONCERT ‘PINK SUMMER DREAM’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14537</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14537"/>
-        <updated>2024-06-25T01:06:13.787Z</updated>
-        <content type="html"><![CDATA[2024.06.25(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <바스커빌 : 셜록홈즈 미스터리> Chapter2 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14536</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14536"/>
-        <updated>2024-06-24T08:20:22.832Z</updated>
-        <content type="html"><![CDATA[2024.06.28(금) 14:00]]></content>
     </entry>
 </feed>
