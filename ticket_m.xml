@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-30T23:17:15.247Z</updated>
+    <updated>2024-07-01T01:15:01.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[평택] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14561&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14561&amp;order=1"/>
+        <updated>2024-07-01T01:14:20.328Z</updated>
+        <content type="html"><![CDATA[2024-07-04(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[용인] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14560&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14560&amp;order=1"/>
+        <updated>2024-07-01T01:14:20.329Z</updated>
+        <content type="html"><![CDATA[2024-07-04(목) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14559&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14552&amp;order=1"/>
         <updated>2024-06-27T07:14:18.680Z</updated>
         <content type="html"><![CDATA[2024-06-28(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [등등곡] 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14551&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14551&amp;order=1"/>
-        <updated>2024-06-27T07:14:18.682Z</updated>
-        <content type="html"><![CDATA[2024-07-03(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEKIRU 5th ONEMAN LIVE「낭만주의」티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14550&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14550&amp;order=1"/>
-        <updated>2024-06-26T07:14:24.568Z</updated>
-        <content type="html"><![CDATA[2024-06-28(금) 16:00]]></content>
     </entry>
 </feed>
