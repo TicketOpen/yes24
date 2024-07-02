@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-01T23:16:17.658Z</updated>
+    <updated>2024-07-02T01:08:13.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14563&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14563&amp;order=1"/>
+        <updated>2024-07-02T01:07:32.817Z</updated>
+        <content type="html"><![CDATA[2024-07-05(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14562&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14562&amp;order=1"/>
+        <updated>2024-07-02T01:07:32.818Z</updated>
+        <content type="html"><![CDATA[2024-07-05(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[평택] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14561&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14554&amp;order=1"/>
         <updated>2024-06-27T10:17:34.836Z</updated>
         <content type="html"><![CDATA[2024-07-01(월) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소란 여름 콘서트 ‘Squeeze!’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14553&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14553&amp;order=1"/>
-        <updated>2024-06-27T09:16:14.130Z</updated>
-        <content type="html"><![CDATA[2024-07-05(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROCK CAFE RETRO 순천 SUMMER CONCERT 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14552&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14552&amp;order=1"/>
-        <updated>2024-06-27T07:14:18.680Z</updated>
-        <content type="html"><![CDATA[2024-06-28(금) 14:00]]></content>
     </entry>
 </feed>

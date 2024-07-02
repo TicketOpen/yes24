@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-01T23:16:17.646Z</updated>
+    <updated>2024-07-02T01:08:13.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14563</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14563"/>
+        <updated>2024-07-02T01:07:25.039Z</updated>
+        <content type="html"><![CDATA[2024.07.05(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14562</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14562"/>
+        <updated>2024-07-02T01:07:25.039Z</updated>
+        <content type="html"><![CDATA[2024.07.05(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[평택] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14561</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14544"/>
         <updated>2024-06-26T01:06:19.689Z</updated>
         <content type="html"><![CDATA[2024.07.01(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 진성 30주년 기념 콘서트 [진성 빅쇼] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14543</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14543"/>
-        <updated>2024-06-26T01:06:19.689Z</updated>
-        <content type="html"><![CDATA[2024.07.01(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 김창옥토크콘서트 시즌 4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14542</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14542"/>
-        <updated>2024-06-26T01:06:19.691Z</updated>
-        <content type="html"><![CDATA[2024.06.26(수) 10:00]]></content>
     </entry>
 </feed>
