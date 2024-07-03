@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-02T23:15:47.078Z</updated>
+    <updated>2024-07-03T01:07:42.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매제1248회 서초금요음악회〈이야기오페라 - 배비장전〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14567</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14567"/>
+        <updated>2024-07-03T01:06:44.546Z</updated>
+        <content type="html"><![CDATA[2024.07.05(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 이럴때 이런음악 해설이 있는 청소년음악회 21주년 공연 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14566</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14548"/>
         <updated>2024-06-26T02:31:42.383Z</updated>
         <content type="html"><![CDATA[2024.07.01(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 전주얼티밋뮤직페스티벌 사전예매 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14547</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14547"/>
-        <updated>2024-06-26T03:17:48.760Z</updated>
-        <content type="html"><![CDATA[2024.06.27(목) 12:00]]></content>
     </entry>
 </feed>
