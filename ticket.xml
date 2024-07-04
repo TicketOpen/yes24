@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-04T03:19:24.855Z</updated>
+    <updated>2024-07-04T04:18:50.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 두둥프로젝트 - 연극 〈My Dear Anger〉 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14570</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14570"/>
+        <updated>2024-07-04T04:17:55.594Z</updated>
+        <content type="html"><![CDATA[2024.07.10(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈사의찬미〉 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14568</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14550"/>
         <updated>2024-06-26T07:14:16.150Z</updated>
         <content type="html"><![CDATA[2024.06.28(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안산] 가족매직쇼<구구쌤의 매직쑈라구> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14549</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14549"/>
-        <updated>2024-06-26T02:31:42.383Z</updated>
-        <content type="html"><![CDATA[2024.07.01(월) 14:00]]></content>
     </entry>
 </feed>
