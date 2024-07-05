@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-05T10:17:36.703Z</updated>
+    <updated>2024-07-05T11:13:57.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[위하준 2024 팬미팅 투어 〈A Wively Day〉 in 서울 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14584&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14584&amp;order=1"/>
+        <updated>2024-07-05T11:13:15.904Z</updated>
+        <content type="html"><![CDATA[2024-07-12(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족마술콘서트 〈매직오브아트시즌2〉- 인천 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14583&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14575&amp;order=1"/>
         <updated>2024-07-04T08:20:09.632Z</updated>
         <content type="html"><![CDATA[2024-07-08(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬〈우리아빠가최고야〉- 대전 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14574&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14574&amp;order=1"/>
-        <updated>2024-07-04T08:20:09.634Z</updated>
-        <content type="html"><![CDATA[2024-07-09(화) 09:00]]></content>
     </entry>
 </feed>

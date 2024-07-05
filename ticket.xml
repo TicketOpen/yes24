@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-05T10:17:36.714Z</updated>
+    <updated>2024-07-05T11:13:57.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매위하준 2024 팬미팅 투어 〈A Wively Day〉 in 서울 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14584</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14584"/>
+        <updated>2024-07-05T11:13:09.010Z</updated>
+        <content type="html"><![CDATA[2024.07.12(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족마술콘서트 〈매직오브아트시즌2〉- 인천 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14583</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14565"/>
         <updated>2024-07-02T05:16:02.729Z</updated>
         <content type="html"><![CDATA[2024.07.04(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Xdinary Heroes Concert〈Closed ♭eta: v6.2〉추가 좌석 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14564</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14564"/>
-        <updated>2024-07-02T02:32:31.916Z</updated>
-        <content type="html"><![CDATA[2024.07.02(화) 20:00]]></content>
     </entry>
 </feed>
