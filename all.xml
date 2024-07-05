@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 17:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 18:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,14 @@
             <content:encoded><![CDATA[2024-07-08(월) 09:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈무인도 탈출기〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/49350</link>
+            <guid>http://ticket.yes24.com/Perf/49350</guid>
+            <pubDate>Mon, 01 Jul 2024 01:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240701/20240701-49350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 〈일리아드〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/49541</link>
             <guid>http://ticket.yes24.com/Perf/49541</guid>
@@ -232,14 +240,6 @@
             <pubDate>Mon, 01 Jul 2024 02:38:17 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>40,500원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240701/20240701-49616.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈무인도 탈출기〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/49350</link>
-            <guid>http://ticket.yes24.com/Perf/49350</guid>
-            <pubDate>Mon, 01 Jul 2024 01:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240701/20240701-49350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 에밀 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
