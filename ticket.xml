@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-05T05:15:39.398Z</updated>
+    <updated>2024-07-05T06:23:16.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[수원] 2024 온가족이 함께 즐기는 〈펀펀키즈매직쇼〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14581</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14581"/>
+        <updated>2024-07-05T06:22:27.107Z</updated>
+        <content type="html"><![CDATA[2024.07.09(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈4월은 너의 거짓말〉 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14580</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14580"/>
+        <updated>2024-07-05T06:22:27.108Z</updated>
+        <content type="html"><![CDATA[2024.07.09(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매연극 〈빵야〉 4차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14579</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14579"/>
+        <updated>2024-07-05T06:22:27.109Z</updated>
+        <content type="html"><![CDATA[2024.07.12(금) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈에밀〉 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14578</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14578"/>
+        <updated>2024-07-05T06:22:27.111Z</updated>
+        <content type="html"><![CDATA[2024.07.11(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2024 어린이 베스트셀러 뮤지컬 [누가내머리에똥쌌어？] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14577</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14562"/>
         <updated>2024-07-02T01:07:25.039Z</updated>
         <content type="html"><![CDATA[2024.07.05(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[평택] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14561</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14561"/>
-        <updated>2024-07-01T01:14:13.191Z</updated>
-        <content type="html"><![CDATA[2024.07.04(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14560</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14560"/>
-        <updated>2024-07-01T01:14:13.193Z</updated>
-        <content type="html"><![CDATA[2024.07.04(목) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14559</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14559"/>
-        <updated>2024-06-28T06:21:08.073Z</updated>
-        <content type="html"><![CDATA[2024.07.02(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베어 더 뮤지컬 （bare the musical） 4차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14558</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14558"/>
-        <updated>2024-06-28T05:14:48.454Z</updated>
-        <content type="html"><![CDATA[2024.07.04(목) 14:00]]></content>
     </entry>
 </feed>

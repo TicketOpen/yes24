@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-05T05:15:39.402Z</updated>
+    <updated>2024-07-05T06:23:16.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[수원] 2024 온가족이 함께 즐기는 〈펀펀키즈매직쇼〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14581&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14581&amp;order=1"/>
+        <updated>2024-07-05T06:22:34.328Z</updated>
+        <content type="html"><![CDATA[2024-07-09(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈4월은 너의 거짓말〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14580&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14580&amp;order=1"/>
+        <updated>2024-07-05T06:22:34.331Z</updated>
+        <content type="html"><![CDATA[2024-07-09(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈빵야〉 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14579&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14579&amp;order=1"/>
+        <updated>2024-07-05T06:22:34.331Z</updated>
+        <content type="html"><![CDATA[2024-07-12(금) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈에밀〉 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14578&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14578&amp;order=1"/>
+        <updated>2024-07-05T06:22:34.332Z</updated>
+        <content type="html"><![CDATA[2024-07-11(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2024 어린이 베스트셀러 뮤지컬 [누가내머리에똥쌌어？] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14577&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14572&amp;order=1"/>
         <updated>2024-07-04T06:22:13.819Z</updated>
         <content type="html"><![CDATA[2024-07-09(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시발레단 창단 공연 <한여름 밤의 꿈> 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14571&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14571&amp;order=1"/>
-        <updated>2024-07-04T06:22:13.819Z</updated>
-        <content type="html"><![CDATA[2024-07-09(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 두둥프로젝트 - 연극 〈My Dear Anger〉 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14570&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14570&amp;order=1"/>
-        <updated>2024-07-04T04:18:03.805Z</updated>
-        <content type="html"><![CDATA[2024-07-10(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [어쩌면 해피엔딩] 2024 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14569&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14569&amp;order=1"/>
-        <updated>2024-07-04T05:16:39.956Z</updated>
-        <content type="html"><![CDATA[2024-07-10(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈사의찬미〉 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14568&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14568&amp;order=1"/>
-        <updated>2024-07-03T04:18:21.181Z</updated>
-        <content type="html"><![CDATA[2024-07-08(월) 14:00]]></content>
     </entry>
 </feed>
