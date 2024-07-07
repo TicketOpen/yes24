@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 14:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 15:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,72 +218,6 @@
             <content:encoded><![CDATA[2024-07-08(월) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈일리아드〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/49541</link>
-            <guid>http://ticket.yes24.com/Perf/49541</guid>
-            <pubDate>Mon, 01 Jul 2024 01:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240701/20240701-49541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈무인도 탈출기〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/49350</link>
-            <guid>http://ticket.yes24.com/Perf/49350</guid>
-            <pubDate>Mon, 01 Jul 2024 01:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>33,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240701/20240701-49350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈에밀〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/49616</link>
-            <guid>http://ticket.yes24.com/Perf/49616</guid>
-            <pubDate>Mon, 01 Jul 2024 02:38:17 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>40,500원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240701/20240701-49616.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 무인도 탈출기 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/49350</link>
-            <guid>http://m.ticket.yes24.com/Perf/49350</guid>
-            <pubDate>Mon, 01 Jul 2024 01:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 무인도 탈출기
-
-
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">45,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">24,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240701/20240701-49350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 에밀 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/49616</link>
-            <guid>http://m.ticket.yes24.com/Perf/49616</guid>
-            <pubDate>Mon, 01 Jul 2024 02:38:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 에밀
-
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">35</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">40,500원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">7월 2일 ~ 7월 21일 공연(일부 회차 제외)
-
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240701/20240701-49616.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 일리아드 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/49541</link>
-            <guid>http://m.ticket.yes24.com/Perf/49541</guid>
-            <pubDate>Mon, 01 Jul 2024 01:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 일리아드
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">24,000원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">7월 2일(화) - 7월 14일(일) 공연
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240701/20240701-49541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈이블데드〉 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49544&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49544&amp;Tab=2</guid>
@@ -332,14 +266,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240524/20240524-3b70db88-360f-4d1f-8bb9-45146d79918b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <매직 판타지아-도로시 리턴즈> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49741&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49741&amp;Tab=3</guid>
-            <pubDate>Sun, 30 Jun 2024 15:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.20 ~ 2024.07.07 | 2024.07.09 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240520/20240520-d620814c-f22a-4fa7-82ea-7ca593411ff7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[청년문화예술패스 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</guid>
@@ -353,6 +279,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Sun, 30 Jun 2024 15:16:45 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 07 Jul 2024 15:16:08 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.07.02 ~ 2024.07.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -401,14 +334,6 @@
             <pubDate>Fri, 07 Jun 2024 21:16:51 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;살리에르&gt; 7월 21일(일) 6시 30분 공연]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240524/20240524-3b70db88-360f-4d1f-8bb9-45146d79918b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.05.20 ~ 2024.07.07 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=49741</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=49741</guid>
-            <pubDate>Fri, 07 Jun 2024 21:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;매직판타지아-도로시 리턴즈&gt; 7월 20일(토) 7시]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240520/20240520-d620814c-f22a-4fa7-82ea-7ca593411ff7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.04.01 ~ 2024.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
