@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-08T04:20:34.627Z</updated>
+    <updated>2024-07-08T05:18:06.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14586&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14586&amp;order=1"/>
+        <updated>2024-07-08T05:17:13.762Z</updated>
+        <content type="html"><![CDATA[2024-07-11(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 하데스타운 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14585&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14585&amp;order=1"/>
+        <updated>2024-07-08T05:17:13.768Z</updated>
+        <content type="html"><![CDATA[2024-07-17(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위하준 2024 팬미팅 투어 〈A Wively Day〉 in 서울 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14584&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14577&amp;order=1"/>
         <updated>2024-07-04T08:20:09.630Z</updated>
         <content type="html"><![CDATA[2024-07-09(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 [아기돼지삼형제] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14576&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14576&amp;order=1"/>
-        <updated>2024-07-04T08:20:09.631Z</updated>
-        <content type="html"><![CDATA[2024-07-09(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 라이브가족뮤지컬 〈미녀와야수〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14575&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14575&amp;order=1"/>
-        <updated>2024-07-04T08:20:09.632Z</updated>
-        <content type="html"><![CDATA[2024-07-08(월) 09:00]]></content>
     </entry>
 </feed>
