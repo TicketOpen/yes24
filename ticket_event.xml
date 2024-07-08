@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 14:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 15:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 02 Jul 2024 07:16:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.02 ~ 2024.07.31 | 2024.08.05 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240702/20240702-5ce130d7-f7a0-4679-9c1a-845056cf89f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산] 리온의 신비한 과자상점-어린이마술극(7월) 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50025&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50025&amp;Tab=3</guid>
-            <pubDate>Wed, 26 Jun 2024 08:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.26 ~ 2024.07.08 | 2024.07.09 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240626/20240626-f27b1b78-ae9d-4c5b-bc0b-c35753cc69e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <어쩌면 해피엔딩> 관람후기 이벤트]]></title>
@@ -77,6 +69,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Sun, 30 Jun 2024 15:16:45 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Mon, 08 Jul 2024 15:17:11 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
