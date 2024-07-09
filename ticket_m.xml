@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-09T07:15:31.901Z</updated>
+    <updated>2024-07-09T08:19:39.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14594&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14594&amp;order=1"/>
+        <updated>2024-07-09T08:18:49.327Z</updated>
+        <content type="html"><![CDATA[2024-07-11(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브 가족뮤지컬〈라푼젤〉- 대전 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14593&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14593&amp;order=1"/>
+        <updated>2024-07-09T08:18:49.327Z</updated>
+        <content type="html"><![CDATA[2024-07-11(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xdinary Heroes Concert〈Closed ♭eta: v6.3〉티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14592&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14585&amp;order=1"/>
         <updated>2024-07-08T05:17:13.768Z</updated>
         <content type="html"><![CDATA[2024-07-17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위하준 2024 팬미팅 투어 〈A Wively Day〉 in 서울 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14584&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14584&amp;order=1"/>
-        <updated>2024-07-05T11:13:15.904Z</updated>
-        <content type="html"><![CDATA[2024-07-12(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족마술콘서트 〈매직오브아트시즌2〉- 인천 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14583&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14583&amp;order=1"/>
-        <updated>2024-07-05T07:14:43.838Z</updated>
-        <content type="html"><![CDATA[2024-07-10(수) 09:00]]></content>
     </entry>
 </feed>
