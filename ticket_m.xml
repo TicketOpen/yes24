@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-09T04:19:08.223Z</updated>
+    <updated>2024-07-09T05:16:26.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [클럽 드바이] 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14591&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14591&amp;order=1"/>
+        <updated>2024-07-09T05:15:35.892Z</updated>
+        <content type="html"><![CDATA[2024-07-12(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <이블데드> 혜공 전관 - 그래이공 WEEKEND 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14590&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14582&amp;order=1"/>
         <updated>2024-07-05T07:14:43.840Z</updated>
         <content type="html"><![CDATA[2024-07-08(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2024 온가족이 함께 즐기는 〈펀펀키즈매직쇼〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14581&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14581&amp;order=1"/>
-        <updated>2024-07-05T06:22:34.328Z</updated>
-        <content type="html"><![CDATA[2024-07-09(화) 09:00]]></content>
     </entry>
 </feed>
