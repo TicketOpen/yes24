@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-09T23:18:47.594Z</updated>
+    <updated>2024-07-10T01:10:00.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[창원] SUPER! 수요콘서트 8월 「조선x남미 그루브클럽」 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14596</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14596"/>
+        <updated>2024-07-10T01:09:01.666Z</updated>
+        <content type="html"><![CDATA[2024.07.18(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14594</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14576"/>
         <updated>2024-07-04T08:20:01.108Z</updated>
         <content type="html"><![CDATA[2024.07.09(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 라이브가족뮤지컬 〈미녀와야수〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14575</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14575"/>
-        <updated>2024-07-04T08:20:01.108Z</updated>
-        <content type="html"><![CDATA[2024.07.08(월) 09:00]]></content>
     </entry>
 </feed>
