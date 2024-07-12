@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-12T04:19:14.406Z</updated>
+    <updated>2024-07-12T05:15:55.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Sync Next 24 김신록×손현선 〈없는 시간〉 발코니석 추가 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14608</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14608"/>
+        <updated>2024-07-12T05:14:52.477Z</updated>
+        <content type="html"><![CDATA[2024.07.15(월) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 부산국제록페스티벌 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14607</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14607"/>
+        <updated>2024-07-12T05:14:52.479Z</updated>
+        <content type="html"><![CDATA[2024.07.12(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인천] 2024 라이브가족뮤지컬〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14606</id>
@@ -32,6 +46,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14603"/>
         <updated>2024-07-12T01:07:45.393Z</updated>
         <content type="html"><![CDATA[2024.07.18(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14602</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14602"/>
+        <updated>2024-07-12T05:14:52.489Z</updated>
+        <content type="html"><![CDATA[2024.07.17(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[서울 앵콜] 뮤지컬 <친구의 전설> 티켓오픈 안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14589"/>
         <updated>2024-07-08T08:20:09.819Z</updated>
         <content type="html"><![CDATA[2024.07.11(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <일리아드> 4차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14588</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14588"/>
-        <updated>2024-07-08T07:15:43.548Z</updated>
-        <content type="html"><![CDATA[2024.07.15(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2024 심수봉 전국투어 콘서트 : 꽃길 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14587</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14587"/>
-        <updated>2024-07-08T07:15:43.552Z</updated>
-        <content type="html"><![CDATA[2024.07.11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14586</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14586"/>
-        <updated>2024-07-08T05:17:04.414Z</updated>
-        <content type="html"><![CDATA[2024.07.11(목) 14:00]]></content>
     </entry>
 </feed>
