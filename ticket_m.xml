@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-12T08:21:04.547Z</updated>
+    <updated>2024-07-12T09:18:52.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 트롯걸즈재팬 1st 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14611&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14611&amp;order=1"/>
+        <updated>2024-07-12T09:18:07.408Z</updated>
+        <content type="html"><![CDATA[2024-07-16(화) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2024 트롯걸즈재팬 1st 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14610&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14610&amp;order=1"/>
+        <updated>2024-07-12T09:18:07.411Z</updated>
+        <content type="html"><![CDATA[2024-07-16(화) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soundberry Festa’ 24 - 부산 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14609&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14609&amp;order=1"/>
+        <updated>2024-07-12T09:18:07.412Z</updated>
+        <content type="html"><![CDATA[2024-07-15(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sync Next 24 김신록×손현선 〈없는 시간〉 발코니석 추가 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14608&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14602&amp;order=1"/>
         <updated>2024-07-12T05:15:00.119Z</updated>
         <content type="html"><![CDATA[2024-07-17(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울 앵콜] 뮤지컬 <친구의 전설> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14601&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14601&amp;order=1"/>
-        <updated>2024-07-12T02:32:53.795Z</updated>
-        <content type="html"><![CDATA[2024-07-18(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <쓰릴 미> 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14600&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14600&amp;order=1"/>
-        <updated>2024-07-11T05:15:48.166Z</updated>
-        <content type="html"><![CDATA[2024-07-18(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메가 디제이 페스티벌(MEGA DJ FESTIVAL) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14599&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14599&amp;order=1"/>
-        <updated>2024-07-11T01:08:57.667Z</updated>
-        <content type="html"><![CDATA[2024-07-12(금) 14:00]]></content>
     </entry>
 </feed>
