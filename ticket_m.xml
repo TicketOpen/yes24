@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-12T01:08:54.011Z</updated>
+    <updated>2024-07-12T02:33:43.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[인천] 2024 라이브가족뮤지컬〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14606&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14606&amp;order=1"/>
+        <updated>2024-07-12T02:32:53.782Z</updated>
+        <content type="html"><![CDATA[2024-07-16(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 28회 부산바다축제 선셋요가 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14605&amp;order=1</id>
@@ -25,6 +32,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14603&amp;order=1"/>
         <updated>2024-07-12T01:07:54.252Z</updated>
         <content type="html"><![CDATA[2024-07-18(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울 앵콜] 뮤지컬 <친구의 전설> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14601&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14601&amp;order=1"/>
+        <updated>2024-07-12T02:32:53.795Z</updated>
+        <content type="html"><![CDATA[2024-07-18(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <쓰릴 미> 1차 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14596&amp;order=1"/>
         <updated>2024-07-10T01:09:10.525Z</updated>
         <content type="html"><![CDATA[2024-07-18(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈살리에르〉 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14595&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14595&amp;order=1"/>
-        <updated>2024-07-10T02:33:12.634Z</updated>
-        <content type="html"><![CDATA[2024-07-15(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14594&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14594&amp;order=1"/>
-        <updated>2024-07-09T08:18:49.327Z</updated>
-        <content type="html"><![CDATA[2024-07-11(목) 09:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-12T01:08:54.024Z</updated>
+    <updated>2024-07-12T02:33:43.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[인천] 2024 라이브가족뮤지컬〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14606</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14606"/>
+        <updated>2024-07-12T02:32:44.968Z</updated>
+        <content type="html"><![CDATA[2024.07.16(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매제 28회 부산바다축제 선셋요가 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14605</id>
@@ -20,11 +27,18 @@
         <content type="html"><![CDATA[2024.07.16(화) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단독판매JORJA SMITH LIVE IN SEOUL - FALLING OR FLYING TOUR 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[JORJA SMITH LIVE IN SEOUL - FALLING OR FLYING TOUR 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14603</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14603"/>
         <updated>2024-07-12T01:07:45.393Z</updated>
         <content type="html"><![CDATA[2024.07.18(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울 앵콜] 뮤지컬 <친구의 전설> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14601</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14601"/>
+        <updated>2024-07-12T02:32:44.977Z</updated>
+        <content type="html"><![CDATA[2024.07.18(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <쓰릴 미> 1차 티켓오픈 안내]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14586"/>
         <updated>2024-07-08T05:17:04.414Z</updated>
         <content type="html"><![CDATA[2024.07.11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 하데스타운 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14585</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14585"/>
-        <updated>2024-07-08T05:17:04.417Z</updated>
-        <content type="html"><![CDATA[2024.07.17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매위하준 2024 팬미팅 투어 〈A Wively Day〉 in 서울 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14584</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14584"/>
-        <updated>2024-07-05T11:13:09.010Z</updated>
-        <content type="html"><![CDATA[2024.07.12(금) 20:00]]></content>
     </entry>
 </feed>
