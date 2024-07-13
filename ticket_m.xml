@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-13T06:21:29.004Z</updated>
+    <updated>2024-07-13T07:15:04.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[메타코미디 “Stand-up Assemble Comedy 24′TOUR” 공연 취소 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14613&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14613&amp;order=1"/>
+        <updated>2024-07-13T07:14:20.785Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Novelbright Live Tour 2024 Circus in Seoul 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14612&amp;order=1</id>
@@ -67,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14604&amp;order=1"/>
         <updated>2024-07-12T01:07:54.248Z</updated>
         <content type="html"><![CDATA[2024-07-16(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JORJA SMITH LIVE IN SEOUL - FALLING OR FLYING TOUR 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14603&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14603&amp;order=1"/>
-        <updated>2024-07-12T01:07:54.252Z</updated>
-        <content type="html"><![CDATA[2024-07-18(목) 12:00]]></content>
     </entry>
 </feed>
