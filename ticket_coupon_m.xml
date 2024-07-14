@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2024-07-14T14:21:21.023Z</updated>
+    <updated>2024-07-14T15:24:06.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -18,19 +18,5 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056"/>
         <updated>2024-03-30T21:12:16.856Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 살리에르] 개막 기념 3,000원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48184</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48184"/>
-        <updated>2024-07-11T05:16:43.349Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연극 MY DEAR ANGER] 2,000원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48185</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48185"/>
-        <updated>2024-07-11T05:16:43.350Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 2,000원]]></content>
     </entry>
 </feed>

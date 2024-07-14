@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jul 2024 14:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jul 2024 15:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,29 +216,6 @@
             <content:encoded><![CDATA[2024-07-16(화) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [이블데드] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/49544</link>
-            <guid>http://ticket.yes24.com/Perf/49544</guid>
-            <pubDate>Mon, 08 Jul 2024 02:34:09 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>빨강석								</td>								<td class="price">									88,000원								</td>								<td class="dc_price">									<em>→</em>54,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240708/20240708-49544.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 이블데드 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/49544</link>
-            <guid>http://m.ticket.yes24.com/Perf/49544</guid>
-            <pubDate>Mon, 08 Jul 2024 02:34:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 이블데드
-
-
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">35</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">22,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">11,900원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">7월 9일(화)~7월 28일(일) 공연(1인 4매) (일부 좌석 제외)
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240708/20240708-49544.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <빨간기타> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50034&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50034&amp;Tab=2</guid>
@@ -279,14 +256,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240617/20240617-41277901-8009-417e-8b24-3fd021e9ab2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49904&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49904&amp;Tab=3</guid>
-            <pubDate>Tue, 18 Jun 2024 12:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.04 ~ 2024.07.14 | 2024.07.16 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240607/20240607-41ad73b7-2034-4f0d-8fbc-f7270cde1be8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[청년문화예술패스 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</guid>
@@ -307,6 +276,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Wed, 10 Jul 2024 15:18:13 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Sun, 14 Jul 2024 15:23:46 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.07.10 ~ 2024.07.21 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -349,14 +325,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240617/20240617-41277901-8009-417e-8b24-3fd021e9ab2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이벤트 기간2024.06.04 ~ 2024.07.14 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=49904</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=49904</guid>
-            <pubDate>Fri, 07 Jun 2024 21:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;조선 이야기꾼 전기수&gt; 7월 28일(일) 3시]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240607/20240607-41ad73b7-2034-4f0d-8fbc-f7270cde1be8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이벤트 기간2024.04.01 ~ 2024.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3570</link>
             <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3570</guid>
@@ -389,20 +357,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[연극 MY DEAR ANGER] 2,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.07.11 ~ 2024.07.14</dd><dt>사용기간</dt><dd>2024.07.11 ~ 2024.07.14</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 살리에르] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.07.11 ~ 2024.07.14</dd><dt>사용기간</dt><dd>2024.07.11 ~ 2024.07.14</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -429,20 +383,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</guid>
             <pubDate>Sun, 07 Apr 2024 17:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 살리에르] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48184</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48184</guid>
-            <pubDate>Thu, 11 Jul 2024 05:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[연극 MY DEAR ANGER] 2,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48185</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48185</guid>
-            <pubDate>Thu, 11 Jul 2024 05:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 2,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
