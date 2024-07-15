@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-15T08:21:05.950Z</updated>
+    <updated>2024-07-15T09:18:30.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정경화 & 임동혁 듀오 리사이틀 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14619&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14619&amp;order=1"/>
+        <updated>2024-07-15T09:17:40.000Z</updated>
+        <content type="html"><![CDATA[2024-07-16(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14618&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14610&amp;order=1"/>
         <updated>2024-07-12T09:18:07.411Z</updated>
         <content type="html"><![CDATA[2024-07-16(화) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soundberry Festa’ 24 - 부산 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14609&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14609&amp;order=1"/>
-        <updated>2024-07-12T09:18:07.412Z</updated>
-        <content type="html"><![CDATA[2024-07-16(화) 18:00]]></content>
     </entry>
 </feed>

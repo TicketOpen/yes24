@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-15T08:21:06.025Z</updated>
+    <updated>2024-07-15T09:18:30.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정경화 & 임동혁 듀오 리사이틀 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14619</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14619"/>
+        <updated>2024-07-15T09:17:31.199Z</updated>
+        <content type="html"><![CDATA[2024.07.16(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14618</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14600"/>
         <updated>2024-07-11T05:15:38.471Z</updated>
         <content type="html"><![CDATA[2024.07.18(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메가 디제이 페스티벌(MEGA DJ FESTIVAL) 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14599</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14599"/>
-        <updated>2024-07-11T01:08:48.556Z</updated>
-        <content type="html"><![CDATA[2024.07.12(금) 14:00]]></content>
     </entry>
 </feed>
