@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-16T06:22:59.517Z</updated>
+    <updated>2024-07-16T07:17:01.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14624</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14624"/>
+        <updated>2024-07-16T07:16:01.726Z</updated>
+        <content type="html"><![CDATA[2024.07.17(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매n.SSign(엔싸인) 1주년 팬미팅 Happy 1st Anniversary Fan meeting in Seoul ‘1＆SSign’ 티켓 ..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14621</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14602"/>
         <updated>2024-07-12T05:14:52.489Z</updated>
         <content type="html"><![CDATA[2024.07.17(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울 1차 오픈] 뮤지컬 <친구의 전설> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14601</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14601"/>
-        <updated>2024-07-12T02:32:44.977Z</updated>
-        <content type="html"><![CDATA[2024.07.18(목) 11:00]]></content>
     </entry>
 </feed>
