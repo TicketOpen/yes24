@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-16T08:21:36.804Z</updated>
+    <updated>2024-07-16T09:18:30.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14624&amp;order=1"/>
         <updated>2024-07-16T07:16:10.296Z</updated>
         <content type="html"><![CDATA[2024-07-17(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have A Nice Day ＃10 - CHUNCHEON 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14623&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14623&amp;order=1"/>
+        <updated>2024-07-16T09:17:41.867Z</updated>
+        <content type="html"><![CDATA[2024-07-23(화) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신인류 단독 콘서트 [푸른 열대] - 서울 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14622&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14622&amp;order=1"/>
+        <updated>2024-07-16T09:17:41.867Z</updated>
+        <content type="html"><![CDATA[2024-07-24(수) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[n.SSign(엔싸인) 1주년 팬미팅 Happy 1st Anniversary Fan meeting in Seoul ‘1＆SSign’ 티켓 오픈 안내]]></title>
@@ -60,18 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14614&amp;order=1"/>
         <updated>2024-07-15T01:10:27.110Z</updated>
         <content type="html"><![CDATA[2024-08-16(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타코미디 “Stand-up Assemble Comedy 24′TOUR” 공연 취소 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14613&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14613&amp;order=1"/>
-        <updated>2024-07-13T07:14:20.785Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novelbright Live Tour 2024 Circus in Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14612&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14612&amp;order=1"/>
-        <updated>2024-07-12T11:13:27.892Z</updated>
-        <content type="html"><![CDATA[2024-07-15(월) 18:00]]></content>
     </entry>
 </feed>

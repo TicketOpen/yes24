@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-16T08:21:36.812Z</updated>
+    <updated>2024-07-16T09:18:30.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14624"/>
         <updated>2024-07-16T07:16:01.726Z</updated>
         <content type="html"><![CDATA[2024.07.17(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매Have A Nice Day ＃10 - CHUNCHEON 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14623</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14623"/>
+        <updated>2024-07-16T09:17:33.008Z</updated>
+        <content type="html"><![CDATA[2024.07.23(화) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매신인류 단독 콘서트 [푸른 열대] - 서울 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14622</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14622"/>
+        <updated>2024-07-16T09:17:33.011Z</updated>
+        <content type="html"><![CDATA[2024.07.24(수) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매n.SSign(엔싸인) 1주년 팬미팅 Happy 1st Anniversary Fan meeting in Seoul ‘1＆SSign’ 티켓 ..]]></title>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14604"/>
         <updated>2024-07-12T01:07:45.392Z</updated>
         <content type="html"><![CDATA[2024.07.16(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JORJA SMITH LIVE IN SEOUL - FALLING OR FLYING TOUR 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14603</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14603"/>
-        <updated>2024-07-12T01:07:45.393Z</updated>
-        <content type="html"><![CDATA[2024.07.18(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14602</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14602"/>
-        <updated>2024-07-12T05:14:52.489Z</updated>
-        <content type="html"><![CDATA[2024.07.17(수) 11:00]]></content>
     </entry>
 </feed>
