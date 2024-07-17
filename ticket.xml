@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-17T06:23:04.797Z</updated>
+    <updated>2024-07-17T07:17:06.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 제16회 울산 태화강대숲납량축제 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14628</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14628"/>
+        <updated>2024-07-17T07:16:06.451Z</updated>
+        <content type="html"><![CDATA[2024.07.25(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 B-day PARTY - XIAOJUN [SING TO YOU] 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14627</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14608"/>
         <updated>2024-07-12T05:14:52.477Z</updated>
         <content type="html"><![CDATA[2024.07.15(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 부산국제록페스티벌 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14607</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14607"/>
-        <updated>2024-07-12T05:14:52.479Z</updated>
-        <content type="html"><![CDATA[2024.07.12(금) 16:00]]></content>
     </entry>
 </feed>
