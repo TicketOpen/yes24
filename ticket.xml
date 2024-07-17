@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-17T02:34:54.168Z</updated>
+    <updated>2024-07-17T03:19:24.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NARICISSISM - JAEMIN 1st PHOTO EXHIBITION GLOBAL 연장 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14626</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14626"/>
+        <updated>2024-07-17T03:18:25.363Z</updated>
+        <content type="html"><![CDATA[2024.07.17(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(부천)- 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14625</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14625"/>
+        <updated>2024-07-17T03:18:25.365Z</updated>
+        <content type="html"><![CDATA[2024.07.18(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안양] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14624</id>
@@ -128,20 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14606</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14606"/>
         <updated>2024-07-12T02:32:44.968Z</updated>
-        <content type="html"><![CDATA[2024.07.16(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매제 28회 부산바다축제 선셋요가 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14605</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14605"/>
-        <updated>2024-07-12T01:07:45.387Z</updated>
-        <content type="html"><![CDATA[2024.07.15(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬〈미녀와야수〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14604</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14604"/>
-        <updated>2024-07-12T01:07:45.392Z</updated>
         <content type="html"><![CDATA[2024.07.16(화) 09:00]]></content>
     </entry>
 </feed>

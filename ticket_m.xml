@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-17T02:34:54.155Z</updated>
+    <updated>2024-07-17T03:19:24.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NARICISSISM - JAEMIN 1st PHOTO EXHIBITION GLOBAL 연장 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14626&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14626&amp;order=1"/>
+        <updated>2024-07-17T03:18:34.585Z</updated>
+        <content type="html"><![CDATA[2024-07-17(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(부천)- 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14625&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14625&amp;order=1"/>
+        <updated>2024-07-17T03:18:34.587Z</updated>
+        <content type="html"><![CDATA[2024-07-18(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안양] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14624&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14616&amp;order=1"/>
         <updated>2024-07-15T05:15:28.766Z</updated>
         <content type="html"><![CDATA[2024-07-17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉 프리뷰 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14615&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14615&amp;order=1"/>
-        <updated>2024-07-15T01:10:27.110Z</updated>
-        <content type="html"><![CDATA[2024-07-23(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오페라 <어게인 2024 투란도트> 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14614&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14614&amp;order=1"/>
-        <updated>2024-07-15T01:10:27.110Z</updated>
-        <content type="html"><![CDATA[2024-08-16(금) 10:00]]></content>
     </entry>
 </feed>
