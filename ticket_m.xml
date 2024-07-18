@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-18T07:16:00.625Z</updated>
+    <updated>2024-07-18T08:20:24.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 연극 〈 여보 나도 할 말 있어〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14634&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14634&amp;order=1"/>
+        <updated>2024-07-18T08:19:40.214Z</updated>
+        <content type="html"><![CDATA[2024-07-19(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 클럽디 오아시스 풀파티 (엘시티 워터파크) 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14633&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14633&amp;order=1"/>
+        <updated>2024-07-18T08:19:40.216Z</updated>
+        <content type="html"><![CDATA[2024-07-22(월) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[noa 1st Live in Korea 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14632&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14625&amp;order=1"/>
         <updated>2024-07-17T03:18:34.587Z</updated>
         <content type="html"><![CDATA[2024-07-18(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14624&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14624&amp;order=1"/>
-        <updated>2024-07-16T07:16:10.296Z</updated>
-        <content type="html"><![CDATA[2024-07-17(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have A Nice Day ＃10 - CHUNCHEON 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14623&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14623&amp;order=1"/>
-        <updated>2024-07-16T09:17:41.867Z</updated>
-        <content type="html"><![CDATA[2024-07-23(화) 18:00]]></content>
     </entry>
 </feed>
