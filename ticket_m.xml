@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-18T04:20:03.218Z</updated>
+    <updated>2024-07-18T05:16:40.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[베어 더 뮤지컬 （bare the musical） 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14631&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14631&amp;order=1"/>
+        <updated>2024-07-18T05:15:48.982Z</updated>
+        <content type="html"><![CDATA[2024-07-25(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차이코프스키를 위하여 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14630&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14622&amp;order=1"/>
         <updated>2024-07-16T09:17:41.867Z</updated>
         <content type="html"><![CDATA[2024-07-24(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) 1주년 팬미팅 Happy 1st Anniversary Fan meeting in Seoul ‘1＆SSign’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14621&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14621&amp;order=1"/>
-        <updated>2024-07-16T05:15:05.888Z</updated>
-        <content type="html"><![CDATA[2024-07-22(월) 20:00]]></content>
     </entry>
 </feed>
