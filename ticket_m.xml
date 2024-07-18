@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-18T08:20:24.260Z</updated>
+    <updated>2024-07-18T09:17:30.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2024 〈어린이마술쇼〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14635&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14635&amp;order=1"/>
+        <updated>2024-07-18T09:16:49.184Z</updated>
+        <content type="html"><![CDATA[2024-07-22(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 연극 〈 여보 나도 할 말 있어〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14634&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14626&amp;order=1"/>
         <updated>2024-07-17T03:18:34.585Z</updated>
         <content type="html"><![CDATA[2024-07-17(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(부천)- 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14625&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14625&amp;order=1"/>
-        <updated>2024-07-17T03:18:34.587Z</updated>
-        <content type="html"><![CDATA[2024-07-18(목) 14:00]]></content>
     </entry>
 </feed>
