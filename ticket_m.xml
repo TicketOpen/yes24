@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-19T05:17:23.579Z</updated>
+    <updated>2024-07-19T06:22:36.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈에밀〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14639&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14639&amp;order=1"/>
+        <updated>2024-07-19T06:21:53.962Z</updated>
+        <content type="html"><![CDATA[2024-07-26(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이블데드] 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14638&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14630&amp;order=1"/>
         <updated>2024-07-17T09:19:05.194Z</updated>
         <content type="html"><![CDATA[2024-07-18(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니버설발레단 〈라 바야데르〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14629&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14629&amp;order=1"/>
-        <updated>2024-07-17T09:19:05.194Z</updated>
-        <content type="html"><![CDATA[2024-07-18(목) 15:00]]></content>
     </entry>
 </feed>

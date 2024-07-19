@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 05:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 06:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈에밀〉 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14639</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14639</guid>
+            <pubDate>Fri, 19 Jul 2024 06:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.26(금) 10:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 [이블데드] 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14638</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2024.07.18(목) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[청주] 2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14618</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14618</guid>
-            <pubDate>Mon, 15 Jul 2024 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.16(화) 09:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈에밀〉 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14639&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14639&amp;order=1</guid>
+            <pubDate>Fri, 19 Jul 2024 06:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024-07-26(금) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [이블데드] 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -209,13 +216,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14630&amp;order=1</guid>
             <pubDate>Wed, 17 Jul 2024 09:19:05 GMT</pubDate>
             <content:encoded><![CDATA[2024-07-18(목) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유니버설발레단 〈라 바야데르〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14629&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14629&amp;order=1</guid>
-            <pubDate>Wed, 17 Jul 2024 09:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-18(목) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 뮤지컬 [디어 에반 핸슨] （Dear Evan Hansen (YES24 티켓 ─ 엔젤티켓)]]></title>
