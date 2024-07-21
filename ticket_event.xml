@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jul 2024 14:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jul 2024 15:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240715/20240715-8a799b64-6d79-4a7b-94af-2cec60c90884.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <빨간기타> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50034&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50034&amp;Tab=2</guid>
-            <pubDate>Wed, 10 Jul 2024 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.10 ~ 2024.07.21 | 2024.07.24 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240710/20240710-3d96714e-8c27-4e98-b268-5ee812dc9ea9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49795&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49795&amp;Tab=2</guid>
@@ -64,20 +56,26 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240618/20240618-7c0e607d-2666-4ccc-b4ce-17d1234f85d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬<클럽 드바이> 관람평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49632&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49632&amp;Tab=2</guid>
-            <pubDate>Tue, 18 Jun 2024 12:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.14 ~ 2024.07.21 | 2024.07.23 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202406/20240617/20240617-41277901-8009-417e-8b24-3fd021e9ab2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[청년문화예술패스]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</guid>
             <pubDate>Sun, 30 Jun 2024 15:16:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-7b5b3310-d30a-44ae-b458-24ff1dc948ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Sun, 21 Jul 2024 15:17:10 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 21 Jul 2024 15:17:10 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
