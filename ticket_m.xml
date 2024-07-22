@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-22T05:17:32.044Z</updated>
+    <updated>2024-07-22T06:23:21.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 송건희 첫 번째 팬미팅 [First Page] in SEOUL 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14645&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14645&amp;order=1"/>
+        <updated>2024-07-22T06:22:31.872Z</updated>
+        <content type="html"><![CDATA[2024-07-23(화) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 이찬원 콘서트 ‘ 찬가（燦歌）’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14644&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14636&amp;order=1"/>
         <updated>2024-07-19T03:19:57.712Z</updated>
         <content type="html"><![CDATA[2024-07-23(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 〈어린이마술쇼〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14635&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14635&amp;order=1"/>
-        <updated>2024-07-18T09:16:49.184Z</updated>
-        <content type="html"><![CDATA[2024-07-22(월) 09:00]]></content>
     </entry>
 </feed>
