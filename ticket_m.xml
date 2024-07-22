@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-22T02:37:40.039Z</updated>
+    <updated>2024-07-22T03:19:41.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나상현씨밴드 클럽투어 ‘여름빛 2024’ - 앵콜 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14643&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14643&amp;order=1"/>
+        <updated>2024-07-22T03:18:54.527Z</updated>
+        <content type="html"><![CDATA[2024-07-26(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 아트 포레스트 페스티벌 ART FOR;REST FESTIVAL 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14642&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14634&amp;order=1"/>
         <updated>2024-07-18T08:19:40.214Z</updated>
         <content type="html"><![CDATA[2024-07-19(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 클럽디 오아시스 풀파티 (엘시티 워터파크) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14633&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14633&amp;order=1"/>
-        <updated>2024-07-18T08:19:40.216Z</updated>
-        <content type="html"><![CDATA[2024-07-22(월) 16:00]]></content>
     </entry>
 </feed>
