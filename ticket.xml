@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-21T23:16:39.532Z</updated>
+    <updated>2024-07-22T01:11:57.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 아트 포레스트 페스티벌 ART FOR;REST FESTIVAL 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14642</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14642"/>
+        <updated>2024-07-22T01:11:08.672Z</updated>
+        <content type="html"><![CDATA[2024.07.23(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원(진해)] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14641</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14623"/>
         <updated>2024-07-16T09:17:33.008Z</updated>
         <content type="html"><![CDATA[2024.07.23(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매신인류 단독 콘서트 [푸른 열대] - 서울 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14622</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14622"/>
-        <updated>2024-07-16T09:17:33.011Z</updated>
-        <content type="html"><![CDATA[2024.07.24(수) 20:00]]></content>
     </entry>
 </feed>
