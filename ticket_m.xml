@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-22T04:19:55.846Z</updated>
+    <updated>2024-07-22T05:17:32.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 이찬원 콘서트 ‘ 찬가（燦歌）’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14644&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14644&amp;order=1"/>
+        <updated>2024-07-22T05:16:50.544Z</updated>
+        <content type="html"><![CDATA[2024-07-25(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나상현씨밴드 클럽투어 ‘여름빛 2024’ - 앵콜 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14643&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14635&amp;order=1"/>
         <updated>2024-07-18T09:16:49.184Z</updated>
         <content type="html"><![CDATA[2024-07-22(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 연극 〈 여보 나도 할 말 있어〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14634&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14634&amp;order=1"/>
-        <updated>2024-07-18T08:19:40.214Z</updated>
-        <content type="html"><![CDATA[2024-07-19(금) 14:00]]></content>
     </entry>
 </feed>
