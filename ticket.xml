@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-23T04:19:26.408Z</updated>
+    <updated>2024-07-23T05:17:34.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[드보르자크 서거 120주년 협연자 및 프로그램 변경 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14653</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14653"/>
+        <updated>2024-07-23T05:16:44.832Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마포] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14652</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14652"/>
+        <updated>2024-07-23T05:16:44.834Z</updated>
+        <content type="html"><![CDATA[2024.07.25(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 4차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14651</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14651"/>
+        <updated>2024-07-23T05:16:44.840Z</updated>
+        <content type="html"><![CDATA[2024.07.26(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이시 댄스 in 부산 사운드 베케이션｜DASHI DANCE in 2024 BUSAN SOUND VACATION 티켓 오픈 안..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14650</id>
@@ -123,26 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14634"/>
         <updated>2024-07-18T08:19:33.174Z</updated>
         <content type="html"><![CDATA[2024.07.19(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 클럽디 오아시스 풀파티 (엘시티 워터파크) 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14633</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14633"/>
-        <updated>2024-07-18T08:19:33.174Z</updated>
-        <content type="html"><![CDATA[2024.07.22(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매noa 1st Live in Korea 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14632</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14632"/>
-        <updated>2024-07-18T07:14:57.387Z</updated>
-        <content type="html"><![CDATA[2024.07.24(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베어 더 뮤지컬 （bare the musical） 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14631</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14631"/>
-        <updated>2024-07-18T05:15:40.001Z</updated>
-        <content type="html"><![CDATA[2024.07.25(목) 11:00]]></content>
     </entry>
 </feed>

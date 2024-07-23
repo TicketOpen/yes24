@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-23T04:19:26.410Z</updated>
+    <updated>2024-07-23T05:17:34.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[드보르자크 서거 120주년 협연자 및 프로그램 변경 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14653&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14653&amp;order=1"/>
+        <updated>2024-07-23T05:16:52.002Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마포] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14652&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14652&amp;order=1"/>
+        <updated>2024-07-23T05:16:52.002Z</updated>
+        <content type="html"><![CDATA[2024-07-25(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14651&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14651&amp;order=1"/>
+        <updated>2024-07-23T05:16:52.004Z</updated>
+        <content type="html"><![CDATA[2024-07-26(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이시 댄스 in 부산 사운드 베케이션｜DASHI DANCE in 2024 BUSAN SOUND VACATION 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14650&amp;order=1</id>
@@ -53,26 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14644&amp;order=1"/>
         <updated>2024-07-22T05:16:50.544Z</updated>
         <content type="html"><![CDATA[2024-07-25(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나상현씨밴드 클럽투어 ‘여름빛 2024’ - 앵콜 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14643&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14643&amp;order=1"/>
-        <updated>2024-07-22T03:18:54.527Z</updated>
-        <content type="html"><![CDATA[2024-07-26(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 아트 포레스트 페스티벌 ART FOR;REST FESTIVAL 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14642&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14642&amp;order=1"/>
-        <updated>2024-07-22T01:11:16.116Z</updated>
-        <content type="html"><![CDATA[2024-07-23(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원(진해)] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14641&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14641&amp;order=1"/>
-        <updated>2024-07-19T09:17:11.245Z</updated>
-        <content type="html"><![CDATA[2024-07-22(월) 09:00]]></content>
     </entry>
 </feed>
