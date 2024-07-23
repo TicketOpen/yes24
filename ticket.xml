@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-23T01:10:12.531Z</updated>
+    <updated>2024-07-23T02:34:59.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BUSAN SOUND VACATION｜부산 사운드 베케이션 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14650</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14650"/>
+        <updated>2024-07-23T02:34:08.267Z</updated>
+        <content type="html"><![CDATA[2024.07.25(목) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원(진해)] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14649</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14631"/>
         <updated>2024-07-18T05:15:40.001Z</updated>
         <content type="html"><![CDATA[2024.07.25(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차이코프스키를 위하여 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14630</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14630"/>
-        <updated>2024-07-17T09:18:55.953Z</updated>
-        <content type="html"><![CDATA[2024.07.18(목) 11:00]]></content>
     </entry>
 </feed>
