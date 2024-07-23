@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-22T23:16:41.643Z</updated>
+    <updated>2024-07-23T01:10:12.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원(진해)] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14649</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14649"/>
+        <updated>2024-07-23T01:09:13.874Z</updated>
+        <content type="html"><![CDATA[2024.07.24(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브가족뮤지컬 [프린세스공주] - 인천 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14648</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14648"/>
+        <updated>2024-07-23T01:09:13.875Z</updated>
+        <content type="html"><![CDATA[2024.07.25(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 2024 라이브가족뮤지컬 〈미녀와야수〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14647</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14630"/>
         <updated>2024-07-17T09:18:55.953Z</updated>
         <content type="html"><![CDATA[2024.07.18(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니버설발레단 〈라 바야데르〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14629</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14629"/>
-        <updated>2024-07-17T09:18:55.954Z</updated>
-        <content type="html"><![CDATA[2024.07.18(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024년 제16회 울산 태화강대숲납량축제 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14628</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14628"/>
-        <updated>2024-07-17T07:16:06.451Z</updated>
-        <content type="html"><![CDATA[2024.07.25(목) 11:00]]></content>
     </entry>
 </feed>
