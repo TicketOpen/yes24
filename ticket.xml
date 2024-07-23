@@ -2,14 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-23T06:23:02.325Z</updated>
+    <updated>2024-07-23T07:15:39.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[드보르자크 서거 120주년 협연자 및 프로그램 변경 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14653</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14653"/>
-        <updated>2024-07-23T05:16:44.832Z</updated>
+        <title type="html"><![CDATA[[대전] 2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14657</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14657"/>
+        <updated>2024-07-23T07:14:50.643Z</updated>
+        <content type="html"><![CDATA[2024.07.26(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원(진해)] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14656</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14656"/>
+        <updated>2024-07-23T07:14:50.643Z</updated>
+        <content type="html"><![CDATA[2024.07.26(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마포] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
@@ -136,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14635"/>
         <updated>2024-07-18T09:16:41.790Z</updated>
         <content type="html"><![CDATA[2024.07.22(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 연극 〈 여보 나도 할 말 있어〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14634</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14634"/>
-        <updated>2024-07-18T08:19:33.174Z</updated>
-        <content type="html"><![CDATA[2024.07.19(금) 14:00]]></content>
     </entry>
 </feed>
