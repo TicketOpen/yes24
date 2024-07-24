@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-24T06:23:08.509Z</updated>
+    <updated>2024-07-24T07:16:03.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬〈프린세스공주〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14661</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14661"/>
+        <updated>2024-07-24T07:14:57.985Z</updated>
+        <content type="html"><![CDATA[2024.07.25(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[순천] 가족매직쇼<구구쌤의 매직쑈라구> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14660</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14641"/>
         <updated>2024-07-19T09:17:04.009Z</updated>
         <content type="html"><![CDATA[2024.07.22(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2 3차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14640</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14640"/>
-        <updated>2024-07-19T08:19:11.718Z</updated>
-        <content type="html"><![CDATA[2024.07.26(금) 14:00]]></content>
     </entry>
 </feed>

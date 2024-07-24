@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-24T06:23:08.514Z</updated>
+    <updated>2024-07-24T07:16:03.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬〈프린세스공주〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14661&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14661&amp;order=1"/>
+        <updated>2024-07-24T07:15:07.740Z</updated>
+        <content type="html"><![CDATA[2024-07-25(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[순천] 가족매직쇼<구구쌤의 매직쑈라구> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14660&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14651&amp;order=1"/>
         <updated>2024-07-23T05:16:52.004Z</updated>
         <content type="html"><![CDATA[2024-07-26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이시 댄스 in 부산 사운드 베케이션｜DASHI DANCE in 2024 BUSAN SOUND VACATION 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14650&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14650&amp;order=1"/>
-        <updated>2024-07-23T02:34:16.308Z</updated>
-        <content type="html"><![CDATA[2024-07-26(금) 13:00]]></content>
     </entry>
 </feed>
