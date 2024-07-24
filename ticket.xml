@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-24T04:18:56.829Z</updated>
+    <updated>2024-07-24T05:16:26.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[순천] 가족매직쇼<구구쌤의 매직쑈라구> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14660</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14660"/>
+        <updated>2024-07-24T05:15:26.845Z</updated>
+        <content type="html"><![CDATA[2024.07.30(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매제1249회 서초금요음악회 [가족오페라 - 마님이 된 하녀] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14659</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14640"/>
         <updated>2024-07-19T08:19:11.718Z</updated>
         <content type="html"><![CDATA[2024.07.26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈에밀〉 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14639</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14639"/>
-        <updated>2024-07-19T06:21:46.904Z</updated>
-        <content type="html"><![CDATA[2024.07.26(금) 10:00]]></content>
     </entry>
 </feed>
