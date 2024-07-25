@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-25T01:09:55.673Z</updated>
+    <updated>2024-07-25T02:35:11.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[토요 특별기획공연 [여름방학] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14663&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14663&amp;order=1"/>
+        <updated>2024-07-25T02:34:18.610Z</updated>
+        <content type="html"><![CDATA[2024-07-29(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬〈프린세스공주〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14661&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14652&amp;order=1"/>
         <updated>2024-07-23T05:16:52.002Z</updated>
         <content type="html"><![CDATA[2024-07-25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14651&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14651&amp;order=1"/>
-        <updated>2024-07-23T05:16:52.004Z</updated>
-        <content type="html"><![CDATA[2024-07-26(금) 14:00]]></content>
     </entry>
 </feed>
