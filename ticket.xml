@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-25T09:18:55.545Z</updated>
+    <updated>2024-07-25T10:17:56.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14667</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14667"/>
+        <updated>2024-07-25T10:17:00.400Z</updated>
+        <content type="html"><![CDATA[2024.07.26(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14666</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14647</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14647"/>
         <updated>2024-07-22T09:19:59.631Z</updated>
-        <content type="html"><![CDATA[2024.07.23(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2024 가족뮤지컬 로보카폴리〈잡아라! 황금트로피!〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14646</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14646"/>
-        <updated>2024-07-22T08:20:46.013Z</updated>
         <content type="html"><![CDATA[2024.07.23(화) 09:00]]></content>
     </entry>
 </feed>
