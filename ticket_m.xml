@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-25T04:20:13.422Z</updated>
+    <updated>2024-07-25T05:17:04.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14663&amp;order=1"/>
         <updated>2024-07-25T02:34:18.610Z</updated>
         <content type="html"><![CDATA[2024-07-29(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[군포] 가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14662&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14662&amp;order=1"/>
+        <updated>2024-07-25T05:16:22.586Z</updated>
+        <content type="html"><![CDATA[2024-07-30(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬〈프린세스공주〉 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14654&amp;order=1"/>
         <updated>2024-07-24T03:18:18.205Z</updated>
         <content type="html"><![CDATA[2024-08-07(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마포] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14652&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14652&amp;order=1"/>
-        <updated>2024-07-23T05:16:52.002Z</updated>
-        <content type="html"><![CDATA[2024-07-25(목) 14:00]]></content>
     </entry>
 </feed>
