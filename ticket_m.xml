@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-26T06:23:25.492Z</updated>
+    <updated>2024-07-26T07:15:52.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제1251회 서초금요음악회 [Summer Night] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14671&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14671&amp;order=1"/>
+        <updated>2024-07-26T07:14:56.501Z</updated>
+        <content type="html"><![CDATA[2024-08-02(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬〈라푼젤〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14670&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14670&amp;order=1"/>
+        <updated>2024-07-26T07:14:56.502Z</updated>
+        <content type="html"><![CDATA[2024-07-29(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬〈벌거벗은임금님〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14669&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14662&amp;order=1"/>
         <updated>2024-07-25T05:16:22.586Z</updated>
         <content type="html"><![CDATA[2024-07-30(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬〈프린세스공주〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14661&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14661&amp;order=1"/>
-        <updated>2024-07-24T07:15:07.740Z</updated>
-        <content type="html"><![CDATA[2024-07-25(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[순천] 가족매직쇼<구구쌤의 매직쑈라구> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14660&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14660&amp;order=1"/>
-        <updated>2024-07-24T05:15:35.906Z</updated>
-        <content type="html"><![CDATA[2024-07-30(화) 14:00]]></content>
     </entry>
 </feed>
