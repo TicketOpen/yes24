@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-26T08:20:32.600Z</updated>
+    <updated>2024-07-26T09:17:26.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 김종현 팬미팅 [ANDING] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14672</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14672"/>
+        <updated>2024-07-26T09:16:26.825Z</updated>
+        <content type="html"><![CDATA[2024.08.02(금) 19:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.07.31(수) 19:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매제1251회 서초금요음악회 [Summer Night] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14671</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14652"/>
         <updated>2024-07-23T05:16:44.834Z</updated>
         <content type="html"><![CDATA[2024.07.25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 4차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14651</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14651"/>
-        <updated>2024-07-23T05:16:44.840Z</updated>
-        <content type="html"><![CDATA[2024.07.26(금) 14:00]]></content>
     </entry>
 </feed>
