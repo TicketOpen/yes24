@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-26T05:17:03.268Z</updated>
+    <updated>2024-07-26T06:23:25.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬〈벌거벗은임금님〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14669</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14669"/>
+        <updated>2024-07-26T06:22:14.981Z</updated>
+        <content type="html"><![CDATA[2024.07.29(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매marasy Piano Live Asia Tour 2025 Prelive in Seoul 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14668</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14649"/>
         <updated>2024-07-23T01:09:13.874Z</updated>
         <content type="html"><![CDATA[2024.07.24(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브가족뮤지컬 [프린세스공주] - 인천 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14648</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14648"/>
-        <updated>2024-07-23T01:09:13.875Z</updated>
-        <content type="html"><![CDATA[2024.07.25(목) 09:00]]></content>
     </entry>
 </feed>
