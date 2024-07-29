@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-28T23:16:25.732Z</updated>
+    <updated>2024-07-29T01:11:48.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14675</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14675"/>
+        <updated>2024-07-29T01:10:54.145Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14674</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14674"/>
+        <updated>2024-07-29T01:10:54.146Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉 1차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14673</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14673"/>
+        <updated>2024-07-29T01:10:54.147Z</updated>
+        <content type="html"><![CDATA[2024.08.06(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 김종현 팬미팅 [ANDING] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14672</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14656"/>
         <updated>2024-07-23T07:14:50.643Z</updated>
         <content type="html"><![CDATA[2024.07.26(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매백양문화예술회관 개관기념 기획공연 - 음악그룹결 - 부산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14655</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14655"/>
-        <updated>2024-07-24T02:34:26.270Z</updated>
-        <content type="html"><![CDATA[2024.07.25(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14654</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14654"/>
-        <updated>2024-07-24T03:18:07.033Z</updated>
-        <content type="html"><![CDATA[2024.08.07(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.08.05(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마포] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14652</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14652"/>
-        <updated>2024-07-23T05:16:44.834Z</updated>
-        <content type="html"><![CDATA[2024.07.25(목) 14:00]]></content>
     </entry>
 </feed>

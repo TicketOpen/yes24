@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-28T23:16:25.736Z</updated>
+    <updated>2024-07-29T01:11:48.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14675&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14675&amp;order=1"/>
+        <updated>2024-07-29T01:11:02.170Z</updated>
+        <content type="html"><![CDATA[2024-08-01(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14674&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14674&amp;order=1"/>
+        <updated>2024-07-29T01:11:02.170Z</updated>
+        <content type="html"><![CDATA[2024-08-01(목) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉 1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14673&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14673&amp;order=1"/>
+        <updated>2024-07-29T01:11:02.170Z</updated>
+        <content type="html"><![CDATA[2024-08-06(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 김종현 팬미팅 [ANDING] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14672&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14666&amp;order=1"/>
         <updated>2024-07-25T09:18:06.945Z</updated>
         <content type="html"><![CDATA[2024-07-26(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천] 2024 라이브가족뮤지컬〈미녀와야수〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14665&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14665&amp;order=1"/>
-        <updated>2024-07-25T09:18:06.952Z</updated>
-        <content type="html"><![CDATA[2024-07-26(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈사의찬미〉 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14664&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14664&amp;order=1"/>
-        <updated>2024-07-25T06:22:19.204Z</updated>
-        <content type="html"><![CDATA[2024-07-29(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토요 특별기획공연 [여름방학] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14663&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14663&amp;order=1"/>
-        <updated>2024-07-25T02:34:18.610Z</updated>
-        <content type="html"><![CDATA[2024-07-29(월) 09:00]]></content>
     </entry>
 </feed>
