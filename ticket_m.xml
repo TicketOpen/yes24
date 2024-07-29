@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-29T06:23:47.261Z</updated>
+    <updated>2024-07-29T07:16:40.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈알라딘〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14681&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14681&amp;order=1"/>
+        <updated>2024-07-29T07:15:51.760Z</updated>
+        <content type="html"><![CDATA[2024-07-31(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [클럽 드바이] 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14680&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14680&amp;order=1"/>
+        <updated>2024-07-29T07:15:51.761Z</updated>
+        <content type="html"><![CDATA[2024-08-02(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 비어밤 in 해운대 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14679&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14672&amp;order=1"/>
         <updated>2024-07-26T09:16:35.249Z</updated>
         <content type="html"><![CDATA[2024-08-02(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제1251회 서초금요음악회 [Summer Night] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14671&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14671&amp;order=1"/>
-        <updated>2024-07-26T07:14:56.501Z</updated>
-        <content type="html"><![CDATA[2024-08-02(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬〈라푼젤〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14670&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14670&amp;order=1"/>
-        <updated>2024-07-26T07:14:56.502Z</updated>
-        <content type="html"><![CDATA[2024-07-29(월) 09:00]]></content>
     </entry>
 </feed>
