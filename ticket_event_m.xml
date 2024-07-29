@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 01:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 02:37:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 02 Jul 2024 07:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;이블데드&gt; 배우 사인 프로그램북]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240702/20240702-5ce130d7-f7a0-4679-9c1a-845056cf89f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.07.29 ~ 2024.07.31]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3593</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3593</guid>
+            <pubDate>Mon, 29 Jul 2024 02:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240517/20240517-7d3d4893-cedd-4953-9933-bababd702993.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.04.01 ~ 2024.12.31]]></title>

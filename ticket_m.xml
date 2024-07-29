@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-29T01:11:48.931Z</updated>
+    <updated>2024-07-29T02:37:54.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈백설공주〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14677&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14677&amp;order=1"/>
+        <updated>2024-07-29T02:37:02.341Z</updated>
+        <content type="html"><![CDATA[2024-07-30(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈빵야〉 5차(마지막) 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14676&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14676&amp;order=1"/>
+        <updated>2024-07-29T02:37:02.342Z</updated>
+        <content type="html"><![CDATA[2024-08-01(목) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14675&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14668&amp;order=1"/>
         <updated>2024-07-26T01:08:03.381Z</updated>
         <content type="html"><![CDATA[2024-08-02(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14667&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14667&amp;order=1"/>
-        <updated>2024-07-25T10:17:08.498Z</updated>
-        <content type="html"><![CDATA[2024-07-26(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14666&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14666&amp;order=1"/>
-        <updated>2024-07-25T09:18:06.945Z</updated>
-        <content type="html"><![CDATA[2024-07-26(금) 09:00]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 01:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 02:37:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,19 +64,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240702/20240702-5ce130d7-f7a0-4679-9c1a-845056cf89f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이버페이로 예매하면 포인트 적립해드려요!]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</guid>
+            <pubDate>Mon, 29 Jul 2024 02:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.29 ~ 2024.07.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202405/20240517/20240517-7d3d4893-cedd-4953-9933-bababd702993.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[청년문화예술패스]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</guid>
             <pubDate>Sun, 30 Jun 2024 15:16:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-7b5b3310-d30a-44ae-b458-24ff1dc948ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Sun, 28 Jul 2024 15:15:50 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
