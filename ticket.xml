@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-29T05:17:48.429Z</updated>
+    <updated>2024-07-29T06:23:47.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[부산] 비어밤 in 해운대 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14679</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14679"/>
+        <updated>2024-07-29T06:22:57.563Z</updated>
+        <content type="html"><![CDATA[2024.07.24(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[구리] 2024 라이브가족뮤지컬 〈미녀와야수〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14678</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14660"/>
         <updated>2024-07-24T05:15:26.845Z</updated>
         <content type="html"><![CDATA[2024.07.30(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매제1249회 서초금요음악회 [가족오페라 - 마님이 된 하녀] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14659</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14659"/>
-        <updated>2024-07-24T03:18:07.029Z</updated>
-        <content type="html"><![CDATA[2024.07.26(금) 09:00]]></content>
     </entry>
 </feed>

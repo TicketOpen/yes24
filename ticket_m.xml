@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-29T05:17:48.416Z</updated>
+    <updated>2024-07-29T06:23:47.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 비어밤 in 해운대 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14679&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14679&amp;order=1"/>
+        <updated>2024-07-29T06:23:04.539Z</updated>
+        <content type="html"><![CDATA[2024-07-24(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[구리] 2024 라이브가족뮤지컬 〈미녀와야수〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14678&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14670&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14670&amp;order=1"/>
         <updated>2024-07-26T07:14:56.502Z</updated>
-        <content type="html"><![CDATA[2024-07-29(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬〈벌거벗은임금님〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14669&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14669&amp;order=1"/>
-        <updated>2024-07-26T06:22:23.419Z</updated>
         <content type="html"><![CDATA[2024-07-29(월) 09:00]]></content>
     </entry>
 </feed>
