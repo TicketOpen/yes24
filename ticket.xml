@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-29T23:16:14.387Z</updated>
+    <updated>2024-07-30T01:09:56.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매Xdinary Heroes Concert〈Closed ♭eta: v6.3〉추가 좌석 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14688</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14688"/>
+        <updated>2024-07-30T01:08:59.562Z</updated>
+        <content type="html"><![CDATA[2024.07.31(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 베스트셀러뮤지컬〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14687</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14669"/>
         <updated>2024-07-29T12:30:44.756Z</updated>
         <content type="html"><![CDATA[2024.07.29(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매marasy Piano Live Asia Tour 2025 Prelive in Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14668</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14668"/>
-        <updated>2024-07-29T12:30:44.758Z</updated>
-        <content type="html"><![CDATA[2024.08.02(금) 10:00]]></content>
     </entry>
 </feed>
