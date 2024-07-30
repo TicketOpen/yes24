@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-30T01:09:56.098Z</updated>
+    <updated>2024-07-30T02:35:10.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[수원] 2024 라이브 가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14689</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14689"/>
+        <updated>2024-07-30T02:34:11.626Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Xdinary Heroes Concert〈Closed ♭eta: v6.3〉추가 좌석 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14688</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬〈라푼젤〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14670</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14670"/>
-        <updated>2024-07-29T12:30:44.756Z</updated>
-        <content type="html"><![CDATA[2024.07.29(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬〈벌거벗은임금님〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14669</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14669"/>
         <updated>2024-07-29T12:30:44.756Z</updated>
         <content type="html"><![CDATA[2024.07.29(월) 09:00]]></content>
     </entry>
