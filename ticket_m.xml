@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-31T07:14:27.721Z</updated>
+    <updated>2024-07-31T08:19:32.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[임현정 이진우 신청음콘서트 〈너의 멜로디〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14699&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14699&amp;order=1"/>
+        <updated>2024-07-31T08:18:49.590Z</updated>
+        <content type="html"><![CDATA[2024-08-09(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 9월 토요콘서트 - 앰비규어스댄스컴퍼니x추다혜차지스 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14698&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14690&amp;order=1"/>
         <updated>2024-07-30T05:16:46.511Z</updated>
         <content type="html"><![CDATA[2024-08-05(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2024 라이브 가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14689&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14689&amp;order=1"/>
-        <updated>2024-07-30T02:34:20.306Z</updated>
-        <content type="html"><![CDATA[2024-08-01(목) 09:00]]></content>
     </entry>
 </feed>
