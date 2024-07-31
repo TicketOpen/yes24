@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-31T08:19:32.594Z</updated>
+    <updated>2024-07-31T09:18:48.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2024 라이브가족뮤지컬 〈프린세스공주〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14700&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14700&amp;order=1"/>
+        <updated>2024-07-31T09:17:57.233Z</updated>
+        <content type="html"><![CDATA[2024-08-05(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임현정 이진우 신청음콘서트 〈너의 멜로디〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14699&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14691&amp;order=1"/>
         <updated>2024-07-30T05:16:46.511Z</updated>
         <content type="html"><![CDATA[2024-08-01(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <빈센트 반 고흐> 프리뷰 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14690&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14690&amp;order=1"/>
-        <updated>2024-07-30T05:16:46.511Z</updated>
-        <content type="html"><![CDATA[2024-08-05(월) 15:00]]></content>
     </entry>
 </feed>
