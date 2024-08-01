@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-01T08:21:01.864Z</updated>
+    <updated>2024-08-01T09:16:31.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14706&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14706&amp;order=1"/>
+        <updated>2024-08-01T09:15:49.650Z</updated>
+        <content type="html"><![CDATA[2024-08-05(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈일리아드〉 마지막 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14705&amp;order=1</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[창원] 2024 화요모닝콘서트 - 12월 「몽니의 winter blossom」 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14697&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14697&amp;order=1"/>
-        <updated>2024-07-31T05:14:08.832Z</updated>
-        <content type="html"><![CDATA[2024-08-06(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 화요모닝콘서트 - 11월 「김보경&김이삭의 뮤지컬 하모니」 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14696&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14696&amp;order=1"/>
         <updated>2024-07-31T05:14:08.832Z</updated>
         <content type="html"><![CDATA[2024-08-06(화) 14:00]]></content>
     </entry>
