@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-01T04:20:32.698Z</updated>
+    <updated>2024-08-01T05:16:27.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <이터니티> 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14703</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14703"/>
+        <updated>2024-08-01T05:15:29.436Z</updated>
+        <content type="html"><![CDATA[2024.08.08(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14702</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14702"/>
+        <updated>2024-08-01T05:15:29.441Z</updated>
+        <content type="html"><![CDATA[2024.08.07(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 하데스타운 추석 시즌 / 4차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14701</id>
@@ -128,20 +142,6 @@
         <title type="html"><![CDATA[단독판매[전주] SURL x Lacuna 전국투어 ‘KIDS：Kids In the Dream Store’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14684</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14684"/>
-        <updated>2024-07-30T12:30:15.448Z</updated>
-        <content type="html"><![CDATA[2024.08.01(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] SURL x Lacuna 전국투어 ‘KIDS：Kids In the Dream Store’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14683</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14683"/>
-        <updated>2024-07-30T12:30:15.448Z</updated>
-        <content type="html"><![CDATA[2024.08.01(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[대구] SURL x Lacuna 전국투어 ‘KIDS：Kids In the Dream Store’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14682</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14682"/>
         <updated>2024-07-30T12:30:15.448Z</updated>
         <content type="html"><![CDATA[2024.08.01(목) 18:00]]></content>
     </entry>
