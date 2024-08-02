@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-02T08:20:20.136Z</updated>
+    <updated>2024-08-02T09:18:21.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈우리아빠가최고야〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14713&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14713&amp;order=1"/>
+        <updated>2024-08-02T09:17:23.955Z</updated>
+        <content type="html"><![CDATA[2024-08-06(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14712&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14703&amp;order=1"/>
         <updated>2024-08-01T05:15:38.437Z</updated>
         <content type="html"><![CDATA[2024-08-08(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14702&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14702&amp;order=1"/>
-        <updated>2024-08-01T05:15:38.438Z</updated>
-        <content type="html"><![CDATA[2024-08-07(수) 11:00]]></content>
     </entry>
 </feed>
