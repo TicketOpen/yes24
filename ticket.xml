@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-02T02:35:38.374Z</updated>
+    <updated>2024-08-02T03:20:22.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(8/4, 8/11, 8/18, 8/19, 8/25)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14709</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14709"/>
+        <updated>2024-08-02T03:19:22.081Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울숲재즈페스티벌 2024 공식 티켓 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14708</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14708"/>
+        <updated>2024-08-02T03:19:22.082Z</updated>
+        <content type="html"><![CDATA[2024.08.06(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매Eve Asia Tour 2024 Additional LIVE ＂Culture＂ IN SEOUL 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14707</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14707"/>
+        <updated>2024-08-02T03:19:22.084Z</updated>
+        <content type="html"><![CDATA[2024.08.09(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14706</id>
@@ -123,26 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14690"/>
         <updated>2024-07-30T12:30:15.423Z</updated>
         <content type="html"><![CDATA[2024.08.05(월) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2024.08.05(월) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2024 라이브 가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14689</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14689"/>
-        <updated>2024-07-30T12:30:15.427Z</updated>
-        <content type="html"><![CDATA[2024.08.01(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Xdinary Heroes Concert〈Closed ♭eta: v6.3〉추가 좌석 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14688</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14688"/>
-        <updated>2024-07-30T12:30:15.431Z</updated>
-        <content type="html"><![CDATA[2024.07.31(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 베스트셀러뮤지컬〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14687</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14687"/>
-        <updated>2024-07-30T12:30:15.433Z</updated>
-        <content type="html"><![CDATA[2024.07.31(수) 09:00]]></content>
     </entry>
 </feed>

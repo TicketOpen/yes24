@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-02T02:35:38.384Z</updated>
+    <updated>2024-08-02T03:20:22.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[서울숲재즈페스티벌 2024 공식 티켓 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14708&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14708&amp;order=1"/>
+        <updated>2024-08-02T03:19:31.153Z</updated>
+        <content type="html"><![CDATA[2024-08-06(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eve Asia Tour 2024 Additional LIVE ＂Culture＂ IN SEOUL 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14707&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14707&amp;order=1"/>
+        <updated>2024-08-02T03:19:31.156Z</updated>
+        <content type="html"><![CDATA[2024-08-09(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14706&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14699&amp;order=1"/>
         <updated>2024-07-31T08:18:49.590Z</updated>
         <content type="html"><![CDATA[2024-08-09(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 9월 토요콘서트 - 앰비규어스댄스컴퍼니x추다혜차지스 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14698&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14698&amp;order=1"/>
-        <updated>2024-07-31T05:14:08.831Z</updated>
-        <content type="html"><![CDATA[2024-08-10(토) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 화요모닝콘서트 - 12월 「몽니의 winter blossom」 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14697&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14697&amp;order=1"/>
-        <updated>2024-07-31T05:14:08.832Z</updated>
-        <content type="html"><![CDATA[2024-08-06(화) 14:00]]></content>
     </entry>
 </feed>
