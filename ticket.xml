@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-02T07:16:53.042Z</updated>
+    <updated>2024-08-02T08:20:20.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14712</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14712"/>
+        <updated>2024-08-02T08:19:21.601Z</updated>
+        <content type="html"><![CDATA[2024.08.05(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈살리에르〉 마지막 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14711</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14693"/>
         <updated>2024-07-31T05:13:59.834Z</updated>
         <content type="html"><![CDATA[2024.08.07(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <랭보> 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14692</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14692"/>
-        <updated>2024-07-31T01:43:10.070Z</updated>
-        <content type="html"><![CDATA[2024.08.06(화) 14:00]]></content>
     </entry>
 </feed>
