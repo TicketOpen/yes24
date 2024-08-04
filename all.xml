@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Aug 2024 14:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Aug 2024 15:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,26 +217,6 @@
             <content:encoded><![CDATA[2024-08-08(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[서울] 뮤지컬 〈친구의 전설〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/50378</link>
-            <guid>http://ticket.yes24.com/Perf/50378</guid>
-            <pubDate>Mon, 29 Jul 2024 01:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>26,640원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240729/20240729-50378.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 친구의 전설 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/50378</link>
-            <guid>http://m.ticket.yes24.com/Perf/50378</guid>
-            <pubDate>Mon, 29 Jul 2024 01:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 친구의 전설</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">56</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">26,640원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">10/4~10/31 공연
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202407/20240729/20240729-50378.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <시데레우스> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50004&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50004&amp;Tab=2</guid>
@@ -285,14 +265,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240715/20240715-8a799b64-6d79-4a7b-94af-2cec60c90884.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49795&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49795&amp;Tab=2</guid>
-            <pubDate>Tue, 30 Jul 2024 12:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.06 ~ 2024.08.04 | 2024.08.08 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240708/20240708-3d0b4caa-c8ab-4a69-a21a-d0929d3d2919.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[청년문화예술패스 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3570</guid>
@@ -306,6 +278,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Wed, 31 Jul 2024 15:17:07 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 04 Aug 2024 15:16:24 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.08.01 ~ 2024.09.01 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -354,14 +333,6 @@
             <pubDate>Mon, 15 Jul 2024 10:17:51 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;살리에르&gt; 싸인 프로그램 북]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240715/20240715-8a799b64-6d79-4a7b-94af-2cec60c90884.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.07.06 ~ 2024.08.04 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=49795</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=49795</guid>
-            <pubDate>Mon, 08 Jul 2024 03:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2024.8.18(일) 6시30분]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240708/20240708-3d0b4caa-c8ab-4a69-a21a-d0929d3d2919.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.04.01 ~ 2024.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
