@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 01:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 02:37:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 01 Aug 2024 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.01 ~ 2024.09.01 | 2024.09.04 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240801/20240801-57a08d4e-4036-4a04-9c1c-be3af115a79e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#006. 넵프라이즈 TICKET]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3642</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3642</guid>
-            <pubDate>Thu, 01 Aug 2024 02:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.01 ~ 2024.08.05]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240801/20240801-5699aa04-e448-4aee-952b-84833f8126c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산] 리온의 신비한 과자상점-어린이마술극- 관람후기 이벤트]]></title>
@@ -76,6 +68,13 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Sun, 04 Aug 2024 15:16:24 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예스24스테이지]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
+            <pubDate>Mon, 05 Aug 2024 02:37:05 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
