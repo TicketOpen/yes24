@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-06T05:16:53.851Z</updated>
+    <updated>2024-08-06T06:24:30.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[과천] 2024 가족뮤지컬 로보카폴리〈잡아라! 황금트로피!〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14720</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14720"/>
+        <updated>2024-08-06T06:23:28.969Z</updated>
+        <content type="html"><![CDATA[2024.08.07(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 베스트셀러뮤지컬 〈누가내머리에똥쌌어？〉- 부산 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14719</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14701"/>
         <updated>2024-08-01T01:15:05.161Z</updated>
         <content type="html"><![CDATA[2024.08.08(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 라이브가족뮤지컬 〈프린세스공주〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14700</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14700"/>
-        <updated>2024-07-31T09:17:45.487Z</updated>
-        <content type="html"><![CDATA[2024.08.05(월) 09:00]]></content>
     </entry>
 </feed>
