@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-06T04:21:09.375Z</updated>
+    <updated>2024-08-06T05:16:53.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 베스트셀러뮤지컬 〈누가내머리에똥쌌어？〉- 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14719</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14719"/>
+        <updated>2024-08-06T05:15:53.123Z</updated>
+        <content type="html"><![CDATA[2024.08.09(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉- 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14718</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14718"/>
+        <updated>2024-08-06T05:15:53.124Z</updated>
+        <content type="html"><![CDATA[2024.08.08(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 5차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14717</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14717"/>
+        <updated>2024-08-06T05:15:53.124Z</updated>
+        <content type="html"><![CDATA[2024.08.09(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 연극 <시위를 당겨라> 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14716</id>
@@ -122,26 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14700"/>
         <updated>2024-07-31T09:17:45.487Z</updated>
         <content type="html"><![CDATA[2024.08.05(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임현정 이진우 신청음콘서트 〈너의 멜로디〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14699</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14699"/>
-        <updated>2024-07-31T08:18:42.030Z</updated>
-        <content type="html"><![CDATA[2024.08.09(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 9월 토요콘서트 - 앰비규어스댄스컴퍼니x추다혜차지스 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14698</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14698"/>
-        <updated>2024-07-31T05:13:59.831Z</updated>
-        <content type="html"><![CDATA[2024.08.10(토) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 2024 화요모닝콘서트 - 12월 「몽니의 winter blossom」 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14697</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14697"/>
-        <updated>2024-07-31T05:13:59.832Z</updated>
-        <content type="html"><![CDATA[2024.08.06(화) 14:00]]></content>
     </entry>
 </feed>

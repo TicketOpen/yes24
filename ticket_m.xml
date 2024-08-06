@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-06T04:21:09.393Z</updated>
+    <updated>2024-08-06T05:16:53.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 베스트셀러뮤지컬 〈누가내머리에똥쌌어？〉- 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14719&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14719&amp;order=1"/>
+        <updated>2024-08-06T05:16:02.534Z</updated>
+        <content type="html"><![CDATA[2024-08-09(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉- 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14718&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14718&amp;order=1"/>
+        <updated>2024-08-06T05:16:02.535Z</updated>
+        <content type="html"><![CDATA[2024-08-08(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 5차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14717&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14717&amp;order=1"/>
+        <updated>2024-08-06T05:16:02.537Z</updated>
+        <content type="html"><![CDATA[2024-08-09(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 연극 <시위를 당겨라> 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14716&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14710&amp;order=1"/>
         <updated>2024-08-02T05:16:36.389Z</updated>
         <content type="html"><![CDATA[2024-08-06(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울숲재즈페스티벌 2024 공식 티켓 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14708&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14708&amp;order=1"/>
-        <updated>2024-08-02T03:19:31.153Z</updated>
-        <content type="html"><![CDATA[2024-08-06(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eve Asia Tour 2024 Additional LIVE ＂Culture＂ IN SEOUL 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14707&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14707&amp;order=1"/>
-        <updated>2024-08-02T03:19:31.156Z</updated>
-        <content type="html"><![CDATA[2024-08-09(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14706&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14706&amp;order=1"/>
-        <updated>2024-08-01T09:15:49.650Z</updated>
-        <content type="html"><![CDATA[2024-08-05(월) 09:00]]></content>
     </entry>
 </feed>
