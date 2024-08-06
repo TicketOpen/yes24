@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-06T08:20:32.840Z</updated>
+    <updated>2024-08-06T09:17:49.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 뮤즈온 라이브 위크 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14725&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14725&amp;order=1"/>
+        <updated>2024-08-06T09:17:06.051Z</updated>
+        <content type="html"><![CDATA[2024-08-09(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천안] 2024 드로잉 매직쇼 〈크레용용〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14724&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14724&amp;order=1"/>
+        <updated>2024-08-06T09:17:06.053Z</updated>
+        <content type="html"><![CDATA[2024-08-07(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xdinary Heroes Concert〈Closed ♭eta: v6.4〉티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14723&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14715&amp;order=1"/>
         <updated>2024-08-05T09:17:32.305Z</updated>
         <content type="html"><![CDATA[2024-08-08(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[댄스 쇼케이스 mu:stage 2024 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14714&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14714&amp;order=1"/>
-        <updated>2024-08-05T03:17:39.342Z</updated>
-        <content type="html"><![CDATA[2024-08-12(월) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈우리아빠가최고야〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14713&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14713&amp;order=1"/>
-        <updated>2024-08-02T09:17:23.955Z</updated>
-        <content type="html"><![CDATA[2024-08-06(화) 09:00]]></content>
     </entry>
 </feed>

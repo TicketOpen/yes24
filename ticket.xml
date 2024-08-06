@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-06T08:20:32.843Z</updated>
+    <updated>2024-08-06T09:17:49.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 뮤즈온 라이브 위크 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14725</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14725"/>
+        <updated>2024-08-06T09:16:59.093Z</updated>
+        <content type="html"><![CDATA[2024.08.09(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천안] 2024 드로잉 매직쇼 〈크레용용〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14724</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14724"/>
+        <updated>2024-08-06T09:16:59.097Z</updated>
+        <content type="html"><![CDATA[2024.08.07(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Xdinary Heroes Concert〈Closed ♭eta: v6.4〉티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14723</id>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14706"/>
         <updated>2024-08-01T09:15:42.046Z</updated>
         <content type="html"><![CDATA[2024.08.05(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈일리아드〉 마지막 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14705</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14705"/>
-        <updated>2024-08-01T06:22:05.727Z</updated>
-        <content type="html"><![CDATA[2024.08.09(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈킬롤로지〉 : 연극열전10_세 번째 작품 1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14704</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14704"/>
-        <updated>2024-08-01T06:22:05.727Z</updated>
-        <content type="html"><![CDATA[2024.08.08(목) 16:00<a class="noti-btn-pop" presaletit1="연애인 프리미엄 선예매" presaletit2="" presaletime1="2024.08.08(목) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
