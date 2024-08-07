@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-07T01:11:05.938Z</updated>
+    <updated>2024-08-07T02:37:13.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 어린이 뮤지컬 바다탐험대 옥토넛 3 <바다넘어 육지까지>]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14731</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14731"/>
+        <updated>2024-08-07T02:36:14.244Z</updated>
+        <content type="html"><![CDATA[2024.08.21(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국립현대무용단 <내가 물에서 본 것> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14730</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14730"/>
+        <updated>2024-08-07T02:36:14.245Z</updated>
+        <content type="html"><![CDATA[2024.08.09(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 뮤지컬 〈친구의 전설〉 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14728</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14728"/>
+        <updated>2024-08-07T02:36:14.245Z</updated>
+        <content type="html"><![CDATA[2024.08.14(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 어린이 뮤지컬 그리스 로마 신화<신들의 왕 제우스> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14727</id>
@@ -122,25 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14711"/>
         <updated>2024-08-02T06:23:50.285Z</updated>
         <content type="html"><![CDATA[2024.08.09(금) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2024.08.09(금) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 라이브 가족뮤지컬 〈백설공주〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14710</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14710"/>
-        <updated>2024-08-02T05:16:27.596Z</updated>
-        <content type="html"><![CDATA[2024.08.06(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(8/4, 8/11, 8/18, 8/19, 8/25)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14709</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14709"/>
-        <updated>2024-08-02T03:19:22.081Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울숲재즈페스티벌 2024 공식 티켓 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14708</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14708"/>
-        <updated>2024-08-02T03:19:22.082Z</updated>
-        <content type="html"><![CDATA[2024.08.06(화) 12:00]]></content>
     </entry>
 </feed>
