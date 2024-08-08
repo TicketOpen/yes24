@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 07:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 08:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2024.08.05 ~ 2024.09.06]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=50536</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=50536</guid>
+            <pubDate>Thu, 08 Aug 2024 08:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;빈센트 반 고흐&gt; 9월 15일(일) 6시 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240808/20240808-05939efb-bc51-4646-980e-71a085a2b9ab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.08.08 ~ 2024.08.18]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=50534</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=50534</guid>
+            <pubDate>Thu, 08 Aug 2024 08:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>8/25 (일) 오후 2시 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240808/20240808-0e0ba4dd-16bb-440b-84ea-8d1767559753.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2024.08.01 ~ 2024.09.01]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=50004</link>
