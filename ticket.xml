@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-08T08:21:09.569Z</updated>
+    <updated>2024-08-08T09:18:08.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[그랜드 민트 페스티벌 2024 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14741</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14741"/>
+        <updated>2024-08-08T09:17:08.276Z</updated>
+        <content type="html"><![CDATA[2024.08.14(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매Pale Waves Live in Korea 2024 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14740</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14740"/>
+        <updated>2024-08-08T09:17:08.278Z</updated>
+        <content type="html"><![CDATA[2024.08.20(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매뮤지컬 〈쓰릴 미〉 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14739</id>
@@ -129,19 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14722</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14722"/>
         <updated>2024-08-06T07:16:01.777Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매백양문화예술회관 개관기념 기획공연 - 킬라몽키즈 - 부산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14721</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14721"/>
-        <updated>2024-08-06T07:16:01.777Z</updated>
-        <content type="html"><![CDATA[2024.08.12(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과천] 2024 가족뮤지컬 로보카폴리〈잡아라! 황금트로피!〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14720</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14720"/>
-        <updated>2024-08-06T06:23:28.969Z</updated>
-        <content type="html"><![CDATA[2024.08.07(수) 09:00]]></content>
     </entry>
 </feed>
