@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-09T07:16:14.736Z</updated>
+    <updated>2024-08-09T08:21:48.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤직드라마 <불편한 편의점> - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14745&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14745&amp;order=1"/>
+        <updated>2024-08-09T08:21:06.239Z</updated>
+        <content type="html"><![CDATA[2024-08-16(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈드라이 플라워〉 프리뷰 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14744&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14744&amp;order=1"/>
+        <updated>2024-08-09T08:21:06.242Z</updated>
+        <content type="html"><![CDATA[2024-08-13(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시데레우스> 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14743&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14736&amp;order=1"/>
         <updated>2024-08-08T05:15:54.566Z</updated>
         <content type="html"><![CDATA[2024-08-09(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베토벤과 하이든의 만남〈운명〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14735&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14735&amp;order=1"/>
-        <updated>2024-08-08T01:10:07.024Z</updated>
-        <content type="html"><![CDATA[2024-08-14(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASCA Oneman Live ＂VIVID＂ in Korea 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14734&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14734&amp;order=1"/>
-        <updated>2024-08-08T01:10:07.026Z</updated>
-        <content type="html"><![CDATA[2024-08-12(월) 18:00]]></content>
     </entry>
 </feed>
