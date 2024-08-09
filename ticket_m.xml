@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-09T01:11:50.555Z</updated>
+    <updated>2024-08-09T02:37:48.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Road to BU-ROCK - 부산 ＆ 대구 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14742&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14742&amp;order=1"/>
+        <updated>2024-08-09T02:36:55.619Z</updated>
+        <content type="html"><![CDATA[2024-08-09(금) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그랜드 민트 페스티벌 2024 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14741&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14733&amp;order=1"/>
         <updated>2024-08-07T08:20:40.415Z</updated>
         <content type="html"><![CDATA[2024-08-16(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 제3회 디오니 주류박람회 - 술동산, 酒토피아 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14732&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14732&amp;order=1"/>
-        <updated>2024-08-07T06:22:23.336Z</updated>
-        <content type="html"><![CDATA[2024-08-12(월) 09:00]]></content>
     </entry>
 </feed>
