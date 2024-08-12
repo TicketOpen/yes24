@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 14:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 15:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240801/20240801-57a08d4e-4036-4a04-9c1c-be3af115a79e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부산] 리온의 신비한 과자상점-어린이마술극- 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50348&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50348&amp;Tab=2</guid>
-            <pubDate>Sat, 10 Aug 2024 21:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.24 ~ 2024.08.12 | 2024.08.13 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240724/20240724-d9c1a401-2939-4f2d-9a57-706475c87782.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <매직 판타지아-도로시 리턴즈> 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49741&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49741&amp;Tab=2</guid>
@@ -78,6 +70,13 @@
             <pubDate>Sat, 10 Aug 2024 21:18:28 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-7b5b3310-d30a-44ae-b458-24ff1dc948ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Mon, 12 Aug 2024 15:18:50 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
