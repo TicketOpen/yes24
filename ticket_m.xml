@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-12T01:12:52.930Z</updated>
+    <updated>2024-08-12T02:38:38.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[평택] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  바다넘어 육지까지 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14747&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14747&amp;order=1"/>
+        <updated>2024-08-12T02:37:56.366Z</updated>
+        <content type="html"><![CDATA[2024-08-21(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부천] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  바다넘어 육지까지 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14746&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14746&amp;order=1"/>
+        <updated>2024-08-12T02:37:56.366Z</updated>
+        <content type="html"><![CDATA[2024-08-21(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤직드라마 <불편한 편의점> - 부산 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14745&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14738&amp;order=1"/>
         <updated>2024-08-08T05:15:54.566Z</updated>
         <content type="html"><![CDATA[2024-08-13(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [조선 이야기꾼 전기수] 2층 추가 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14737&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14737&amp;order=1"/>
-        <updated>2024-08-08T06:23:31.509Z</updated>
-        <content type="html"><![CDATA[2024-08-09(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종로 인 재즈 페스티벌 2024 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14736&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14736&amp;order=1"/>
-        <updated>2024-08-08T05:15:54.566Z</updated>
-        <content type="html"><![CDATA[2024-08-09(금) 16:00]]></content>
     </entry>
 </feed>

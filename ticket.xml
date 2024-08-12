@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-12T01:12:52.936Z</updated>
+    <updated>2024-08-12T02:38:38.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[평택] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  바다넘어 육지까지 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14747</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14747"/>
+        <updated>2024-08-12T02:37:49.190Z</updated>
+        <content type="html"><![CDATA[2024.08.21(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부천] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  바다넘어 육지까지 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14746</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14746"/>
+        <updated>2024-08-12T02:37:49.191Z</updated>
+        <content type="html"><![CDATA[2024.08.21(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤직드라마 <불편한 편의점> - 부산 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14745</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14728"/>
         <updated>2024-08-07T02:36:14.245Z</updated>
         <content type="html"><![CDATA[2024.08.14(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 어린이 뮤지컬 그리스 로마 신화<신들의 왕 제우스> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14727</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14727"/>
-        <updated>2024-08-06T10:17:34.680Z</updated>
-        <content type="html"><![CDATA[2024.08.14(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[구로] 어린이 뮤지컬 그리스 로마 신화<신들의 왕 제우스> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14726</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14726"/>
-        <updated>2024-08-06T10:17:34.680Z</updated>
-        <content type="html"><![CDATA[2024.08.14(수) 10:00]]></content>
     </entry>
 </feed>
