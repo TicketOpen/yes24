@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-12T04:20:12.535Z</updated>
+    <updated>2024-08-12T05:17:23.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매연극 〈빵야〉 마티네 추가 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14749</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14749"/>
+        <updated>2024-08-12T05:16:33.427Z</updated>
+        <content type="html"><![CDATA[2024.08.14(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[구미] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14748</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14748"/>
+        <updated>2024-08-12T05:16:33.427Z</updated>
+        <content type="html"><![CDATA[2024.08.13(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[평택] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  바다넘어 육지까지 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14747</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14730"/>
         <updated>2024-08-07T02:36:14.245Z</updated>
         <content type="html"><![CDATA[2024.08.09(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매NERD CONNECTION INTERVIEW SHOW [그래도 우리는] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14729</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14729"/>
-        <updated>2024-08-07T03:17:57.862Z</updated>
-        <content type="html"><![CDATA[2024.08.19(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 뮤지컬 〈친구의 전설〉 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14728</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14728"/>
-        <updated>2024-08-07T02:36:14.245Z</updated>
-        <content type="html"><![CDATA[2024.08.14(수) 11:00]]></content>
     </entry>
 </feed>
