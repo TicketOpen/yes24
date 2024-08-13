@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-13T04:19:47.375Z</updated>
+    <updated>2024-08-13T05:17:19.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[전주] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14752</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14752"/>
+        <updated>2024-08-13T05:16:23.420Z</updated>
+        <content type="html"><![CDATA[2024.08.16(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 연극 〈시위를 당겨라〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14751</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14733"/>
         <updated>2024-08-07T08:20:32.245Z</updated>
         <content type="html"><![CDATA[2024.08.16(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.08.14(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 제3회 디오니 주류박람회 - 술동산, 酒토피아 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14732</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14732"/>
-        <updated>2024-08-07T06:22:14.607Z</updated>
-        <content type="html"><![CDATA[2024.08.12(월) 09:00]]></content>
     </entry>
 </feed>
