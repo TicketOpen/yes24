@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-13T08:20:56.610Z</updated>
+    <updated>2024-08-13T09:19:01.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14754"/>
         <updated>2024-08-13T08:19:56.682Z</updated>
         <content type="html"><![CDATA[2024.08.14(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매Yuuri Live in Seoul 2024 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14753</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14753"/>
+        <updated>2024-08-13T09:18:09.781Z</updated>
+        <content type="html"><![CDATA[2024.08.19(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[전주] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14735"/>
         <updated>2024-08-08T01:09:58.196Z</updated>
         <content type="html"><![CDATA[2024.08.14(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매ASCA Oneman Live ＂VIVID＂ in Korea 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14734</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14734"/>
-        <updated>2024-08-08T01:09:58.197Z</updated>
-        <content type="html"><![CDATA[2024.08.12(월) 18:00]]></content>
     </entry>
 </feed>

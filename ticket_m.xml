@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-13T08:20:56.614Z</updated>
+    <updated>2024-08-13T09:19:01.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14754&amp;order=1"/>
         <updated>2024-08-13T08:20:05.832Z</updated>
         <content type="html"><![CDATA[2024-08-14(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yuuri Live in Seoul 2024 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14753&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14753&amp;order=1"/>
+        <updated>2024-08-13T09:18:18.064Z</updated>
+        <content type="html"><![CDATA[2024-08-19(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[전주] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14745&amp;order=1"/>
         <updated>2024-08-09T08:21:06.239Z</updated>
         <content type="html"><![CDATA[2024-08-16(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈드라이 플라워〉 프리뷰 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14744&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14744&amp;order=1"/>
-        <updated>2024-08-09T08:21:06.242Z</updated>
-        <content type="html"><![CDATA[2024-08-13(화) 11:00]]></content>
     </entry>
 </feed>
