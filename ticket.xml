@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-14T05:17:20.447Z</updated>
+    <updated>2024-08-14T06:23:00.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈사의찬미〉마지막 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14759</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14759"/>
+        <updated>2024-08-14T06:21:58.987Z</updated>
+        <content type="html"><![CDATA[2024.08.19(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈BBC Proms Korea〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14758</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14739"/>
         <updated>2024-08-08T07:15:26.264Z</updated>
         <content type="html"><![CDATA[2024.08.16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 충주 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14738</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14738"/>
-        <updated>2024-08-08T05:15:45.859Z</updated>
-        <content type="html"><![CDATA[2024.08.13(화) 14:00]]></content>
     </entry>
 </feed>
