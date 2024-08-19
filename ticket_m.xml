@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-19T05:16:41.147Z</updated>
+    <updated>2024-08-19T06:24:20.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[퓨전국악 밴드 경지〈보물섬을 찾아 떠나보세!〉- 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14767&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14767&amp;order=1"/>
+        <updated>2024-08-19T06:23:26.798Z</updated>
+        <content type="html"><![CDATA[2024-08-26(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산 마루 국제음악제 〈프롬나드 콘서트2〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14766&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14766&amp;order=1"/>
+        <updated>2024-08-19T06:23:26.798Z</updated>
+        <content type="html"><![CDATA[2024-08-22(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산 마루 국제음악제〈앙상블 콘서트2〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14765&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14765&amp;order=1"/>
+        <updated>2024-08-19T06:23:26.798Z</updated>
+        <content type="html"><![CDATA[2024-08-22(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산 마루 국제음악제〈프린지 콘서트4〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14763&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14763&amp;order=1"/>
+        <updated>2024-08-19T06:23:26.799Z</updated>
+        <content type="html"><![CDATA[2024-08-22(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14762&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14755&amp;order=1"/>
         <updated>2024-08-14T01:10:59.595Z</updated>
         <content type="html"><![CDATA[2024-08-14(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첼리스트 홍진호 콘서트 <첼로의 숲> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14754&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14754&amp;order=1"/>
-        <updated>2024-08-13T08:20:05.832Z</updated>
-        <content type="html"><![CDATA[2024-08-14(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yuuri Live in Seoul 2024 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14753&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14753&amp;order=1"/>
-        <updated>2024-08-13T09:18:18.064Z</updated>
-        <content type="html"><![CDATA[2024-08-19(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14752&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14752&amp;order=1"/>
-        <updated>2024-08-13T05:16:32.115Z</updated>
-        <content type="html"><![CDATA[2024-08-16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 연극 〈시위를 당겨라〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14751&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14751&amp;order=1"/>
-        <updated>2024-08-12T08:21:22.126Z</updated>
-        <content type="html"><![CDATA[2024-08-13(화) 09:00]]></content>
     </entry>
 </feed>

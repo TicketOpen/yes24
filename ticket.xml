@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-19T05:16:41.149Z</updated>
+    <updated>2024-08-19T06:24:20.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[퓨전국악 밴드 경지〈보물섬을 찾아 떠나보세!〉- 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14767</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14767"/>
+        <updated>2024-08-19T06:23:17.926Z</updated>
+        <content type="html"><![CDATA[2024.08.26(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산 마루 국제음악제 〈프롬나드 콘서트2〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14766</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14766"/>
+        <updated>2024-08-19T06:23:17.926Z</updated>
+        <content type="html"><![CDATA[2024.08.22(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산 마루 국제음악제〈앙상블 콘서트2〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14765</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14765"/>
+        <updated>2024-08-19T06:23:17.926Z</updated>
+        <content type="html"><![CDATA[2024.08.22(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산 마루 국제음악제〈프린지 콘서트4〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14763</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14763"/>
+        <updated>2024-08-19T06:23:17.926Z</updated>
+        <content type="html"><![CDATA[2024.08.22(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14762</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14745"/>
         <updated>2024-08-09T08:20:58.989Z</updated>
         <content type="html"><![CDATA[2024.08.16(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈드라이 플라워〉 프리뷰 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14744</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14744"/>
-        <updated>2024-08-09T08:20:58.990Z</updated>
-        <content type="html"><![CDATA[2024.08.13(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시데레우스> 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14743</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14743"/>
-        <updated>2024-08-09T05:15:54.729Z</updated>
-        <content type="html"><![CDATA[2024.08.13(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Road to BU-ROCK - 부산 ＆ 대구 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14742</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14742"/>
-        <updated>2024-08-09T02:36:46.443Z</updated>
-        <content type="html"><![CDATA[2024.08.09(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그랜드 민트 페스티벌 2024 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14741</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14741"/>
-        <updated>2024-08-08T09:17:08.276Z</updated>
-        <content type="html"><![CDATA[2024.08.14(수) 18:00]]></content>
     </entry>
 </feed>
