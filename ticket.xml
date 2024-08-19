@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-19T08:21:47.462Z</updated>
+    <updated>2024-08-19T09:18:15.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매제19회 부산불꽃축제 얼리버드 티켓 오픈]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14770</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14770"/>
+        <updated>2024-08-19T09:17:13.504Z</updated>
+        <content type="html"><![CDATA[2024.08.21(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2024 제8회 창원국제실내악축제(CHAMF) - 인연, 음악이 되다. 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14769</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14769"/>
+        <updated>2024-08-19T09:17:13.504Z</updated>
+        <content type="html"><![CDATA[2024.09.03(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비지정석] 뮤지컬 아이스쇼 [G-SHOW : THE LUNA] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14768</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14748"/>
         <updated>2024-08-12T05:16:33.427Z</updated>
         <content type="html"><![CDATA[2024.08.13(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[평택] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  바다넘어 육지까지 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14747</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14747"/>
-        <updated>2024-08-12T02:37:49.190Z</updated>
-        <content type="html"><![CDATA[2024.08.21(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부천] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  바다넘어 육지까지 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14746</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14746"/>
-        <updated>2024-08-12T02:37:49.191Z</updated>
-        <content type="html"><![CDATA[2024.08.21(수) 10:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-19T08:21:47.455Z</updated>
+    <updated>2024-08-19T09:18:15.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제19회 부산불꽃축제 얼리버드 티켓 오픈]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14770&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14770&amp;order=1"/>
+        <updated>2024-08-19T09:17:22.534Z</updated>
+        <content type="html"><![CDATA[2024-08-21(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2024 제8회 창원국제실내악축제(CHAMF) - 인연, 음악이 되다. 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14769&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14769&amp;order=1"/>
+        <updated>2024-08-19T09:17:22.535Z</updated>
+        <content type="html"><![CDATA[2024-09-03(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비지정석] 뮤지컬 아이스쇼 [G-SHOW : THE LUNA] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14768&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14759&amp;order=1"/>
         <updated>2024-08-14T06:22:07.701Z</updated>
         <content type="html"><![CDATA[2024-08-19(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈BBC Proms Korea〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14758&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14758&amp;order=1"/>
-        <updated>2024-08-14T05:16:27.507Z</updated>
-        <content type="html"><![CDATA[2024-08-22(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국국악관현악축제 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14757&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14757&amp;order=1"/>
-        <updated>2024-08-14T05:16:27.513Z</updated>
-        <content type="html"><![CDATA[2024-08-20(화) 14:00]]></content>
     </entry>
 </feed>
