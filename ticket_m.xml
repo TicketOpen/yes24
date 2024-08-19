@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-19T09:18:15.948Z</updated>
+    <updated>2024-08-19T10:19:30.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14771&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14771&amp;order=1"/>
+        <updated>2024-08-19T10:18:38.909Z</updated>
+        <content type="html"><![CDATA[2024-08-23(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제19회 부산불꽃축제 얼리버드 티켓 오픈]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14770&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14761&amp;order=1"/>
         <updated>2024-08-16T05:15:49.037Z</updated>
         <content type="html"><![CDATA[2024-08-29(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈사의찬미〉마지막 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14759&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14759&amp;order=1"/>
-        <updated>2024-08-14T06:22:07.701Z</updated>
-        <content type="html"><![CDATA[2024-08-19(월) 14:00]]></content>
     </entry>
 </feed>
