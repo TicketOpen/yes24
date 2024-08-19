@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-19T07:18:04.986Z</updated>
+    <updated>2024-08-19T08:21:47.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[비지정석] 뮤지컬 아이스쇼 [G-SHOW : THE LUNA] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14768</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14768"/>
+        <updated>2024-08-19T08:20:48.697Z</updated>
+        <content type="html"><![CDATA[2024.08.22(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퓨전국악 밴드 경지〈보물섬을 찾아 떠나보세!〉- 부산 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14767</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14746"/>
         <updated>2024-08-12T02:37:49.191Z</updated>
         <content type="html"><![CDATA[2024.08.21(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤직드라마 <불편한 편의점> - 부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14745</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14745"/>
-        <updated>2024-08-09T08:20:58.989Z</updated>
-        <content type="html"><![CDATA[2024.08.16(금) 10:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-19T07:18:04.988Z</updated>
+    <updated>2024-08-19T08:21:47.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[비지정석] 뮤지컬 아이스쇼 [G-SHOW : THE LUNA] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14768&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14768&amp;order=1"/>
+        <updated>2024-08-19T08:20:57.684Z</updated>
+        <content type="html"><![CDATA[2024-08-22(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퓨전국악 밴드 경지〈보물섬을 찾아 떠나보세!〉- 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14767&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14757&amp;order=1"/>
         <updated>2024-08-14T05:16:27.513Z</updated>
         <content type="html"><![CDATA[2024-08-20(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈연남동 빙굴빙굴 빨래방〉티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14755&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14755&amp;order=1"/>
-        <updated>2024-08-14T01:10:59.595Z</updated>
-        <content type="html"><![CDATA[2024-08-14(수) 14:00]]></content>
     </entry>
 </feed>
