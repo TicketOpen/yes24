@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-19T04:19:41.470Z</updated>
+    <updated>2024-08-19T05:16:41.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14762</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14762"/>
+        <updated>2024-08-19T05:15:39.741Z</updated>
+        <content type="html"><![CDATA[2024.08.21(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매DAY6 3RD WORLD TOUR 〈FOREVER YOUNG〉 in INCHEON]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14761</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14741"/>
         <updated>2024-08-08T09:17:08.276Z</updated>
         <content type="html"><![CDATA[2024.08.14(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Pale Waves Live in Korea 2024 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14740</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14740"/>
-        <updated>2024-08-08T09:17:08.278Z</updated>
-        <content type="html"><![CDATA[2024.08.20(화) 20:00]]></content>
     </entry>
 </feed>

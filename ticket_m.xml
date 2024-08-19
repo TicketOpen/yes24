@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-19T04:19:41.480Z</updated>
+    <updated>2024-08-19T05:16:41.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14762&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14762&amp;order=1"/>
+        <updated>2024-08-19T05:15:48.826Z</updated>
+        <content type="html"><![CDATA[2024-08-21(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAY6 3RD WORLD TOUR 〈FOREVER YOUNG〉 in INCHEON]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14761&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14751&amp;order=1"/>
         <updated>2024-08-12T08:21:22.126Z</updated>
         <content type="html"><![CDATA[2024-08-13(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2 4차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14750&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14750&amp;order=1"/>
-        <updated>2024-08-12T07:15:49.688Z</updated>
-        <content type="html"><![CDATA[2024-08-16(금) 14:00]]></content>
     </entry>
 </feed>
