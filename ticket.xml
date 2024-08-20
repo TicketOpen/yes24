@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-20T05:15:56.928Z</updated>
+    <updated>2024-08-20T06:23:32.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[마르친 바실레프스키 트리오 결성 30주년 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14776</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14776"/>
+        <updated>2024-08-20T06:22:34.256Z</updated>
+        <content type="html"><![CDATA[2024.08.22(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14775</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14754"/>
         <updated>2024-08-13T08:19:56.682Z</updated>
         <content type="html"><![CDATA[2024.08.14(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Yuuri Live in Seoul 2024 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14753</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14753"/>
-        <updated>2024-08-13T09:18:09.781Z</updated>
-        <content type="html"><![CDATA[2024.08.19(월) 20:00]]></content>
     </entry>
 </feed>
