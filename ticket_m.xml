@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-20T04:21:37.754Z</updated>
+    <updated>2024-08-20T05:15:56.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14775&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14775&amp;order=1"/>
+        <updated>2024-08-20T05:15:09.593Z</updated>
+        <content type="html"><![CDATA[2024-08-22(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈이터니티〉 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14774&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14774&amp;order=1"/>
+        <updated>2024-08-20T05:15:09.595Z</updated>
+        <content type="html"><![CDATA[2024-08-27(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 6차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14773&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14773&amp;order=1"/>
+        <updated>2024-08-20T05:15:09.595Z</updated>
+        <content type="html"><![CDATA[2024-08-23(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14772&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14772&amp;order=1"/>
+        <updated>2024-08-20T05:15:09.595Z</updated>
+        <content type="html"><![CDATA[2024-08-22(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14771&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14766&amp;order=1"/>
         <updated>2024-08-19T06:23:26.798Z</updated>
         <content type="html"><![CDATA[2024-08-22(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 마루 국제음악제〈앙상블 콘서트2〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14765&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14765&amp;order=1"/>
-        <updated>2024-08-19T06:23:26.798Z</updated>
-        <content type="html"><![CDATA[2024-08-22(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 마루 국제음악제〈프린지 콘서트4〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14763&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14763&amp;order=1"/>
-        <updated>2024-08-19T06:23:26.799Z</updated>
-        <content type="html"><![CDATA[2024-08-22(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14762&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14762&amp;order=1"/>
-        <updated>2024-08-19T05:15:48.826Z</updated>
-        <content type="html"><![CDATA[2024-08-21(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAY6 3RD WORLD TOUR 〈FOREVER YOUNG〉 in INCHEON]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14761&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14761&amp;order=1"/>
-        <updated>2024-08-16T05:15:49.037Z</updated>
-        <content type="html"><![CDATA[2024-08-29(목) 20:00]]></content>
     </entry>
 </feed>

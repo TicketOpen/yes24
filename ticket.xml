@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-20T04:21:37.752Z</updated>
+    <updated>2024-08-20T05:15:56.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14775</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14775"/>
+        <updated>2024-08-20T05:15:01.337Z</updated>
+        <content type="html"><![CDATA[2024.08.22(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈이터니티〉 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14774</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14774"/>
+        <updated>2024-08-20T05:15:01.345Z</updated>
+        <content type="html"><![CDATA[2024.08.27(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 6차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14773</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14773"/>
+        <updated>2024-08-20T05:15:01.345Z</updated>
+        <content type="html"><![CDATA[2024.08.23(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14772</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14772"/>
+        <updated>2024-08-20T05:15:01.345Z</updated>
+        <content type="html"><![CDATA[2024.08.22(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14771</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14753"/>
         <updated>2024-08-13T09:18:09.781Z</updated>
         <content type="html"><![CDATA[2024.08.19(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14752</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14752"/>
-        <updated>2024-08-13T05:16:23.420Z</updated>
-        <content type="html"><![CDATA[2024.08.16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 연극 〈시위를 당겨라〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14751</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14751"/>
-        <updated>2024-08-12T08:21:12.601Z</updated>
-        <content type="html"><![CDATA[2024.08.13(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2 4차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14750</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14750"/>
-        <updated>2024-08-12T07:15:40.896Z</updated>
-        <content type="html"><![CDATA[2024.08.16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매연극 〈빵야〉 마티네 추가 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14749</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14749"/>
-        <updated>2024-08-12T05:16:33.427Z</updated>
-        <content type="html"><![CDATA[2024.08.14(수) 15:00]]></content>
     </entry>
 </feed>
