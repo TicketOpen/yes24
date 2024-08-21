@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-21T03:19:42.924Z</updated>
+    <updated>2024-08-21T04:20:58.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[클래식 라디오 CINEMA CONCERT [세상을 사로잡은 영화음악] - 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14782</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14782"/>
+        <updated>2024-08-21T04:19:57.830Z</updated>
+        <content type="html"><![CDATA[2024.08.27(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부천] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14779</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14779"/>
+        <updated>2024-08-21T04:19:57.830Z</updated>
+        <content type="html"><![CDATA[2024.08.23(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안산] 2024 심수봉 전국투어콘서트 : 꽃길 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14778</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14759"/>
         <updated>2024-08-14T06:21:58.987Z</updated>
         <content type="html"><![CDATA[2024.08.19(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈BBC Proms Korea〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14758</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14758"/>
-        <updated>2024-08-14T05:16:18.301Z</updated>
-        <content type="html"><![CDATA[2024.08.22(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국국악관현악축제 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14757</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14757"/>
-        <updated>2024-08-14T05:16:18.302Z</updated>
-        <content type="html"><![CDATA[2024.08.20(화) 14:00]]></content>
     </entry>
 </feed>
