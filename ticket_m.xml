@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-21T08:21:23.469Z</updated>
+    <updated>2024-08-21T09:18:45.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14785&amp;order=1"/>
         <updated>2024-08-21T08:20:31.979Z</updated>
         <content type="html"><![CDATA[2024-08-28(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ne-Yo Champagne ＆ Roses 2024 in SEOUL 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14784&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14784&amp;order=1"/>
+        <updated>2024-08-21T09:17:53.823Z</updated>
+        <content type="html"><![CDATA[2024-08-27(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈빈센트 반 고흐〉 1차 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14776&amp;order=1"/>
         <updated>2024-08-20T06:22:42.939Z</updated>
         <content type="html"><![CDATA[2024-08-22(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14775&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14775&amp;order=1"/>
-        <updated>2024-08-20T05:15:09.593Z</updated>
-        <content type="html"><![CDATA[2024-08-22(목) 14:00]]></content>
     </entry>
 </feed>
