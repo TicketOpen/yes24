@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-21T04:20:58.270Z</updated>
+    <updated>2024-08-21T05:16:26.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈빈센트 반 고흐〉 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14783&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14783&amp;order=1"/>
+        <updated>2024-08-21T05:15:34.883Z</updated>
+        <content type="html"><![CDATA[2024-08-26(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클래식 라디오 CINEMA CONCERT [세상을 사로잡은 영화음악] - 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14782&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14782&amp;order=1"/>
         <updated>2024-08-21T04:20:07.183Z</updated>
         <content type="html"><![CDATA[2024-08-27(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiatus Kaiyote (하이에이터스 카이요테) 내한공연 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14781&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14781&amp;order=1"/>
+        <updated>2024-08-21T05:15:34.887Z</updated>
+        <content type="html"><![CDATA[2024-08-28(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 [김태균 SHOW] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14780&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14780&amp;order=1"/>
+        <updated>2024-08-21T05:15:34.887Z</updated>
+        <content type="html"><![CDATA[2024-08-26(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[부천] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14774&amp;order=1"/>
         <updated>2024-08-20T05:15:09.595Z</updated>
         <content type="html"><![CDATA[2024-08-27(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 6차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14773&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14773&amp;order=1"/>
-        <updated>2024-08-20T05:15:09.595Z</updated>
-        <content type="html"><![CDATA[2024-08-23(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14772&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14772&amp;order=1"/>
-        <updated>2024-08-20T05:15:09.595Z</updated>
-        <content type="html"><![CDATA[2024-08-22(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14771&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14771&amp;order=1"/>
-        <updated>2024-08-19T10:18:38.909Z</updated>
-        <content type="html"><![CDATA[2024-08-23(금) 09:00]]></content>
     </entry>
 </feed>
