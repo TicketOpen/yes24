@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-22T07:16:43.260Z</updated>
+    <updated>2024-08-22T08:21:08.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈프린세스공주〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14792</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14792"/>
+        <updated>2024-08-22T08:19:52.389Z</updated>
+        <content type="html"><![CDATA[2024.08.28(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 풍류전통예술원 연작기획공연 1 - 영남의 소리를 찾아서 “복고창신（復古創新）” 티켓..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14791</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14791"/>
+        <updated>2024-08-22T08:19:52.389Z</updated>
+        <content type="html"><![CDATA[2024.08.26(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 라이브 가족뮤지컬 〈겨울이야기〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14790</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14773"/>
         <updated>2024-08-20T05:15:01.345Z</updated>
         <content type="html"><![CDATA[2024.08.23(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14772</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14772"/>
-        <updated>2024-08-20T05:15:01.345Z</updated>
-        <content type="html"><![CDATA[2024.08.22(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14771</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14771"/>
-        <updated>2024-08-19T10:18:29.988Z</updated>
-        <content type="html"><![CDATA[2024.08.23(금) 09:00]]></content>
     </entry>
 </feed>
