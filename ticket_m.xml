@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-22T04:19:45.525Z</updated>
+    <updated>2024-08-22T05:16:32.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 라이브 가족뮤지컬 〈겨울이야기〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14790&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14790&amp;order=1"/>
+        <updated>2024-08-22T05:15:42.449Z</updated>
+        <content type="html"><![CDATA[2024-08-28(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [하데스타운] 한국 공연 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14789&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14789&amp;order=1"/>
+        <updated>2024-08-22T05:15:42.450Z</updated>
+        <content type="html"><![CDATA[2024-08-28(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 송골매 콘서트 '열망' 두번째 [늘-봄] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14788&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14788&amp;order=1"/>
+        <updated>2024-08-22T05:15:42.451Z</updated>
+        <content type="html"><![CDATA[2024-08-30(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉 혜공 전관 - 그래이공 DAY 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14787&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14787&amp;order=1"/>
+        <updated>2024-08-22T05:15:42.451Z</updated>
+        <content type="html"><![CDATA[2024-08-27(화) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산발레시어터 [트리플 빌] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14785&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14780&amp;order=1"/>
         <updated>2024-08-21T05:15:34.887Z</updated>
         <content type="html"><![CDATA[2024-08-26(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부천] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14779&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14779&amp;order=1"/>
-        <updated>2024-08-21T04:20:07.192Z</updated>
-        <content type="html"><![CDATA[2024-08-23(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안산] 2024 심수봉 전국투어콘서트 : 꽃길 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14778&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14778&amp;order=1"/>
-        <updated>2024-08-21T02:35:45.529Z</updated>
-        <content type="html"><![CDATA[2024-08-23(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 가족뮤지컬 〈에그박사 - 연구소에서 생긴 일〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14777&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14777&amp;order=1"/>
-        <updated>2024-08-21T02:35:45.531Z</updated>
-        <content type="html"><![CDATA[2024-08-26(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마르친 바실레프스키 트리오 결성 30주년 콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14776&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14776&amp;order=1"/>
-        <updated>2024-08-20T06:22:42.939Z</updated>
-        <content type="html"><![CDATA[2024-08-22(목) 10:00]]></content>
     </entry>
 </feed>
