@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-22T05:16:32.271Z</updated>
+    <updated>2024-08-22T06:23:39.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14787"/>
         <updated>2024-08-22T05:15:33.777Z</updated>
         <content type="html"><![CDATA[2024.08.27(화) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천안] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14786</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14786"/>
+        <updated>2024-08-22T06:22:34.328Z</updated>
+        <content type="html"><![CDATA[2024.08.27(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부산발레시어터 [트리플 빌] 티켓오픈안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14771"/>
         <updated>2024-08-19T10:18:29.988Z</updated>
         <content type="html"><![CDATA[2024.08.23(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매제19회 부산불꽃축제 얼리버드 티켓 오픈]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14770</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14770"/>
-        <updated>2024-08-19T09:17:13.504Z</updated>
-        <content type="html"><![CDATA[2024.08.21(수) 14:00]]></content>
     </entry>
 </feed>

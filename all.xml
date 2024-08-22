@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 05:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 06:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14787</guid>
             <pubDate>Thu, 22 Aug 2024 05:15:33 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.27(화) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[천안] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14786</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14786</guid>
+            <pubDate>Thu, 22 Aug 2024 06:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.27(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부산발레시어터 [트리플 빌] 티켓오픈안내 (예스24 티켓)]]></title>
@@ -141,13 +148,6 @@
             <content:encoded><![CDATA[2024.08.23(금) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매제19회 부산불꽃축제 얼리버드 티켓 오픈 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14770</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14770</guid>
-            <pubDate>Mon, 19 Aug 2024 09:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.21(수) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[울산] 2024 라이브 가족뮤지컬 〈겨울이야기〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14790&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14790&amp;order=1</guid>
@@ -174,6 +174,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14787&amp;order=1</guid>
             <pubDate>Thu, 22 Aug 2024 05:15:42 GMT</pubDate>
             <content:encoded><![CDATA[2024-08-27(화) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[천안] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14786&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14786&amp;order=1</guid>
+            <pubDate>Thu, 22 Aug 2024 06:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-27(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부산발레시어터 [트리플 빌] 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -209,13 +216,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14781&amp;order=1</guid>
             <pubDate>Wed, 21 Aug 2024 05:15:34 GMT</pubDate>
             <content:encoded><![CDATA[2024-08-28(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 [김태균 SHOW] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14780&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14780&amp;order=1</guid>
-            <pubDate>Wed, 21 Aug 2024 05:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024-08-26(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
