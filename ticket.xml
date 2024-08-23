@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-23T08:21:54.326Z</updated>
+    <updated>2024-08-23T09:17:26.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14796"/>
         <updated>2024-08-23T08:21:01.173Z</updated>
         <content type="html"><![CDATA[2024.08.26(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 가족 뮤지컬 <꼬마공룡 크앙> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14795</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14795"/>
+        <updated>2024-08-23T09:16:27.022Z</updated>
+        <content type="html"><![CDATA[2024.08.29(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈말을 버린 사내〉 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14777"/>
         <updated>2024-08-21T02:35:38.397Z</updated>
         <content type="html"><![CDATA[2024.08.26(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마르친 바실레프스키 트리오 결성 30주년 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14776</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14776"/>
-        <updated>2024-08-20T06:22:34.256Z</updated>
-        <content type="html"><![CDATA[2024.08.22(목) 10:00]]></content>
     </entry>
 </feed>
