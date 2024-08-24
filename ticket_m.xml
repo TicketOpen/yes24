@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-24T07:15:00.788Z</updated>
+    <updated>2024-08-24T08:19:56.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14801&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14801&amp;order=1"/>
+        <updated>2024-08-24T08:19:04.327Z</updated>
+        <content type="html"><![CDATA[2024-08-30(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14800&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14800&amp;order=1"/>
+        <updated>2024-08-24T08:19:04.330Z</updated>
+        <content type="html"><![CDATA[2024-08-30(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [바람으로의 여행] 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14799&amp;order=1</id>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14792&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14792&amp;order=1"/>
         <updated>2024-08-22T08:20:01.704Z</updated>
-        <content type="html"><![CDATA[2024-08-28(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 풍류전통예술원 연작기획공연 1 - 영남의 소리를 찾아서 “복고창신（復古創新）” 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14791&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14791&amp;order=1"/>
-        <updated>2024-08-22T08:20:01.705Z</updated>
-        <content type="html"><![CDATA[2024-08-26(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 라이브 가족뮤지컬 〈겨울이야기〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14790&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14790&amp;order=1"/>
-        <updated>2024-08-22T05:15:42.449Z</updated>
         <content type="html"><![CDATA[2024-08-28(수) 09:00]]></content>
     </entry>
 </feed>
