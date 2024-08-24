@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-24T04:19:26.502Z</updated>
+    <updated>2024-08-24T05:15:52.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [바람으로의 여행] 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14799</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14799"/>
+        <updated>2024-08-24T05:14:51.494Z</updated>
+        <content type="html"><![CDATA[2024.09.04(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[수원] 2024 라이브 가족뮤지컬 〈피터팬〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14798</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14798"/>
+        <updated>2024-08-24T05:14:51.494Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14797</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14797"/>
+        <updated>2024-08-24T05:14:51.497Z</updated>
+        <content type="html"><![CDATA[2024.08.29(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 뮤지컬 〈시카고〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14796</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14780"/>
         <updated>2024-08-21T05:15:25.853Z</updated>
         <content type="html"><![CDATA[2024.08.26(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부천] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14779</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14779"/>
-        <updated>2024-08-21T04:19:57.830Z</updated>
-        <content type="html"><![CDATA[2024.08.23(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안산] 2024 심수봉 전국투어콘서트 : 꽃길 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14778</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14778"/>
-        <updated>2024-08-21T02:35:38.397Z</updated>
-        <content type="html"><![CDATA[2024.08.23(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 가족뮤지컬 〈에그박사 - 연구소에서 생긴 일〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14777</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14777"/>
-        <updated>2024-08-21T02:35:38.397Z</updated>
-        <content type="html"><![CDATA[2024.08.26(월) 10:00]]></content>
     </entry>
 </feed>

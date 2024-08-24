@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-24T04:19:26.493Z</updated>
+    <updated>2024-08-24T05:15:52.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [바람으로의 여행] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14799&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14799&amp;order=1"/>
+        <updated>2024-08-24T05:15:00.531Z</updated>
+        <content type="html"><![CDATA[2024-09-04(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[수원] 2024 라이브 가족뮤지컬 〈피터팬〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14798&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14798&amp;order=1"/>
+        <updated>2024-08-24T05:15:00.531Z</updated>
+        <content type="html"><![CDATA[2024-08-30(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14797&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14797&amp;order=1"/>
+        <updated>2024-08-24T05:15:00.532Z</updated>
+        <content type="html"><![CDATA[2024-08-29(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 뮤지컬 〈시카고〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14796&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14790&amp;order=1"/>
         <updated>2024-08-22T05:15:42.449Z</updated>
         <content type="html"><![CDATA[2024-08-28(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [하데스타운] 한국 공연 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14789&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14789&amp;order=1"/>
-        <updated>2024-08-22T05:15:42.450Z</updated>
-        <content type="html"><![CDATA[2024-08-28(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 송골매 콘서트 '열망' 두번째 [늘-봄] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14788&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14788&amp;order=1"/>
-        <updated>2024-08-22T05:15:42.451Z</updated>
-        <content type="html"><![CDATA[2024-08-30(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉 혜공 전관 - 그래이공 DAY 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14787&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14787&amp;order=1"/>
-        <updated>2024-08-22T05:15:42.451Z</updated>
-        <content type="html"><![CDATA[2024-08-27(화) 13:00]]></content>
     </entry>
 </feed>
