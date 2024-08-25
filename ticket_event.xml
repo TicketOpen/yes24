@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Aug 2024 14:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Aug 2024 15:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 관람 후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49904&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49904&amp;Tab=2</guid>
-            <pubDate>Wed, 14 Aug 2024 11:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.02 ~ 2024.08.25 | 2024.08.29 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240814/20240814-0abbd709-afd6-48a2-9e8c-3c7584d9dfc3.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <킬롤로지> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50570&amp;Tab=3</link>
@@ -48,14 +40,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240801/20240801-57a08d4e-4036-4a04-9c1c-be3af115a79e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <매직 판타지아-도로시 리턴즈> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49741&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49741&amp;Tab=2</guid>
-            <pubDate>Sat, 10 Aug 2024 21:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.20 ~ 2024.08.25 | 2024.08.27 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240723/20240723-cf492e97-a269-4e10-9edd-62cda6ca4f7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <친구의 전설> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50378&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50378&amp;Tab=3</guid>
@@ -78,6 +62,20 @@
             <pubDate>Sun, 18 Aug 2024 15:15:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-7b5b3310-d30a-44ae-b458-24ff1dc948ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Sun, 25 Aug 2024 15:16:18 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 25 Aug 2024 15:16:18 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
