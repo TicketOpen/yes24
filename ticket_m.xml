@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-26T04:20:39.248Z</updated>
+    <updated>2024-08-26T05:16:38.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 김창옥 토크콘서트 시즌4 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14807&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14807&amp;order=1"/>
+        <updated>2024-08-26T05:15:56.744Z</updated>
+        <content type="html"><![CDATA[2024-08-29(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤직드라마 <불편한 편의점> - 부산 10월 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14806&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14806&amp;order=1"/>
+        <updated>2024-08-26T05:15:56.744Z</updated>
+        <content type="html"><![CDATA[2024-08-28(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [연남동 빙굴빙굴 빨래방] 10월 공연 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14805&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14805&amp;order=1"/>
+        <updated>2024-08-26T05:15:56.745Z</updated>
+        <content type="html"><![CDATA[2024-08-30(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경산] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14804&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14798&amp;order=1"/>
         <updated>2024-08-24T05:15:00.531Z</updated>
         <content type="html"><![CDATA[2024-08-30(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14797&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14797&amp;order=1"/>
-        <updated>2024-08-24T05:15:00.532Z</updated>
-        <content type="html"><![CDATA[2024-08-29(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 뮤지컬 〈시카고〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14796&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14796&amp;order=1"/>
-        <updated>2024-08-23T08:21:08.382Z</updated>
-        <content type="html"><![CDATA[2024-08-26(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 가족 뮤지컬 <꼬마공룡 크앙> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14795&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14795&amp;order=1"/>
-        <updated>2024-08-23T09:16:35.251Z</updated>
-        <content type="html"><![CDATA[2024-08-29(목) 10:00]]></content>
     </entry>
 </feed>
