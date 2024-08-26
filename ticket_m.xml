@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-26T07:16:41.281Z</updated>
+    <updated>2024-08-26T08:23:00.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,55 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14816&amp;order=1"/>
         <updated>2024-08-26T07:15:57.566Z</updated>
         <content type="html"><![CDATA[2024-08-30(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14815&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14815&amp;order=1"/>
+        <updated>2024-08-26T08:21:58.244Z</updated>
+        <content type="html"><![CDATA[2024-10-15(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14814&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14814&amp;order=1"/>
+        <updated>2024-08-26T08:21:58.246Z</updated>
+        <content type="html"><![CDATA[2024-10-08(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14813&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14813&amp;order=1"/>
+        <updated>2024-08-26T08:21:58.246Z</updated>
+        <content type="html"><![CDATA[2024-10-01(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진주] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14812&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14812&amp;order=1"/>
+        <updated>2024-08-26T08:21:58.248Z</updated>
+        <content type="html"><![CDATA[2024-09-24(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안동] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14811&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14811&amp;order=1"/>
+        <updated>2024-08-26T08:21:58.249Z</updated>
+        <content type="html"><![CDATA[2024-09-10(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[강릉] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14810&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14810&amp;order=1"/>
+        <updated>2024-08-26T08:21:58.250Z</updated>
+        <content type="html"><![CDATA[2024-09-03(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14809&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14809&amp;order=1"/>
+        <updated>2024-08-26T08:21:58.252Z</updated>
+        <content type="html"><![CDATA[2024-08-27(화) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 〈프린세스공주〉 티켓오픈 안내]]></title>
@@ -25,54 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14807&amp;order=1"/>
         <updated>2024-08-26T05:15:56.744Z</updated>
         <content type="html"><![CDATA[2024-08-29(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤직드라마 <불편한 편의점> - 부산 10월 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14806&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14806&amp;order=1"/>
-        <updated>2024-08-26T05:15:56.744Z</updated>
-        <content type="html"><![CDATA[2024-08-28(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [연남동 빙굴빙굴 빨래방] 10월 공연 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14805&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14805&amp;order=1"/>
-        <updated>2024-08-26T05:15:56.745Z</updated>
-        <content type="html"><![CDATA[2024-08-30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경산] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14804&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14804&amp;order=1"/>
-        <updated>2024-08-26T02:39:25.322Z</updated>
-        <content type="html"><![CDATA[2024-08-29(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14803&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14803&amp;order=1"/>
-        <updated>2024-08-26T02:39:25.323Z</updated>
-        <content type="html"><![CDATA[2024-08-29(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14802&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14802&amp;order=1"/>
-        <updated>2024-08-26T02:39:25.323Z</updated>
-        <content type="html"><![CDATA[2024-08-28(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14801&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14801&amp;order=1"/>
-        <updated>2024-08-24T08:19:04.327Z</updated>
-        <content type="html"><![CDATA[2024-08-30(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14800&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14800&amp;order=1"/>
-        <updated>2024-08-24T08:19:04.330Z</updated>
-        <content type="html"><![CDATA[2024-08-30(금) 09:00]]></content>
     </entry>
 </feed>
