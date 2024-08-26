@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-26T05:16:38.443Z</updated>
+    <updated>2024-08-26T06:24:07.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 〈프린세스공주〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14808</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14808"/>
+        <updated>2024-08-26T06:23:07.239Z</updated>
+        <content type="html"><![CDATA[2024.08.27(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 김창옥 토크콘서트 시즌4 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14807</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14789"/>
         <updated>2024-08-22T05:15:33.773Z</updated>
         <content type="html"><![CDATA[2024.08.28(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 송골매 콘서트 '열망' 두번째 [늘-봄] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14788</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14788"/>
-        <updated>2024-08-22T05:15:33.774Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 18:00]]></content>
     </entry>
 </feed>
