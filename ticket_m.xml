@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-27T01:12:50.275Z</updated>
+    <updated>2024-08-27T02:38:11.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알라딘> 한국 첫 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14819&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14819&amp;order=1"/>
+        <updated>2024-08-27T02:37:19.990Z</updated>
+        <content type="html"><![CDATA[2024-09-05(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[제주] 가족매직쇼<구구쌤 마술쑈라구> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14818&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14810&amp;order=1"/>
         <updated>2024-08-26T08:21:58.250Z</updated>
         <content type="html"><![CDATA[2024-09-03(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14809&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14809&amp;order=1"/>
-        <updated>2024-08-26T08:21:58.252Z</updated>
-        <content type="html"><![CDATA[2024-08-27(화) 10:00]]></content>
     </entry>
 </feed>

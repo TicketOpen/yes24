@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-27T01:12:50.281Z</updated>
+    <updated>2024-08-27T02:38:11.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알라딘> 한국 첫 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14819</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14819"/>
+        <updated>2024-08-27T02:37:11.118Z</updated>
+        <content type="html"><![CDATA[2024.09.05(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[제주] 가족매직쇼<구구쌤 마술쑈라구> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14818</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14800"/>
         <updated>2024-08-24T08:18:54.853Z</updated>
         <content type="html"><![CDATA[2024.08.30(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [바람으로의 여행] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14799</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14799"/>
-        <updated>2024-08-24T05:14:51.494Z</updated>
-        <content type="html"><![CDATA[2024.09.04(수) 14:00]]></content>
     </entry>
 </feed>

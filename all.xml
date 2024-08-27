@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 01:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 02:38:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <알라딘> 한국 첫 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14819</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14819</guid>
+            <pubDate>Tue, 27 Aug 2024 02:37:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.05(목) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[제주] 가족매직쇼<구구쌤 마술쑈라구> 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14818</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2024.08.30(금) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [바람으로의 여행] 1차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14799</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14799</guid>
-            <pubDate>Sat, 24 Aug 2024 05:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.04(수) 14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <알라딘> 한국 첫 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14819&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14819&amp;order=1</guid>
+            <pubDate>Tue, 27 Aug 2024 02:37:19 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-05(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[제주] 가족매직쇼<구구쌤 마술쑈라구> 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -209,13 +216,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14810&amp;order=1</guid>
             <pubDate>Mon, 26 Aug 2024 08:21:58 GMT</pubDate>
             <content:encoded><![CDATA[2024-09-03(화) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대전] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14809&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14809&amp;order=1</guid>
-            <pubDate>Mon, 26 Aug 2024 08:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024-08-27(화) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [연남동 빙굴빙굴 빨래방] (YES24 티켓 ─ 엔젤티켓)]]></title>
