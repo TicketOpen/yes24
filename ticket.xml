@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-27T04:22:20.695Z</updated>
+    <updated>2024-08-27T05:17:07.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈랭보〉 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14823</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14823"/>
+        <updated>2024-08-27T05:16:09.555Z</updated>
+        <content type="html"><![CDATA[2024.09.03(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청주] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14822</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14822"/>
+        <updated>2024-08-27T05:16:09.555Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[수원] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14821</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14821"/>
+        <updated>2024-08-27T05:16:09.556Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천안] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14820</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14820"/>
+        <updated>2024-08-27T05:16:09.556Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알라딘> 한국 첫 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14819</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14804"/>
         <updated>2024-08-26T02:39:16.958Z</updated>
         <content type="html"><![CDATA[2024.08.29(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14803</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14803"/>
-        <updated>2024-08-26T02:39:16.958Z</updated>
-        <content type="html"><![CDATA[2024.08.29(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14802</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14802"/>
-        <updated>2024-08-26T02:39:16.959Z</updated>
-        <content type="html"><![CDATA[2024.08.28(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14801</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14801"/>
-        <updated>2024-08-24T08:18:54.846Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14800</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14800"/>
-        <updated>2024-08-24T08:18:54.853Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 09:00]]></content>
     </entry>
 </feed>
