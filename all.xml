@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 02:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 03:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14829</guid>
             <pubDate>Thu, 29 Aug 2024 02:39:58 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.30(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매제6회 슬로우 라이프 슬로우 라이브 2024 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14828</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14828</guid>
+            <pubDate>Thu, 29 Aug 2024 03:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.02(월) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매2024 DAZBEE Live In Seoul：sincerely 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -141,18 +148,18 @@
             <content:encoded><![CDATA[2024.09.03(화) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매[대전] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14809</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14809</guid>
-            <pubDate>Mon, 26 Aug 2024 08:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.27(화) 10:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[연장 전시] 이토 준지 호러하우스 - 10만 관객 돌파 기념 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14829&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14829&amp;order=1</guid>
             <pubDate>Thu, 29 Aug 2024 02:40:06 GMT</pubDate>
             <content:encoded><![CDATA[2024-08-30(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제6회 슬로우 라이프 슬로우 라이브 2024 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14828&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14828&amp;order=1</guid>
+            <pubDate>Thu, 29 Aug 2024 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-02(월) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 DAZBEE Live In Seoul：sincerely 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,11 +218,12 @@
             <content:encoded><![CDATA[2024-08-30(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <알라딘> 한국 첫 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14819&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14819&amp;order=1</guid>
-            <pubDate>Tue, 27 Aug 2024 02:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024-09-05(목) 14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [연남동 빙굴빙굴 빨래방] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/50693</link>
+            <guid>http://ticket.yes24.com/Perf/50693</guid>
+            <pubDate>Mon, 26 Aug 2024 01:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-50693.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈사의찬미〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -226,26 +234,15 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-49911.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [연남동 빙굴빙굴 빨래방] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/50693</link>
-            <guid>http://ticket.yes24.com/Perf/50693</guid>
-            <pubDate>Mon, 26 Aug 2024 01:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>30,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-50693.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 일리아드 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/49541</link>
-            <guid>http://m.ticket.yes24.com/Perf/49541</guid>
+            <title><![CDATA[뮤지컬 조선 이야기꾼 전기수 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/50693</link>
+            <guid>http://m.ticket.yes24.com/Perf/50693</guid>
             <pubDate>Mon, 26 Aug 2024 01:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 일리아드</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">24,000원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8월?27일(화) - 9월?5일(목)?공연(1인 4매)
-
-
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-49541.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 조선 이야기꾼 전기수</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8월 28일(수) ~ 9월 29일(일) 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-50693.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 사의찬미 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -265,15 +262,18 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-49911.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 조선 이야기꾼 전기수 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/50693</link>
-            <guid>http://m.ticket.yes24.com/Perf/50693</guid>
+            <title><![CDATA[연극 일리아드 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/49541</link>
+            <guid>http://m.ticket.yes24.com/Perf/49541</guid>
             <pubDate>Mon, 26 Aug 2024 01:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 조선 이야기꾼 전기수</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8월 28일(수) ~ 9월 29일(일) 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-50693.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<p class="goods_name">연극 일리아드</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">44,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">24,000원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8월?27일(화) - 9월?5일(목)?공연(1인 4매)
+
+
+</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-49541.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <킬롤로지> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-29T02:40:58.285Z</updated>
+    <updated>2024-08-29T03:19:09.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14829"/>
         <updated>2024-08-29T02:39:58.089Z</updated>
         <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매제6회 슬로우 라이프 슬로우 라이브 2024 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14828</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14828"/>
+        <updated>2024-08-29T03:18:05.776Z</updated>
+        <content type="html"><![CDATA[2024.09.02(월) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 DAZBEE Live In Seoul：sincerely 티켓 오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14810"/>
         <updated>2024-08-26T08:21:48.354Z</updated>
         <content type="html"><![CDATA[2024.09.03(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[대전] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14809</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14809"/>
-        <updated>2024-08-26T08:21:48.355Z</updated>
-        <content type="html"><![CDATA[2024.08.27(화) 10:00]]></content>
     </entry>
 </feed>
