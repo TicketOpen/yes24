@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 14:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 15:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -234,6 +234,17 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-49911.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 조선 이야기꾼 전기수 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/50693</link>
+            <guid>http://m.ticket.yes24.com/Perf/50693</guid>
+            <pubDate>Mon, 26 Aug 2024 01:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 조선 이야기꾼 전기수</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8월 28일(수) ~ 9월 29일(일) 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-50693.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 사의찬미 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/49911</link>
             <guid>http://m.ticket.yes24.com/Perf/49911</guid>
@@ -263,17 +274,6 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-49541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 조선 이야기꾼 전기수 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/50693</link>
-            <guid>http://m.ticket.yes24.com/Perf/50693</guid>
-            <pubDate>Mon, 26 Aug 2024 01:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 조선 이야기꾼 전기수</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8월 28일(수) ~ 9월 29일(일) 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-50693.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <킬롤로지> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -426,27 +426,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[연극 빵야] 조금이나마 털어놓을 수 있어서 좋았어* (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.08.27 ~ 2024.08.29</dd><dt>사용기간</dt><dd>2024.08.27 ~ 2024.08.29</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[연극 빵야] 8/29 S석 2천원 할인 쿠폰* (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.08.23 ~ 2024.08.29</dd><dt>사용기간</dt><dd>2024.08.23 ~ 2024.08.29</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[연극 빵야] 8/29 R석 3천원 할인 쿠폰* (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.08.23 ~ 2024.08.29</dd><dt>사용기간</dt><dd>2024.08.23 ~ 2024.08.29</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -473,27 +452,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</guid>
             <pubDate>Sun, 07 Apr 2024 17:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[연극 빵야] 조금이나마 털어놓을 수 있어서 좋았어* (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48642</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48642</guid>
-            <pubDate>Mon, 26 Aug 2024 15:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 10%]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[연극 빵야] 8/29 R석 3천원 할인 쿠폰* (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48632</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48632</guid>
-            <pubDate>Fri, 23 Aug 2024 11:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[연극 빵야] 8/29 S석 2천원 할인 쿠폰* (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48633</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=48633</guid>
-            <pubDate>Fri, 23 Aug 2024 11:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 2,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
