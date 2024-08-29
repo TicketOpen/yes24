@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-29T04:20:23.618Z</updated>
+    <updated>2024-08-29T05:16:57.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 이은미 콘서트 MOVE ON 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14832</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14832"/>
+        <updated>2024-08-29T05:15:57.733Z</updated>
+        <content type="html"><![CDATA[2024.09.05(목) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2024 이은미 콘서트 MOVE ON 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14831</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14831"/>
+        <updated>2024-08-29T05:15:57.733Z</updated>
+        <content type="html"><![CDATA[2024.09.05(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 이은미 콘서트 MOVE ON 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14830</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14830"/>
+        <updated>2024-08-29T05:15:57.733Z</updated>
+        <content type="html"><![CDATA[2024.09.05(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연장 전시] 이토 준지 호러하우스 - 10만 관객 돌파 기념 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14829</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14813"/>
         <updated>2024-08-26T08:21:48.350Z</updated>
         <content type="html"><![CDATA[2024.10.01(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[진주] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14812</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14812"/>
-        <updated>2024-08-26T08:21:48.350Z</updated>
-        <content type="html"><![CDATA[2024.09.24(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[안동] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14811</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14811"/>
-        <updated>2024-08-26T08:21:48.350Z</updated>
-        <content type="html"><![CDATA[2024.09.10(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[강릉] 나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14810</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14810"/>
-        <updated>2024-08-26T08:21:48.354Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 10:00]]></content>
     </entry>
 </feed>
