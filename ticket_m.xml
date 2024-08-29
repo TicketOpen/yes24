@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-29T01:14:04.150Z</updated>
+    <updated>2024-08-29T02:40:58.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[연장 전시] 이토 준지 호러하우스 - 10만 관객 돌파 기념 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14829&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14829&amp;order=1"/>
+        <updated>2024-08-29T02:40:06.981Z</updated>
+        <content type="html"><![CDATA[2024-08-30(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 DAZBEE Live In Seoul：sincerely 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14827&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14819&amp;order=1"/>
         <updated>2024-08-27T02:37:19.990Z</updated>
         <content type="html"><![CDATA[2024-09-05(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제주] 가족매직쇼<구구쌤 마술쑈라구> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14818&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14818&amp;order=1"/>
-        <updated>2024-08-26T09:17:22.633Z</updated>
-        <content type="html"><![CDATA[2024-08-29(목) 09:00]]></content>
     </entry>
 </feed>

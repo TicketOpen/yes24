@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-29T01:14:03.981Z</updated>
+    <updated>2024-08-29T02:40:58.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[연장 전시] 이토 준지 호러하우스 - 10만 관객 돌파 기념 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14829</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14829"/>
+        <updated>2024-08-29T02:39:58.089Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 DAZBEE Live In Seoul：sincerely 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14827</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14809"/>
         <updated>2024-08-26T08:21:48.355Z</updated>
         <content type="html"><![CDATA[2024.08.27(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 〈프린세스공주〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14808</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14808"/>
-        <updated>2024-08-26T06:23:07.239Z</updated>
-        <content type="html"><![CDATA[2024.08.27(화) 09:00]]></content>
     </entry>
 </feed>
