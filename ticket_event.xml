@@ -4,11 +4,19 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 03:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 04:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 <리온의 신비한 과자상점 >기대평 이벤트]]></title>
+            <title><![CDATA[연극 <말을 버린 사내> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50826&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50826&amp;Tab=3</guid>
+            <pubDate>Fri, 30 Aug 2024 04:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30 ~ 2024.09.10 | 2024.09.13 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240830/20240830-1c757488-266d-4081-bc4d-2a8dc08a22fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<리온의 신비한 과자상점 >기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50723&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50723&amp;Tab=3</guid>
             <pubDate>Fri, 30 Aug 2024 03:18:31 GMT</pubDate>
@@ -70,13 +78,6 @@
             <pubDate>Thu, 29 Aug 2024 01:13:43 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202404/20240401/20240401-7b5b3310-d30a-44ae-b458-24ff1dc948ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Wed, 28 Aug 2024 12:32:49 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
