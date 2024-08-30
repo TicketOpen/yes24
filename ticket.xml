@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-30T05:17:00.215Z</updated>
+    <updated>2024-08-30T06:24:26.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사의찬미 2024 2ND STAGE> 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14844</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14844"/>
+        <updated>2024-08-30T06:23:26.049Z</updated>
+        <content type="html"><![CDATA[2024.09.03(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2 마지막 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14842</id>
@@ -97,7 +104,7 @@
         <content type="html"><![CDATA[2024.09.05(목) 15:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연장 전시] 이토 준지 호러하우스 - 10만 관객 돌파 기념 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[연장 전시] 이토 준지 호러하우스 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14829</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14829"/>
         <updated>2024-08-29T02:39:58.089Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14824"/>
         <updated>2024-08-27T09:17:00.713Z</updated>
         <content type="html"><![CDATA[2024.09.03(화) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈랭보〉 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14823</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14823"/>
-        <updated>2024-08-27T05:16:09.555Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 14:00]]></content>
     </entry>
 </feed>
