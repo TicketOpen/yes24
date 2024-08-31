@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 14:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 15:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -251,17 +251,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-49911.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 조선 이야기꾼 전기수 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/50693</link>
-            <guid>http://m.ticket.yes24.com/Perf/50693</guid>
-            <pubDate>Mon, 26 Aug 2024 01:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 조선 이야기꾼 전기수</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8월 28일(수) ~ 9월 29일(일) 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-50693.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 일리아드 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/49541</link>
             <guid>http://m.ticket.yes24.com/Perf/49541</guid>
@@ -274,6 +263,17 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-49541.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 조선 이야기꾼 전기수 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/50693</link>
+            <guid>http://m.ticket.yes24.com/Perf/50693</guid>
+            <pubDate>Mon, 26 Aug 2024 01:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 조선 이야기꾼 전기수</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">50</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">8월 28일(수) ~ 9월 29일(일) 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202408/20240826/20240826-50693.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <말을 버린 사내> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -324,14 +324,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240801/20240801-57a08d4e-4036-4a04-9c1c-be3af115a79e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <친구의 전설> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50378&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50378&amp;Tab=3</guid>
-            <pubDate>Wed, 28 Aug 2024 12:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.18 ~ 2024.08.31 | 2024.09.03 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240718/20240718-bfdc3c53-8980-40c8-98be-9e432186d393.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <살리에르> 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49727&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=49727&amp;Tab=2</guid>
@@ -346,6 +338,13 @@
             <pubDate>Thu, 29 Aug 2024 01:13:43 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240830/20240830-90160fff-cfdc-4eed-acd9-10811ddf7629.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Sat, 31 Aug 2024 15:17:08 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.08.30 ~ 2024.09.10 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -394,14 +393,6 @@
             <pubDate>Thu, 01 Aug 2024 06:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;시데레우스&gt; 배우 사인 프로그램북]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240801/20240801-57a08d4e-4036-4a04-9c1c-be3af115a79e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.07.18 ~ 2024.08.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=50378</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=50378</guid>
-            <pubDate>Thu, 18 Jul 2024 02:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2024년 10월 11일(금) 오후 2시 공연]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202407/20240718/20240718-bfdc3c53-8980-40c8-98be-9e432186d393.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.07.15 ~ 2024.09.21 (YES24 티켓 ─ 이벤트 모바일)]]></title>
