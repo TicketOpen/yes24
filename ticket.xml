@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-02T01:15:35.305Z</updated>
+    <updated>2024-09-02T02:44:25.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14849</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14849"/>
+        <updated>2024-09-02T02:43:14.081Z</updated>
+        <content type="html"><![CDATA[2024.09.20(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬〈호두까기인형〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14848</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14830"/>
         <updated>2024-08-29T05:15:57.733Z</updated>
         <content type="html"><![CDATA[2024.09.05(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연장 전시] 이토 준지 호러하우스 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14829</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14829"/>
-        <updated>2024-08-29T02:39:58.089Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
     </entry>
 </feed>
