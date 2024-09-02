@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-02T04:21:11.815Z</updated>
+    <updated>2024-09-02T05:17:20.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <드라이 플라워> 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14850&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14850&amp;order=1"/>
+        <updated>2024-09-02T05:16:27.257Z</updated>
+        <content type="html"><![CDATA[2024-09-04(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14849&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14841&amp;order=1"/>
         <updated>2024-08-30T02:40:49.284Z</updated>
         <content type="html"><![CDATA[2024-09-06(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 부산국제공연예술마켓(BPAM) 전일권 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14840&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14840&amp;order=1"/>
-        <updated>2024-08-30T02:40:49.284Z</updated>
-        <content type="html"><![CDATA[2024-08-30(금) 14:00]]></content>
     </entry>
 </feed>
