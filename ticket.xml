@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-03T02:40:13.757Z</updated>
+    <updated>2024-09-03T03:19:40.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[울산] 유쾌한 힐링 연극 〈여자만세2〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14854</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14854"/>
+        <updated>2024-09-03T03:18:42.024Z</updated>
+        <content type="html"><![CDATA[2024.09.04(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Xdinary Heroes Concert〈Closed ♭eta: v6.4〉추가 좌석 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14853</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14835</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14835"/>
         <updated>2024-08-30T02:40:40.836Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] 뮤지컬 〈1976 할란카운티〉 콘서트 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14834</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14834"/>
-        <updated>2024-08-30T02:40:40.837Z</updated>
         <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
     </entry>
 </feed>
