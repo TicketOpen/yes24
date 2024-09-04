@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-03T23:18:12.521Z</updated>
+    <updated>2024-09-04T01:14:33.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 〈빈센트 반 고흐〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14856</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14856"/>
+        <updated>2024-09-04T01:13:31.411Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14855</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14855"/>
+        <updated>2024-09-04T01:13:31.411Z</updated>
+        <content type="html"><![CDATA[2024.09.09(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[울산] 유쾌한 힐링 연극 〈여자만세2〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14854</id>
@@ -129,20 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14837</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14837"/>
         <updated>2024-08-30T02:40:40.833Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] 더 라틴 터치(The Latin Touch) ＆ 피아노 병창 ＂춘향＂ 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14836</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14836"/>
-        <updated>2024-08-30T02:40:40.835Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] Open Your Arms 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14835</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14835"/>
-        <updated>2024-08-30T02:40:40.836Z</updated>
         <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
     </entry>
 </feed>
