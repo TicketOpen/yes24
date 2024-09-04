@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-04T01:14:33.305Z</updated>
+    <updated>2024-09-04T02:41:32.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[양산] 2024 라이브가족뮤지컬 〈루돌프의크리스마스선물 〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14862</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14862"/>
+        <updated>2024-09-04T02:40:37.077Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14857</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14857"/>
+        <updated>2024-09-04T02:40:37.077Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 뮤지컬 〈빈센트 반 고흐〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14856</id>
@@ -129,20 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14839</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14839"/>
         <updated>2024-08-30T02:40:40.830Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] 라 갈르리(La Galerie) 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14838</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14838"/>
-        <updated>2024-08-30T02:40:40.830Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] 두들팝 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14837</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14837"/>
-        <updated>2024-08-30T02:40:40.833Z</updated>
         <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
     </entry>
 </feed>
