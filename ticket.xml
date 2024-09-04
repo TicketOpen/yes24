@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-04T04:21:10.833Z</updated>
+    <updated>2024-09-04T05:18:28.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 하데스타운 부산 공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14864</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14864"/>
+        <updated>2024-09-04T05:17:29.146Z</updated>
+        <content type="html"><![CDATA[2024.09.12(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14863</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14863"/>
+        <updated>2024-09-04T05:17:29.147Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[양산] 2024 라이브가족뮤지컬 〈루돌프의크리스마스선물 〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14862</id>
@@ -32,6 +46,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14859"/>
         <updated>2024-09-04T03:17:42.780Z</updated>
         <content type="html"><![CDATA[2024.09.10(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB 시야제한석 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14858</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14858"/>
+        <updated>2024-09-04T05:17:29.151Z</updated>
+        <content type="html"><![CDATA[2024.09.09(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> 티켓오픈 안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14845"/>
         <updated>2024-08-30T09:18:27.441Z</updated>
         <content type="html"><![CDATA[2024.09.02(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <사의찬미 2024 2ND STAGE> 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14844</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14844"/>
-        <updated>2024-08-30T06:23:26.049Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 연극 〈친정엄마와 2박3일〉 - 익산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14843</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14843"/>
-        <updated>2024-08-30T07:15:54.631Z</updated>
-        <content type="html"><![CDATA[2024.09.05(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2 마지막 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14842</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14842"/>
-        <updated>2024-08-30T05:15:59.729Z</updated>
-        <content type="html"><![CDATA[2024.09.09(월) 14:00]]></content>
     </entry>
 </feed>
