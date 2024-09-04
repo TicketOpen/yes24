@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-04T02:41:32.905Z</updated>
+    <updated>2024-09-04T03:18:44.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14862&amp;order=1"/>
         <updated>2024-09-04T02:40:44.955Z</updated>
         <content type="html"><![CDATA[2024-09-10(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14861&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14861&amp;order=1"/>
+        <updated>2024-09-04T03:17:52.273Z</updated>
+        <content type="html"><![CDATA[2024-09-10(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마포] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14860&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14860&amp;order=1"/>
+        <updated>2024-09-04T03:17:52.273Z</updated>
+        <content type="html"><![CDATA[2024-09-10(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[성남] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14859&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14859&amp;order=1"/>
+        <updated>2024-09-04T03:17:52.275Z</updated>
+        <content type="html"><![CDATA[2024-09-10(화) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> 티켓오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14852&amp;order=1"/>
         <updated>2024-09-02T06:24:11.854Z</updated>
         <content type="html"><![CDATA[2024-09-03(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14851&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14851&amp;order=1"/>
-        <updated>2024-09-03T01:12:32.344Z</updated>
-        <content type="html"><![CDATA[2024-09-06(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <드라이 플라워> 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14850&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14850&amp;order=1"/>
-        <updated>2024-09-02T05:16:27.257Z</updated>
-        <content type="html"><![CDATA[2024-09-04(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14849&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14849&amp;order=1"/>
-        <updated>2024-09-02T02:43:32.141Z</updated>
-        <content type="html"><![CDATA[2024-09-20(금) 14:00]]></content>
     </entry>
 </feed>

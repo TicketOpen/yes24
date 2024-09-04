@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-04T02:41:32.913Z</updated>
+    <updated>2024-09-04T03:18:44.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14862"/>
         <updated>2024-09-04T02:40:37.077Z</updated>
         <content type="html"><![CDATA[2024.09.10(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14861</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14861"/>
+        <updated>2024-09-04T03:17:42.770Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마포] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14860</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14860"/>
+        <updated>2024-09-04T03:17:42.771Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[성남] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14859</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14859"/>
+        <updated>2024-09-04T03:17:42.780Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> 티켓오픈 안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14842"/>
         <updated>2024-08-30T05:15:59.729Z</updated>
         <content type="html"><![CDATA[2024.09.09(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 뮤지컬 〈친구의 전설〉 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14841</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14841"/>
-        <updated>2024-08-30T02:40:40.824Z</updated>
-        <content type="html"><![CDATA[2024.09.06(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] 2024 부산국제공연예술마켓(BPAM) 전일권 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14840</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14840"/>
-        <updated>2024-08-30T02:40:40.830Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] 영남무악 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14839</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14839"/>
-        <updated>2024-08-30T02:40:40.830Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
     </entry>
 </feed>
