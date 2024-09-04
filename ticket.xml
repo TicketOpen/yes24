@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-04T06:26:40.288Z</updated>
+    <updated>2024-09-04T07:17:00.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 예술의전당 토월정통연극 〈햄릿〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14865</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14865"/>
+        <updated>2024-09-04T07:15:52.993Z</updated>
+        <content type="html"><![CDATA[2024.09.06(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 하데스타운 부산 공연 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14864</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14846"/>
         <updated>2024-08-30T11:15:26.306Z</updated>
         <content type="html"><![CDATA[2024.09.04(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.09.02(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매tripleS 공식 팬클럽 WAV 1기 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14845</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14845"/>
-        <updated>2024-08-30T09:18:27.441Z</updated>
-        <content type="html"><![CDATA[2024.09.02(월) 13:00]]></content>
     </entry>
 </feed>
