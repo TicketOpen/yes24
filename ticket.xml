@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-05T06:24:05.505Z</updated>
+    <updated>2024-09-05T07:16:37.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매제1252회 서초금요음악회 [헝가리국립무용단 특별공연- 카르파티아인의 메아리] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14868</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14868"/>
+        <updated>2024-09-05T07:15:41.293Z</updated>
+        <content type="html"><![CDATA[2024.09.11(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 파크 콘서트 in 창원 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14867</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14849"/>
         <updated>2024-09-02T02:43:14.081Z</updated>
         <content type="html"><![CDATA[2024.09.20(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬〈호두까기인형〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14848</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14848"/>
-        <updated>2024-08-30T11:15:26.302Z</updated>
-        <content type="html"><![CDATA[2024.09.02(월) 09:00]]></content>
     </entry>
 </feed>
