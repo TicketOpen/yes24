@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-06T08:21:49.514Z</updated>
+    <updated>2024-09-06T09:18:25.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 SCRUBB First Concert in Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14874</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14874"/>
+        <updated>2024-09-06T09:17:35.845Z</updated>
+        <content type="html"><![CDATA[2024.09.09(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매스낵타운 만담 전국투어 [LEGEND] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14873</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14855"/>
         <updated>2024-09-04T01:13:31.411Z</updated>
         <content type="html"><![CDATA[2024.09.09(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[울산] 유쾌한 힐링 연극 〈여자만세2〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14854</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14854"/>
-        <updated>2024-09-03T03:18:42.024Z</updated>
-        <content type="html"><![CDATA[2024.09.04(수) 10:00]]></content>
     </entry>
 </feed>
