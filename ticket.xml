@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-05T23:18:41.832Z</updated>
+    <updated>2024-09-06T01:14:26.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14872</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14872"/>
+        <updated>2024-09-06T01:13:28.120Z</updated>
+        <content type="html"><![CDATA[2024.09.11(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14871</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14871"/>
+        <updated>2024-09-06T01:13:28.122Z</updated>
+        <content type="html"><![CDATA[2024.09.11(수) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김해] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14870</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14870"/>
+        <updated>2024-09-06T01:13:28.122Z</updated>
+        <content type="html"><![CDATA[2024.09.11(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매wacci First Live in Korea 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14869</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14869"/>
+        <updated>2024-09-06T01:13:28.123Z</updated>
+        <content type="html"><![CDATA[2024.09.09(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매제1252회 서초금요음악회 [헝가리국립무용단 특별공연- 카르파티아인의 메아리] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14868</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14853"/>
         <updated>2024-09-03T01:12:23.126Z</updated>
         <content type="html"><![CDATA[2024.09.04(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2024 라이브가족뮤지컬〈산타와루돌프〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14852</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14852"/>
-        <updated>2024-09-02T06:24:03.548Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14851</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14851"/>
-        <updated>2024-09-03T01:12:23.126Z</updated>
-        <content type="html"><![CDATA[2024.09.06(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <드라이 플라워> 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14850</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14850"/>
-        <updated>2024-09-02T05:16:18.223Z</updated>
-        <content type="html"><![CDATA[2024.09.04(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14849</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14849"/>
-        <updated>2024-09-02T02:43:14.081Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 14:00]]></content>
     </entry>
 </feed>
