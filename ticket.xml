@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-09T02:46:24.718Z</updated>
+    <updated>2024-09-09T03:20:40.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매ZHANGZHEHAN 2024 CONCERT [PRIOMRDIAL THEATER II] IN SEOUL 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14877</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14877"/>
+        <updated>2024-09-09T03:19:41.113Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고양] 헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14876</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14858"/>
         <updated>2024-09-04T05:17:29.151Z</updated>
         <content type="html"><![CDATA[2024.09.09(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14857</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14857"/>
-        <updated>2024-09-04T02:40:37.077Z</updated>
-        <content type="html"><![CDATA[2024.09.10(화) 14:00]]></content>
     </entry>
 </feed>
