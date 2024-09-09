@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-09T08:23:38.952Z</updated>
+    <updated>2024-09-09T09:20:28.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 가족마술콘서트〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14879</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14879"/>
+        <updated>2024-09-09T09:19:30.153Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원(진해)] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14878</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14878"/>
+        <updated>2024-09-09T09:19:30.158Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매ZHANGZHEHAN 2024 CONCERT [PRIOMRDIAL THEATER II] IN SEOUL 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14877</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14860"/>
         <updated>2024-09-04T03:17:42.771Z</updated>
         <content type="html"><![CDATA[2024.09.10(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14859</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14859"/>
-        <updated>2024-09-04T03:17:42.780Z</updated>
-        <content type="html"><![CDATA[2024.09.10(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB 시야제한석 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14858</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14858"/>
-        <updated>2024-09-04T05:17:29.151Z</updated>
-        <content type="html"><![CDATA[2024.09.09(월) 20:00]]></content>
     </entry>
 </feed>

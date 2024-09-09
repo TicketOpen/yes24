@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-09T08:23:38.961Z</updated>
+    <updated>2024-09-09T09:20:28.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 가족마술콘서트〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14879&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14879&amp;order=1"/>
+        <updated>2024-09-09T09:19:39.232Z</updated>
+        <content type="html"><![CDATA[2024-09-10(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원(진해)] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14878&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14878&amp;order=1"/>
+        <updated>2024-09-09T09:19:39.235Z</updated>
+        <content type="html"><![CDATA[2024-09-10(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZHANGZHEHAN 2024 CONCERT [PRIOMRDIAL THEATER II] IN SEOUL 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14877&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14870&amp;order=1"/>
         <updated>2024-09-06T01:13:36.465Z</updated>
         <content type="html"><![CDATA[2024-09-11(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wacci First Live in Korea 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14869&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14869&amp;order=1"/>
-        <updated>2024-09-06T01:13:36.467Z</updated>
-        <content type="html"><![CDATA[2024-09-09(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제1252회 서초금요음악회 [헝가리국립무용단 특별공연- 카르파티아인의 메아리] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14868&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14868&amp;order=1"/>
-        <updated>2024-09-05T07:15:50.094Z</updated>
-        <content type="html"><![CDATA[2024-09-11(수) 09:00]]></content>
     </entry>
 </feed>
