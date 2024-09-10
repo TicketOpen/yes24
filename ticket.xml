@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-09T23:18:21.759Z</updated>
+    <updated>2024-09-10T01:15:21.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[강원] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14882</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14882"/>
+        <updated>2024-09-10T01:14:32.197Z</updated>
+        <content type="html"><![CDATA[2024.09.12(목) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14881</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14881"/>
+        <updated>2024-09-10T01:14:32.201Z</updated>
+        <content type="html"><![CDATA[2024.09.12(목) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천안] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14880</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14880"/>
+        <updated>2024-09-10T01:14:32.201Z</updated>
+        <content type="html"><![CDATA[2024.09.12(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 가족마술콘서트〈매직오브아트시즌2〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14879</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14863"/>
         <updated>2024-09-04T05:17:29.147Z</updated>
         <content type="html"><![CDATA[2024.09.10(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[양산] 2024 라이브가족뮤지컬 〈루돌프의크리스마스선물 〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14862</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14862"/>
-        <updated>2024-09-04T02:40:37.077Z</updated>
-        <content type="html"><![CDATA[2024.09.10(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14861</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14861"/>
-        <updated>2024-09-04T03:17:42.770Z</updated>
-        <content type="html"><![CDATA[2024.09.10(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마포] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14860</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14860"/>
-        <updated>2024-09-04T03:17:42.771Z</updated>
-        <content type="html"><![CDATA[2024.09.10(화) 12:00]]></content>
     </entry>
 </feed>
