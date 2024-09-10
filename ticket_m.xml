@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-10T04:20:43.899Z</updated>
+    <updated>2024-09-10T05:17:43.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[파보 예르비 ＆ 도이치 캄머필하모닉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14886&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14886&amp;order=1"/>
+        <updated>2024-09-10T05:17:03.746Z</updated>
+        <content type="html"><![CDATA[2024-09-12(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAY6 3RD WORLD TOUR〈FOREVER YOUNG〉in INCHEON 시야제한석 추가 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14885&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14885&amp;order=1"/>
         <updated>2024-09-10T03:19:07.153Z</updated>
         <content type="html"><![CDATA[2024-09-12(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 7차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14884&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14884&amp;order=1"/>
+        <updated>2024-09-10T05:17:03.748Z</updated>
+        <content type="html"><![CDATA[2024-09-13(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인천] <설민석의 한국사 대모험 - 영웅의 시간> 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14877&amp;order=1"/>
         <updated>2024-09-09T03:19:50.270Z</updated>
         <content type="html"><![CDATA[2024-09-26(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14876&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14876&amp;order=1"/>
-        <updated>2024-09-09T01:16:13.394Z</updated>
-        <content type="html"><![CDATA[2024-09-12(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14875&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14875&amp;order=1"/>
-        <updated>2024-09-09T01:16:13.394Z</updated>
-        <content type="html"><![CDATA[2024-09-10(화) 10:00]]></content>
     </entry>
 </feed>
