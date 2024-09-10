@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-10T06:24:31.749Z</updated>
+    <updated>2024-09-10T07:18:02.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[리 릿나워 ＆ 데이브 그루신 with 이반 린스와 브라질 친구들 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14887</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14887"/>
+        <updated>2024-09-10T07:17:02.305Z</updated>
+        <content type="html"><![CDATA[2024.09.13(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파보 예르비 ＆ 도이치 캄머필하모닉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14886</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14868"/>
         <updated>2024-09-05T07:15:41.293Z</updated>
         <content type="html"><![CDATA[2024.09.11(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 파크 콘서트 in 창원 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14867</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14867"/>
-        <updated>2024-09-05T02:41:17.248Z</updated>
-        <content type="html"><![CDATA[2024.09.11(수) 15:00]]></content>
     </entry>
 </feed>
