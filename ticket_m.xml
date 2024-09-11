@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-11T01:14:41.620Z</updated>
+    <updated>2024-09-11T02:41:50.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 가족뮤지컬 <또봇 - 대도시의 영웅들> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14896&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14896&amp;order=1"/>
+        <updated>2024-09-11T02:41:09.790Z</updated>
+        <content type="html"><![CDATA[2024-09-20(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 부산국제공연예술마켓(BPAM) - 고르니슈트(GORNISHT) 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14895&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14895&amp;order=1"/>
+        <updated>2024-09-11T02:41:09.791Z</updated>
+        <content type="html"><![CDATA[2024-09-11(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬 〈루돌프의 크리스마스선물〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14894&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14886&amp;order=1"/>
         <updated>2024-09-10T05:17:03.746Z</updated>
         <content type="html"><![CDATA[2024-09-12(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAY6 3RD WORLD TOUR〈FOREVER YOUNG〉in INCHEON 시야제한석 추가 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14885&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14885&amp;order=1"/>
-        <updated>2024-09-10T03:19:07.153Z</updated>
-        <content type="html"><![CDATA[2024-09-12(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 7차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14884&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14884&amp;order=1"/>
-        <updated>2024-09-10T05:17:03.748Z</updated>
-        <content type="html"><![CDATA[2024-09-13(금) 14:00]]></content>
     </entry>
 </feed>
