@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-11T06:24:22.207Z</updated>
+    <updated>2024-09-11T07:16:31.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 V.O.S 20주년 전국투어 콘서트 〈우리의 스무살〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14901&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14901&amp;order=1"/>
+        <updated>2024-09-11T07:15:41.648Z</updated>
+        <content type="html"><![CDATA[2024-09-19(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 시티보이_로그 팬미팅 [CITYBOY House Party] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14900&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14891&amp;order=1"/>
         <updated>2024-09-10T09:19:04.548Z</updated>
         <content type="html"><![CDATA[2024-09-12(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 가족매직쇼 〈스노우버블쇼〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14890&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14890&amp;order=1"/>
-        <updated>2024-09-10T09:19:04.550Z</updated>
-        <content type="html"><![CDATA[2024-09-11(수) 09:00]]></content>
     </entry>
 </feed>
