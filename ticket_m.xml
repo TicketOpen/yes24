@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-11T07:16:31.660Z</updated>
+    <updated>2024-09-11T08:22:29.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2024 크리스마스캐롤 싱어롱 뮤지컬 〈산타클로스와브레멘음악대〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14904&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14904&amp;order=1"/>
+        <updated>2024-09-11T08:21:42.424Z</updated>
+        <content type="html"><![CDATA[2024-09-13(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양] 2024 크리스마스특집 가족매직쇼〈류엘의 매직크리스마스〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14902&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14902&amp;order=1"/>
+        <updated>2024-09-11T08:21:42.428Z</updated>
+        <content type="html"><![CDATA[2024-09-13(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2024 V.O.S 20주년 전국투어 콘서트 〈우리의 스무살〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14901&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14893&amp;order=1"/>
         <updated>2024-09-10T09:19:04.546Z</updated>
         <content type="html"><![CDATA[2024-09-11(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 크리스마스캐롤 싱어롱 뮤지컬 〈산타클로스와 브레멘음악대〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14892&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14892&amp;order=1"/>
-        <updated>2024-09-10T09:19:04.547Z</updated>
-        <content type="html"><![CDATA[2024-09-12(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14891&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14891&amp;order=1"/>
-        <updated>2024-09-10T09:19:04.548Z</updated>
-        <content type="html"><![CDATA[2024-09-12(목) 09:00]]></content>
     </entry>
 </feed>
