@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-11T05:18:24.138Z</updated>
+    <updated>2024-09-11T06:24:22.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 시티보이_로그 팬미팅 [CITYBOY House Party] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14900&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14900&amp;order=1"/>
+        <updated>2024-09-11T06:23:32.491Z</updated>
+        <content type="html"><![CDATA[2024-09-13(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이비드 내한공연 (d4vd - My House Is Not A Home Tour) 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14899&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14890&amp;order=1"/>
         <updated>2024-09-10T09:19:04.550Z</updated>
         <content type="html"><![CDATA[2024-09-11(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes Concert 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14888&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14888&amp;order=1"/>
-        <updated>2024-09-10T08:21:12.062Z</updated>
-        <content type="html"><![CDATA[2024-09-25(수) 20:00]]></content>
     </entry>
 </feed>
