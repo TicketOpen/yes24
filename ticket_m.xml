@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-11T09:18:46.999Z</updated>
+    <updated>2024-09-11T10:18:15.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬 〈루돌프의크리스마스선물〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14905&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14905&amp;order=1"/>
+        <updated>2024-09-11T10:17:34.776Z</updated>
+        <content type="html"><![CDATA[2024-09-12(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안양] 2024 크리스마스캐롤 싱어롱 뮤지컬 〈산타클로스와브레멘음악대〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14904&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14895&amp;order=1"/>
         <updated>2024-09-11T02:41:09.791Z</updated>
         <content type="html"><![CDATA[2024-09-11(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬 〈루돌프의 크리스마스선물〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14894&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14894&amp;order=1"/>
-        <updated>2024-09-10T09:19:04.546Z</updated>
-        <content type="html"><![CDATA[2024-09-12(목) 09:00]]></content>
     </entry>
 </feed>
