@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-11T08:22:29.181Z</updated>
+    <updated>2024-09-11T09:18:46.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14904&amp;order=1"/>
         <updated>2024-09-11T08:21:42.424Z</updated>
         <content type="html"><![CDATA[2024-09-13(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seoul Concert ’24 : Yours Truly, CAMO 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14903&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14903&amp;order=1"/>
+        <updated>2024-09-11T09:17:52.432Z</updated>
+        <content type="html"><![CDATA[2024-09-13(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고양] 2024 크리스마스특집 가족매직쇼〈류엘의 매직크리스마스〉 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14894&amp;order=1"/>
         <updated>2024-09-10T09:19:04.546Z</updated>
         <content type="html"><![CDATA[2024-09-12(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14893&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14893&amp;order=1"/>
-        <updated>2024-09-10T09:19:04.546Z</updated>
-        <content type="html"><![CDATA[2024-09-11(수) 09:00]]></content>
     </entry>
 </feed>
