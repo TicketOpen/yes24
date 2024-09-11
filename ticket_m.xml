@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-11T02:41:50.611Z</updated>
+    <updated>2024-09-11T03:18:44.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[데이비드 내한공연 (d4vd - My House Is Not A Home Tour) 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14899&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14899&amp;order=1"/>
+        <updated>2024-09-11T03:18:00.667Z</updated>
+        <content type="html"><![CDATA[2024-09-20(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QWER 2nd Mini Album ‘Algorithm’s Blossom’ Showcase 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14898&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14898&amp;order=1"/>
+        <updated>2024-09-11T03:18:00.668Z</updated>
+        <content type="html"><![CDATA[2024-09-13(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 가족뮤지컬 <또봇 - 대도시의 영웅들> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14896&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14888&amp;order=1"/>
         <updated>2024-09-10T08:21:12.062Z</updated>
         <content type="html"><![CDATA[2024-09-25(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리 릿나워 ＆ 데이브 그루신 with 이반 린스와 브라질 친구들 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14887&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14887&amp;order=1"/>
-        <updated>2024-09-10T07:17:11.381Z</updated>
-        <content type="html"><![CDATA[2024-09-13(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파보 예르비 ＆ 도이치 캄머필하모닉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14886&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14886&amp;order=1"/>
-        <updated>2024-09-10T05:17:03.746Z</updated>
-        <content type="html"><![CDATA[2024-09-12(목) 15:00]]></content>
     </entry>
 </feed>
