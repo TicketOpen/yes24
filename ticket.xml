@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-12T06:25:06.320Z</updated>
+    <updated>2024-09-12T07:17:16.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(9/15, 9/19)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14908</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14908"/>
+        <updated>2024-09-12T07:16:06.220Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이천] 2024 오누이 ＂우리들의 학창시절＂ [김용임,진성] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14907</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14887"/>
         <updated>2024-09-10T07:17:02.305Z</updated>
         <content type="html"><![CDATA[2024.09.13(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파보 예르비 ＆ 도이치 캄머필하모닉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14886</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14886"/>
-        <updated>2024-09-10T05:16:56.196Z</updated>
-        <content type="html"><![CDATA[2024.09.12(목) 15:00]]></content>
     </entry>
 </feed>
