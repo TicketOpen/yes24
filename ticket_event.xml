@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 14:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 15:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한가위 추천 공연]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3666</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3666</guid>
+            <pubDate>Thu, 12 Sep 2024 15:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.13 ~ 2024.09.18]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240912/20240912-fea89bfb-c29a-41a1-9194-d34c0cb6569e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <빈센트 반 고흐>  관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50536&amp;Tab=2</link>
@@ -30,14 +38,6 @@
             <pubDate>Thu, 05 Sep 2024 06:23:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.05 ~ 2024.11.21 | 2024.11.22 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240905/20240905-4277767a-3b54-4776-aa85-d9594251c170.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<리온의 신비한 과자상점 >기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50723&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50723&amp;Tab=3</guid>
-            <pubDate>Fri, 30 Aug 2024 03:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.28 ~ 2024.09.12 | 2024.09.14 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240830/20240830-c9793047-c015-4e6e-b4ef-54337276e7ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <킬롤로지> 기대평 이벤트]]></title>

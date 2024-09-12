@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 14:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 15:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2024.09.13 ~ 2024.09.18]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3666</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3666</guid>
+            <pubDate>Thu, 12 Sep 2024 15:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240912/20240912-fea89bfb-c29a-41a1-9194-d34c0cb6569e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2024.09.07 ~ 2024.12.01]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=50536</link>
@@ -30,14 +38,6 @@
             <pubDate>Thu, 05 Sep 2024 06:23:49 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;알라딘&gt; 오리지널 OST]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240905/20240905-4277767a-3b54-4776-aa85-d9594251c170.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.08.28 ~ 2024.09.12]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=50723</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=50723</guid>
-            <pubDate>Fri, 30 Aug 2024 03:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>9/20(금)~ 9/21(토) 회차 무관]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240830/20240830-c9793047-c015-4e6e-b4ef-54337276e7ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.08.13 ~ 2024.09.26]]></title>
