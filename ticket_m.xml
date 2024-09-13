@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-13T08:21:36.793Z</updated>
+    <updated>2024-09-13T09:18:27.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <빈센트 반 고흐> 혜공 전관 - 그래이공 DAY 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14921&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14921&amp;order=1"/>
+        <updated>2024-09-13T09:17:46.253Z</updated>
+        <content type="html"><![CDATA[2024-09-20(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[양산] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14920&amp;order=1</id>
@@ -41,6 +48,13 @@
         <content type="html"><![CDATA[2024-09-19(목) 09:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024 B-day PARTY - YANGYANG [PLAYGROUND] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14915&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14915&amp;order=1"/>
+        <updated>2024-09-13T09:17:46.263Z</updated>
+        <content type="html"><![CDATA[2024-09-27(금) 14:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[창원(진해)] 2024 라이브가족뮤지컬 〈아기돼지삼형제〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14914&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14914&amp;order=1"/>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14912&amp;order=1"/>
         <updated>2024-09-13T01:14:21.665Z</updated>
         <content type="html"><![CDATA[2024-09-20(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 황찬성（2PM）팬미팅［CHANIE’S BEAR MUSEUM］in SEOUL 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14911&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14911&amp;order=1"/>
-        <updated>2024-09-13T05:16:10.970Z</updated>
-        <content type="html"><![CDATA[2024-09-25(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 LEO FAN CONCERT [TAKE 운] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14910&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14910&amp;order=1"/>
-        <updated>2024-09-13T02:43:16.333Z</updated>
-        <content type="html"><![CDATA[2024-10-04(금) 20:00]]></content>
     </entry>
 </feed>
