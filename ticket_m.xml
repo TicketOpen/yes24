@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-13T05:17:00.868Z</updated>
+    <updated>2024-09-13T06:24:46.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [빈센트 반 고흐] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14917&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14917&amp;order=1"/>
+        <updated>2024-09-13T06:24:05.409Z</updated>
+        <content type="html"><![CDATA[2024-09-19(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬 [호두까기인형] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14916&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14916&amp;order=1"/>
+        <updated>2024-09-13T06:24:05.410Z</updated>
+        <content type="html"><![CDATA[2024-09-19(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원(진해)] 2024 라이브가족뮤지컬 〈아기돼지삼형제〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14914&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14906&amp;order=1"/>
         <updated>2024-09-12T02:41:57.381Z</updated>
         <content type="html"><![CDATA[2024-09-13(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬 〈루돌프의크리스마스선물〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14905&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14905&amp;order=1"/>
-        <updated>2024-09-11T10:17:34.776Z</updated>
-        <content type="html"><![CDATA[2024-09-12(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 크리스마스캐롤 싱어롱 뮤지컬 〈산타클로스와브레멘음악대〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14904&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14904&amp;order=1"/>
-        <updated>2024-09-11T08:21:42.424Z</updated>
-        <content type="html"><![CDATA[2024-09-13(금) 09:00]]></content>
     </entry>
 </feed>
