@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-13T02:44:08.921Z</updated>
+    <updated>2024-09-13T03:19:29.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원(진해)] 2024 라이브가족뮤지컬 〈아기돼지삼형제〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14914&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14914&amp;order=1"/>
+        <updated>2024-09-13T03:18:43.194Z</updated>
+        <content type="html"><![CDATA[2024-09-19(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 15회 2024 부산국제춤마켓 티켓 오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14913&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14903&amp;order=1"/>
         <updated>2024-09-11T09:17:52.432Z</updated>
         <content type="html"><![CDATA[2024-09-13(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 2024 크리스마스특집 가족매직쇼〈류엘의 매직크리스마스〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14902&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14902&amp;order=1"/>
-        <updated>2024-09-11T08:21:42.428Z</updated>
-        <content type="html"><![CDATA[2024-09-13(금) 09:00]]></content>
     </entry>
 </feed>
