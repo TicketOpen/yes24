@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-13T01:15:13.092Z</updated>
+    <updated>2024-09-13T02:44:08.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제 15회 2024 부산국제춤마켓 티켓 오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14913&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14913&amp;order=1"/>
+        <updated>2024-09-13T02:43:16.331Z</updated>
+        <content type="html"><![CDATA[2024-09-20(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [드라이 플라워] 1차 추가 티켓 오픈 안내 (10/1 16:00 회차)]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14912&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14912&amp;order=1"/>
         <updated>2024-09-13T01:14:21.665Z</updated>
         <content type="html"><![CDATA[2024-09-20(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 LEO FAN CONCERT [TAKE 운] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14910&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14910&amp;order=1"/>
+        <updated>2024-09-13T02:43:16.333Z</updated>
+        <content type="html"><![CDATA[2024-10-04(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 영도문화예술회관 개관 15주년 특별기념 공연 [송창식·김세환·양하영 포크콘서트] 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14902&amp;order=1"/>
         <updated>2024-09-11T08:21:42.428Z</updated>
         <content type="html"><![CDATA[2024-09-13(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 V.O.S 20주년 전국투어 콘서트 〈우리의 스무살〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14901&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14901&amp;order=1"/>
-        <updated>2024-09-11T07:15:41.648Z</updated>
-        <content type="html"><![CDATA[2024-09-19(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 시티보이_로그 팬미팅 [CITYBOY House Party] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14900&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14900&amp;order=1"/>
-        <updated>2024-09-11T06:23:32.491Z</updated>
-        <content type="html"><![CDATA[2024-09-13(금) 20:00]]></content>
     </entry>
 </feed>

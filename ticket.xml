@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-13T01:15:13.092Z</updated>
+    <updated>2024-09-13T02:44:08.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매제 15회 2024 부산국제춤마켓 티켓 오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14913</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14913"/>
+        <updated>2024-09-13T02:43:07.271Z</updated>
+        <content type="html"><![CDATA[2024.09.20(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [드라이 플라워] 1차 추가 티켓 오픈 안내 (10/1 16:00 회차)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14912</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14912"/>
         <updated>2024-09-13T01:14:12.603Z</updated>
         <content type="html"><![CDATA[2024.09.20(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 LEO FAN CONCERT [TAKE 운] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14910</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14910"/>
+        <updated>2024-09-13T02:43:07.275Z</updated>
+        <content type="html"><![CDATA[2024.10.04(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.10.02(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 영도문화예술회관 개관 15주년 특별기념 공연 [송창식·김세환·양하영 포크콘서트] 티켓..]]></title>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14892"/>
         <updated>2024-09-10T09:18:57.267Z</updated>
         <content type="html"><![CDATA[2024.09.12(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14891</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14891"/>
-        <updated>2024-09-10T09:18:57.268Z</updated>
-        <content type="html"><![CDATA[2024.09.12(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 가족매직쇼 〈스노우버블쇼〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14890</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14890"/>
-        <updated>2024-09-10T09:18:57.268Z</updated>
-        <content type="html"><![CDATA[2024.09.11(수) 09:00]]></content>
     </entry>
 </feed>
