@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-18T23:18:06.679Z</updated>
+    <updated>2024-09-19T01:17:12.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈랭보〉 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14924</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14924"/>
+        <updated>2024-09-19T01:16:23.768Z</updated>
+        <content type="html"><![CDATA[2024.09.24(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[티켓오픈연기] [부산] 뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14923</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14923"/>
+        <updated>2024-09-19T01:16:23.777Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centimillimental First Live in Korea 2024 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14922</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14922"/>
+        <updated>2024-09-19T01:16:23.777Z</updated>
+        <content type="html"><![CDATA[2024.09.23(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <빈센트 반 고흐> 혜공 전관 - 그래이공 DAY 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14921</id>
@@ -122,26 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14905"/>
         <updated>2024-09-11T10:17:27.749Z</updated>
         <content type="html"><![CDATA[2024.09.12(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 크리스마스캐롤 싱어롱 뮤지컬 〈산타클로스와브레멘음악대〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14904</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14904"/>
-        <updated>2024-09-11T08:21:34.398Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seoul Concert ’24 : Yours Truly, CAMO 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14903</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14903"/>
-        <updated>2024-09-11T09:17:43.526Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 2024 크리스마스특집 가족매직쇼〈류엘의 매직크리스마스〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14902</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14902"/>
-        <updated>2024-09-11T08:21:34.398Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 09:00]]></content>
     </entry>
 </feed>

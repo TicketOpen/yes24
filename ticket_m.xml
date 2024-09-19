@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-18T23:18:06.676Z</updated>
+    <updated>2024-09-19T01:17:12.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈랭보〉 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14924&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14924&amp;order=1"/>
+        <updated>2024-09-19T01:16:30.620Z</updated>
+        <content type="html"><![CDATA[2024-09-24(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[티켓오픈연기] [부산] 뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14923&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14923&amp;order=1"/>
+        <updated>2024-09-19T01:16:30.621Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centimillimental First Live in Korea 2024 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14922&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14922&amp;order=1"/>
+        <updated>2024-09-19T01:16:30.622Z</updated>
+        <content type="html"><![CDATA[2024-09-23(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <빈센트 반 고흐> 혜공 전관 - 그래이공 DAY 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14921&amp;order=1</id>
@@ -53,26 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14915&amp;order=1"/>
         <updated>2024-09-13T09:17:46.263Z</updated>
         <content type="html"><![CDATA[2024-09-27(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원(진해)] 2024 라이브가족뮤지컬 〈아기돼지삼형제〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14914&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14914&amp;order=1"/>
-        <updated>2024-09-13T03:18:43.194Z</updated>
-        <content type="html"><![CDATA[2024-09-19(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 15회 2024 부산국제춤마켓 티켓 오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14913&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14913&amp;order=1"/>
-        <updated>2024-09-13T02:43:16.331Z</updated>
-        <content type="html"><![CDATA[2024-09-20(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [드라이 플라워] 1차 추가 티켓 오픈 안내 (10/1 16:00 회차)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14912&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14912&amp;order=1"/>
-        <updated>2024-09-13T01:14:21.665Z</updated>
-        <content type="html"><![CDATA[2024-09-20(금) 11:00]]></content>
     </entry>
 </feed>
