@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-19T01:17:12.531Z</updated>
+    <updated>2024-09-19T02:46:07.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14926&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14926&amp;order=1"/>
+        <updated>2024-09-19T02:45:21.535Z</updated>
+        <content type="html"><![CDATA[2024-09-25(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈랭보〉 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14924&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14916&amp;order=1"/>
         <updated>2024-09-13T06:24:05.410Z</updated>
         <content type="html"><![CDATA[2024-09-19(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 B-day PARTY - YANGYANG [PLAYGROUND] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14915&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14915&amp;order=1"/>
-        <updated>2024-09-13T09:17:46.263Z</updated>
-        <content type="html"><![CDATA[2024-09-27(금) 14:00]]></content>
     </entry>
 </feed>
