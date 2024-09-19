@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-19T02:46:07.561Z</updated>
+    <updated>2024-09-19T03:20:35.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14926"/>
         <updated>2024-09-19T02:45:13.565Z</updated>
         <content type="html"><![CDATA[2024.09.25(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매DREAM WALKER ＃5：백아 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14925</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14925"/>
+        <updated>2024-09-19T03:19:37.491Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈랭보〉 3차 티켓오픈 안내]]></title>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14907"/>
         <updated>2024-09-12T02:41:47.979Z</updated>
         <content type="html"><![CDATA[2024.09.24(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <빈센트 반 고흐> 추가좌석 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14906</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14906"/>
-        <updated>2024-09-12T02:41:47.986Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 11:00]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-19T02:46:07.574Z</updated>
+    <updated>2024-09-19T03:20:35.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14926&amp;order=1"/>
         <updated>2024-09-19T02:45:21.535Z</updated>
         <content type="html"><![CDATA[2024-09-25(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DREAM WALKER ＃5：백아 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14925&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14925&amp;order=1"/>
+        <updated>2024-09-19T03:19:46.163Z</updated>
+        <content type="html"><![CDATA[2024-09-26(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈랭보〉 3차 티켓오픈 안내]]></title>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14917&amp;order=1"/>
         <updated>2024-09-13T06:24:05.409Z</updated>
         <content type="html"><![CDATA[2024-09-19(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2024 라이브가족뮤지컬 [호두까기인형] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14916&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14916&amp;order=1"/>
-        <updated>2024-09-13T06:24:05.410Z</updated>
-        <content type="html"><![CDATA[2024-09-19(목) 09:00]]></content>
     </entry>
 </feed>
