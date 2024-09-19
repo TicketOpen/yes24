@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-19T10:19:16.515Z</updated>
+    <updated>2024-09-19T11:15:15.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[인천] 2024 라이브가족뮤지컬〈호두까기인형〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14931</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14931"/>
+        <updated>2024-09-19T11:14:17.261Z</updated>
+        <content type="html"><![CDATA[2024.09.20(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경기광주] 2024 가족뮤지컬 로보카폴리〈잡아라! 황금트로피!〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14930</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14930"/>
+        <updated>2024-09-19T11:14:17.262Z</updated>
+        <content type="html"><![CDATA[2024.09.20(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OFF THE RECORD MUSIC FESTIVAL HALLOWEEEN 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14929</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14912"/>
         <updated>2024-09-13T01:14:12.603Z</updated>
         <content type="html"><![CDATA[2024.09.20(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 황찬성（2PM）팬미팅［CHANIE’S BEAR MUSEUM］in SEOUL 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14911</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14911"/>
-        <updated>2024-09-13T05:16:02.070Z</updated>
-        <content type="html"><![CDATA[2024.09.25(수) 14:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.09.23(월) 14:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 LEO FAN CONCERT [TAKE 운] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14910</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14910"/>
-        <updated>2024-09-13T02:43:07.275Z</updated>
-        <content type="html"><![CDATA[2024.10.04(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.10.02(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
