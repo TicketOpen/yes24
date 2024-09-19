@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-19T11:15:15.699Z</updated>
+    <updated>2024-09-19T12:33:49.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 가족어린이공연〈공룡애니멀쇼〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14932&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14932&amp;order=1"/>
+        <updated>2024-09-19T12:33:09.157Z</updated>
+        <content type="html"><![CDATA[2024-09-20(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인천] 2024 라이브가족뮤지컬〈호두까기인형〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14931&amp;order=1</id>
@@ -66,12 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14923&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14923&amp;order=1"/>
         <updated>2024-09-19T01:16:30.621Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Centimillimental First Live in Korea 2024 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14922&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14922&amp;order=1"/>
-        <updated>2024-09-19T01:16:30.622Z</updated>
-        <content type="html"><![CDATA[2024-09-23(월) 18:00]]></content>
     </entry>
 </feed>
