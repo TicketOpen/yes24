@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-19T04:21:44.791Z</updated>
+    <updated>2024-09-19T05:17:34.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제1253회 서초금요음악회 [가을산책] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14928&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14928&amp;order=1"/>
+        <updated>2024-09-19T05:16:53.245Z</updated>
+        <content type="html"><![CDATA[2024-09-20(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박진영 30주년 콘서트〈Still JYP〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14927&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14927&amp;order=1"/>
+        <updated>2024-09-19T05:16:53.246Z</updated>
+        <content type="html"><![CDATA[2024-09-20(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14926&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14919&amp;order=1"/>
         <updated>2024-09-13T08:20:41.428Z</updated>
         <content type="html"><![CDATA[2024-09-20(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부천] 2024-25 이은미 라이브 투어 [MOVE ON] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14918&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14918&amp;order=1"/>
-        <updated>2024-09-13T08:20:41.429Z</updated>
-        <content type="html"><![CDATA[2024-09-20(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [빈센트 반 고흐] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14917&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14917&amp;order=1"/>
-        <updated>2024-09-13T06:24:05.409Z</updated>
-        <content type="html"><![CDATA[2024-09-19(목) 15:00]]></content>
     </entry>
 </feed>
