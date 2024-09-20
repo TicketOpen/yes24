@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-19T23:18:19.180Z</updated>
+    <updated>2024-09-20T01:16:24.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이토 준지 한국 팬미팅 (JUNJI ITO Korea Fan Meeting) 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14933</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14933"/>
+        <updated>2024-09-20T01:15:28.397Z</updated>
+        <content type="html"><![CDATA[2024.09.23(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 가족어린이공연〈공룡애니멀쇼〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14932</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14914"/>
         <updated>2024-09-13T03:18:35.212Z</updated>
         <content type="html"><![CDATA[2024.09.19(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매제 15회 2024 부산국제춤마켓 티켓 오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14913</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14913"/>
-        <updated>2024-09-13T02:43:07.271Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 14:00]]></content>
     </entry>
 </feed>
