@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-20T02:46:21.792Z</updated>
+    <updated>2024-09-20T03:20:44.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[HYDE[INSIDE] LIVE 2024 WORLD TOUR in SEOUL 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14936&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14936&amp;order=1"/>
+        <updated>2024-09-20T03:19:53.499Z</updated>
+        <content type="html"><![CDATA[2024-09-27(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14935&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14935&amp;order=1"/>
         <updated>2024-09-20T02:45:29.607Z</updated>
         <content type="html"><![CDATA[2024-09-25(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[특전소녀전선 썸머리그 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14934&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14934&amp;order=1"/>
+        <updated>2024-09-20T03:19:53.500Z</updated>
+        <content type="html"><![CDATA[2024-09-20(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이토 준지 한국 팬미팅 (JUNJI ITO Korea Fan Meeting) 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14927&amp;order=1"/>
         <updated>2024-09-19T05:16:53.246Z</updated>
         <content type="html"><![CDATA[2024-09-20(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14926&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14926&amp;order=1"/>
-        <updated>2024-09-19T02:45:21.535Z</updated>
-        <content type="html"><![CDATA[2024-09-25(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DREAM WALKER ＃5：백아 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14925&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14925&amp;order=1"/>
-        <updated>2024-09-19T03:19:46.163Z</updated>
-        <content type="html"><![CDATA[2024-09-26(목) 20:00]]></content>
     </entry>
 </feed>
