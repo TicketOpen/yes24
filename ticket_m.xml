@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-20T06:24:46.934Z</updated>
+    <updated>2024-09-20T07:18:40.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 TWICE FANMEETING [HOME 9ROUND] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14942&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14942&amp;order=1"/>
+        <updated>2024-09-20T07:17:54.638Z</updated>
+        <content type="html"><![CDATA[2024-09-30(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 예술의전당 토월정통연극 〈햄릿〉 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14939&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14939&amp;order=1"/>
         <updated>2024-09-20T06:23:55.195Z</updated>
         <content type="html"><![CDATA[2024-09-27(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈쓰릴 미〉 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14938&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14938&amp;order=1"/>
+        <updated>2024-09-20T07:17:54.641Z</updated>
+        <content type="html"><![CDATA[2024-09-26(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈이터니티〉 3차 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14931&amp;order=1"/>
         <updated>2024-09-19T11:14:25.941Z</updated>
         <content type="html"><![CDATA[2024-09-20(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경기광주] 2024 가족뮤지컬 로보카폴리〈잡아라! 황금트로피!〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14930&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14930&amp;order=1"/>
-        <updated>2024-09-19T11:14:25.944Z</updated>
-        <content type="html"><![CDATA[2024-09-20(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OFF THE RECORD MUSIC FESTIVAL HALLOWEEEN 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14929&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14929&amp;order=1"/>
-        <updated>2024-09-19T06:24:10.210Z</updated>
-        <content type="html"><![CDATA[2024-09-23(월) 14:00]]></content>
     </entry>
 </feed>
