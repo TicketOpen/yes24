@@ -4,9 +4,20 @@
         <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Sep 2024 21:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 22:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 킬롤로지]]></title>
+            <link>http://m.ticket.yes24.com/Perf/50570</link>
+            <guid>http://m.ticket.yes24.com/Perf/50570</guid>
+            <pubDate>Mon, 16 Sep 2024 01:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 킬롤로지</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">60,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">39,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/27(금)~10/20(일) 공연</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202409/20240919/20240919-50570.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 시데레우스]]></title>
             <link>http://m.ticket.yes24.com/Perf/50004</link>
@@ -19,17 +30,6 @@
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/17(화)~10/6(일) (공연)
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202409/20240919/20240919-50004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 킬롤로지]]></title>
-            <link>http://m.ticket.yes24.com/Perf/50570</link>
-            <guid>http://m.ticket.yes24.com/Perf/50570</guid>
-            <pubDate>Mon, 16 Sep 2024 01:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 킬롤로지</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">30</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">60,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">39,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">9/27(금)~10/20(일) 공연</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202409/20240919/20240919-50570.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
