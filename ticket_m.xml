@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-23T04:21:27.975Z</updated>
+    <updated>2024-09-23T05:18:21.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울 앵콜] 2024 이찬원 콘서트 ‘ 찬가（燦歌）’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14946&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14946&amp;order=1"/>
+        <updated>2024-09-23T05:17:28.225Z</updated>
+        <content type="html"><![CDATA[2024-10-02(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [연남동 빙굴빙굴 빨래방] 11월공연 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14945&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14945&amp;order=1"/>
+        <updated>2024-09-23T05:17:28.225Z</updated>
+        <content type="html"><![CDATA[2024-09-27(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[성남] 2024 변진섭 전국투어 콘서트：변천사 시즌2 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14944&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14937&amp;order=1"/>
         <updated>2024-09-20T05:17:13.245Z</updated>
         <content type="html"><![CDATA[2024-09-24(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYDE[INSIDE] LIVE 2024 WORLD TOUR in SEOUL 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14936&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14936&amp;order=1"/>
-        <updated>2024-09-20T03:19:53.499Z</updated>
-        <content type="html"><![CDATA[2024-09-27(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14935&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14935&amp;order=1"/>
-        <updated>2024-09-20T02:45:29.607Z</updated>
-        <content type="html"><![CDATA[2024-09-25(수) 14:00]]></content>
     </entry>
 </feed>
