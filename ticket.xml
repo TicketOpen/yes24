@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-23T06:26:45.124Z</updated>
+    <updated>2024-09-23T07:17:42.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매92914 Live in Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14947</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14947"/>
+        <updated>2024-09-23T07:16:42.395Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[서울 앵콜] 2024 이찬원 콘서트 ‘ 찬가（燦歌）’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14946</id>
@@ -97,7 +104,7 @@
         <content type="html"><![CDATA[2024.09.20(금) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이토 준지 한국 팬미팅 (JUNJI ITO Korea Fan Meeting) 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[단독판매이토 준지 한국 팬미팅 (JUNJI ITO Korea Fan Meeting) 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14933</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14933"/>
         <updated>2024-09-20T01:15:28.397Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14928"/>
         <updated>2024-09-19T05:16:45.701Z</updated>
         <content type="html"><![CDATA[2024.09.20(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진영 30주년 콘서트〈Still JYP〉티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14927</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14927"/>
-        <updated>2024-09-19T05:16:45.702Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 14:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-23T06:26:45.126Z</updated>
+    <updated>2024-09-23T07:17:42.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[92914 Live in Seoul 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14947&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14947&amp;order=1"/>
+        <updated>2024-09-23T07:16:50.752Z</updated>
+        <content type="html"><![CDATA[2024-09-26(목) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울 앵콜] 2024 이찬원 콘서트 ‘ 찬가（燦歌）’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14946&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14938&amp;order=1"/>
         <updated>2024-09-20T07:17:54.641Z</updated>
         <content type="html"><![CDATA[2024-09-26(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈이터니티〉 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14937&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14937&amp;order=1"/>
-        <updated>2024-09-20T05:17:13.245Z</updated>
-        <content type="html"><![CDATA[2024-09-24(화) 11:00]]></content>
     </entry>
 </feed>
