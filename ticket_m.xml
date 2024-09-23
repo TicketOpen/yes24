@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-23T08:23:16.173Z</updated>
+    <updated>2024-09-23T09:21:27.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <장화 신은 고양이 비긴즈> 플레이버전 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14949&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14949&amp;order=1"/>
+        <updated>2024-09-23T09:20:45.830Z</updated>
+        <content type="html"><![CDATA[2024-09-27(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 1 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14948&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14948&amp;order=1"/>
+        <updated>2024-09-23T09:20:45.832Z</updated>
+        <content type="html"><![CDATA[2024-09-26(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[92914 Live in Seoul 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14947&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14940&amp;order=1"/>
         <updated>2024-09-20T08:21:41.429Z</updated>
         <content type="html"><![CDATA[2024-09-25(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 예술의전당 토월정통연극 〈햄릿〉 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14939&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14939&amp;order=1"/>
-        <updated>2024-09-20T06:23:55.195Z</updated>
-        <content type="html"><![CDATA[2024-09-27(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈쓰릴 미〉 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14938&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14938&amp;order=1"/>
-        <updated>2024-09-20T07:17:54.641Z</updated>
-        <content type="html"><![CDATA[2024-09-26(목) 14:00]]></content>
     </entry>
 </feed>
