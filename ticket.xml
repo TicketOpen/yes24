@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-24T01:18:35.657Z</updated>
+    <updated>2024-09-24T02:50:14.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <장화 신은 고양이 비긴즈> 플레이버전 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14949</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14949"/>
-        <updated>2024-09-23T09:20:38.818Z</updated>
-        <content type="html"><![CDATA[2024.09.27(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 1 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14948</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14948"/>
-        <updated>2024-09-23T09:20:38.821Z</updated>
-        <content type="html"><![CDATA[2024.09.26(목) 11:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매92914 Live in Seoul 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14947</id>
@@ -143,6 +129,20 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14930</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14930"/>
         <updated>2024-09-19T11:14:17.262Z</updated>
+        <content type="html"><![CDATA[2024.09.20(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OFF THE RECORD MUSIC FESTIVAL HALLOWEEEN 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14929</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14929"/>
+        <updated>2024-09-24T02:49:17.808Z</updated>
+        <content type="html"><![CDATA[2024.09.23(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매제1253회 서초금요음악회 [가을산책] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14928</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14928"/>
+        <updated>2024-09-24T02:49:17.809Z</updated>
         <content type="html"><![CDATA[2024.09.20(금) 09:00]]></content>
     </entry>
 </feed>
