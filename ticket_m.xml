@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-24T05:18:15.300Z</updated>
+    <updated>2024-09-24T06:25:50.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 유러피안 재즈 트리오 Cinema Jazz 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14953&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14953&amp;order=1"/>
+        <updated>2024-09-24T06:25:02.121Z</updated>
+        <content type="html"><![CDATA[2024-09-27(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 유러피안 재즈 트리오 Cinema Jazz 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14952&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14952&amp;order=1"/>
+        <updated>2024-09-24T06:25:02.122Z</updated>
+        <content type="html"><![CDATA[2024-09-27(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [사의찬미 2024 2ND STAGE] 2차 티켓오픈  안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14951&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14951&amp;order=1"/>
+        <updated>2024-09-24T06:25:02.125Z</updated>
+        <content type="html"><![CDATA[2024-09-27(금) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알라딘> 연말연시 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14950&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14942&amp;order=1"/>
         <updated>2024-09-20T07:17:54.638Z</updated>
         <content type="html"><![CDATA[2024-09-30(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2024 심수봉 전국투어콘서트：꽃길 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14941&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14941&amp;order=1"/>
-        <updated>2024-09-20T08:21:41.428Z</updated>
-        <content type="html"><![CDATA[2024-09-26(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14940&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14940&amp;order=1"/>
-        <updated>2024-09-20T08:21:41.429Z</updated>
-        <content type="html"><![CDATA[2024-09-25(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 예술의전당 토월정통연극 〈햄릿〉 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14939&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14939&amp;order=1"/>
-        <updated>2024-09-24T02:49:26.177Z</updated>
-        <content type="html"><![CDATA[2024-09-27(금) 14:00]]></content>
     </entry>
 </feed>
