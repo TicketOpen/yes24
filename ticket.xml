@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-24T04:21:49.558Z</updated>
+    <updated>2024-09-24T05:18:15.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알라딘> 연말연시 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14950</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14950"/>
+        <updated>2024-09-24T05:17:21.601Z</updated>
+        <content type="html"><![CDATA[2024.10.02(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매92914 Live in Seoul 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14947</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14929"/>
         <updated>2024-09-24T02:49:17.808Z</updated>
         <content type="html"><![CDATA[2024.09.23(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매제1253회 서초금요음악회 [가을산책] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14928</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14928"/>
-        <updated>2024-09-24T02:49:17.809Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 09:00]]></content>
     </entry>
 </feed>
