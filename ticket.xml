@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-24T23:17:29.386Z</updated>
+    <updated>2024-09-25T01:19:29.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[라플라이브07 - 유러피안 재즈 트리오 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14957</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14957"/>
+        <updated>2024-09-25T01:18:40.349Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매Almost Monday - the DIVE tour - Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14956</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14956"/>
+        <updated>2024-09-25T01:18:40.354Z</updated>
+        <content type="html"><![CDATA[2024.09.30(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 2 회 DMZ OPEN 국제음악제 DMZ OPEN International Music Festival]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14955</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14936"/>
         <updated>2024-09-20T03:19:44.872Z</updated>
         <content type="html"><![CDATA[2024.09.27(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14935</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14935"/>
-        <updated>2024-09-20T02:45:20.413Z</updated>
-        <content type="html"><![CDATA[2024.09.25(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매특전소녀전선 썸머리그 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14934</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14934"/>
-        <updated>2024-09-20T03:19:44.876Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 18:00]]></content>
     </entry>
 </feed>

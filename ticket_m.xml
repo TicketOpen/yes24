@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-24T23:17:29.391Z</updated>
+    <updated>2024-09-25T01:19:29.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[라플라이브07 - 유러피안 재즈 트리오 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14957&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14957&amp;order=1"/>
+        <updated>2024-09-25T01:18:47.446Z</updated>
+        <content type="html"><![CDATA[2024-09-26(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Almost Monday - the DIVE tour - Seoul 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14956&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14956&amp;order=1"/>
+        <updated>2024-09-25T01:18:47.449Z</updated>
+        <content type="html"><![CDATA[2024-09-30(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 2 회 DMZ OPEN 국제음악제 DMZ OPEN International Music Festival]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14955&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14946&amp;order=1"/>
         <updated>2024-09-23T05:17:28.225Z</updated>
         <content type="html"><![CDATA[2024-10-02(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [연남동 빙굴빙굴 빨래방] 11월공연 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14945&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14945&amp;order=1"/>
-        <updated>2024-09-23T05:17:28.225Z</updated>
-        <content type="html"><![CDATA[2024-09-27(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2024 변진섭 전국투어 콘서트：변천사 시즌2 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14944&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14944&amp;order=1"/>
-        <updated>2024-09-23T02:49:36.027Z</updated>
-        <content type="html"><![CDATA[2024-09-26(목) 14:00]]></content>
     </entry>
 </feed>
