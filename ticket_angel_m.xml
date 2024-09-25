@@ -4,9 +4,20 @@
         <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 12:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 13:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 친구의 전설]]></title>
+            <link>http://m.ticket.yes24.com/Perf/50378</link>
+            <guid>http://m.ticket.yes24.com/Perf/50378</guid>
+            <pubDate>Mon, 23 Sep 2024 01:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 친구의 전설</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">56</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">26,640원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202409/20240923/20240923-50378.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 이터니티]]></title>
             <link>http://m.ticket.yes24.com/Perf/50610</link>
@@ -19,17 +30,6 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202409/20240923/20240923-50610.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 친구의 전설]]></title>
-            <link>http://m.ticket.yes24.com/Perf/50378</link>
-            <guid>http://m.ticket.yes24.com/Perf/50378</guid>
-            <pubDate>Mon, 23 Sep 2024 01:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 친구의 전설</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">56</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">26,640원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202409/20240923/20240923-50378.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
