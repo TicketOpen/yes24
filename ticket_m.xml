@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-26T04:22:02.747Z</updated>
+    <updated>2024-09-26T05:18:01.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 국립합창단〈카르미나 부라나〉공연 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14965&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14965&amp;order=1"/>
+        <updated>2024-09-26T05:17:14.558Z</updated>
+        <content type="html"><![CDATA[2024-10-08(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 MINHYUK Fan Event 〈Let’s GO!5rae〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14964&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14964&amp;order=1"/>
+        <updated>2024-09-26T05:17:14.558Z</updated>
+        <content type="html"><![CDATA[2024-10-01(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김해] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14963&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14955&amp;order=1"/>
         <updated>2024-09-24T09:19:22.344Z</updated>
         <content type="html"><![CDATA[2024-09-30(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 〈서커스매직쇼〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14954&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14954&amp;order=1"/>
-        <updated>2024-09-24T07:16:54.169Z</updated>
-        <content type="html"><![CDATA[2024-09-25(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 유러피안 재즈 트리오 Cinema Jazz 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14953&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14953&amp;order=1"/>
-        <updated>2024-09-24T06:25:02.121Z</updated>
-        <content type="html"><![CDATA[2024-09-27(금) 10:00]]></content>
     </entry>
 </feed>
