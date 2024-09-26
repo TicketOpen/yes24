@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-26T08:23:08.719Z</updated>
+    <updated>2024-09-26T09:20:01.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매LET ME KNOW LIVE TOUR 2024 - Nostalgic Modern - II in Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14966</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14966"/>
+        <updated>2024-09-26T09:18:42.459Z</updated>
+        <content type="html"><![CDATA[2024.10.02(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 국립합창단〈카르미나 부라나〉공연 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14965</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14944"/>
         <updated>2024-09-23T02:49:29.068Z</updated>
         <content type="html"><![CDATA[2024.09.26(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 경서 콘서트 [STAND BY YOU] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14943</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14943"/>
-        <updated>2024-09-23T02:49:29.068Z</updated>
-        <content type="html"><![CDATA[2024.09.27(금) 20:00]]></content>
     </entry>
 </feed>
