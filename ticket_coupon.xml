@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2024-09-26T07:18:26.134Z</updated>
+    <updated>2024-09-26T08:23:08.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -12,6 +12,13 @@
         <updated>2024-04-25T17:15:37.448Z</updated>
         <content type="html"><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연극 킬롤로지] 데이비 와서 같이 살래?*]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2024-04-25T17:15:37.448Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2024.09.26 ~ 2024.09.29</dd><dt>사용기간</dt><dd>2024.09.26 ~ 2024.09.29</dd>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인]]></title>
