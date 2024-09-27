@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-27T02:50:48.948Z</updated>
+    <updated>2024-09-27T03:23:27.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14973"/>
         <updated>2024-09-27T02:49:47.513Z</updated>
         <content type="html"><![CDATA[2024.09.30(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <장화 신은 고양이 비긴즈> 플레이버전 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14972</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14972"/>
+        <updated>2024-09-27T03:22:31.913Z</updated>
+        <content type="html"><![CDATA[2024.10.04(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 1 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14971</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14971"/>
+        <updated>2024-09-27T03:22:31.913Z</updated>
+        <content type="html"><![CDATA[2024.10.04(금) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 연극 〈운빨로맨스〉 티켓오픈 안내]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14953"/>
         <updated>2024-09-24T06:24:53.406Z</updated>
         <content type="html"><![CDATA[2024.09.27(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 유러피안 재즈 트리오 Cinema Jazz 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14952</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14952"/>
-        <updated>2024-09-24T06:24:53.409Z</updated>
-        <content type="html"><![CDATA[2024.09.27(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [사의찬미 2024 2ND STAGE] 2차 티켓오픈  안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14951</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14951"/>
-        <updated>2024-09-24T06:24:53.414Z</updated>
-        <content type="html"><![CDATA[2024.09.27(금) 13:00]]></content>
     </entry>
 </feed>

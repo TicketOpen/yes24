@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-27T02:50:48.943Z</updated>
+    <updated>2024-09-27T03:23:27.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14973&amp;order=1"/>
         <updated>2024-09-27T02:49:56.088Z</updated>
         <content type="html"><![CDATA[2024-09-30(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <장화 신은 고양이 비긴즈> 플레이버전 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14972&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14972&amp;order=1"/>
+        <updated>2024-09-27T03:22:40.195Z</updated>
+        <content type="html"><![CDATA[2024-10-04(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 1 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14971&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14971&amp;order=1"/>
+        <updated>2024-09-27T03:22:40.196Z</updated>
+        <content type="html"><![CDATA[2024-10-04(금) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 연극 〈운빨로맨스〉 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14964&amp;order=1"/>
         <updated>2024-09-26T05:17:14.558Z</updated>
         <content type="html"><![CDATA[2024-10-01(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김해] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14963&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14963&amp;order=1"/>
-        <updated>2024-09-26T03:23:06.687Z</updated>
-        <content type="html"><![CDATA[2024-10-02(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안산] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14962&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14962&amp;order=1"/>
-        <updated>2024-09-26T03:23:06.689Z</updated>
-        <content type="html"><![CDATA[2024-10-02(수) 12:00]]></content>
     </entry>
 </feed>
