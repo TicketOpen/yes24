@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 09:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 10:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <킬롤로지>관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50570&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50570&amp;Tab=3</guid>
+            <pubDate>Fri, 27 Sep 2024 10:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.27 ~ 2024.11.24 | 2024.11.25 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240927/20240927-73f68323-fc39-4ae4-a262-a3ee42584277.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈지저스 크라이스트 수퍼스타〉기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50929&amp;Tab=3</link>
@@ -68,13 +76,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Wed, 18 Sep 2024 15:19:00 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예스24스테이지]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Thu, 26 Sep 2024 15:18:58 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
