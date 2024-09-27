@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 08:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 09:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단독판매ASAKA LIVE in Seoul (supported by KOE) 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14975</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14975</guid>
+            <pubDate>Fri, 27 Sep 2024 09:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.30(월) 18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[부산] 2024 라이브 가족뮤지컬〈알라딘〉 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14974</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2024.09.30(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대구] 2024 〈서커스매직쇼〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14954</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14954</guid>
-            <pubDate>Tue, 24 Sep 2024 07:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.25(수) 09:00]]></content:encoded>
+            <title><![CDATA[ASAKA LIVE in Seoul (supported by KOE) 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14975&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14975&amp;order=1</guid>
+            <pubDate>Fri, 27 Sep 2024 09:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-30(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 2024 라이브 가족뮤지컬〈알라딘〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,13 +218,6 @@
             <content:encoded><![CDATA[2024-10-02(수) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[창원] 국립합창단〈카르미나 부라나〉공연 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14965&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14965&amp;order=1</guid>
-            <pubDate>Thu, 26 Sep 2024 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024-10-08(화) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[서울] 뮤지컬 〈친구의 전설〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/50378</link>
             <guid>http://ticket.yes24.com/Perf/50378</guid>
@@ -234,6 +234,17 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202409/20240923/20240923-50610.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 친구의 전설 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/50378</link>
+            <guid>http://m.ticket.yes24.com/Perf/50378</guid>
+            <pubDate>Thu, 26 Sep 2024 02:48:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 친구의 전설</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">56</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">26,640원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202409/20240923/20240923-50378.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 이터니티 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/50610</link>
             <guid>http://m.ticket.yes24.com/Perf/50610</guid>
@@ -245,17 +256,6 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202409/20240923/20240923-50610.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 친구의 전설 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/50378</link>
-            <guid>http://m.ticket.yes24.com/Perf/50378</guid>
-            <pubDate>Thu, 26 Sep 2024 02:48:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 친구의 전설</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">56</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">26,640원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202409/20240923/20240923-50378.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈지저스 크라이스트 수퍼스타〉기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
