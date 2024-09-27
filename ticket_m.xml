@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-27T01:18:50.103Z</updated>
+    <updated>2024-09-27T02:50:48.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14973&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14973&amp;order=1"/>
+        <updated>2024-09-27T02:49:56.088Z</updated>
+        <content type="html"><![CDATA[2024-09-30(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 연극 〈운빨로맨스〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14970&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14970&amp;order=1"/>
+        <updated>2024-09-27T02:49:56.088Z</updated>
+        <content type="html"><![CDATA[2024-10-04(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 코믹뮤직체력극 〈신바람삼대〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14969&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14969&amp;order=1"/>
+        <updated>2024-09-27T02:49:56.088Z</updated>
+        <content type="html"><![CDATA[2024-10-04(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[남양주] 2024 빅3＂행복한만남＂〈강진,김용임,진성〉]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14968&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14968&amp;order=1"/>
+        <updated>2024-09-27T02:49:56.094Z</updated>
+        <content type="html"><![CDATA[2024-10-17(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김해] 뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14967&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14962&amp;order=1"/>
         <updated>2024-09-26T03:23:06.689Z</updated>
         <content type="html"><![CDATA[2024-10-02(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14961&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14961&amp;order=1"/>
-        <updated>2024-09-26T03:23:06.690Z</updated>
-        <content type="html"><![CDATA[2024-10-02(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14960&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14960&amp;order=1"/>
-        <updated>2024-09-26T01:17:04.900Z</updated>
-        <content type="html"><![CDATA[2024-10-04(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈피노키오〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14958&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14958&amp;order=1"/>
-        <updated>2024-09-25T02:51:19.638Z</updated>
-        <content type="html"><![CDATA[2024-09-26(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라플라이브07 - 유러피안 재즈 트리오 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14957&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14957&amp;order=1"/>
-        <updated>2024-09-25T01:18:47.446Z</updated>
-        <content type="html"><![CDATA[2024-09-26(목) 10:00]]></content>
     </entry>
 </feed>
