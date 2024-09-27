@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-26T23:19:02.302Z</updated>
+    <updated>2024-09-27T01:18:50.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[김해] 뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14967&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14967&amp;order=1"/>
+        <updated>2024-09-27T01:18:08.875Z</updated>
+        <content type="html"><![CDATA[2024-09-30(월) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LET ME KNOW LIVE TOUR 2024 - Nostalgic Modern - II in Seoul 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14966&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14957&amp;order=1"/>
         <updated>2024-09-25T01:18:47.446Z</updated>
         <content type="html"><![CDATA[2024-09-26(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Almost Monday - the DIVE tour - Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14956&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14956&amp;order=1"/>
-        <updated>2024-09-25T01:18:47.449Z</updated>
-        <content type="html"><![CDATA[2024-09-30(월) 12:00]]></content>
     </entry>
 </feed>
