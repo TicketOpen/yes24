@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2024-09-27T10:19:53.173Z</updated>
+    <updated>2024-09-27T11:16:44.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -19,6 +19,13 @@
         <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
         <updated>2024-04-25T17:15:37.448Z</updated>
         <content type="html"><![CDATA[<dt>발급기간</dt><dd>2024.09.26 ~ 2024.09.29</dd><dt>사용기간</dt><dd>2024.09.26 ~ 2024.09.29</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주말엔_240928] 뮤지컬 하데스타운 YES24DAY]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2024-04-25T17:15:37.448Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2024.09.20 ~ 2024.09.29</dd><dt>사용기간</dt><dd>2024.09.20 ~ 2024.09.29</dd>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인]]></title>
