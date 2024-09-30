@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-30T06:27:07.254Z</updated>
+    <updated>2024-09-30T07:18:40.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매제1254회 서초금요음악회 [음악정원] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14978</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14978"/>
+        <updated>2024-09-30T07:17:44.737Z</updated>
+        <content type="html"><![CDATA[2024.10.04(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <킬롤로지> : 연극열전10_세 번째 작품 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14977</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14958"/>
         <updated>2024-09-25T02:51:11.055Z</updated>
         <content type="html"><![CDATA[2024.09.26(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라플라이브07 - 유러피안 재즈 트리오 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14957</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14957"/>
-        <updated>2024-09-25T01:18:40.349Z</updated>
-        <content type="html"><![CDATA[2024.09.26(목) 10:00]]></content>
     </entry>
 </feed>
