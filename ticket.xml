@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-30T05:18:27.501Z</updated>
+    <updated>2024-09-30T06:27:07.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <킬롤로지> : 연극열전10_세 번째 작품 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14977</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14977"/>
+        <updated>2024-09-30T06:26:13.267Z</updated>
+        <content type="html"><![CDATA[2024.10.04(금) 16:00<a class="noti-btn-pop" presaletit1="연애인 프리미엄 선예매" presaletit2="" presaletime1="2024.10.04(금) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매ITZY The 3rd Fan Meeting 있지 믿지, 날자! “믿지의 세포들” 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14976</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14957"/>
         <updated>2024-09-25T01:18:40.349Z</updated>
         <content type="html"><![CDATA[2024.09.26(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Almost Monday - the DIVE tour - Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14956</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14956"/>
-        <updated>2024-09-25T01:18:40.354Z</updated>
-        <content type="html"><![CDATA[2024.09.30(월) 12:00]]></content>
     </entry>
 </feed>

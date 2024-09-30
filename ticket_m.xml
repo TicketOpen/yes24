@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-30T05:18:27.509Z</updated>
+    <updated>2024-09-30T06:27:07.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <킬롤로지> : 연극열전10_세 번째 작품 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14977&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14977&amp;order=1"/>
+        <updated>2024-09-30T06:26:21.884Z</updated>
+        <content type="html"><![CDATA[2024-10-04(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ITZY The 3rd Fan Meeting 있지 믿지, 날자! “믿지의 세포들” 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14976&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14968&amp;order=1"/>
         <updated>2024-09-27T02:49:56.094Z</updated>
         <content type="html"><![CDATA[2024-10-17(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김해] 뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14967&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14967&amp;order=1"/>
-        <updated>2024-09-27T01:18:08.875Z</updated>
-        <content type="html"><![CDATA[2024-09-30(월) 16:00]]></content>
     </entry>
 </feed>
