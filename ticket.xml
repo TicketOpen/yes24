@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-01T05:18:16.778Z</updated>
+    <updated>2024-10-01T06:26:45.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[“7 ROCK PRIME 2024” <스카페스티벌 Spin-off> 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14981</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14981"/>
+        <updated>2024-10-01T06:25:43.089Z</updated>
+        <content type="html"><![CDATA[2024.10.10(목) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 2024 판 페스티벌 - 신기 발랄 과학콘서트(과학커뮤니케이터 코코보라) 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14980</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14961"/>
         <updated>2024-09-26T03:22:58.006Z</updated>
         <content type="html"><![CDATA[2024.10.02(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉 마지막 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14960</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14960"/>
-        <updated>2024-09-26T01:16:55.255Z</updated>
-        <content type="html"><![CDATA[2024.10.04(금) 11:00]]></content>
     </entry>
 </feed>
