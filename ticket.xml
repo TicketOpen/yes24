@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-03T01:18:33.801Z</updated>
+    <updated>2024-10-03T02:50:26.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울] 강철의 연금술사전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14984</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14984"/>
+        <updated>2024-10-03T02:49:22.868Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 14:00<a class="noti-btn-pop" presaletit1="덕스(DUEX) 멤버십 선예매" presaletit2="" presaletime1="2024.10.10(목) 14:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SURL concert ‘XYRUP’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14983</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14965"/>
         <updated>2024-09-26T05:17:06.361Z</updated>
         <content type="html"><![CDATA[2024.10.08(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 MINHYUK Fan Event 〈Let’s GO!5rae〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14964</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14964"/>
-        <updated>2024-09-26T05:17:06.361Z</updated>
-        <content type="html"><![CDATA[2024.10.01(화) 20:00]]></content>
     </entry>
 </feed>
