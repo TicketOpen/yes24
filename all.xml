@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 01:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 02:50:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,6 +258,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240905/20240905-4277767a-3b54-4776-aa85-d9594251c170.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이버페이로 예매하면 포인트 적립해드려요! (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</guid>
+            <pubDate>Fri, 04 Oct 2024 02:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04 ~ 2024.10.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241004/20241004-d6212765-eb6e-42d8-88bb-1da04f2482dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[청년문화예술패스 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</guid>
@@ -278,13 +286,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Wed, 18 Sep 2024 15:19:00 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Mon, 30 Sep 2024 15:19:35 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.09.27 ~ 2024.11.24 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -325,6 +326,14 @@
             <pubDate>Thu, 05 Sep 2024 06:23:49 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;알라딘&gt; 오리지널 OST]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240905/20240905-4277767a-3b54-4776-aa85-d9594251c170.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.10.04 ~ 2024.10.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3593</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3593</guid>
+            <pubDate>Fri, 04 Oct 2024 02:50:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241004/20241004-d6212765-eb6e-42d8-88bb-1da04f2482dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.04.01 ~ 2024.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
