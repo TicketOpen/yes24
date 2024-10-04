@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-04T07:17:32.806Z</updated>
+    <updated>2024-10-04T08:23:27.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[부산] 신나는섬과 함께하는 찰리채플린 시네마 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14995</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14995"/>
+        <updated>2024-10-04T08:22:23.957Z</updated>
+        <content type="html"><![CDATA[2024.10.07(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 송골매 콘서트 ‘열망’ 두번째 〈늘-봄〉전국투어 in 고양/부산/대구 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14994</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14976"/>
         <updated>2024-09-30T01:20:25.229Z</updated>
         <content type="html"><![CDATA[2024.10.07(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.10.04(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매ASAKA LIVE in Seoul (supported by KOE) 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14975</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14975"/>
-        <updated>2024-09-27T09:18:44.358Z</updated>
-        <content type="html"><![CDATA[2024.09.30(월) 18:00]]></content>
     </entry>
 </feed>

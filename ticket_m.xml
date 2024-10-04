@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-04T07:17:32.801Z</updated>
+    <updated>2024-10-04T08:23:27.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 신나는섬과 함께하는 찰리채플린 시네마 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14995&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14995&amp;order=1"/>
+        <updated>2024-10-04T08:22:32.516Z</updated>
+        <content type="html"><![CDATA[2024-10-07(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 송골매 콘서트 ‘열망’ 두번째 〈늘-봄〉전국투어 in 고양/부산/대구 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14994&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14986&amp;order=1"/>
         <updated>2024-10-04T01:17:56.304Z</updated>
         <content type="html"><![CDATA[2024-10-10(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 이무진 전국투어 콘서트 [별책부록] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14985&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14985&amp;order=1"/>
-        <updated>2024-10-04T01:17:56.305Z</updated>
-        <content type="html"><![CDATA[2024-10-10(목) 15:00]]></content>
     </entry>
 </feed>
