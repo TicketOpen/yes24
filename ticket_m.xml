@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-04T04:21:27.159Z</updated>
+    <updated>2024-10-04T05:18:07.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 송골매 콘서트 ‘열망’ 두번째 〈늘-봄〉전국투어 in 고양/부산/대구 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14994&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14994&amp;order=1"/>
+        <updated>2024-10-04T05:17:19.306Z</updated>
+        <content type="html"><![CDATA[2024-10-07(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[성남] 2024 크리스마스캐롤 싱어롱뮤지컬 〈산타클로스와 브레멘음악대〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14993&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14985&amp;order=1"/>
         <updated>2024-10-04T01:17:56.305Z</updated>
         <content type="html"><![CDATA[2024-10-10(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 강철의 연금술사전 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14984&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14984&amp;order=1"/>
-        <updated>2024-10-03T02:49:31.759Z</updated>
-        <content type="html"><![CDATA[2024-10-11(금) 14:00]]></content>
     </entry>
 </feed>
