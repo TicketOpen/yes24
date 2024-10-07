@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-07T09:20:40.250Z</updated>
+    <updated>2024-10-07T10:20:46.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NO:EL 1ST CONCERT IN SEOUL 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15003&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15003&amp;order=1"/>
+        <updated>2024-10-07T10:19:49.936Z</updated>
+        <content type="html"><![CDATA[2024-10-10(목) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 TWICE FANMEETING［HOME 9ROUND］시야제한석 추가 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15002&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14992&amp;order=1"/>
         <updated>2024-10-04T03:22:21.157Z</updated>
         <content type="html"><![CDATA[2024-10-10(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천안] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14991&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14991&amp;order=1"/>
-        <updated>2024-10-04T03:22:21.161Z</updated>
-        <content type="html"><![CDATA[2024-10-10(목) 12:00]]></content>
     </entry>
 </feed>

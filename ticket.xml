@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-07T09:20:40.246Z</updated>
+    <updated>2024-10-07T10:20:46.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NO:EL 1ST CONCERT IN SEOUL 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15003</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15003"/>
+        <updated>2024-10-07T10:19:40.912Z</updated>
+        <content type="html"><![CDATA[2024.10.10(목) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 TWICE FANMEETING［HOME 9ROUND］시야제한석 추가 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15002</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14982"/>
         <updated>2024-10-02T07:16:11.320Z</updated>
         <content type="html"><![CDATA[2024.10.04(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“7 ROCK PRIME 2024” <스카페스티벌 Spin-off> 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14981</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14981"/>
-        <updated>2024-10-01T06:25:43.089Z</updated>
-        <content type="html"><![CDATA[2024.10.10(목) 17:00]]></content>
     </entry>
 </feed>

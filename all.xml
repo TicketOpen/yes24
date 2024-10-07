@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 09:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 10:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NO:EL 1ST CONCERT IN SEOUL 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15003</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15003</guid>
+            <pubDate>Mon, 07 Oct 2024 10:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.10(목) 19:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[단독판매2024 TWICE FANMEETING［HOME 9ROUND］시야제한석 추가 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15002</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2024.10.04(금) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“7 ROCK PRIME 2024” <스카페스티벌 Spin-off> 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14981</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14981</guid>
-            <pubDate>Tue, 01 Oct 2024 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.10(목) 17:00]]></content:encoded>
+            <title><![CDATA[NO:EL 1ST CONCERT IN SEOUL 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15003&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15003&amp;order=1</guid>
+            <pubDate>Mon, 07 Oct 2024 10:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024-10-10(목) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 TWICE FANMEETING［HOME 9ROUND］시야제한석 추가 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,19 +218,20 @@
             <content:encoded><![CDATA[2024-10-10(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[천안] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14991&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14991&amp;order=1</guid>
-            <pubDate>Fri, 04 Oct 2024 03:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024-10-10(목) 12:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [빈센트 반 고흐] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/50536</link>
             <guid>http://ticket.yes24.com/Perf/50536</guid>
             <pubDate>Mon, 07 Oct 2024 01:20:08 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202410/20241007/20241007-50536.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <'고도를 기다리며'를 기다리며> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50388&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50388&amp;Tab=2</guid>
+            <pubDate>Mon, 07 Oct 2024 10:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.07 ~ 2024.11.07 | 2024.11.11 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241007/20241007-806a594a-5f88-439d-8f42-7786e52194dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [하데스타운] 한국 공연 - YES24DAY 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -290,12 +298,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241004/20241004-d6212765-eb6e-42d8-88bb-1da04f2482dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청년문화예술패스 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</guid>
-            <pubDate>Mon, 07 Oct 2024 01:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240830/20240830-90160fff-cfdc-4eed-acd9-10811ddf7629.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2024.10.07 ~ 2024.11.07 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=50388</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=50388</guid>
+            <pubDate>Mon, 07 Oct 2024 10:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>도서 &lt;고도를 기다리며&gt; (고기기 전 배우 사인 포함) + 해당 리뷰의 관람일과 다른 페어의 초대권(1인 2매)]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241007/20241007-806a594a-5f88-439d-8f42-7786e52194dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.10.04 ~ 2024.10.13 (YES24 티켓 ─ 이벤트 모바일)]]></title>
