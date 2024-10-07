@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-07T01:20:42.399Z</updated>
+    <updated>2024-10-07T02:55:02.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제1255회 서초금요음악회 [일렉트로국악] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15001&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15001&amp;order=1"/>
+        <updated>2024-10-07T02:54:18.690Z</updated>
+        <content type="html"><![CDATA[2024-10-11(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 콘서트 가이드 김성민과 함께하는 [가을, 탱고의 전설 ‘친친탱고’] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15000&amp;order=1</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[울산] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14990&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14990&amp;order=1"/>
-        <updated>2024-10-04T03:22:21.170Z</updated>
-        <content type="html"><![CDATA[2024-10-10(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14989&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14989&amp;order=1"/>
         <updated>2024-10-04T03:22:21.170Z</updated>
         <content type="html"><![CDATA[2024-10-10(목) 12:00]]></content>
     </entry>
