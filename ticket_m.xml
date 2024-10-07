@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-06T23:16:51.141Z</updated>
+    <updated>2024-10-07T01:20:42.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 콘서트 가이드 김성민과 함께하는 [가을, 탱고의 전설 ‘친친탱고’] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15000&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15000&amp;order=1"/>
+        <updated>2024-10-07T01:20:01.024Z</updated>
+        <content type="html"><![CDATA[2024-10-08(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘르가든 내한공연 ELLEGARDEN Boys are Back in the East Tour 2024 [SEOUL] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14998&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14998&amp;order=1"/>
+        <updated>2024-10-07T01:20:01.026Z</updated>
+        <content type="html"><![CDATA[2024-10-15(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[樂드림 [모래 위 춤추는 소리판] - 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14997&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14989&amp;order=1"/>
         <updated>2024-10-04T03:22:21.170Z</updated>
         <content type="html"><![CDATA[2024-10-10(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나훈아 ‘2024 고마웠습니다-라스트 콘서트(LAST CONCERT)’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14988&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14988&amp;order=1"/>
-        <updated>2024-10-04T01:17:56.296Z</updated>
-        <content type="html"><![CDATA[2024-10-29(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [빈센트 반 고흐] 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14987&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14987&amp;order=1"/>
-        <updated>2024-10-04T03:22:21.171Z</updated>
-        <content type="html"><![CDATA[2024-10-08(화) 15:00]]></content>
     </entry>
 </feed>
