@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-08T05:17:51.570Z</updated>
+    <updated>2024-10-08T06:26:05.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 뮤지컬 [지저스 크라이스트 수퍼스타] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15010</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15010"/>
+        <updated>2024-10-08T06:25:09.927Z</updated>
+        <content type="html"><![CDATA[2024.10.15(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈랭보〉 4차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15009</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14988"/>
         <updated>2024-10-04T01:17:47.532Z</updated>
         <content type="html"><![CDATA[2024.10.29(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [빈센트 반 고흐] 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14987</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14987"/>
-        <updated>2024-10-04T03:22:12.442Z</updated>
-        <content type="html"><![CDATA[2024.10.08(화) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2024.10.08(화) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
