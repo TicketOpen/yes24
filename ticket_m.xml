@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-08T04:21:38.854Z</updated>
+    <updated>2024-10-08T05:17:51.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈랭보〉 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15009&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15009&amp;order=1"/>
+        <updated>2024-10-08T05:17:03.644Z</updated>
+        <content type="html"><![CDATA[2024-10-16(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EUNICE ‘The First Page’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15008&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15008&amp;order=1"/>
+        <updated>2024-10-08T05:17:03.645Z</updated>
+        <content type="html"><![CDATA[2024-10-11(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제1256회 서초금요음악회 [팜므파탈 카르멘] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15007&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15007&amp;order=1"/>
         <updated>2024-10-08T01:17:42.492Z</updated>
         <content type="html"><![CDATA[2024-10-18(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <조선 이야기꾼 전기수: 나잇-츠> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15006&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15006&amp;order=1"/>
+        <updated>2024-10-08T05:17:03.648Z</updated>
+        <content type="html"><![CDATA[2024-10-11(금) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시지프스> 1차 티켓오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14998&amp;order=1"/>
         <updated>2024-10-07T01:20:01.026Z</updated>
         <content type="html"><![CDATA[2024-10-15(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[樂드림 [모래 위 춤추는 소리판] - 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14997&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14997&amp;order=1"/>
-        <updated>2024-10-04T11:14:29.165Z</updated>
-        <content type="html"><![CDATA[2024-10-11(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 신나는섬과 함께하는 찰리채플린 시네마 콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14995&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14995&amp;order=1"/>
-        <updated>2024-10-04T08:22:32.516Z</updated>
-        <content type="html"><![CDATA[2024-10-08(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 송골매 콘서트 ‘열망’ 두번째 〈늘-봄〉전국투어 in 고양/부산/대구 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14994&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14994&amp;order=1"/>
-        <updated>2024-10-04T05:17:19.306Z</updated>
-        <content type="html"><![CDATA[2024-10-07(월) 18:00]]></content>
     </entry>
 </feed>

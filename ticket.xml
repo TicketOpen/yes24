@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-08T04:21:38.856Z</updated>
+    <updated>2024-10-08T05:17:51.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈랭보〉 4차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15009</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15009"/>
+        <updated>2024-10-08T05:16:55.623Z</updated>
+        <content type="html"><![CDATA[2024.10.16(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매EUNICE ‘The First Page’ 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15008</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15008"/>
+        <updated>2024-10-08T05:16:55.623Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매제1256회 서초금요음악회 [팜므파탈 카르멘] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15007</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15007"/>
         <updated>2024-10-08T01:17:34.951Z</updated>
         <content type="html"><![CDATA[2024.10.18(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <조선 이야기꾼 전기수: 나잇-츠> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15006</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15006"/>
+        <updated>2024-10-08T05:16:55.624Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시지프스> 1차 티켓오픈 안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14987"/>
         <updated>2024-10-04T03:22:12.442Z</updated>
         <content type="html"><![CDATA[2024.10.08(화) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2024.10.08(화) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 이무진 전국투어 콘서트 [별책부록] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14986</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14986"/>
-        <updated>2024-10-04T01:17:47.532Z</updated>
-        <content type="html"><![CDATA[2024.10.10(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 이무진 전국투어 콘서트 [별책부록] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14985</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14985"/>
-        <updated>2024-10-04T01:17:47.534Z</updated>
-        <content type="html"><![CDATA[2024.10.10(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 강철의 연금술사전 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14984</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14984"/>
-        <updated>2024-10-03T02:49:22.868Z</updated>
-        <content type="html"><![CDATA[2024.10.11(금) 14:00<a class="noti-btn-pop" presaletit1="덕스(DUEX) 멤버십 선예매" presaletit2="" presaletime1="2024.10.10(목) 14:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
