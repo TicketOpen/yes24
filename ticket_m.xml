@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-07T23:17:44.609Z</updated>
+    <updated>2024-10-08T01:18:28.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제1256회 서초금요음악회 [팜므파탈 카르멘] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15007&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15007&amp;order=1"/>
+        <updated>2024-10-08T01:17:42.492Z</updated>
+        <content type="html"><![CDATA[2024-10-18(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NO:EL 1ST CONCERT IN SEOUL 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15003&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14993&amp;order=1"/>
         <updated>2024-10-04T03:22:21.157Z</updated>
         <content type="html"><![CDATA[2024-10-07(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 2024 적재 전국투어 콘서트 〈CLICHE〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14992&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14992&amp;order=1"/>
-        <updated>2024-10-04T03:22:21.157Z</updated>
-        <content type="html"><![CDATA[2024-10-10(목) 20:00]]></content>
     </entry>
 </feed>
