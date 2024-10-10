@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-10T01:18:05.815Z</updated>
+    <updated>2024-10-10T02:50:14.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15014&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15014&amp;order=1"/>
+        <updated>2024-10-10T02:49:26.057Z</updated>
+        <content type="html"><![CDATA[2024-10-16(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 국민연극 〈라이어1탄〉 - 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15013&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15005&amp;order=1"/>
         <updated>2024-10-08T02:52:54.287Z</updated>
         <content type="html"><![CDATA[2024-10-14(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NO:EL 1ST CONCERT IN SEOUL 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15003&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15003&amp;order=1"/>
-        <updated>2024-10-07T10:19:49.936Z</updated>
-        <content type="html"><![CDATA[2024-10-10(목) 19:00]]></content>
     </entry>
 </feed>
