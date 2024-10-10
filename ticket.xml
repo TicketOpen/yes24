@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-10T02:50:14.419Z</updated>
+    <updated>2024-10-10T03:23:30.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 〈산타클로스와브레멘음악대〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15018</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15018"/>
+        <updated>2024-10-10T03:22:28.092Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매ITZY The 3rd Fan Meeting 있지 믿지, 날자! “믿지의 세포들”추가 좌석 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15017</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15017"/>
+        <updated>2024-10-10T03:22:28.094Z</updated>
+        <content type="html"><![CDATA[2024.10.10(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15016</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15016"/>
+        <updated>2024-10-10T03:22:28.096Z</updated>
+        <content type="html"><![CDATA[2024.10.16(수) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울 구로] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15015</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15015"/>
+        <updated>2024-10-10T03:22:28.098Z</updated>
+        <content type="html"><![CDATA[2024.10.16(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15014</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14997"/>
         <updated>2024-10-04T11:14:20.151Z</updated>
         <content type="html"><![CDATA[2024.10.11(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] 신나는섬과 함께하는 찰리채플린 시네마 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14995</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14995"/>
-        <updated>2024-10-04T08:22:23.957Z</updated>
-        <content type="html"><![CDATA[2024.10.08(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 송골매 콘서트 ‘열망’ 두번째 〈늘-봄〉전국투어 in 고양/부산/대구 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14994</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14994"/>
-        <updated>2024-10-04T05:17:10.919Z</updated>
-        <content type="html"><![CDATA[2024.10.07(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2024 크리스마스캐롤 싱어롱뮤지컬 〈산타클로스와 브레멘음악대〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14993</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14993"/>
-        <updated>2024-10-04T03:22:12.425Z</updated>
-        <content type="html"><![CDATA[2024.10.07(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[서울] 2024 적재 전국투어 콘서트 〈CLICHE〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14992</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14992"/>
-        <updated>2024-10-04T03:22:12.426Z</updated>
-        <content type="html"><![CDATA[2024.10.10(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.10.08(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

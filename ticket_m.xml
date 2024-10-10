@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-10T02:50:14.391Z</updated>
+    <updated>2024-10-10T03:23:30.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 〈산타클로스와브레멘음악대〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15018&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15018&amp;order=1"/>
+        <updated>2024-10-10T03:22:37.108Z</updated>
+        <content type="html"><![CDATA[2024-10-11(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITZY The 3rd Fan Meeting 있지 믿지, 날자! “믿지의 세포들”추가 좌석 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15017&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15017&amp;order=1"/>
+        <updated>2024-10-10T03:22:37.110Z</updated>
+        <content type="html"><![CDATA[2024-10-10(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15016&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15016&amp;order=1"/>
+        <updated>2024-10-10T03:22:37.112Z</updated>
+        <content type="html"><![CDATA[2024-10-16(수) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울 구로] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15015&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15015&amp;order=1"/>
+        <updated>2024-10-10T03:22:37.114Z</updated>
+        <content type="html"><![CDATA[2024-10-16(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15014&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15009&amp;order=1"/>
         <updated>2024-10-08T05:17:03.644Z</updated>
         <content type="html"><![CDATA[2024-10-16(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EUNICE ‘The First Page’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15008&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15008&amp;order=1"/>
-        <updated>2024-10-08T05:17:03.645Z</updated>
-        <content type="html"><![CDATA[2024-10-11(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제1256회 서초금요음악회 [팜므파탈 카르멘] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15007&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15007&amp;order=1"/>
-        <updated>2024-10-08T01:17:42.492Z</updated>
-        <content type="html"><![CDATA[2024-10-18(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <조선 이야기꾼 전기수: 나잇-츠> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15006&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15006&amp;order=1"/>
-        <updated>2024-10-08T05:17:03.648Z</updated>
-        <content type="html"><![CDATA[2024-10-11(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시지프스> 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15005&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15005&amp;order=1"/>
-        <updated>2024-10-08T02:52:54.287Z</updated>
-        <content type="html"><![CDATA[2024-10-14(월) 14:00]]></content>
     </entry>
 </feed>
