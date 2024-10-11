@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-10T23:17:39.337Z</updated>
+    <updated>2024-10-11T01:18:18.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈델타 보이즈〉 - 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15026&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15026&amp;order=1"/>
+        <updated>2024-10-11T01:17:30.363Z</updated>
+        <content type="html"><![CDATA[2024-10-14(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anime X Game Festival 2024 - 일반 입장권 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15024&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15024&amp;order=1"/>
+        <updated>2024-10-11T01:17:30.364Z</updated>
+        <content type="html"><![CDATA[2024-10-14(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고양] 뮤지컬 <킹키부츠> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15022&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15015&amp;order=1"/>
         <updated>2024-10-10T03:22:37.114Z</updated>
         <content type="html"><![CDATA[2024-10-16(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15014&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15014&amp;order=1"/>
-        <updated>2024-10-10T02:49:26.057Z</updated>
-        <content type="html"><![CDATA[2024-10-16(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 국민연극 〈라이어1탄〉 - 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15013&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15013&amp;order=1"/>
-        <updated>2024-10-10T01:17:23.897Z</updated>
-        <content type="html"><![CDATA[2024-10-15(화) 14:00]]></content>
     </entry>
 </feed>
