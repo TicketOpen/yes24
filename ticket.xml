@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-11T02:49:12.321Z</updated>
+    <updated>2024-10-11T03:22:43.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈스크루지아저씨의 크리스마스캐롤〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15035</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15035"/>
+        <updated>2024-10-11T03:21:44.563Z</updated>
+        <content type="html"><![CDATA[2024.10.14(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈델타 보이즈〉 - 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15026</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15006"/>
         <updated>2024-10-08T05:16:55.624Z</updated>
         <content type="html"><![CDATA[2024.10.11(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시지프스> 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15005</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15005"/>
-        <updated>2024-10-08T02:52:45.485Z</updated>
-        <content type="html"><![CDATA[2024.10.14(월) 14:00]]></content>
     </entry>
 </feed>
