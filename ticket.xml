@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-14T03:27:00.841Z</updated>
+    <updated>2024-10-14T04:21:49.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[로트렉 전시+공연 패키지] 더 콘서트 툴루즈 로트렉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15048</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15048"/>
+        <updated>2024-10-14T04:20:47.980Z</updated>
+        <content type="html"><![CDATA[2024.10.18(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[로트렉 전시+공연 패키지] 더 콘서트 툴루즈 로트렉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15047</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15047"/>
+        <updated>2024-10-14T04:20:47.981Z</updated>
+        <content type="html"><![CDATA[2024.10.18(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매DRIPPIN FAN CONCERT 〈PLAY : Drippin Adventure〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15046</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15026"/>
         <updated>2024-10-11T01:17:22.144Z</updated>
         <content type="html"><![CDATA[2024.10.14(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 콘텐츠 창의인재동반사업 “Make a Creative” 쇼케이스 <데뷔를 대비하라>  티켓오픈 안..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15025</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15025"/>
-        <updated>2024-10-11T05:17:17.333Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Anime X Game Festival 2024 - 일반 입장권 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15024</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15024"/>
-        <updated>2024-10-11T01:17:22.144Z</updated>
-        <content type="html"><![CDATA[2024.10.14(월) 14:00]]></content>
     </entry>
 </feed>
