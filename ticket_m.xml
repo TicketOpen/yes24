@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-14T04:21:49.992Z</updated>
+    <updated>2024-10-14T05:18:44.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[[로트렉 전시+공연 패키지] 더 콘서트 툴루즈 로트렉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15048&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15048&amp;order=1"/>
-        <updated>2024-10-14T04:20:57.267Z</updated>
-        <content type="html"><![CDATA[2024-10-18(금) 15:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈이터니티〉 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15050&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15050&amp;order=1"/>
+        <updated>2024-10-14T05:17:51.696Z</updated>
+        <content type="html"><![CDATA[2024-10-21(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 이토 준지 호러하우스 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15049&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15049&amp;order=1"/>
+        <updated>2024-10-14T05:17:51.697Z</updated>
+        <content type="html"><![CDATA[2024-10-17(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[로트렉 전시+공연 패키지] 더 콘서트 툴루즈 로트렉 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15039&amp;order=1"/>
         <updated>2024-10-11T10:18:46.560Z</updated>
         <content type="html"><![CDATA[2024-10-17(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시라노> 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15038&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15038&amp;order=1"/>
-        <updated>2024-10-11T07:17:48.564Z</updated>
-        <content type="html"><![CDATA[2024-10-16(수) 10:00]]></content>
     </entry>
 </feed>
