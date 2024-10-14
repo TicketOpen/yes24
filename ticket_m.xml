@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-13T23:18:07.254Z</updated>
+    <updated>2024-10-14T01:20:39.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[남양주] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15040&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15040&amp;order=1"/>
+        <updated>2024-10-14T01:19:53.191Z</updated>
+        <content type="html"><![CDATA[2024-10-16(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나다 뮤직페스티벌 2024 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15039&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15029&amp;order=1"/>
         <updated>2024-10-11T05:17:25.920Z</updated>
         <content type="html"><![CDATA[2024-10-17(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 적재 전국투어 콘서트 〈CLICHE〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15028&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15028&amp;order=1"/>
-        <updated>2024-10-11T05:17:25.921Z</updated>
-        <content type="html"><![CDATA[2024-10-17(목) 19:00]]></content>
     </entry>
 </feed>
