@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-15T06:25:48.060Z</updated>
+    <updated>2024-10-15T07:19:00.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈쓰릴 미〉 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15054&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15054&amp;order=1"/>
+        <updated>2024-10-15T07:18:16.729Z</updated>
+        <content type="html"><![CDATA[2024-10-22(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오페레타 뮤지컬 [판타지아] 시즌 1 - 위기에 빠진 산타마을을 구하라! 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15053&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15044&amp;order=1"/>
         <updated>2024-10-14T02:53:16.358Z</updated>
         <content type="html"><![CDATA[2024-10-17(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부천] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15043&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15043&amp;order=1"/>
-        <updated>2024-10-14T02:53:16.360Z</updated>
-        <content type="html"><![CDATA[2024-10-17(목) 14:00]]></content>
     </entry>
 </feed>
