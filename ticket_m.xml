@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-16T04:22:11.734Z</updated>
+    <updated>2024-10-16T05:18:52.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024년 백양문화예술회관 기획공연 - 벽 속의 요정 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15058&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15058&amp;order=1"/>
+        <updated>2024-10-16T05:18:03.128Z</updated>
+        <content type="html"><![CDATA[2024-10-16(수) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 뮤지컬 〈맥베스〉 - 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15057&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15057&amp;order=1"/>
+        <updated>2024-10-16T05:18:03.129Z</updated>
+        <content type="html"><![CDATA[2024-10-22(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서도밴드(sEODo BAND) 단독 콘서트 [UNCERTAINTY] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15056&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15049&amp;order=1"/>
         <updated>2024-10-14T05:17:51.697Z</updated>
         <content type="html"><![CDATA[2024-10-17(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[로트렉 전시+공연 패키지] 더 콘서트 툴루즈 로트렉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15047&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15047&amp;order=1"/>
-        <updated>2024-10-14T04:20:57.269Z</updated>
-        <content type="html"><![CDATA[2024-10-18(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN FAN CONCERT 〈PLAY : Drippin Adventure〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15046&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15046&amp;order=1"/>
-        <updated>2024-10-14T03:26:11.108Z</updated>
-        <content type="html"><![CDATA[2024-10-15(화) 20:00]]></content>
     </entry>
 </feed>
