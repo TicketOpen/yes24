@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-16T01:19:31.001Z</updated>
+    <updated>2024-10-16T02:53:21.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 한국문화 큰잔치(2024 K-Wave Festival) 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15055&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15055&amp;order=1"/>
+        <updated>2024-10-16T02:52:20.899Z</updated>
+        <content type="html"><![CDATA[2024-10-18(금) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈쓰릴 미〉 4차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15054&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15045&amp;order=1"/>
         <updated>2024-10-14T02:53:16.357Z</updated>
         <content type="html"><![CDATA[2024-10-18(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포항] 헬로카봇 뮤지컬 시즌8 <미래연구소를 지켜라!> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15044&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15044&amp;order=1"/>
-        <updated>2024-10-14T02:53:16.358Z</updated>
-        <content type="html"><![CDATA[2024-10-17(목) 11:00]]></content>
     </entry>
 </feed>

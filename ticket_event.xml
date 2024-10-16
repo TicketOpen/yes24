@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 01:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 02:53:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <장화신은 고양이 비긴즈>-플레이 버전 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=3</guid>
+            <pubDate>Wed, 16 Oct 2024 02:52:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04 ~ 2024.12.22 | 2024.10.24 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-2393c433-073f-4559-bf5b-abf58862f9af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <판타지아 시즌 1> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51172&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51172&amp;Tab=3</guid>
+            <pubDate>Wed, 16 Oct 2024 02:52:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04 ~ 2024.12.08 | 2024.12.10 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-1951adc2-312f-405f-ae93-915ae70d8031.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <'고도를 기다리며'를 기다리며> 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50388&amp;Tab=2</link>
@@ -62,21 +78,6 @@
             <pubDate>Fri, 04 Oct 2024 02:50:31 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.04 ~ 2024.10.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241004/20241004-d6212765-eb6e-42d8-88bb-1da04f2482dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년문화예술패스]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</guid>
-            <pubDate>Sun, 13 Oct 2024 15:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240830/20240830-90160fff-cfdc-4eed-acd9-10811ddf7629.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Sun, 13 Oct 2024 15:17:41 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
