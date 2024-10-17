@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-17T04:22:05.449Z</updated>
+    <updated>2024-10-17T05:18:38.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 국립국악관현악단 베스트 컬렉션 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15059&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15059&amp;order=1"/>
+        <updated>2024-10-17T05:17:44.136Z</updated>
+        <content type="html"><![CDATA[2024-10-31(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2024년 백양문화예술회관 기획공연 - 벽 속의 요정 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15058&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15050&amp;order=1"/>
         <updated>2024-10-14T05:17:51.696Z</updated>
         <content type="html"><![CDATA[2024-10-21(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 이토 준지 호러하우스 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15049&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15049&amp;order=1"/>
-        <updated>2024-10-14T05:17:51.697Z</updated>
-        <content type="html"><![CDATA[2024-10-17(목) 14:00]]></content>
     </entry>
 </feed>
