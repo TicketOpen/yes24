@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-17T06:25:44.122Z</updated>
+    <updated>2024-10-17T07:18:20.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [드라이 플라워] 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15060&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15060&amp;order=1"/>
+        <updated>2024-10-17T07:17:23.281Z</updated>
+        <content type="html"><![CDATA[2024-10-23(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 국립국악관현악단 베스트 컬렉션 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15059&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15051&amp;order=1"/>
         <updated>2024-10-15T01:18:37.652Z</updated>
         <content type="html"><![CDATA[2024-10-15(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈이터니티〉 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15050&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15050&amp;order=1"/>
-        <updated>2024-10-14T05:17:51.696Z</updated>
-        <content type="html"><![CDATA[2024-10-21(월) 14:00]]></content>
     </entry>
 </feed>
