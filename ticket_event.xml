@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 09:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 10:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬<조선 이야기꾼 전기수: 나잇-츠> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51294&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51294&amp;Tab=3</guid>
+            <pubDate>Thu, 17 Oct 2024 10:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.11 ~ 2024.11.10 | 2024.11.12 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241017/20241017-4a698175-fddd-41d5-b1e5-f562b2db1be4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <장화신은 고양이 비긴즈>-플레이 버전 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 05 Sep 2024 06:23:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.05 ~ 2024.11.21 | 2024.11.22 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240905/20240905-4277767a-3b54-4776-aa85-d9594251c170.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버페이로 예매하면 포인트 적립해드려요!]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</guid>
-            <pubDate>Fri, 04 Oct 2024 02:50:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.04 ~ 2024.10.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241004/20241004-d6212765-eb6e-42d8-88bb-1da04f2482dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
