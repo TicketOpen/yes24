@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-18T04:23:03.188Z</updated>
+    <updated>2024-10-18T05:18:23.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SUNGJIN SOLO CONCERT〈30〉티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15064&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15064&amp;order=1"/>
+        <updated>2024-10-18T05:17:35.494Z</updated>
+        <content type="html"><![CDATA[2024-10-25(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불멸의 화가 반 고흐 전시 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15062&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15053&amp;order=1"/>
         <updated>2024-10-15T06:25:00.430Z</updated>
         <content type="html"><![CDATA[2024-10-21(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <블러디 러브> 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15052&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15052&amp;order=1"/>
-        <updated>2024-10-15T05:17:59.868Z</updated>
-        <content type="html"><![CDATA[2024-10-22(화) 14:00]]></content>
     </entry>
 </feed>
