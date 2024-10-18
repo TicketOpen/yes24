@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-18T06:25:37.526Z</updated>
+    <updated>2024-10-18T07:18:11.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 이은미 라이브 투어 [MOVE ON] - 남양주  티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15065&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15065&amp;order=1"/>
+        <updated>2024-10-18T07:17:24.988Z</updated>
+        <content type="html"><![CDATA[2024-10-22(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUNGJIN SOLO CONCERT〈30〉티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15064&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15054&amp;order=1"/>
         <updated>2024-10-15T07:18:16.729Z</updated>
         <content type="html"><![CDATA[2024-10-22(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오페레타 뮤지컬 [판타지아] 시즌 1 - 위기에 빠진 산타마을을 구하라! 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15053&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15053&amp;order=1"/>
-        <updated>2024-10-15T06:25:00.430Z</updated>
-        <content type="html"><![CDATA[2024-10-21(월) 11:00]]></content>
     </entry>
 </feed>
