@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 14:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 15:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240927/20240927-73f68323-fc39-4ae4-a262-a3ee42584277.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈지저스 크라이스트 수퍼스타〉기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50929&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50929&amp;Tab=3</guid>
-            <pubDate>Wed, 25 Sep 2024 09:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.04 ~ 2024.10.18 | 2024.10.25 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240925/20240925-e8d2d1e2-180d-4aa4-b0e0-a4f0763616dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <빈센트 반 고흐>  관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50536&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50536&amp;Tab=2</guid>
@@ -78,6 +70,14 @@
             <pubDate>Thu, 05 Sep 2024 06:23:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.05 ~ 2024.11.21 | 2024.11.22 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240905/20240905-4277767a-3b54-4776-aa85-d9594251c170.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버페이로 예매하면 포인트 적립해드려요!]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</guid>
+            <pubDate>Fri, 18 Oct 2024 15:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04 ~ 2024.10.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241004/20241004-d6212765-eb6e-42d8-88bb-1da04f2482dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
