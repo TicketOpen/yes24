@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-18T08:23:25.375Z</updated>
+    <updated>2024-10-18T09:20:01.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매트와이스 정연의 〈감별사 Concert〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15068</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15068"/>
+        <updated>2024-10-18T09:19:06.457Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비와이(BewhY) 라이브 콘서트 [gleams festival] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15066</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15066"/>
+        <updated>2024-10-18T09:19:06.459Z</updated>
+        <content type="html"><![CDATA[2024.10.22(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 이은미 라이브 투어 [MOVE ON] - 남양주  티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15065</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15047"/>
         <updated>2024-10-14T04:20:47.981Z</updated>
         <content type="html"><![CDATA[2024.10.18(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매DRIPPIN FAN CONCERT 〈PLAY : Drippin Adventure〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15046</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15046"/>
-        <updated>2024-10-14T03:26:02.628Z</updated>
-        <content type="html"><![CDATA[2024.10.15(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] 콘서트 <레 미제라블> 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15045</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15045"/>
-        <updated>2024-10-14T02:53:07.561Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 14:00]]></content>
     </entry>
 </feed>
