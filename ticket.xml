@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-20T23:18:41.018Z</updated>
+    <updated>2024-10-21T01:20:56.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매서영은 콘서트 [내 안의 행복을 찾아서 - 그대들과 함께] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15070</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15070"/>
+        <updated>2024-10-21T01:20:07.716Z</updated>
+        <content type="html"><![CDATA[2024.10.21(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘르가든 내한공연 ELLEGARDEN Boys are Back in the East Tour 2024 [SEOUL] 추가 회차 티켓 오..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15069</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15069"/>
+        <updated>2024-10-21T01:20:07.717Z</updated>
+        <content type="html"><![CDATA[2024.10.22(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매트와이스 정연의 〈감별사 Concert〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15068</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15050"/>
         <updated>2024-10-14T05:17:43.031Z</updated>
         <content type="html"><![CDATA[2024.10.21(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 이토 준지 호러하우스 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15049</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15049"/>
-        <updated>2024-10-14T05:17:43.032Z</updated>
-        <content type="html"><![CDATA[2024.10.17(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[로트렉 전시+공연 패키지] 더 콘서트 툴루즈 로트렉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15047</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15047"/>
-        <updated>2024-10-14T04:20:47.981Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 15:00]]></content>
     </entry>
 </feed>
