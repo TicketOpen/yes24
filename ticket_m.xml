@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-21T04:22:17.362Z</updated>
+    <updated>2024-10-21T05:18:37.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15072&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15072&amp;order=1"/>
+        <updated>2024-10-21T05:17:51.173Z</updated>
+        <content type="html"><![CDATA[2024-10-24(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[특전소녀전선 : 10월 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15071&amp;order=1</id>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[2024-10-25(금) 20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉- 1차 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[〈바스커빌 : 셜록홈즈 미스터리〉- 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15063&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15063&amp;order=1"/>
         <updated>2024-10-18T08:22:36.868Z</updated>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15062&amp;order=1"/>
         <updated>2024-10-18T02:51:30.216Z</updated>
         <content type="html"><![CDATA[2024-10-18(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈킬롤로지〉 : 연극열전10_세 번째 작품 - 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15061&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15061&amp;order=1"/>
-        <updated>2024-10-18T08:22:36.869Z</updated>
-        <content type="html"><![CDATA[2024-10-24(목) 16:00]]></content>
     </entry>
 </feed>
