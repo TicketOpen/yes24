@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-21T08:24:14.059Z</updated>
+    <updated>2024-10-21T09:20:41.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[천안] 2024 뮤지컬 오! 당신이 잠든사이 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15075&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15075&amp;order=1"/>
+        <updated>2024-10-21T09:19:50.913Z</updated>
+        <content type="html"><![CDATA[2024-10-25(금) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니버설발레단 [호두까기인형] - 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15074&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15074&amp;order=1"/>
+        <updated>2024-10-21T09:19:50.914Z</updated>
+        <content type="html"><![CDATA[2024-10-24(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숲세권 라이브 : 서울 콘서트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15073&amp;order=1</id>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15065&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15065&amp;order=1"/>
         <updated>2024-10-18T07:17:24.988Z</updated>
-        <content type="html"><![CDATA[2024-10-22(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUNGJIN SOLO CONCERT〈30〉티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15064&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15064&amp;order=1"/>
-        <updated>2024-10-18T05:17:35.494Z</updated>
-        <content type="html"><![CDATA[2024-10-25(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈바스커빌 : 셜록홈즈 미스터리〉- 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15063&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15063&amp;order=1"/>
-        <updated>2024-10-18T08:22:36.868Z</updated>
         <content type="html"><![CDATA[2024-10-22(화) 14:00]]></content>
     </entry>
 </feed>
