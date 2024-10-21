@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-21T02:55:35.498Z</updated>
+    <updated>2024-10-21T03:27:50.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[특전소녀전선 : 10월 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15071&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15071&amp;order=1"/>
+        <updated>2024-10-21T03:27:09.204Z</updated>
+        <content type="html"><![CDATA[2024-10-21(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서영은 콘서트 [내 안의 행복을 찾아서 - 그대들과 함께] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15070&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15061&amp;order=1"/>
         <updated>2024-10-18T08:22:36.869Z</updated>
         <content type="html"><![CDATA[2024-10-24(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [드라이 플라워] 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15060&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15060&amp;order=1"/>
-        <updated>2024-10-17T07:17:23.281Z</updated>
-        <content type="html"><![CDATA[2024-10-23(수) 11:00]]></content>
     </entry>
 </feed>
