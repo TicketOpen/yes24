@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-22T01:20:20.904Z</updated>
+    <updated>2024-10-22T02:52:02.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[부산] 포크콘서트 윤도경밴드 [쟁글쟁글] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15076</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15076"/>
+        <updated>2024-10-22T02:51:07.650Z</updated>
+        <content type="html"><![CDATA[2024.10.28(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[천안] 2024 뮤지컬 오! 당신이 잠든사이 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15075</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15056"/>
         <updated>2024-10-16T04:21:08.624Z</updated>
         <content type="html"><![CDATA[2024.10.21(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 한국문화 큰잔치(2024 K-Wave Festival) 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15055</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15055"/>
-        <updated>2024-10-16T02:52:12.744Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 17:00]]></content>
     </entry>
 </feed>

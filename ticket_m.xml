@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-22T01:20:20.867Z</updated>
+    <updated>2024-10-22T02:52:02.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 포크콘서트 윤도경밴드 [쟁글쟁글] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15076&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15076&amp;order=1"/>
+        <updated>2024-10-22T02:51:16.095Z</updated>
+        <content type="html"><![CDATA[2024-10-28(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[천안] 2024 뮤지컬 오! 당신이 잠든사이 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15075&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15066&amp;order=1"/>
         <updated>2024-10-18T09:19:13.827Z</updated>
         <content type="html"><![CDATA[2024-10-22(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이은미 라이브 투어 [MOVE ON] - 남양주  티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15065&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15065&amp;order=1"/>
-        <updated>2024-10-18T07:17:24.988Z</updated>
-        <content type="html"><![CDATA[2024-10-22(화) 14:00]]></content>
     </entry>
 </feed>
