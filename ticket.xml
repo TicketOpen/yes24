@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-22T06:25:44.922Z</updated>
+    <updated>2024-10-22T07:19:04.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[〈정명훈 & 원 코리아 오케스트라〉- 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15079</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15079"/>
+        <updated>2024-10-22T07:17:59.313Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Love Sea 1ST FAN MEETING IN KOREA 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15078</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[2024.10.24(목) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[숲세권 라이브 : 서울 콘서트 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[단독판매숲세권 라이브 : 서울 콘서트 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15073</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15073"/>
         <updated>2024-10-21T08:23:25.082Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15059"/>
         <updated>2024-10-17T05:17:34.944Z</updated>
         <content type="html"><![CDATA[2024.10.25(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] 2024년 백양문화예술회관 기획공연 - 벽 속의 요정 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15058</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15058"/>
-        <updated>2024-10-16T05:17:54.175Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 17:00]]></content>
     </entry>
 </feed>

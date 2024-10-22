@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-22T06:25:44.947Z</updated>
+    <updated>2024-10-22T07:19:04.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[〈정명훈 & 원 코리아 오케스트라〉- 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15079&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15079&amp;order=1"/>
+        <updated>2024-10-22T07:18:08.422Z</updated>
+        <content type="html"><![CDATA[2024-10-25(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Love Sea 1ST FAN MEETING IN KOREA 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15078&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15070&amp;order=1"/>
         <updated>2024-10-21T01:20:14.840Z</updated>
         <content type="html"><![CDATA[2024-10-21(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘르가든 내한공연 ELLEGARDEN Boys are Back in the East Tour 2024 [SEOUL] 추가 회차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15069&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15069&amp;order=1"/>
-        <updated>2024-10-21T01:20:14.844Z</updated>
-        <content type="html"><![CDATA[2024-10-22(화) 18:00]]></content>
     </entry>
 </feed>
