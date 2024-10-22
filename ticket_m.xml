@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-22T04:23:10.835Z</updated>
+    <updated>2024-10-22T05:18:13.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Love Sea 1ST FAN MEETING IN KOREA 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15078&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15078&amp;order=1"/>
+        <updated>2024-10-22T05:17:10.241Z</updated>
+        <content type="html"><![CDATA[2024-10-30(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브라스! 브라스! 브라스! - 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15077&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15069&amp;order=1"/>
         <updated>2024-10-21T01:20:14.844Z</updated>
         <content type="html"><![CDATA[2024-10-22(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스 정연의 〈감별사 Concert〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15068&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15068&amp;order=1"/>
-        <updated>2024-10-18T09:19:13.827Z</updated>
-        <content type="html"><![CDATA[2024-10-25(금) 20:00]]></content>
     </entry>
 </feed>
