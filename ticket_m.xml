@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-23T02:50:44.255Z</updated>
+    <updated>2024-10-23T03:23:54.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 크리스마스특집 라이브가족뮤지컬 [루돌프와산타클로스] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15082&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15082&amp;order=1"/>
+        <updated>2024-10-23T03:23:12.353Z</updated>
+        <content type="html"><![CDATA[2024-10-24(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 꿈의 오케스트라-창원 제13회 정기연주회 [원더랜드] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15081&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15073&amp;order=1"/>
         <updated>2024-10-21T08:23:32.663Z</updated>
         <content type="html"><![CDATA[2024-10-25(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15072&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15072&amp;order=1"/>
-        <updated>2024-10-21T05:17:51.173Z</updated>
-        <content type="html"><![CDATA[2024-10-24(목) 14:00]]></content>
     </entry>
 </feed>
