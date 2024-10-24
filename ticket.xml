@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-24T01:18:56.521Z</updated>
+    <updated>2024-10-24T02:50:32.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 가족뮤지컬 〈로보카폴리 - 잡아라! 황금트로피!〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15089</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15089"/>
+        <updated>2024-10-24T02:49:42.496Z</updated>
+        <content type="html"><![CDATA[2024.10.29(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Makaya McCraven Live in Seoul 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15087</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15069"/>
         <updated>2024-10-21T01:20:07.717Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매트와이스 정연의 〈감별사 Concert〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15068</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15068"/>
-        <updated>2024-10-18T09:19:06.457Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 20:00]]></content>
     </entry>
 </feed>
