@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-24T09:20:06.466Z</updated>
+    <updated>2024-10-24T10:19:38.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[라움아트센터] 2024년 RAUM X Miuq MIND CONCERT 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15090&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15090&amp;order=1"/>
+        <updated>2024-10-24T10:18:46.758Z</updated>
+        <content type="html"><![CDATA[2024-10-28(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 가족뮤지컬 〈로보카폴리 - 잡아라! 황금트로피!〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15089&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15081&amp;order=1"/>
         <updated>2024-10-23T02:50:02.506Z</updated>
         <content type="html"><![CDATA[2024-10-29(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [빈센트 반 고흐] 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15080&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15080&amp;order=1"/>
-        <updated>2024-10-23T02:50:02.506Z</updated>
-        <content type="html"><![CDATA[2024-10-28(월) 15:00]]></content>
     </entry>
 </feed>

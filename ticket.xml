@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-24T09:20:06.475Z</updated>
+    <updated>2024-10-24T10:19:38.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[라움아트센터] 2024년 RAUM X Miuq MIND CONCERT 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15090</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15090"/>
+        <updated>2024-10-24T10:18:37.826Z</updated>
+        <content type="html"><![CDATA[2024.10.28(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 가족뮤지컬 〈로보카폴리 - 잡아라! 황금트로피!〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15089</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15071"/>
         <updated>2024-10-21T03:27:01.552Z</updated>
         <content type="html"><![CDATA[2024.10.21(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매서영은 콘서트 [내 안의 행복을 찾아서 - 그대들과 함께] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15070</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15070"/>
-        <updated>2024-10-21T01:20:07.716Z</updated>
-        <content type="html"><![CDATA[2024.10.21(월) 15:00]]></content>
     </entry>
 </feed>
