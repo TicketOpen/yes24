@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-25T01:19:29.915Z</updated>
+    <updated>2024-10-25T02:53:52.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[남양주] 2024 빅3＂행복한만남＂〈강진,김용임,진성〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15097&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15097&amp;order=1"/>
+        <updated>2024-10-25T02:53:07.005Z</updated>
+        <content type="html"><![CDATA[2024-10-30(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <더 픽션> 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15095&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15095&amp;order=1"/>
+        <updated>2024-10-25T02:53:07.006Z</updated>
+        <content type="html"><![CDATA[2024-11-08(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <더 픽션> 프리뷰 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15094&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15094&amp;order=1"/>
+        <updated>2024-10-25T02:53:07.016Z</updated>
+        <content type="html"><![CDATA[2024-10-31(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제1257회 서초금요음악회 [가을밤의 클래식 콘서트] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15093&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15087&amp;order=1"/>
         <updated>2024-10-23T08:22:55.354Z</updated>
         <content type="html"><![CDATA[2024-10-25(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 크리스마스특집 라이브가족뮤지컬 [루돌프와산타클로스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15086&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15086&amp;order=1"/>
-        <updated>2024-10-23T05:17:35.267Z</updated>
-        <content type="html"><![CDATA[2024-10-24(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble Tea and Cigarettes Live in Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15085&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15085&amp;order=1"/>
-        <updated>2024-10-23T05:17:35.267Z</updated>
-        <content type="html"><![CDATA[2024-10-30(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤직드라마 〈불편한 편의점〉- 비지정석 12월 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15084&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15084&amp;order=1"/>
-        <updated>2024-10-23T04:20:58.511Z</updated>
-        <content type="html"><![CDATA[2024-10-28(월) 14:00]]></content>
     </entry>
 </feed>
