@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-25T06:25:34.606Z</updated>
+    <updated>2024-10-25T07:18:23.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15100&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15100&amp;order=1"/>
+        <updated>2024-10-25T07:17:34.443Z</updated>
+        <content type="html"><![CDATA[2024-10-28(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 김나영 연말 콘서트 “Na” On The Voice : In_____ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15099&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15091&amp;order=1"/>
         <updated>2024-10-25T01:18:48.522Z</updated>
         <content type="html"><![CDATA[2024-10-28(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라움아트센터] 2024년 RAUM X Miuq MIND CONCERT 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15090&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15090&amp;order=1"/>
-        <updated>2024-10-24T10:18:46.758Z</updated>
-        <content type="html"><![CDATA[2024-10-28(월) 18:00]]></content>
     </entry>
 </feed>
