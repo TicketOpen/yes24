@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-25T09:19:48.849Z</updated>
+    <updated>2024-10-25T10:20:08.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매아일 단독콘서트(Play My Mixtape) 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15101</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15101"/>
+        <updated>2024-10-25T10:19:12.841Z</updated>
+        <content type="html"><![CDATA[2024.10.28(월) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15100</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15082"/>
         <updated>2024-10-23T03:23:05.284Z</updated>
         <content type="html"><![CDATA[2024.10.24(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 꿈의 오케스트라-창원 제13회 정기연주회 [원더랜드] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15081</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15081"/>
-        <updated>2024-10-23T02:49:55.371Z</updated>
-        <content type="html"><![CDATA[2024.10.29(화) 14:00]]></content>
     </entry>
 </feed>

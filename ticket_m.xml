@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-25T09:19:48.898Z</updated>
+    <updated>2024-10-25T10:20:08.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아일 단독콘서트(Play My Mixtape) 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15101&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15101&amp;order=1"/>
+        <updated>2024-10-25T10:19:20.982Z</updated>
+        <content type="html"><![CDATA[2024-10-28(월) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15100&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15092&amp;order=1"/>
         <updated>2024-10-25T01:18:48.522Z</updated>
         <content type="html"><![CDATA[2024-10-30(수) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes Concert 〈LIVE and FALL〉추가 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15091&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15091&amp;order=1"/>
-        <updated>2024-10-25T01:18:48.522Z</updated>
-        <content type="html"><![CDATA[2024-10-28(월) 20:00]]></content>
     </entry>
 </feed>
