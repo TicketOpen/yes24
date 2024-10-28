@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-28T08:24:28.139Z</updated>
+    <updated>2024-10-28T09:21:16.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[창원] 뮤지컬&무비 슈퍼콘서트 with 옥주현&민우혁 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15104</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15104"/>
+        <updated>2024-10-28T09:20:26.496Z</updated>
+        <content type="html"><![CDATA[2024.10.31(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COUNTDOWN FANTASY 2024-2025 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15103</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15103"/>
+        <updated>2024-10-28T09:20:26.498Z</updated>
+        <content type="html"><![CDATA[2024.11.07(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 ONEWE 4th Live Concert ‘O! NEW E!volution Ⅳ’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15102</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15085"/>
         <updated>2024-10-23T05:17:27.932Z</updated>
         <content type="html"><![CDATA[2024.10.30(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤직드라마 〈불편한 편의점〉- 비지정석 12월 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15084</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15084"/>
-        <updated>2024-10-23T04:20:50.215Z</updated>
-        <content type="html"><![CDATA[2024.10.28(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 주현미 크리스마스 디너쇼 [12월의 러브레터] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15083</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15083"/>
-        <updated>2024-10-23T05:17:27.932Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 14:00]]></content>
     </entry>
 </feed>
