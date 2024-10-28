@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-28T10:20:38.317Z</updated>
+    <updated>2024-10-28T11:16:57.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 [피터팬] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15105</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15105"/>
+        <updated>2024-10-28T11:16:07.986Z</updated>
+        <content type="html"><![CDATA[2024.10.30(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[창원] 뮤지컬&무비 슈퍼콘서트 with 옥주현&민우혁 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15104</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15086"/>
         <updated>2024-10-23T05:17:27.931Z</updated>
         <content type="html"><![CDATA[2024.10.24(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Bubble Tea and Cigarettes Live in Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15085</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15085"/>
-        <updated>2024-10-23T05:17:27.932Z</updated>
-        <content type="html"><![CDATA[2024.10.30(수) 12:00]]></content>
     </entry>
 </feed>
