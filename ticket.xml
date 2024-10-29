@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-29T06:26:40.426Z</updated>
+    <updated>2024-10-29T07:19:00.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15115"/>
         <updated>2024-10-29T06:25:37.981Z</updated>
         <content type="html"><![CDATA[2024.10.31(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [장화 신은 고양이 비긴즈] - 플레이 버전 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15114</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15114"/>
+        <updated>2024-10-29T07:18:03.319Z</updated>
+        <content type="html"><![CDATA[2024.11.04(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매콘서트 [투가이즈쇼] 4차 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15097"/>
         <updated>2024-10-25T02:52:59.305Z</updated>
         <content type="html"><![CDATA[2024.10.30(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매데미안 라이스 내한공연 damien rice 2025 tour in Seoul 추가 회차 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15096</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15096"/>
-        <updated>2024-10-25T03:24:48.536Z</updated>
-        <content type="html"><![CDATA[2024.10.30(수) 12:00]]></content>
     </entry>
 </feed>
