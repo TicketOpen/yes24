@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-28T23:17:42.709Z</updated>
+    <updated>2024-10-29T01:20:55.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 [서커스매직쇼] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15106&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15106&amp;order=1"/>
+        <updated>2024-10-29T01:19:50.531Z</updated>
+        <content type="html"><![CDATA[2024-10-30(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 [피터팬] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15105&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15097&amp;order=1"/>
         <updated>2024-10-25T02:53:07.005Z</updated>
         <content type="html"><![CDATA[2024-10-30(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데미안 라이스 내한공연 damien rice 2025 tour in Seoul 추가 회차 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15096&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15096&amp;order=1"/>
-        <updated>2024-10-25T03:24:57.438Z</updated>
-        <content type="html"><![CDATA[2024-10-30(수) 12:00]]></content>
     </entry>
 </feed>
