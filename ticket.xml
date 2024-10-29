@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-29T04:22:40.439Z</updated>
+    <updated>2024-10-29T05:18:34.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[파주] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15110</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15110"/>
+        <updated>2024-10-29T05:17:33.581Z</updated>
+        <content type="html"><![CDATA[2024.10.31(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김성녀의 뮤지컬모노드라마 〈벽 속의 요정〉 A석 추가오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15109</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15109"/>
+        <updated>2024-10-29T05:17:33.594Z</updated>
+        <content type="html"><![CDATA[2024.10.30(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈랭보〉 5차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15108</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15108"/>
+        <updated>2024-10-29T05:17:33.594Z</updated>
+        <content type="html"><![CDATA[2024.11.05(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [시지프스] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15107</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15107"/>
+        <updated>2024-10-29T05:17:33.600Z</updated>
+        <content type="html"><![CDATA[2024.11.04(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2024 [서커스매직쇼] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15106</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15091"/>
         <updated>2024-10-25T01:18:41.070Z</updated>
         <content type="html"><![CDATA[2024.10.28(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라움아트센터] 2024년 RAUM X Miuq MIND CONCERT 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15090</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15090"/>
-        <updated>2024-10-24T10:18:37.826Z</updated>
-        <content type="html"><![CDATA[2024.10.28(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 가족뮤지컬 〈로보카폴리 - 잡아라! 황금트로피!〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15089</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15089"/>
-        <updated>2024-10-24T02:49:42.496Z</updated>
-        <content type="html"><![CDATA[2024.10.29(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매7 Doors of Christmas: A Lucky Encore in Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15088</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15088"/>
-        <updated>2024-10-24T03:22:45.198Z</updated>
-        <content type="html"><![CDATA[2024.10.29(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.10.28(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Makaya McCraven Live in Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15087</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15087"/>
-        <updated>2024-10-23T08:22:47.844Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 12:00]]></content>
     </entry>
 </feed>
