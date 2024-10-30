@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 08:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 09:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,14 @@
             <content:encoded><![CDATA[2024-10-30(수) 16:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <시라노>기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51331&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51331&amp;Tab=3</guid>
+            <pubDate>Wed, 30 Oct 2024 09:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.30 ~ 2024.11.25 | 2024.11.29 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241030/20241030-9138196c-f7fa-44af-8d02-2c157c79b120.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화 위키드 예매권 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3689</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3689</guid>
@@ -282,12 +290,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240927/20240927-73f68323-fc39-4ae4-a262-a3ee42584277.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <빈센트 반 고흐>  관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50536&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50536&amp;Tab=2</guid>
-            <pubDate>Wed, 11 Sep 2024 10:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.07 ~ 2024.12.01 | 2024.12.03 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240911/20240911-645d78a0-6d47-4b2c-9241-f9215c2f20a8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2024.10.30 ~ 2024.11.25 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51331</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51331</guid>
+            <pubDate>Wed, 30 Oct 2024 09:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2024년 12월 06일(금) 19:30 S석 초대권]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241030/20241030-9138196c-f7fa-44af-8d02-2c157c79b120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.10.28 ~ 2024.11.03 (YES24 티켓 ─ 이벤트 모바일)]]></title>

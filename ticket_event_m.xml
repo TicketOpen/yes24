@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 08:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 09:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2024.10.30 ~ 2024.11.25]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51331</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51331</guid>
+            <pubDate>Wed, 30 Oct 2024 09:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2024년 12월 06일(금) 19:30 S석 초대권]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241030/20241030-9138196c-f7fa-44af-8d02-2c157c79b120.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2024.10.28 ~ 2024.11.03]]></title>
             <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3689</link>
