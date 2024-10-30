@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-30T04:22:10.238Z</updated>
+    <updated>2024-10-30T05:19:10.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15118"/>
         <updated>2024-10-29T09:19:00.902Z</updated>
         <content type="html"><![CDATA[2024.11.05(화) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 코리아 그랜드 뮤직 어워즈（KGMA）티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15117</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15117"/>
+        <updated>2024-10-30T05:18:20.707Z</updated>
+        <content type="html"><![CDATA[2024.10.31(목) 19:00<a class="noti-btn-pop" presaletit1="2차 티켓 오픈" presaletit2="" presaletime1="2024.11.01(금) 14:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2024 뮤지컬 오! 당신이 잠든사이 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15099"/>
         <updated>2024-10-25T06:24:36.219Z</updated>
         <content type="html"><![CDATA[2024.11.01(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 라이브가족뮤지컬 [오즈의마법사] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15098</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15098"/>
-        <updated>2024-10-25T03:24:48.536Z</updated>
-        <content type="html"><![CDATA[2024.10.28(월) 09:00]]></content>
     </entry>
 </feed>
