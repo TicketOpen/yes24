@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-31T07:17:59.570Z</updated>
+    <updated>2024-10-31T08:21:15.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[거제] 2024-25 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15128&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15128&amp;order=1"/>
+        <updated>2024-10-31T08:20:27.689Z</updated>
+        <content type="html"><![CDATA[2024-11-05(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 라이브 가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15126&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15126&amp;order=1"/>
+        <updated>2024-10-31T08:20:27.698Z</updated>
+        <content type="html"><![CDATA[2024-11-01(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알라딘> YES24DAY 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15125&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15118&amp;order=1"/>
         <updated>2024-10-29T09:19:09.804Z</updated>
         <content type="html"><![CDATA[2024-11-05(화) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 코리아 그랜드 뮤직 어워즈（KGMA）티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15117&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15117&amp;order=1"/>
-        <updated>2024-10-30T05:18:28.002Z</updated>
-        <content type="html"><![CDATA[2024-10-31(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 뮤지컬 오! 당신이 잠든사이 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15116&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15116&amp;order=1"/>
-        <updated>2024-10-29T06:25:47.516Z</updated>
-        <content type="html"><![CDATA[2024-11-04(월) 11:00]]></content>
     </entry>
 </feed>
