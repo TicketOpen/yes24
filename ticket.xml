@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-31T06:25:38.870Z</updated>
+    <updated>2024-10-31T07:17:59.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알라딘> YES24DAY 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15125</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15125"/>
+        <updated>2024-10-31T07:16:54.492Z</updated>
+        <content type="html"><![CDATA[2024.11.07(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 누가 이 사람을 모르시나요 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15124</id>
@@ -18,6 +25,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15123"/>
         <updated>2024-10-31T05:18:45.166Z</updated>
         <content type="html"><![CDATA[2024.11.08(금) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈스타크로스드〉 - 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15122</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15122"/>
+        <updated>2024-10-31T07:16:54.493Z</updated>
+        <content type="html"><![CDATA[2024.11.08(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조수미 콘서트 〈Winter Romance〉 티켓 오픈 안내]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15106"/>
         <updated>2024-10-29T01:19:40.241Z</updated>
         <content type="html"><![CDATA[2024.10.30(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 [피터팬] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15105</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15105"/>
-        <updated>2024-10-28T11:16:07.986Z</updated>
-        <content type="html"><![CDATA[2024.10.30(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 뮤지컬&무비 슈퍼콘서트 with 옥주현&민우혁 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15104</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15104"/>
-        <updated>2024-10-28T09:20:26.496Z</updated>
-        <content type="html"><![CDATA[2024.10.31(목) 14:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-31T06:25:38.868Z</updated>
+    <updated>2024-10-31T07:17:59.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알라딘> YES24DAY 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15125&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15125&amp;order=1"/>
+        <updated>2024-10-31T07:17:01.927Z</updated>
+        <content type="html"><![CDATA[2024-11-07(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 누가 이 사람을 모르시나요 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15124&amp;order=1</id>
@@ -18,6 +25,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15123&amp;order=1"/>
         <updated>2024-10-31T05:18:53.792Z</updated>
         <content type="html"><![CDATA[2024-11-08(금) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈스타크로스드〉 - 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15122&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15122&amp;order=1"/>
+        <updated>2024-10-31T07:17:01.927Z</updated>
+        <content type="html"><![CDATA[2024-11-08(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조수미 콘서트 〈Winter Romance〉 티켓 오픈 안내]]></title>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15116&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15116&amp;order=1"/>
         <updated>2024-10-29T06:25:47.516Z</updated>
-        <content type="html"><![CDATA[2024-11-04(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈대학살의 신〉 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15115&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15115&amp;order=1"/>
-        <updated>2024-10-29T06:25:47.518Z</updated>
-        <content type="html"><![CDATA[2024-10-31(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [장화 신은 고양이 비긴즈] - 플레이 버전 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15114&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15114&amp;order=1"/>
-        <updated>2024-10-29T07:18:11.576Z</updated>
         <content type="html"><![CDATA[2024-11-04(월) 11:00]]></content>
     </entry>
 </feed>
