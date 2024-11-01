@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-31T23:19:46.532Z</updated>
+    <updated>2024-11-01T01:24:55.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <카포네 밀크> 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15130</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15130"/>
+        <updated>2024-11-01T01:23:52.621Z</updated>
+        <content type="html"><![CDATA[2024.11.06(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2024 뮤지컬 빨래 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15129</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[2024.11.01(금) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <알라딘> YES24DAY 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 <알라딘> 한국 초연 (ALADDIN The Musical) YES24DAY 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15125</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15125"/>
         <updated>2024-10-31T07:16:54.492Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15111"/>
         <updated>2024-10-29T06:25:37.991Z</updated>
         <content type="html"><![CDATA[2024.11.01(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[파주] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15110</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15110"/>
-        <updated>2024-10-29T05:17:33.581Z</updated>
-        <content type="html"><![CDATA[2024.10.31(목) 14:00]]></content>
     </entry>
 </feed>
