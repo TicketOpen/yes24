@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-01T08:22:52.580Z</updated>
+    <updated>2024-11-01T09:19:22.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울]바다 디오션 콘서트 'I'M YOUR HOME' 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15134</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15134"/>
+        <updated>2024-11-01T09:18:27.096Z</updated>
+        <content type="html"><![CDATA[2024.11.06(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈시라노〉2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15132</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15114"/>
         <updated>2024-10-29T07:18:03.319Z</updated>
         <content type="html"><![CDATA[2024.11.04(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매콘서트 [투가이즈쇼] 4차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15113</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15113"/>
-        <updated>2024-10-29T06:25:37.983Z</updated>
-        <content type="html"><![CDATA[2024.11.01(금) 14:00]]></content>
     </entry>
 </feed>
