@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-01T06:27:35.007Z</updated>
+    <updated>2024-11-01T07:18:18.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈시라노〉2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15132&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15132&amp;order=1"/>
+        <updated>2024-11-01T07:17:29.197Z</updated>
+        <content type="html"><![CDATA[2024-11-08(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조수미＆요한슈트라우스 오케스트라 울산공연 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15131&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15123&amp;order=1"/>
         <updated>2024-10-31T05:18:53.792Z</updated>
         <content type="html"><![CDATA[2024-11-08(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈스타크로스드〉 - 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15122&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15122&amp;order=1"/>
-        <updated>2024-10-31T07:17:01.927Z</updated>
-        <content type="html"><![CDATA[2024-11-08(금) 14:00]]></content>
     </entry>
 </feed>
