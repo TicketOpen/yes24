@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-01T05:18:27.610Z</updated>
+    <updated>2024-11-01T06:27:35.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[조수미＆요한슈트라우스 오케스트라 울산공연 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15131</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15131"/>
+        <updated>2024-11-01T06:26:45.301Z</updated>
+        <content type="html"><![CDATA[2024.11.11(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <카포네 밀크> 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15130</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15112"/>
         <updated>2024-10-29T06:25:37.987Z</updated>
         <content type="html"><![CDATA[2024.10.31(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈보이즈 인 더 밴드〉 혜공 전관 - 그래이공 DAY 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15111</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15111"/>
-        <updated>2024-10-29T06:25:37.991Z</updated>
-        <content type="html"><![CDATA[2024.11.01(금) 12:00]]></content>
     </entry>
 </feed>
