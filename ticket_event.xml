@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Nov 2024 14:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Nov 2024 15:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 30 Oct 2024 09:19:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.30 ~ 2024.11.25 | 2024.11.29 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241030/20241030-9138196c-f7fa-44af-8d02-2c157c79b120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 위키드 예매권 이벤트]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3689</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3689</guid>
-            <pubDate>Mon, 28 Oct 2024 02:55:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.28 ~ 2024.11.03]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241028/20241028-ed287e06-02e9-405b-b38c-0e10ef4fbd1c.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[연극 〈톡톡〉 : 연극열전10_네 번째 작품 기대평 이벤트]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Thu, 31 Oct 2024 15:19:51 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.07 ~ 2024.12.01 | 2024.12.03 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240911/20240911-645d78a0-6d47-4b2c-9241-f9215c2f20a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <알라딘> 한국 초연 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=3</guid>
+            <pubDate>Sun, 03 Nov 2024 15:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.05 ~ 2024.11.21 | 2024.11.22 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240905/20240905-4277767a-3b54-4776-aa85-d9594251c170.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
