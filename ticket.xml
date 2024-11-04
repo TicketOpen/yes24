@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-04T06:27:58.548Z</updated>
+    <updated>2024-11-04T07:19:32.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[사라 장 바이올린 리사이틀 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15136</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15136"/>
+        <updated>2024-11-04T07:17:48.971Z</updated>
+        <content type="html"><![CDATA[2024.11.06(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈로미오 앤 줄리〉 - 프리뷰 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15135</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15116"/>
         <updated>2024-10-29T06:25:37.980Z</updated>
         <content type="html"><![CDATA[2024.11.04(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈대학살의 신〉 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15115</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15115"/>
-        <updated>2024-10-29T06:25:37.981Z</updated>
-        <content type="html"><![CDATA[2024.10.31(목) 14:00]]></content>
     </entry>
 </feed>

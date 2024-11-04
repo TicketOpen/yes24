@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-04T06:27:58.554Z</updated>
+    <updated>2024-11-04T07:19:32.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[사라 장 바이올린 리사이틀 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15136&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15136&amp;order=1"/>
+        <updated>2024-11-04T07:17:57.671Z</updated>
+        <content type="html"><![CDATA[2024-11-06(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈로미오 앤 줄리〉 - 프리뷰 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15135&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15126&amp;order=1"/>
         <updated>2024-10-31T08:20:27.698Z</updated>
         <content type="html"><![CDATA[2024-11-01(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알라딘> 한국 초연 (ALADDIN The Musical) YES24DAY 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15125&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15125&amp;order=1"/>
-        <updated>2024-10-31T07:17:01.927Z</updated>
-        <content type="html"><![CDATA[2024-11-07(목) 16:00]]></content>
     </entry>
 </feed>
