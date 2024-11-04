@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-04T04:21:56.646Z</updated>
+    <updated>2024-11-04T05:19:39.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈로미오 앤 줄리〉 - 프리뷰 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15135</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15135"/>
+        <updated>2024-11-04T05:18:40.146Z</updated>
+        <content type="html"><![CDATA[2024.11.08(금) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[서울]바다 디오션 콘서트 'I'M YOUR HOME' 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15134</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15115"/>
         <updated>2024-10-29T06:25:37.981Z</updated>
         <content type="html"><![CDATA[2024.10.31(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [장화 신은 고양이 비긴즈] - 플레이 버전 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15114</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15114"/>
-        <updated>2024-10-29T07:18:03.319Z</updated>
-        <content type="html"><![CDATA[2024.11.04(월) 11:00]]></content>
     </entry>
 </feed>

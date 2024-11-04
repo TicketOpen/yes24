@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-04T04:21:56.654Z</updated>
+    <updated>2024-11-04T05:19:39.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈로미오 앤 줄리〉 - 프리뷰 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15135&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15135&amp;order=1"/>
+        <updated>2024-11-04T05:18:48.935Z</updated>
+        <content type="html"><![CDATA[2024-11-08(금) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울]바다 디오션 콘서트 'I'M YOUR HOME' 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15134&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15125&amp;order=1"/>
         <updated>2024-10-31T07:17:01.927Z</updated>
         <content type="html"><![CDATA[2024-11-07(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 누가 이 사람을 모르시나요 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15124&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15124&amp;order=1"/>
-        <updated>2024-10-31T05:18:53.791Z</updated>
-        <content type="html"><![CDATA[2024-11-08(금) 17:00]]></content>
     </entry>
 </feed>
