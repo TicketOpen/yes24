@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-04T23:19:00.037Z</updated>
+    <updated>2024-11-05T01:17:39.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[내중쉽 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15138&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15138&amp;order=1"/>
+        <updated>2024-11-05T01:16:56.322Z</updated>
+        <content type="html"><![CDATA[2024-11-08(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정홍일 Only One Concert - 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15137&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15137&amp;order=1"/>
+        <updated>2024-11-05T01:16:56.322Z</updated>
+        <content type="html"><![CDATA[2024-11-08(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사라 장 바이올린 리사이틀 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15136&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15128&amp;order=1"/>
         <updated>2024-10-31T08:20:27.689Z</updated>
         <content type="html"><![CDATA[2024-11-05(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLASE 1st concert 〈AnotherVerse〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15127&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15127&amp;order=1"/>
-        <updated>2024-10-31T09:18:46.163Z</updated>
-        <content type="html"><![CDATA[2024-11-07(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 라이브 가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15126&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15126&amp;order=1"/>
-        <updated>2024-10-31T08:20:27.698Z</updated>
-        <content type="html"><![CDATA[2024-11-01(금) 09:00]]></content>
     </entry>
 </feed>
