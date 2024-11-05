@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-05T04:21:38.213Z</updated>
+    <updated>2024-11-05T05:18:08.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [블러디 러브] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15139&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15139&amp;order=1"/>
+        <updated>2024-11-05T05:17:25.967Z</updated>
+        <content type="html"><![CDATA[2024-11-12(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내중쉽 콘서트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15138&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15129&amp;order=1"/>
         <updated>2024-10-31T09:18:46.162Z</updated>
         <content type="html"><![CDATA[2024-11-06(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[거제] 2024-25 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15128&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15128&amp;order=1"/>
-        <updated>2024-10-31T08:20:27.689Z</updated>
-        <content type="html"><![CDATA[2024-11-05(화) 10:00]]></content>
     </entry>
 </feed>
