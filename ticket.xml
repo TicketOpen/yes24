@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-06T05:18:00.171Z</updated>
+    <updated>2024-11-06T06:25:08.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[로열 클래식 발레단 내한공연〈호두까기 인형〉- 부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15144</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15144"/>
+        <updated>2024-11-06T06:24:05.291Z</updated>
+        <content type="html"><![CDATA[2024.11.11(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 먼데이키즈 소극장 콘서트 ‘ㅇㅈㅅ’ 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15143</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[2024.11.12(화) 20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A New Hope Club Christmas in Seoul 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[단독판매A New Hope Club Christmas in Seoul 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15142</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15142"/>
         <updated>2024-11-06T05:17:00.052Z</updated>
@@ -132,16 +139,9 @@
         <content type="html"><![CDATA[2024.11.07(목) 16:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[창원] 누가 이 사람을 모르시나요 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[단독판매[창원] 누가 이 사람을 모르시나요 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15124</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15124"/>
-        <updated>2024-10-31T05:18:45.166Z</updated>
-        <content type="html"><![CDATA[2024.11.08(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 누가 이 사람을 모르시나요 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15123</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15123"/>
         <updated>2024-10-31T05:18:45.166Z</updated>
         <content type="html"><![CDATA[2024.11.08(금) 17:00]]></content>
     </entry>
