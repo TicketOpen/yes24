@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-06T04:22:12.620Z</updated>
+    <updated>2024-11-06T05:18:00.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 먼데이키즈 소극장 콘서트 ‘ㅇㅈㅅ’ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15143</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15143"/>
+        <updated>2024-11-06T05:17:00.048Z</updated>
+        <content type="html"><![CDATA[2024.11.12(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Hope Club Christmas in Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15142</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15142"/>
+        <updated>2024-11-06T05:17:00.052Z</updated>
+        <content type="html"><![CDATA[2024.11.08(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[부산] YEONGDO INDIE CONCERT [로맨틱 영도] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15141</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15123"/>
         <updated>2024-10-31T05:18:45.166Z</updated>
         <content type="html"><![CDATA[2024.11.08(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈스타크로스드〉 - 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15122</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15122"/>
-        <updated>2024-10-31T07:16:54.493Z</updated>
-        <content type="html"><![CDATA[2024.11.08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조수미 콘서트 〈Winter Romance〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15121</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15121"/>
-        <updated>2024-10-31T02:52:30.070Z</updated>
-        <content type="html"><![CDATA[2024.11.01(금) 14:00]]></content>
     </entry>
 </feed>
