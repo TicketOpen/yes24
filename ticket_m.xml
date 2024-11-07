@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-07T04:21:44.228Z</updated>
+    <updated>2024-11-07T05:17:50.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[LUCY DAYS 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15149&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15149&amp;order=1"/>
+        <updated>2024-11-07T05:16:57.978Z</updated>
+        <content type="html"><![CDATA[2024-11-13(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너드커넥션 연말공연 〈THE NERDCONNECTION 2024〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15147&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15147&amp;order=1"/>
+        <updated>2024-11-07T05:16:57.980Z</updated>
+        <content type="html"><![CDATA[2024-11-12(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024’ 옥희 50주년 디너 콘서트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15145&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15138&amp;order=1"/>
         <updated>2024-11-05T01:16:56.322Z</updated>
         <content type="html"><![CDATA[2024-11-08(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정홍일 Only One Concert - 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15137&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15137&amp;order=1"/>
-        <updated>2024-11-05T01:16:56.322Z</updated>
-        <content type="html"><![CDATA[2024-11-08(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사라 장 바이올린 리사이틀 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15136&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15136&amp;order=1"/>
-        <updated>2024-11-04T07:17:57.671Z</updated>
-        <content type="html"><![CDATA[2024-11-06(수) 16:00]]></content>
     </entry>
 </feed>
