@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-07T07:16:47.278Z</updated>
+    <updated>2024-11-07T08:22:27.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매제1258회 서초금요음악회 [서초국악축제] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15150</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15150"/>
+        <updated>2024-11-07T08:21:34.882Z</updated>
+        <content type="html"><![CDATA[2024.11.15(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매LUCY DAYS 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15149</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15129"/>
         <updated>2024-10-31T09:18:38.446Z</updated>
         <content type="html"><![CDATA[2024.11.06(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[거제] 2024-25 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15128</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15128"/>
-        <updated>2024-10-31T08:20:19.422Z</updated>
-        <content type="html"><![CDATA[2024.11.05(화) 10:00]]></content>
     </entry>
 </feed>

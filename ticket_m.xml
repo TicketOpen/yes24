@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-07T07:16:47.286Z</updated>
+    <updated>2024-11-07T08:22:27.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제1258회 서초금요음악회 [서초국악축제] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15150&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15150&amp;order=1"/>
+        <updated>2024-11-07T08:21:42.051Z</updated>
+        <content type="html"><![CDATA[2024-11-15(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LUCY DAYS 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15149&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15140&amp;order=1"/>
         <updated>2024-11-05T06:24:17.124Z</updated>
         <content type="html"><![CDATA[2024-11-08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [블러디 러브] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15139&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15139&amp;order=1"/>
-        <updated>2024-11-05T05:17:25.967Z</updated>
-        <content type="html"><![CDATA[2024-11-12(화) 14:00]]></content>
     </entry>
 </feed>
