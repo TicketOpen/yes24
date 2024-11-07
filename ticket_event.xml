@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 02:47:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 03:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> 관람 후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50929&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50929&amp;Tab=2</guid>
+            <pubDate>Thu, 07 Nov 2024 03:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.07 ~ 2024.12.06 | 2024.12.13 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241107/20241107-c935bdb7-7f3b-4827-a5c4-3ec357545d92.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <카포네 밀크> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51565&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 07 Oct 2024 10:20:21 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.07 ~ 2024.11.07 | 2024.11.11 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241007/20241007-806a594a-5f88-439d-8f42-7786e52194dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <킬롤로지>관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50570&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50570&amp;Tab=3</guid>
-            <pubDate>Fri, 27 Sep 2024 10:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.27 ~ 2024.11.24 | 2024.11.25 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240927/20240927-73f68323-fc39-4ae4-a262-a3ee42584277.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
