@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-06T23:17:34.394Z</updated>
+    <updated>2024-11-07T01:18:04.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024’ 옥희 50주년 디너 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15145</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15145"/>
+        <updated>2024-11-07T01:17:03.779Z</updated>
+        <content type="html"><![CDATA[2024.11.11(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로열 클래식 발레단 내한공연〈호두까기 인형〉- 부산 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15144</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15125"/>
         <updated>2024-10-31T07:16:54.492Z</updated>
         <content type="html"><![CDATA[2024.11.07(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 누가 이 사람을 모르시나요 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15124</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15124"/>
-        <updated>2024-10-31T05:18:45.166Z</updated>
-        <content type="html"><![CDATA[2024.11.08(금) 17:00]]></content>
     </entry>
 </feed>
