@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 14:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 15:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-1951adc2-312f-405f-ae93-915ae70d8031.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <'고도를 기다리며'를 기다리며> 관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50388&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50388&amp;Tab=2</guid>
-            <pubDate>Mon, 07 Oct 2024 10:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.07 ~ 2024.11.07 | 2024.11.11 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241007/20241007-806a594a-5f88-439d-8f42-7786e52194dd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연극 <킬롤로지>관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50570&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50570&amp;Tab=3</guid>
+            <pubDate>Thu, 07 Nov 2024 15:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.27 ~ 2024.11.24 | 2024.11.25 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240927/20240927-73f68323-fc39-4ae4-a262-a3ee42584277.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
