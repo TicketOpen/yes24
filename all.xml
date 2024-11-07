@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 06:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 07:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15147</guid>
             <pubDate>Thu, 07 Nov 2024 05:16:48 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.12(화) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부천] 2025 연극 〈친정엄마와 2박3일〉- 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15146</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15146</guid>
+            <pubDate>Thu, 07 Nov 2024 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.12(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024’ 옥희 50주년 디너 콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -141,13 +148,6 @@
             <content:encoded><![CDATA[2024.11.05(화) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BLASE 1st concert 〈AnotherVerse〉 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15127</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15127</guid>
-            <pubDate>Thu, 31 Oct 2024 09:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.07(목) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[LUCY DAYS 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15149&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15149&amp;order=1</guid>
@@ -160,6 +160,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15147&amp;order=1</guid>
             <pubDate>Thu, 07 Nov 2024 05:16:57 GMT</pubDate>
             <content:encoded><![CDATA[2024-11-12(화) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부천] 2025 연극 〈친정엄마와 2박3일〉- 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15146&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15146&amp;order=1</guid>
+            <pubDate>Thu, 07 Nov 2024 07:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-12(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024’ 옥희 50주년 디너 콘서트 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -209,13 +216,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15139&amp;order=1</guid>
             <pubDate>Tue, 05 Nov 2024 05:17:25 GMT</pubDate>
             <content:encoded><![CDATA[2024-11-12(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내중쉽 콘서트 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15138&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15138&amp;order=1</guid>
-            <pubDate>Tue, 05 Nov 2024 01:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-08(금) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
