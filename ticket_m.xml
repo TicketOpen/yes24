@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-08T07:17:08.449Z</updated>
+    <updated>2024-11-08T08:22:20.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15157&amp;order=1"/>
         <updated>2024-11-08T06:25:29.928Z</updated>
         <content type="html"><![CDATA[2024-11-15(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 - 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15156&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15156&amp;order=1"/>
+        <updated>2024-11-08T08:21:29.636Z</updated>
+        <content type="html"><![CDATA[2024-11-13(수) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 GOLDEN CHILD FAN-CON [CHAPTER] in Seoul 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15146&amp;order=1"/>
         <updated>2024-11-07T07:16:04.689Z</updated>
         <content type="html"><![CDATA[2024-11-12(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024’ 옥희 50주년 디너 콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15145&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15145&amp;order=1"/>
-        <updated>2024-11-07T01:17:11.891Z</updated>
-        <content type="html"><![CDATA[2024-11-11(월) 09:00]]></content>
     </entry>
 </feed>
