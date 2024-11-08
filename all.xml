@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 06:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 07:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15155</guid>
             <pubDate>Fri, 08 Nov 2024 03:20:43 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.12(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 서울 아시테지 겨울축제 공연 - 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15154</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15154</guid>
+            <pubDate>Fri, 08 Nov 2024 07:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.12(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매2024 SONNET FAN CONCERT “THE GIFT SET” (예스24 티켓)]]></title>
@@ -140,13 +147,6 @@
             <content:encoded><![CDATA[2024.11.06(수) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈로미오 앤 줄리〉 - 프리뷰 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15135</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15135</guid>
-            <pubDate>Mon, 04 Nov 2024 05:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.08(금) 13:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Leina LIVE TOUR 2024-2025 in Seoul 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15157&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15157&amp;order=1</guid>
@@ -159,6 +159,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15155&amp;order=1</guid>
             <pubDate>Fri, 08 Nov 2024 03:20:52 GMT</pubDate>
             <content:encoded><![CDATA[2024-11-12(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 서울 아시테지 겨울축제 공연 - 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15154&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15154&amp;order=1</guid>
+            <pubDate>Fri, 08 Nov 2024 07:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-12(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 SONNET FAN CONCERT “THE GIFT SET” (예스24 티켓 모바일)]]></title>
@@ -208,13 +215,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15145&amp;order=1</guid>
             <pubDate>Thu, 07 Nov 2024 01:17:11 GMT</pubDate>
             <content:encoded><![CDATA[2024-11-11(월) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[로열 클래식 발레단 내한공연〈호두까기 인형〉- 부산 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15144&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15144&amp;order=1</guid>
-            <pubDate>Wed, 06 Nov 2024 06:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-11(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
