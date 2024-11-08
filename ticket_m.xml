@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-08T01:17:44.352Z</updated>
+    <updated>2024-11-08T02:48:20.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15153&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15153&amp;order=1"/>
         <updated>2024-11-08T01:16:52.250Z</updated>
+        <content type="html"><![CDATA[2024-11-15(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈지저스 크라이스트 수퍼스타〉3차 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15152&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15152&amp;order=1"/>
+        <updated>2024-11-08T02:47:29.262Z</updated>
         <content type="html"><![CDATA[2024-11-15(금) 14:00]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15142&amp;order=1"/>
         <updated>2024-11-06T05:17:08.646Z</updated>
         <content type="html"><![CDATA[2024-11-08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] YEONGDO INDIE CONCERT [로맨틱 영도] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15141&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15141&amp;order=1"/>
-        <updated>2024-11-05T07:16:55.399Z</updated>
-        <content type="html"><![CDATA[2024-11-12(화) 14:00]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-08T01:17:44.363Z</updated>
+    <updated>2024-11-08T02:48:20.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15153</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15153"/>
         <updated>2024-11-08T01:16:43.313Z</updated>
+        <content type="html"><![CDATA[2024.11.15(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈지저스 크라이스트 수퍼스타〉3차 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15152</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15152"/>
+        <updated>2024-11-08T02:47:20.424Z</updated>
         <content type="html"><![CDATA[2024.11.15(금) 14:00]]></content>
     </entry>
     <entry>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15132"/>
         <updated>2024-11-01T07:17:20.289Z</updated>
         <content type="html"><![CDATA[2024.11.08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조수미＆요한슈트라우스 오케스트라 울산공연 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15131</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15131"/>
-        <updated>2024-11-01T06:26:45.301Z</updated>
-        <content type="html"><![CDATA[2024.11.11(월) 14:00]]></content>
     </entry>
 </feed>
