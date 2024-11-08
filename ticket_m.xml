@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-08T02:48:20.534Z</updated>
+    <updated>2024-11-08T03:21:43.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 GOLDEN CHILD FAN-CON [CHAPTER] in Seoul 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15155&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15155&amp;order=1"/>
+        <updated>2024-11-08T03:20:52.412Z</updated>
+        <content type="html"><![CDATA[2024-11-12(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 SONNET FAN CONCERT “THE GIFT SET”]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15153&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15143&amp;order=1"/>
         <updated>2024-11-06T05:17:08.645Z</updated>
         <content type="html"><![CDATA[2024-11-12(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Hope Club Christmas in Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15142&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15142&amp;order=1"/>
-        <updated>2024-11-06T05:17:08.646Z</updated>
-        <content type="html"><![CDATA[2024-11-08(금) 14:00]]></content>
     </entry>
 </feed>

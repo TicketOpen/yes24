@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-08T02:48:20.531Z</updated>
+    <updated>2024-11-08T03:21:43.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 GOLDEN CHILD FAN-CON [CHAPTER] in Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15155</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15155"/>
+        <updated>2024-11-08T03:20:43.739Z</updated>
+        <content type="html"><![CDATA[2024.11.12(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 SONNET FAN CONCERT “THE GIFT SET”]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15153</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15134"/>
         <updated>2024-11-01T09:18:27.096Z</updated>
         <content type="html"><![CDATA[2024.11.06(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈시라노〉2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15132</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15132"/>
-        <updated>2024-11-01T07:17:20.289Z</updated>
-        <content type="html"><![CDATA[2024.11.08(금) 14:00]]></content>
     </entry>
 </feed>
