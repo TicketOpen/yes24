@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Nov 2024 14:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 15:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241023/20241023-4c945b31-e07e-447e-a02f-e33fe4b4deab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬<조선 이야기꾼 전기수: 나잇-츠> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51294&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51294&amp;Tab=3</guid>
-            <pubDate>Thu, 17 Oct 2024 10:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.11 ~ 2024.11.10 | 2024.11.12 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241017/20241017-4a698175-fddd-41d5-b1e5-f562b2db1be4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <장화신은 고양이 비긴즈>-플레이 버전 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=3</guid>
@@ -78,6 +70,14 @@
             <pubDate>Thu, 07 Nov 2024 15:18:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27 ~ 2024.11.24 | 2024.11.25 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240927/20240927-73f68323-fc39-4ae4-a262-a3ee42584277.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <빈센트 반 고흐>  관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50536&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50536&amp;Tab=2</guid>
+            <pubDate>Sun, 10 Nov 2024 15:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.07 ~ 2024.12.01 | 2024.12.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240911/20240911-645d78a0-6d47-4b2c-9241-f9215c2f20a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
