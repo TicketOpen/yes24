@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-11T04:21:37.649Z</updated>
+    <updated>2024-11-11T05:18:45.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15160&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15160&amp;order=1"/>
+        <updated>2024-11-11T05:17:55.743Z</updated>
+        <content type="html"><![CDATA[2024-11-15(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 김복유 연말 콘서트 IN 서울 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15159&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15150&amp;order=1"/>
         <updated>2024-11-07T08:21:42.051Z</updated>
         <content type="html"><![CDATA[2024-11-15(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUCY DAYS 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15149&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15149&amp;order=1"/>
-        <updated>2024-11-07T05:16:57.978Z</updated>
-        <content type="html"><![CDATA[2024-11-13(수) 20:00]]></content>
     </entry>
 </feed>
