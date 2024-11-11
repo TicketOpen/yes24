@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-10T23:17:21.264Z</updated>
+    <updated>2024-11-11T01:20:01.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 김복유 연말 콘서트 IN 서울 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15159</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15159"/>
+        <updated>2024-11-11T01:19:05.160Z</updated>
+        <content type="html"><![CDATA[2024.11.14(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김복유 연말 콘서트 IN 광주 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15158</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15158"/>
+        <updated>2024-11-11T01:19:05.163Z</updated>
+        <content type="html"><![CDATA[2024.11.14(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Leina LIVE TOUR 2024-2025 in Seoul 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15157</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15139"/>
         <updated>2024-11-05T05:17:19.019Z</updated>
         <content type="html"><![CDATA[2024.11.12(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매내중쉽 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15138</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15138"/>
-        <updated>2024-11-05T01:16:49.120Z</updated>
-        <content type="html"><![CDATA[2024.11.08(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매정홍일 Only One Concert - 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15137</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15137"/>
-        <updated>2024-11-05T01:16:49.120Z</updated>
-        <content type="html"><![CDATA[2024.11.08(금) 20:00]]></content>
     </entry>
 </feed>
