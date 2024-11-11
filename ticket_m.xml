@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-11T06:26:18.659Z</updated>
+    <updated>2024-11-11T07:18:30.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [조선 이야기꾼 전기수：나잇-츠] 추가 좌석 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15162&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15162&amp;order=1"/>
+        <updated>2024-11-11T07:17:33.334Z</updated>
+        <content type="html"><![CDATA[2024-11-12(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15160&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15152&amp;order=1"/>
         <updated>2024-11-08T02:47:29.262Z</updated>
         <content type="html"><![CDATA[2024-11-15(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제1258회 서초금요음악회 [서초국악축제] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15150&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15150&amp;order=1"/>
-        <updated>2024-11-07T08:21:42.051Z</updated>
-        <content type="html"><![CDATA[2024-11-15(금) 09:00]]></content>
     </entry>
 </feed>

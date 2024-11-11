@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-11T06:26:18.663Z</updated>
+    <updated>2024-11-11T07:18:30.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [조선 이야기꾼 전기수：나잇-츠] 추가 좌석 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15162</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15162"/>
+        <updated>2024-11-11T07:17:24.386Z</updated>
+        <content type="html"><![CDATA[2024.11.12(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15160</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15141"/>
         <updated>2024-11-05T07:16:48.316Z</updated>
         <content type="html"><![CDATA[2024.11.12(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 부활 서울 연말 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15140</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15140"/>
-        <updated>2024-11-05T06:24:07.889Z</updated>
-        <content type="html"><![CDATA[2024.11.08(금) 14:00]]></content>
     </entry>
 </feed>
