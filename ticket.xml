@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-11T09:20:21.461Z</updated>
+    <updated>2024-11-11T10:19:56.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 버블매직쇼 [시간여행자] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15163</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15163"/>
+        <updated>2024-11-11T10:18:55.059Z</updated>
+        <content type="html"><![CDATA[2024.11.11(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [조선 이야기꾼 전기수：나잇-츠] 추가 좌석 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15162</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15142"/>
         <updated>2024-11-06T05:17:00.052Z</updated>
         <content type="html"><![CDATA[2024.11.08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] YEONGDO INDIE CONCERT [로맨틱 영도] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15141</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15141"/>
-        <updated>2024-11-05T07:16:48.316Z</updated>
-        <content type="html"><![CDATA[2024.11.12(화) 14:00]]></content>
     </entry>
 </feed>
