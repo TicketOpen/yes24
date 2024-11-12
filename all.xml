@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 17:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 18:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,14 +217,6 @@
             <content:encoded><![CDATA[2024-11-29(금) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈이터니티〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/50610</link>
-            <guid>http://ticket.yes24.com/Perf/50610</guid>
-            <pubDate>Mon, 11 Nov 2024 01:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241111/20241111-50610.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [시지프스] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/51311</link>
             <guid>http://ticket.yes24.com/Perf/51311</guid>
@@ -233,17 +225,11 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241111/20241111-51311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 이터니티 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/50610</link>
-            <guid>http://m.ticket.yes24.com/Perf/50610</guid>
-            <pubDate>Mon, 11 Nov 2024 01:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 이터니티
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11/12(화)~11/30(토) 회차, 11/15(금) 20시, 11/17(일) 14시, 11/20(수) 20시, 11/23(토) 14시, 11/23(토) 18시, 11/27(수) 15시, 11/27(수) 20시, 11/30(토) 14시 회차 제외
-
-</div>]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈이터니티〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/50610</link>
+            <guid>http://ticket.yes24.com/Perf/50610</guid>
+            <pubDate>Mon, 11 Nov 2024 01:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241111/20241111-50610.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -259,6 +245,20 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">27,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">~12/22(일) 회차까지</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241111/20241111-51311.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 이터니티 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/50610</link>
+            <guid>http://m.ticket.yes24.com/Perf/50610</guid>
+            <pubDate>Mon, 11 Nov 2024 01:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 이터니티
+</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11/12(화)~11/30(토) 회차, 11/15(금) 20시, 11/17(일) 14시, 11/20(수) 20시, 11/23(토) 14시, 11/23(토) 18시, 11/27(수) 15시, 11/27(수) 20시, 11/30(토) 14시 회차 제외
+
+</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241111/20241111-50610.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
