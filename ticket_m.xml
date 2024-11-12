@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-12T06:25:12.339Z</updated>
+    <updated>2024-11-12T07:17:25.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬 [오즈의마법사] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15168&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15168&amp;order=1"/>
+        <updated>2024-11-12T07:16:43.814Z</updated>
+        <content type="html"><![CDATA[2024-11-13(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스 콘서트 유키 구라모토와 친구들 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15167&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15167&amp;order=1"/>
+        <updated>2024-11-12T07:16:43.815Z</updated>
+        <content type="html"><![CDATA[추후공지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[양산] 2025 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15166&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15159&amp;order=1"/>
         <updated>2024-11-11T01:19:13.641Z</updated>
         <content type="html"><![CDATA[2024-11-14(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 김복유 연말 콘서트 IN 광주 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15158&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15158&amp;order=1"/>
-        <updated>2024-11-11T01:19:13.641Z</updated>
-        <content type="html"><![CDATA[2024-11-14(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leina LIVE TOUR 2024-2025 in Seoul 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15157&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15157&amp;order=1"/>
-        <updated>2024-11-08T06:25:29.928Z</updated>
-        <content type="html"><![CDATA[2024-11-15(금) 20:00]]></content>
     </entry>
 </feed>
