@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-13T09:18:58.111Z</updated>
+    <updated>2024-11-13T10:19:14.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매시온 단독공연 [immersion] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15179</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15179"/>
+        <updated>2024-11-13T10:18:14.684Z</updated>
+        <content type="html"><![CDATA[2024.11.15(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [드라이 플라워] 추가 티켓오픈 - 제 2회 설화고등학교 예술제]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15178</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[2024.11.20(수) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단독판매[부산] 2025 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[[부산] 2025 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15175</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15175"/>
         <updated>2024-11-13T05:18:07.810Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15158"/>
         <updated>2024-11-11T01:19:05.163Z</updated>
         <content type="html"><![CDATA[2024.11.14(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Leina LIVE TOUR 2024-2025 in Seoul 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15157</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15157"/>
-        <updated>2024-11-08T06:25:22.916Z</updated>
-        <content type="html"><![CDATA[2024.11.15(금) 20:00]]></content>
     </entry>
 </feed>
