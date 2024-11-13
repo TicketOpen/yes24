@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-13T07:17:27.552Z</updated>
+    <updated>2024-11-13T08:23:25.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [드라이 플라워] 추가 티켓오픈 - 제 2회 설화고등학교 예술제]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15178&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15178&amp;order=1"/>
+        <updated>2024-11-13T08:22:38.224Z</updated>
+        <content type="html"><![CDATA[2024-11-18(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸치니 오페라 [라 보엠] - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15177&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15177&amp;order=1"/>
+        <updated>2024-11-13T08:22:38.225Z</updated>
+        <content type="html"><![CDATA[2024-11-19(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플라워 25주년 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15176&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15176&amp;order=1"/>
+        <updated>2024-11-13T08:22:38.227Z</updated>
+        <content type="html"><![CDATA[2024-11-20(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2025 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15175&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15167&amp;order=1"/>
         <updated>2024-11-12T07:16:43.815Z</updated>
         <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[양산] 2025 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15166&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15166&amp;order=1"/>
-        <updated>2024-11-12T05:17:14.443Z</updated>
-        <content type="html"><![CDATA[2024-11-15(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 데이브레이크 콘서트 〈SEMICOLON〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15165&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15165&amp;order=1"/>
-        <updated>2024-11-12T05:17:14.445Z</updated>
-        <content type="html"><![CDATA[2024-11-15(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> 관객 성불 데이 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15164&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15164&amp;order=1"/>
-        <updated>2024-11-12T05:17:14.448Z</updated>
-        <content type="html"><![CDATA[2024-11-15(금) 12:00]]></content>
     </entry>
 </feed>

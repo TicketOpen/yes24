@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-13T07:17:28.270Z</updated>
+    <updated>2024-11-13T08:23:25.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [드라이 플라워] 추가 티켓오픈 - 제 2회 설화고등학교 예술제]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15178</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15178"/>
+        <updated>2024-11-13T08:22:31.051Z</updated>
+        <content type="html"><![CDATA[2024.11.18(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸치니 오페라 [라 보엠] - 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15177</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15177"/>
+        <updated>2024-11-13T08:22:31.051Z</updated>
+        <content type="html"><![CDATA[2024.11.19(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매플라워 25주년 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15176</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15176"/>
+        <updated>2024-11-13T08:22:31.055Z</updated>
+        <content type="html"><![CDATA[2024.11.20(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[부산] 2025 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15175</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15157"/>
         <updated>2024-11-08T06:25:22.916Z</updated>
         <content type="html"><![CDATA[2024.11.15(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 - 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15156</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15156"/>
-        <updated>2024-11-08T08:21:20.449Z</updated>
-        <content type="html"><![CDATA[2024.11.13(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 GOLDEN CHILD FAN-CON [CHAPTER] in Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15155</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15155"/>
-        <updated>2024-11-08T03:20:43.739Z</updated>
-        <content type="html"><![CDATA[2024.11.12(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 서울 아시테지 겨울축제 공연 - 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15154</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15154"/>
-        <updated>2024-11-08T07:16:10.053Z</updated>
-        <content type="html"><![CDATA[2024.11.12(화) 16:00]]></content>
     </entry>
 </feed>
