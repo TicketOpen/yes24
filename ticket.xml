@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-13T04:21:40.713Z</updated>
+    <updated>2024-11-13T05:19:05.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[부산] 2025 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15175</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15175"/>
+        <updated>2024-11-13T05:18:07.810Z</updated>
+        <content type="html"><![CDATA[2024.11.19(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고양] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15174</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15154"/>
         <updated>2024-11-08T07:16:10.053Z</updated>
         <content type="html"><![CDATA[2024.11.12(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 SONNET FAN CONCERT “THE GIFT SET” 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15153</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15153"/>
-        <updated>2024-11-08T01:16:43.313Z</updated>
-        <content type="html"><![CDATA[2024.11.15(금) 14:00]]></content>
     </entry>
 </feed>

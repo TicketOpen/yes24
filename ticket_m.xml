@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-13T04:21:40.722Z</updated>
+    <updated>2024-11-13T05:19:05.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15175&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15175&amp;order=1"/>
+        <updated>2024-11-13T05:18:16.042Z</updated>
+        <content type="html"><![CDATA[2024-11-19(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고양] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15174&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15164&amp;order=1"/>
         <updated>2024-11-12T05:17:14.448Z</updated>
         <content type="html"><![CDATA[2024-11-15(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 버블매직쇼 [시간여행자] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15163&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15163&amp;order=1"/>
-        <updated>2024-11-11T10:19:04.283Z</updated>
-        <content type="html"><![CDATA[2024-11-11(월) 18:00]]></content>
     </entry>
 </feed>
