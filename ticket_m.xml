@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-13T01:18:34.712Z</updated>
+    <updated>2024-11-13T02:49:08.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 DAY6 Special Concert  ‘The Present’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15171&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15171&amp;order=1"/>
+        <updated>2024-11-13T02:48:07.974Z</updated>
+        <content type="html"><![CDATA[2024-11-20(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마우스 북페어 클래스 : 우정이라는 원동력 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15170&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15162&amp;order=1"/>
         <updated>2024-11-11T07:17:33.334Z</updated>
         <content type="html"><![CDATA[2024-11-12(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 YESUNG CONCERT [It’s Complicated] IN SEOUL 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15161&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15161&amp;order=1"/>
-        <updated>2024-11-12T05:17:14.448Z</updated>
-        <content type="html"><![CDATA[2024-11-29(금) 20:00]]></content>
     </entry>
 </feed>
