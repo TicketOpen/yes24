@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-14T09:19:28.619Z</updated>
+    <updated>2024-11-14T10:19:57.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15184"/>
         <updated>2024-11-14T09:18:29.432Z</updated>
         <content type="html"><![CDATA[2024.11.15(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매시소 단독공연 [Vintage Negatives] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15183</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15183"/>
+        <updated>2024-11-14T10:18:56.528Z</updated>
+        <content type="html"><![CDATA[2024.11.18(월) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15163"/>
         <updated>2024-11-11T10:18:55.059Z</updated>
         <content type="html"><![CDATA[2024.11.11(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [조선 이야기꾼 전기수：나잇-츠] 추가 좌석 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15162</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15162"/>
-        <updated>2024-11-11T07:17:24.386Z</updated>
-        <content type="html"><![CDATA[2024.11.12(화) 14:00]]></content>
     </entry>
 </feed>
