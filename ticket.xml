@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-14T08:24:01.929Z</updated>
+    <updated>2024-11-14T09:19:28.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매ICHIKO AOBA (이치코 아오바) 내한 공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15184</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15184"/>
+        <updated>2024-11-14T09:18:29.432Z</updated>
+        <content type="html"><![CDATA[2024.11.15(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15182</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15162"/>
         <updated>2024-11-11T07:17:24.386Z</updated>
         <content type="html"><![CDATA[2024.11.12(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 YESUNG CONCERT [It’s Complicated] IN SEOUL 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15161</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15161"/>
-        <updated>2024-11-12T05:17:06.251Z</updated>
-        <content type="html"><![CDATA[2024.11.29(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.11.28(목) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
