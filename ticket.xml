@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-14T02:50:07.631Z</updated>
+    <updated>2024-11-14T03:22:55.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[수원] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15182</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15182"/>
+        <updated>2024-11-14T03:21:58.598Z</updated>
+        <content type="html"><![CDATA[2024.11.15(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15180</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15160"/>
         <updated>2024-11-11T05:17:47.736Z</updated>
         <content type="html"><![CDATA[2024.11.15(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 김복유 연말 콘서트 IN 서울 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15159</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15159"/>
-        <updated>2024-11-11T01:19:05.160Z</updated>
-        <content type="html"><![CDATA[2024.11.14(목) 20:00]]></content>
     </entry>
 </feed>
