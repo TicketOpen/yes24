@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-15T04:23:00.777Z</updated>
+    <updated>2024-11-15T05:18:28.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -18,6 +18,27 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15191"/>
         <updated>2024-11-15T02:57:07.550Z</updated>
         <content type="html"><![CDATA[2024.11.18(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 뮤지컬 브레드이발소 <빵스타 대격돌> - 강남 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15188</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15188"/>
+        <updated>2024-11-15T05:17:38.261Z</updated>
+        <content type="html"><![CDATA[2024.11.21(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 뮤지컬 브레드이발소 <빵스타 대격돌> - 성동 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15187</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15187"/>
+        <updated>2024-11-15T05:17:38.263Z</updated>
+        <content type="html"><![CDATA[2024.11.21(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 누가 이 사람을 모르시나요 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15186</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15186"/>
+        <updated>2024-11-15T05:17:38.263Z</updated>
+        <content type="html"><![CDATA[2024.11.18(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2024 인순이 디너쇼 티켓오픈 안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15169"/>
         <updated>2024-11-12T08:22:26.840Z</updated>
         <content type="html"><![CDATA[2024.11.13(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬 [오즈의마법사] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15168</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15168"/>
-        <updated>2024-11-12T07:16:36.196Z</updated>
-        <content type="html"><![CDATA[2024.11.13(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 콘서트 유키 구라모토와 친구들 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15167</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15167"/>
-        <updated>2024-11-12T07:16:36.196Z</updated>
-        <content type="html"><![CDATA[2024.11.14(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[양산] 2025 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15166</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15166"/>
-        <updated>2024-11-12T05:17:06.240Z</updated>
-        <content type="html"><![CDATA[2024.11.15(금) 14:00]]></content>
     </entry>
 </feed>
