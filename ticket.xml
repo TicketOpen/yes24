@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-15T07:18:11.471Z</updated>
+    <updated>2024-11-15T08:23:43.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매아티지 그라운드 인도어 페스티벌 (아웃풋 7주년) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15194</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15194"/>
+        <updated>2024-11-15T08:22:42.263Z</updated>
+        <content type="html"><![CDATA[2024.11.18(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장사익소리판 꽃을 준다, 나에게 - 부산 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15193</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15175"/>
         <updated>2024-11-13T05:18:07.810Z</updated>
         <content type="html"><![CDATA[2024.11.19(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15174</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15174"/>
-        <updated>2024-11-13T04:20:50.304Z</updated>
-        <content type="html"><![CDATA[2024.11.14(목) 09:00]]></content>
     </entry>
 </feed>
