@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-14T23:19:05.372Z</updated>
+    <updated>2024-11-15T01:23:25.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 인순이 디너쇼 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15185&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15185&amp;order=1"/>
+        <updated>2024-11-15T01:22:35.837Z</updated>
+        <content type="html"><![CDATA[2024-11-15(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICHIKO AOBA (이치코 아오바) 내한 공연 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15184&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15176&amp;order=1"/>
         <updated>2024-11-13T08:22:38.227Z</updated>
         <content type="html"><![CDATA[2024-11-20(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15175&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15175&amp;order=1"/>
-        <updated>2024-11-13T05:18:16.042Z</updated>
-        <content type="html"><![CDATA[2024-11-19(화) 14:00]]></content>
     </entry>
 </feed>
