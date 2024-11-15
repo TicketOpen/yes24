@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-15T02:57:57.793Z</updated>
+    <updated>2024-11-15T03:31:23.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[백양문화예술회관 크리스마스 기획공연 [호두까기 인형] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15192&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15192&amp;order=1"/>
+        <updated>2024-11-15T03:30:40.658Z</updated>
+        <content type="html"><![CDATA[2024-11-22(금) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anime X Game Fesitval 2024 패스트 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15191&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15178&amp;order=1"/>
         <updated>2024-11-13T08:22:38.224Z</updated>
         <content type="html"><![CDATA[2024-11-18(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸치니 오페라 [라 보엠] - 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15177&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15177&amp;order=1"/>
-        <updated>2024-11-13T08:22:38.225Z</updated>
-        <content type="html"><![CDATA[2024-11-19(화) 14:00]]></content>
     </entry>
 </feed>
