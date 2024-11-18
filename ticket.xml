@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-18T03:00:20.706Z</updated>
+    <updated>2024-11-18T03:37:08.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[양홍원 단독 콘서트 〈VOL.2〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15195</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15195"/>
+        <updated>2024-11-18T03:36:18.901Z</updated>
+        <content type="html"><![CDATA[2024.11.19(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매아티지 그라운드 인도어 페스티벌 (아웃풋 7주년) 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15194</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15176"/>
         <updated>2024-11-13T08:22:31.055Z</updated>
         <content type="html"><![CDATA[2024.11.20(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 장윤정 라이브 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15175</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15175"/>
-        <updated>2024-11-13T05:18:07.810Z</updated>
-        <content type="html"><![CDATA[2024.11.19(화) 14:00]]></content>
     </entry>
 </feed>

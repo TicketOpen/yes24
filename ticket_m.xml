@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-18T03:00:20.727Z</updated>
+    <updated>2024-11-18T03:37:08.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[양홍원 단독 콘서트 〈VOL.2〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15195&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15195&amp;order=1"/>
+        <updated>2024-11-18T03:36:25.743Z</updated>
+        <content type="html"><![CDATA[2024-11-19(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아티지 그라운드 인도어 페스티벌 (아웃풋 7주년) 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15194&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15186&amp;order=1"/>
         <updated>2024-11-15T05:17:45.689Z</updated>
         <content type="html"><![CDATA[2024-11-18(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 인순이 디너쇼 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15185&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15185&amp;order=1"/>
-        <updated>2024-11-15T01:22:35.837Z</updated>
-        <content type="html"><![CDATA[2024-11-15(금) 14:00]]></content>
     </entry>
 </feed>
