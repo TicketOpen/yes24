@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-18T03:37:08.375Z</updated>
+    <updated>2024-11-18T04:22:52.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈로미오 앤 줄리〉 - 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15196</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15196"/>
+        <updated>2024-11-18T04:21:52.894Z</updated>
+        <content type="html"><![CDATA[2024.11.22(금) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양홍원 단독 콘서트 〈VOL.2〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15195</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15177"/>
         <updated>2024-11-13T08:22:31.051Z</updated>
         <content type="html"><![CDATA[2024.11.19(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매플라워 25주년 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15176</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15176"/>
-        <updated>2024-11-13T08:22:31.055Z</updated>
-        <content type="html"><![CDATA[2024.11.20(수) 14:00]]></content>
     </entry>
 </feed>

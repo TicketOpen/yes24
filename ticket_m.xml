@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-18T03:37:08.168Z</updated>
+    <updated>2024-11-18T04:22:52.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈로미오 앤 줄리〉 - 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15196&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15196&amp;order=1"/>
+        <updated>2024-11-18T04:22:01.615Z</updated>
+        <content type="html"><![CDATA[2024-11-22(금) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양홍원 단독 콘서트 〈VOL.2〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15195&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15187&amp;order=1"/>
         <updated>2024-11-15T05:17:45.687Z</updated>
         <content type="html"><![CDATA[2024-11-21(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 누가 이 사람을 모르시나요 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15186&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15186&amp;order=1"/>
-        <updated>2024-11-15T05:17:45.689Z</updated>
-        <content type="html"><![CDATA[2024-11-18(월) 14:00]]></content>
     </entry>
 </feed>
