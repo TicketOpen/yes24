@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Nov 2024 05:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 06:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단독판매2024 DKB WORLD TOUR [DARK STRANGE] : REVERSE in SEOUL 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15202</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15202</guid>
+            <pubDate>Mon, 18 Nov 2024 06:27:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.11.20(수) 18:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[단독판매LIVE ON 대구 루시(LUCY) X 엑스디너리 히어로즈(Xdinary Heroes)) 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15201</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2024.11.18(월) 19:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[수원] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15182</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15182</guid>
-            <pubDate>Thu, 14 Nov 2024 03:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.15(금) 09:00]]></content:encoded>
+            <title><![CDATA[2024 DKB WORLD TOUR [DARK STRANGE] : REVERSE in SEOUL 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15202&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15202&amp;order=1</guid>
+            <pubDate>Mon, 18 Nov 2024 06:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-22(금) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LIVE ON 대구 루시(LUCY) X 엑스디너리 히어로즈(Xdinary Heroes)) 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,21 +218,6 @@
             <content:encoded><![CDATA[2024-11-18(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백양문화예술회관 크리스마스 기획공연 [호두까기 인형] 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15192&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15192&amp;order=1</guid>
-            <pubDate>Fri, 15 Nov 2024 03:30:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-22(금) 13:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [함수 도미노] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/51315</link>
-            <guid>http://ticket.yes24.com/Perf/51315</guid>
-            <pubDate>Mon, 18 Nov 2024 01:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-51315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [빈센트 반 고흐] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/50536</link>
             <guid>http://ticket.yes24.com/Perf/50536</guid>
@@ -242,6 +234,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-50570_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 [함수 도미노] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/51315</link>
+            <guid>http://ticket.yes24.com/Perf/51315</guid>
+            <pubDate>Mon, 18 Nov 2024 01:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-51315.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 빈센트 반 고흐 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/50536</link>
             <guid>http://m.ticket.yes24.com/Perf/50536</guid>
@@ -254,6 +254,19 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-50536.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 킬롤로지 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/50570</link>
+            <guid>http://m.ticket.yes24.com/Perf/50570</guid>
+            <pubDate>Mon, 18 Nov 2024 01:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">연극 킬롤로지</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">35</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">60,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">36,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11/19(화)~12/1(일) 공연
+
+</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-50570_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 함수 도미노 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -269,19 +282,6 @@
 
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-51315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 킬롤로지 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/50570</link>
-            <guid>http://m.ticket.yes24.com/Perf/50570</guid>
-            <pubDate>Mon, 18 Nov 2024 01:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 킬롤로지</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">35</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">60,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">36,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">11/19(화)~12/1(일) 공연
-
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-50570_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
