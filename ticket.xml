@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-18T07:19:20.890Z</updated>
+    <updated>2024-11-18T08:25:43.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유리아 콘서트 ＇종일반＇ <랴디오 Seasons2>  티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15204</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15204"/>
+        <updated>2024-11-18T08:24:54.759Z</updated>
+        <content type="html"><![CDATA[2024.11.20(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매제1259회 서초금요음악회 [노래로 전하는 러시아 음악이야기] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15203</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15185"/>
         <updated>2024-11-15T01:22:27.486Z</updated>
         <content type="html"><![CDATA[2024.11.15(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매ICHIKO AOBA (이치코 아오바) 내한 공연 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15184</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15184"/>
-        <updated>2024-11-14T09:18:29.432Z</updated>
-        <content type="html"><![CDATA[2024.11.15(금) 10:00]]></content>
     </entry>
 </feed>
