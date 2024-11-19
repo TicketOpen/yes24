@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-18T23:18:00.807Z</updated>
+    <updated>2024-11-19T01:22:57.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 가족매직쇼 [스노우버블쇼] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15205&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15205&amp;order=1"/>
+        <updated>2024-11-19T01:22:07.382Z</updated>
+        <content type="html"><![CDATA[2024-11-19(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유리아 콘서트 ＇종일반＇ <랴디오 Seasons2>  티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15204&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15196&amp;order=1"/>
         <updated>2024-11-18T04:22:01.615Z</updated>
         <content type="html"><![CDATA[2024-11-22(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양홍원 단독 콘서트 〈VOL.2〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15195&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15195&amp;order=1"/>
-        <updated>2024-11-18T03:36:25.743Z</updated>
-        <content type="html"><![CDATA[2024-11-19(화) 18:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-18T23:18:00.781Z</updated>
+    <updated>2024-11-19T01:22:57.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 가족매직쇼 [스노우버블쇼] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15205</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15205"/>
+        <updated>2024-11-19T01:21:58.700Z</updated>
+        <content type="html"><![CDATA[2024.11.19(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유리아 콘서트 ＇종일반＇ <랴디오 Seasons2>  티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15204</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15186"/>
         <updated>2024-11-15T05:17:38.263Z</updated>
         <content type="html"><![CDATA[2024.11.18(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024 인순이 디너쇼 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15185</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15185"/>
-        <updated>2024-11-15T01:22:27.486Z</updated>
-        <content type="html"><![CDATA[2024.11.15(금) 14:00]]></content>
     </entry>
 </feed>
