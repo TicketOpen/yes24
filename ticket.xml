@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-19T09:20:52.811Z</updated>
+    <updated>2024-11-19T10:20:55.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈웃는 남자〉1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15208</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15208"/>
+        <updated>2024-11-19T10:19:54.833Z</updated>
+        <content type="html"><![CDATA[2024.11.26(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쏜애플 콘서트 ‘도시전설’ 좌석 추가 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15206</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15188</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15188"/>
         <updated>2024-11-15T05:17:38.261Z</updated>
-        <content type="html"><![CDATA[2024.11.21(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 뮤지컬 브레드이발소 <빵스타 대격돌> - 성동 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15187</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15187"/>
-        <updated>2024-11-15T05:17:38.263Z</updated>
         <content type="html"><![CDATA[2024.11.21(목) 10:00]]></content>
     </entry>
 </feed>
