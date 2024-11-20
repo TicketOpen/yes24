@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-20T04:23:01.626Z</updated>
+    <updated>2024-11-20T05:18:55.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[서울/창원] 2024 진해성 콘서트 '별과 사랑의 노래' 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15211</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15211"/>
+        <updated>2024-11-20T05:17:55.065Z</updated>
+        <content type="html"><![CDATA[2024.11.25(월) 14:00<a class="noti-btn-pop" presaletit1="창원 공연" presaletit2="" presaletime1="2024.11.26(화) 14:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매TIF ASIA TOUR 2024 in SEOUL with 특전소녀전선 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15210</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15192"/>
         <updated>2024-11-15T03:30:33.754Z</updated>
         <content type="html"><![CDATA[2024.11.22(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Anime X Game Fesitval 2024 패스트 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15191</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15191"/>
-        <updated>2024-11-15T02:57:07.550Z</updated>
-        <content type="html"><![CDATA[2024.11.18(월) 18:00]]></content>
     </entry>
 </feed>
