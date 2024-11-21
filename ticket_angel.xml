@@ -4,25 +4,9 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 14:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 15:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 〈킬롤로지〉 : 연극열전10_세 번째 작품]]></title>
-            <link>http://ticket.yes24.com/Perf/50570</link>
-            <guid>http://ticket.yes24.com/Perf/50570</guid>
-            <pubDate>Mon, 18 Nov 2024 01:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>일반석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>36,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-50570_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 [함수 도미노]]]></title>
-            <link>http://ticket.yes24.com/Perf/51315</link>
-            <guid>http://ticket.yes24.com/Perf/51315</guid>
-            <pubDate>Mon, 18 Nov 2024 01:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-51315.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 [빈센트 반 고흐]]]></title>
             <link>http://ticket.yes24.com/Perf/50536</link>
@@ -38,6 +22,22 @@
             <pubDate>Tue, 19 Nov 2024 02:56:43 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									160,000원								</td>								<td class="dc_price">									<em>→</em>141,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241119/20241119-51409.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 [함수 도미노]]]></title>
+            <link>http://ticket.yes24.com/Perf/51315</link>
+            <guid>http://ticket.yes24.com/Perf/51315</guid>
+            <pubDate>Mon, 18 Nov 2024 01:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									40,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-51315.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈킬롤로지〉 : 연극열전10_세 번째 작품]]></title>
+            <link>http://ticket.yes24.com/Perf/50570</link>
+            <guid>http://ticket.yes24.com/Perf/50570</guid>
+            <pubDate>Mon, 18 Nov 2024 01:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>일반석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>36,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-50570_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
