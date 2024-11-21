@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-21T04:23:02.438Z</updated>
+    <updated>2024-11-21T05:18:36.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [카포네 밀크] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15212&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15212&amp;order=1"/>
+        <updated>2024-11-21T05:17:52.428Z</updated>
+        <content type="html"><![CDATA[2024-11-27(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울/창원] 2024 진해성 콘서트 '별과 사랑의 노래' 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15211&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15203&amp;order=1"/>
         <updated>2024-11-18T07:18:29.172Z</updated>
         <content type="html"><![CDATA[2024-11-22(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 DKB WORLD TOUR [DARK STRANGE] : REVERSE in SEOUL 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15202&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15202&amp;order=1"/>
-        <updated>2024-11-18T06:27:22.533Z</updated>
-        <content type="html"><![CDATA[2024-11-22(금) 20:00]]></content>
     </entry>
 </feed>

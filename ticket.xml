@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-21T04:23:02.443Z</updated>
+    <updated>2024-11-21T05:18:36.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [카포네 밀크] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15212</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15212"/>
+        <updated>2024-11-21T05:17:45.112Z</updated>
+        <content type="html"><![CDATA[2024.11.27(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[서울/창원] 2024 진해성 콘서트 '별과 사랑의 노래' 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15211</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15193"/>
         <updated>2024-11-15T07:17:10.528Z</updated>
         <content type="html"><![CDATA[2024.11.18(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백양문화예술회관 크리스마스 기획공연 [호두까기 인형] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15192</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15192"/>
-        <updated>2024-11-15T03:30:33.754Z</updated>
-        <content type="html"><![CDATA[2024.11.22(금) 13:00]]></content>
     </entry>
 </feed>
