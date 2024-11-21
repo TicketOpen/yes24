@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-21T07:18:10.903Z</updated>
+    <updated>2024-11-21T08:24:24.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[용인] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15217</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15217"/>
+        <updated>2024-11-21T08:23:22.059Z</updated>
+        <content type="html"><![CDATA[2024.11.22(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매연극 〈스타크로스드〉 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15214</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15195"/>
         <updated>2024-11-18T03:36:18.901Z</updated>
         <content type="html"><![CDATA[2024.11.19(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매아티지 그라운드 인도어 페스티벌 (아웃풋 7주년) 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15194</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15194"/>
-        <updated>2024-11-15T08:22:42.263Z</updated>
-        <content type="html"><![CDATA[2024.11.18(월) 18:00]]></content>
     </entry>
 </feed>

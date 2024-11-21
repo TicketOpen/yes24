@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-21T07:18:10.885Z</updated>
+    <updated>2024-11-21T08:24:24.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[용인] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15217&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15217&amp;order=1"/>
+        <updated>2024-11-21T08:23:30.514Z</updated>
+        <content type="html"><![CDATA[2024-11-22(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈스타크로스드〉 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15214&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15205&amp;order=1"/>
         <updated>2024-11-19T01:22:07.382Z</updated>
         <content type="html"><![CDATA[2024-11-19(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유리아 콘서트 ＇종일반＇ <랴디오 Seasons2>  티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15204&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15204&amp;order=1"/>
-        <updated>2024-11-18T08:25:01.622Z</updated>
-        <content type="html"><![CDATA[2024-11-20(수) 14:00]]></content>
     </entry>
 </feed>
