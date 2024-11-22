@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 11:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 12:36:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 [빈센트 반 고흐]]]></title>
-            <link>http://ticket.yes24.com/Perf/50536</link>
-            <guid>http://ticket.yes24.com/Perf/50536</guid>
-            <pubDate>Mon, 18 Nov 2024 01:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-50536.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 [블러디 러브]]]></title>
             <link>http://ticket.yes24.com/Perf/51409</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 19 Nov 2024 02:56:43 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									160,000원								</td>								<td class="dc_price">									<em>→</em>141,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241119/20241119-51409.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [빈센트 반 고흐]]]></title>
+            <link>http://ticket.yes24.com/Perf/50536</link>
+            <guid>http://ticket.yes24.com/Perf/50536</guid>
+            <pubDate>Mon, 18 Nov 2024 01:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>43,800원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241118/20241118-50536.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 〈킬롤로지〉 : 연극열전10_세 번째 작품]]></title>
