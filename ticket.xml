@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-21T23:18:31.594Z</updated>
+    <updated>2024-11-22T01:28:41.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[앰비규어스댄스컴퍼니 〈바디콘서트〉  티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15218</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15218"/>
+        <updated>2024-11-22T01:27:44.872Z</updated>
+        <content type="html"><![CDATA[2024.11.22(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[용인] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15217</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15198</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15198"/>
         <updated>2024-11-18T05:18:21.756Z</updated>
-        <content type="html"><![CDATA[2024.11.21(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 이토 준지 호러하우스 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15197</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15197"/>
-        <updated>2024-11-18T05:18:21.757Z</updated>
         <content type="html"><![CDATA[2024.11.21(목) 14:00]]></content>
     </entry>
 </feed>
