@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-25T06:27:49.634Z</updated>
+    <updated>2024-11-25T07:20:23.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈스타크로스드〉 - 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15225</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15225"/>
+        <updated>2024-11-25T07:19:21.868Z</updated>
+        <content type="html"><![CDATA[2024.11.29(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [시지프스] 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15224</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15205"/>
         <updated>2024-11-19T01:21:58.700Z</updated>
         <content type="html"><![CDATA[2024.11.19(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유리아 콘서트 ＇종일반＇ <랴디오 Seasons2>  티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15204</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15204"/>
-        <updated>2024-11-18T08:24:54.759Z</updated>
-        <content type="html"><![CDATA[2024.11.20(수) 14:00]]></content>
     </entry>
 </feed>
