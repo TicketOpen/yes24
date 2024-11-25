@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-25T07:20:23.337Z</updated>
+    <updated>2024-11-25T08:25:47.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Christmas in 서초 [호두까기인형] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15226&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15226&amp;order=1"/>
+        <updated>2024-11-25T08:24:55.910Z</updated>
+        <content type="html"><![CDATA[2024-12-03(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈스타크로스드〉 - 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15225&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15217&amp;order=1"/>
         <updated>2024-11-21T08:23:30.514Z</updated>
         <content type="html"><![CDATA[2024-11-22(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HANRORO 3RD SOLO CONCERT ‘발아(發芽)’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15216&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15216&amp;order=1"/>
-        <updated>2024-11-21T09:19:50.832Z</updated>
-        <content type="html"><![CDATA[2024-11-28(목) 18:00]]></content>
     </entry>
 </feed>
