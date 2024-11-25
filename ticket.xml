@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-25T08:25:47.338Z</updated>
+    <updated>2024-11-25T09:21:26.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Adieu ’2024 서초문화원 송년기념공연 - G.Puccini 오페라 [라보엠] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15227</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15227"/>
+        <updated>2024-11-25T09:20:25.191Z</updated>
+        <content type="html"><![CDATA[2024.12.02(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Christmas in 서초 [호두까기인형] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15226</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15207"/>
         <updated>2024-11-20T01:21:20.913Z</updated>
         <content type="html"><![CDATA[2024.11.22(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쏜애플 콘서트 ‘도시전설’ 좌석 추가 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15206</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15206"/>
-        <updated>2024-11-19T09:19:54.417Z</updated>
-        <content type="html"><![CDATA[2024.11.26(화) 19:00]]></content>
     </entry>
 </feed>
