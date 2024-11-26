@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-26T04:23:09.236Z</updated>
+    <updated>2024-11-26T05:18:44.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤직드라마 〈불편한 편의점〉 - 1월 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15231&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15231&amp;order=1"/>
+        <updated>2024-11-26T05:17:53.645Z</updated>
+        <content type="html"><![CDATA[2024-11-28(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [어제의 시는 내일의 노래가 될 수 있을까]  티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15230&amp;order=1</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[2024-12-04(수) 20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adieu ′2024 서초문화원 송년기념공연 - G.Puccini 오페라 [라보엠] 티켓오픈안내]]></title>
+        <title type="html"><![CDATA[Adieu 2024 서초문화원 송년기념공연 - G.Puccini 오페라 [라보엠] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15227&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15227&amp;order=1"/>
         <updated>2024-11-25T09:20:34.468Z</updated>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15222&amp;order=1"/>
         <updated>2024-11-22T05:17:42.567Z</updated>
         <content type="html"><![CDATA[2024-11-27(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영도문화예술회관 송년콘서트 [Christmas in Jazz] - 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15221&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15221&amp;order=1"/>
-        <updated>2024-11-22T05:17:42.572Z</updated>
-        <content type="html"><![CDATA[2024-11-26(화) 14:00]]></content>
     </entry>
 </feed>
