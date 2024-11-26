@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-26T07:20:45.899Z</updated>
+    <updated>2024-11-26T08:24:56.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-서울 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15234&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15234&amp;order=1"/>
+        <updated>2024-11-26T08:24:06.136Z</updated>
+        <content type="html"><![CDATA[2024-11-29(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 서울오페라앙상블 송년음악회 [이태리 오페라의 향연] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15232&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15224&amp;order=1"/>
         <updated>2024-11-25T02:59:19.205Z</updated>
         <content type="html"><![CDATA[2024-12-02(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anime X Game Festival 2024 - 레드 스테이지 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15223&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15223&amp;order=1"/>
-        <updated>2024-11-22T09:19:53.815Z</updated>
-        <content type="html"><![CDATA[2024-11-25(월) 18:00]]></content>
     </entry>
 </feed>

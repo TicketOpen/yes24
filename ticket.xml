@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-26T07:20:45.893Z</updated>
+    <updated>2024-11-26T08:24:56.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-서울 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15234</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15234"/>
+        <updated>2024-11-26T08:23:57.208Z</updated>
+        <content type="html"><![CDATA[2024.11.29(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 서울오페라앙상블 송년음악회 [이태리 오페라의 향연] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15232</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15214"/>
         <updated>2024-11-21T06:27:13.950Z</updated>
         <content type="html"><![CDATA[2024.11.26(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [카포네 밀크] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15212</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15212"/>
-        <updated>2024-11-21T05:17:45.112Z</updated>
-        <content type="html"><![CDATA[2024.11.27(수) 14:00]]></content>
     </entry>
 </feed>
