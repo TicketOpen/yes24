@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 09:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 10:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극<뜨거운 바다>기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51196&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51196&amp;Tab=3</guid>
+            <pubDate>Tue, 26 Nov 2024 10:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.26 ~ 2024.12.15 | 2024.12.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241126/20241126-08fec8b0-3a77-4719-bde7-702c5693fc9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <알라딘> 한국 초연 서울 후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 24 Nov 2024 15:17:51 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.07 ~ 2024.12.01 | 2024.12.03 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240911/20240911-645d78a0-6d47-4b2c-9241-f9215c2f20a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버페이로 예매하면 포인트 적립해드려요!]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3593</guid>
-            <pubDate>Mon, 25 Nov 2024 15:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.18 ~ 2024.11.30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241115/20241115-5d0e88da-0dc9-4f8c-947d-a8c3a0f80fd9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
