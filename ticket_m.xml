@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-25T23:18:51.559Z</updated>
+    <updated>2024-11-26T01:23:24.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2024년의 우리들 - 브로콜리너마저] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15229&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15229&amp;order=1"/>
+        <updated>2024-11-26T01:22:35.056Z</updated>
+        <content type="html"><![CDATA[2024-11-28(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adieu ’2024 서초문화원 송년기념공연 - G.Puccini 오페라 [라보엠] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15227&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15219&amp;order=1"/>
         <updated>2024-11-22T06:25:43.492Z</updated>
         <content type="html"><![CDATA[2024-11-29(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앰비규어스댄스컴퍼니 〈바디콘서트〉  티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15218&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15218&amp;order=1"/>
-        <updated>2024-11-22T01:27:52.995Z</updated>
-        <content type="html"><![CDATA[2024-11-22(금) 15:00]]></content>
     </entry>
 </feed>
