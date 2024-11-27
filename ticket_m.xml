@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-27T08:25:31.920Z</updated>
+    <updated>2024-11-27T09:20:42.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 B-day PARTY - KUN [MIRACLE DAY] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15239&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15239&amp;order=1"/>
+        <updated>2024-11-27T09:20:00.909Z</updated>
+        <content type="html"><![CDATA[2024-12-05(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비지정석] 뮤지컬 [바람으로의 여행] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15237&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15227&amp;order=1"/>
         <updated>2024-11-25T09:20:34.468Z</updated>
         <content type="html"><![CDATA[2024-12-02(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas in 서초 [호두까기인형] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15226&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15226&amp;order=1"/>
-        <updated>2024-11-25T08:24:55.910Z</updated>
-        <content type="html"><![CDATA[2024-12-03(화) 10:00]]></content>
     </entry>
 </feed>
