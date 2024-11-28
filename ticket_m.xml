@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-28T01:24:17.938Z</updated>
+    <updated>2024-11-28T03:00:47.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ICHIKO AOBA (이치코 아오바) 내한 공연 추가 회차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15243&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15243&amp;order=1"/>
+        <updated>2024-11-28T03:00:03.150Z</updated>
+        <content type="html"><![CDATA[2024-11-29(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오페레타 뮤지컬 [판타지아] 시즌3 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15242&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15242&amp;order=1"/>
+        <updated>2024-11-28T03:00:03.152Z</updated>
+        <content type="html"><![CDATA[2024-12-03(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Someday Christmas in 여수 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15241&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15241&amp;order=1"/>
+        <updated>2024-11-28T03:00:03.153Z</updated>
+        <content type="html"><![CDATA[2024-11-28(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호쇼 마린 1st 한국 공식 팝업스토어 〈Year-end Party〉 사전 예약 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15240&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15231&amp;order=1"/>
         <updated>2024-11-26T05:17:53.645Z</updated>
         <content type="html"><![CDATA[2024-11-28(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [어제의 시는 내일의 노래가 될 수 있을까]  티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15230&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15230&amp;order=1"/>
-        <updated>2024-11-26T03:34:29.358Z</updated>
-        <content type="html"><![CDATA[2024-12-05(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2024년의 우리들 - 브로콜리너마저] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15229&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15229&amp;order=1"/>
-        <updated>2024-11-26T01:22:35.056Z</updated>
-        <content type="html"><![CDATA[2024-11-28(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 ONG SEONG-WU FANMEETING 〈COMEONG〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15228&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15228&amp;order=1"/>
-        <updated>2024-11-26T03:34:29.364Z</updated>
-        <content type="html"><![CDATA[2024-12-04(수) 20:00]]></content>
     </entry>
 </feed>
