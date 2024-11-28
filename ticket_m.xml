@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-28T06:27:33.888Z</updated>
+    <updated>2024-11-28T07:20:12.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2025 라이브가족뮤지컬 [프린세스공주] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15245&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15245&amp;order=1"/>
+        <updated>2024-11-28T07:19:29.858Z</updated>
+        <content type="html"><![CDATA[2024-12-02(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LUCY DAYS 시야제한석 추가 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15244&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15234&amp;order=1"/>
         <updated>2024-11-26T08:24:06.136Z</updated>
         <content type="html"><![CDATA[2024-11-29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 서울오페라앙상블 송년음악회 [이태리 오페라의 향연] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15232&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15232&amp;order=1"/>
-        <updated>2024-11-26T06:25:54.813Z</updated>
-        <content type="html"><![CDATA[2024-11-26(화) 14:00]]></content>
     </entry>
 </feed>
