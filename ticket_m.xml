@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-29T03:37:34.233Z</updated>
+    <updated>2024-11-29T04:23:11.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[힐링뮤지션 [Hue]가 들려주는 오페라 하이라이트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15251&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15251&amp;order=1"/>
+        <updated>2024-11-29T04:22:22.846Z</updated>
+        <content type="html"><![CDATA[2024-12-06(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힐링뮤지션 [Hue]가 들려주는 뮤지컬 하이라이트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15250&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15241&amp;order=1"/>
         <updated>2024-11-28T03:00:03.153Z</updated>
         <content type="html"><![CDATA[2024-11-28(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호쇼 마린 1st 한국 공식 팝업스토어 〈Year-end Party〉 사전 예약 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15240&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15240&amp;order=1"/>
-        <updated>2024-11-27T11:16:16.290Z</updated>
-        <content type="html"><![CDATA[2024-11-29(금) 20:00]]></content>
     </entry>
 </feed>

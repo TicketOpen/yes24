@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-29T03:37:34.252Z</updated>
+    <updated>2024-11-29T04:23:11.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매힐링뮤지션 [Hue]가 들려주는 오페라 하이라이트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15251</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15251"/>
+        <updated>2024-11-29T04:22:14.129Z</updated>
+        <content type="html"><![CDATA[2024.12.06(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매힐링뮤지션 [Hue]가 들려주는 뮤지컬 하이라이트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15250</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15250"/>
+        <updated>2024-11-29T04:22:14.138Z</updated>
+        <content type="html"><![CDATA[2024.12.06(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매이승열의 음악감상회 [어느 희망 중독자의 고백] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15249</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15229"/>
         <updated>2024-11-26T01:22:25.848Z</updated>
         <content type="html"><![CDATA[2024.11.28(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 ONG SEONG-WU FANMEETING 〈COMEONG〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15228</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15228"/>
-        <updated>2024-11-26T03:34:22.276Z</updated>
-        <content type="html"><![CDATA[2024.12.04(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.12.02(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adieu 2024 서초문화원 송년기념공연 - G.Puccini 오페라 [라보엠] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15227</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15227"/>
-        <updated>2024-11-25T09:20:25.191Z</updated>
-        <content type="html"><![CDATA[2024.12.02(월) 10:00]]></content>
     </entry>
 </feed>
