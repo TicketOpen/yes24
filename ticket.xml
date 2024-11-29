@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-29T06:27:04.191Z</updated>
+    <updated>2024-11-29T07:19:52.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15248"/>
         <updated>2024-11-29T02:59:31.303Z</updated>
         <content type="html"><![CDATA[2024.12.06(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2025 라이브가족뮤지컬 [오즈의마법사] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15247</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15247"/>
+        <updated>2024-11-29T07:18:54.620Z</updated>
+        <content type="html"><![CDATA[2024.12.03(화) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 가족매직쇼 [스노우버블쇼] 티켓오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15230"/>
         <updated>2024-11-26T03:34:22.272Z</updated>
         <content type="html"><![CDATA[2024.12.05(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[2024년의 우리들 - 브로콜리너마저] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15229</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15229"/>
-        <updated>2024-11-26T01:22:25.848Z</updated>
-        <content type="html"><![CDATA[2024.11.28(목) 18:00]]></content>
     </entry>
 </feed>
