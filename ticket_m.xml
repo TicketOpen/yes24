@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-29T08:25:38.938Z</updated>
+    <updated>2024-11-29T09:20:42.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <시라노> OP석 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15252&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15252&amp;order=1"/>
+        <updated>2024-11-29T09:19:59.904Z</updated>
+        <content type="html"><![CDATA[2024-12-04(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힐링뮤지션 [Hue]가 들려주는 오페라 하이라이트 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15251&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15243&amp;order=1"/>
         <updated>2024-11-28T03:00:03.150Z</updated>
         <content type="html"><![CDATA[2024-11-29(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오페레타 뮤지컬 [판타지아] 시즌3 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15242&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15242&amp;order=1"/>
-        <updated>2024-11-28T03:00:03.152Z</updated>
-        <content type="html"><![CDATA[2024-12-03(화) 11:00]]></content>
     </entry>
 </feed>
