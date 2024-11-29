@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 01:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 03:00:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <더 픽션> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=3</guid>
+            <pubDate>Fri, 29 Nov 2024 03:00:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.29 ~ 2024.12.13 | 2024.12.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241129/20241129-c46fe0e8-2d2d-4af6-8747-db52a9cbb3e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극<뜨거운 바다>기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51196&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 20 Nov 2024 12:36:19 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.04 ~ 2024.12.08 | 2024.12.10 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-1951adc2-312f-405f-ae93-915ae70d8031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <빈센트 반 고흐>  관람후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50536&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50536&amp;Tab=2</guid>
-            <pubDate>Sun, 24 Nov 2024 15:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.07 ~ 2024.12.01 | 2024.12.03 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202409/20240911/20240911-645d78a0-6d47-4b2c-9241-f9215c2f20a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

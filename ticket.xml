@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-29T01:24:02.734Z</updated>
+    <updated>2024-11-29T03:00:31.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매이승열의 음악감상회 [어느 희망 중독자의 고백] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15249</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15249"/>
+        <updated>2024-11-29T02:59:31.298Z</updated>
+        <content type="html"><![CDATA[2024.12.03(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15248</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15248"/>
+        <updated>2024-11-29T02:59:31.303Z</updated>
+        <content type="html"><![CDATA[2024.12.06(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2025 라이브가족뮤지컬 [프린세스공주] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15245</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15226"/>
         <updated>2024-11-25T08:24:46.241Z</updated>
         <content type="html"><![CDATA[2024.12.03(화) 10:00<a class="noti-btn-pop" presaletit1="서초구민 선예매" presaletit2="" presaletime1="2024.12.02(월) 09:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈스타크로스드〉 - 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15225</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15225"/>
-        <updated>2024-11-25T07:19:21.868Z</updated>
-        <content type="html"><![CDATA[2024.11.29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [시지프스] 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15224</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15224"/>
-        <updated>2024-11-25T02:59:10.403Z</updated>
-        <content type="html"><![CDATA[2024.12.02(월) 14:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-29T01:24:02.724Z</updated>
+    <updated>2024-11-29T03:00:31.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이승열의 음악감상회 [어느 희망 중독자의 고백] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15249&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15249&amp;order=1"/>
+        <updated>2024-11-29T02:59:40.440Z</updated>
+        <content type="html"><![CDATA[2024-12-03(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15248&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15248&amp;order=1"/>
+        <updated>2024-11-29T02:59:40.441Z</updated>
+        <content type="html"><![CDATA[2024-12-06(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2025 라이브가족뮤지컬 [프린세스공주] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15245&amp;order=1</id>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15237&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15237&amp;order=1"/>
         <updated>2024-11-27T03:00:14.080Z</updated>
-        <content type="html"><![CDATA[2024-11-29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알라딘> 2월 로맨틱 시즌 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15236&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15236&amp;order=1"/>
-        <updated>2024-11-27T03:00:14.083Z</updated>
-        <content type="html"><![CDATA[2024-12-05(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-서울 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15234&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15234&amp;order=1"/>
-        <updated>2024-11-26T08:24:06.136Z</updated>
         <content type="html"><![CDATA[2024-11-29(금) 14:00]]></content>
     </entry>
 </feed>
