@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-02T01:26:56.446Z</updated>
+    <updated>2024-12-02T03:04:51.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈세일즈맨의 죽음〉 - 1차 티켓오픈 공지]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15253</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15253"/>
+        <updated>2024-12-02T03:03:55.661Z</updated>
+        <content type="html"><![CDATA[2024.12.04(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시라노> OP석 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15252</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15232"/>
         <updated>2024-11-26T06:25:45.886Z</updated>
         <content type="html"><![CDATA[2024.11.26(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤직드라마 〈불편한 편의점〉 - 1월 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15231</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15231"/>
-        <updated>2024-11-26T05:17:46.625Z</updated>
-        <content type="html"><![CDATA[2024.11.28(목) 14:00]]></content>
     </entry>
 </feed>
