@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 23:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 01:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,6 +215,14 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15243&amp;order=1</guid>
             <pubDate>Thu, 28 Nov 2024 03:00:03 GMT</pubDate>
             <content:encoded><![CDATA[2024-11-29(금) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈델타 보이즈〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/51298</link>
+            <guid>http://ticket.yes24.com/Perf/51298</guid>
+            <pubDate>Mon, 02 Dec 2024 01:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202411/20241119/20241119-51298.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 친구의 전설 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
