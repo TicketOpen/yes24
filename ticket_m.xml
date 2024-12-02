@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-02T04:23:26.385Z</updated>
+    <updated>2024-12-02T05:20:08.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <빵도둑> 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15256&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15256&amp;order=1"/>
+        <updated>2024-12-02T05:19:08.179Z</updated>
+        <content type="html"><![CDATA[2024-12-16(월) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <이상한 과자가게 전천당 4 - 정체불명의 손님> 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15255&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15255&amp;order=1"/>
+        <updated>2024-12-02T05:19:08.179Z</updated>
+        <content type="html"><![CDATA[2024-12-12(목) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H1-KEY 1ST FAN CONCERT [Find my KEY] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15254&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15254&amp;order=1"/>
+        <updated>2024-12-02T05:19:08.182Z</updated>
+        <content type="html"><![CDATA[2024-12-17(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈세일즈맨의 죽음〉 - 1차 티켓오픈 공지]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15253&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15247&amp;order=1"/>
         <updated>2024-11-29T07:19:03.068Z</updated>
         <content type="html"><![CDATA[2024-12-03(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 가족매직쇼 [스노우버블쇼] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15246&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15246&amp;order=1"/>
-        <updated>2024-11-29T03:36:50.069Z</updated>
-        <content type="html"><![CDATA[2024-12-02(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2025 라이브가족뮤지컬 [프린세스공주] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15245&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15245&amp;order=1"/>
-        <updated>2024-11-28T07:19:29.858Z</updated>
-        <content type="html"><![CDATA[2024-12-02(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUCY DAYS 시야제한석 추가 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15244&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15244&amp;order=1"/>
-        <updated>2024-11-28T06:26:42.883Z</updated>
-        <content type="html"><![CDATA[2024-12-02(월) 19:00]]></content>
     </entry>
 </feed>
