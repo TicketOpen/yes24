@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-02T11:16:54.161Z</updated>
+    <updated>2024-12-02T12:39:05.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 신년음악회: 집시 카니발 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15261</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15261"/>
+        <updated>2024-12-02T12:38:08.984Z</updated>
+        <content type="html"><![CDATA[2024.12.04(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광명] 2025 라이브가족뮤지컬 [알라딘] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15260</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15242"/>
         <updated>2024-11-28T02:59:55.712Z</updated>
         <content type="html"><![CDATA[2024.12.03(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Someday Christmas in 여수 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15241</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15241"/>
-        <updated>2024-11-28T02:59:55.715Z</updated>
-        <content type="html"><![CDATA[2024.11.28(목) 18:00]]></content>
     </entry>
 </feed>
