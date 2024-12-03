@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-03T04:23:54.195Z</updated>
+    <updated>2024-12-03T05:19:54.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15266&amp;order=1"/>
         <updated>2024-12-03T04:23:02.552Z</updated>
         <content type="html"><![CDATA[2024-12-05(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[82MAJOR 3rd CONCERT 〈82MAJOR BOOM (에투메붐)〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15265&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15265&amp;order=1"/>
+        <updated>2024-12-03T05:18:55.185Z</updated>
+        <content type="html"><![CDATA[2024-12-06(금) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2025 연극 〈친정엄마와 2박3일〉]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15264&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15264&amp;order=1"/>
+        <updated>2024-12-03T05:18:55.187Z</updated>
+        <content type="html"><![CDATA[2024-12-05(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 연극 〈친정엄마와 2박3일〉]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15263&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15263&amp;order=1"/>
+        <updated>2024-12-03T05:18:55.188Z</updated>
+        <content type="html"><![CDATA[2024-12-05(목) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ATEEZ EXHIBITION [Destiny’s Memories] 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15257&amp;order=1"/>
         <updated>2024-12-02T06:27:39.331Z</updated>
         <content type="html"><![CDATA[2024-12-04(수) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <빵도둑> 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15256&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15256&amp;order=1"/>
-        <updated>2024-12-02T05:19:08.179Z</updated>
-        <content type="html"><![CDATA[2024-12-16(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 과자가게 전천당 4 - 정체불명의 손님> 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15255&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15255&amp;order=1"/>
-        <updated>2024-12-02T05:19:08.179Z</updated>
-        <content type="html"><![CDATA[2024-12-12(목) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY 1ST FAN CONCERT [Find my KEY] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15254&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15254&amp;order=1"/>
-        <updated>2024-12-02T05:19:08.182Z</updated>
-        <content type="html"><![CDATA[2024-12-17(화) 20:00]]></content>
     </entry>
 </feed>
