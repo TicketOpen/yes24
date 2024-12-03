@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-03T06:28:13.983Z</updated>
+    <updated>2024-12-03T07:20:49.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매YOUNG POSSE WINTER FAN CONCERT ‘HOMECOMING POSSE’ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15269</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15269"/>
+        <updated>2024-12-03T07:19:47.141Z</updated>
+        <content type="html"><![CDATA[2024.12.04(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2025 라이브가족뮤지컬 [피터팬] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15268</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15250"/>
         <updated>2024-11-29T04:22:14.138Z</updated>
         <content type="html"><![CDATA[2024.12.06(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매이승열의 음악감상회 [어느 희망 중독자의 고백] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15249</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15249"/>
-        <updated>2024-11-29T02:59:31.298Z</updated>
-        <content type="html"><![CDATA[2024.12.03(화) 15:00]]></content>
     </entry>
 </feed>
