@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-03T03:04:38.959Z</updated>
+    <updated>2024-12-03T04:23:54.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광명] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15266&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15266&amp;order=1"/>
+        <updated>2024-12-03T04:23:02.552Z</updated>
+        <content type="html"><![CDATA[2024-12-05(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATEEZ EXHIBITION [Destiny’s Memories] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15262&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15262&amp;order=1"/>
+        <updated>2024-12-03T04:23:02.554Z</updated>
+        <content type="html"><![CDATA[2024-12-05(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 신년음악회: 집시 카니발 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15261&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15254&amp;order=1"/>
         <updated>2024-12-02T05:19:08.182Z</updated>
         <content type="html"><![CDATA[2024-12-17(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈세일즈맨의 죽음〉 - 1차 티켓오픈 공지]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15253&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15253&amp;order=1"/>
-        <updated>2024-12-02T03:04:04.063Z</updated>
-        <content type="html"><![CDATA[2024-12-04(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시라노> OP석 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15252&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15252&amp;order=1"/>
-        <updated>2024-11-29T09:19:59.904Z</updated>
-        <content type="html"><![CDATA[2024-12-04(수) 15:00]]></content>
     </entry>
 </feed>
