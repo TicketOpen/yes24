@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-03T05:19:54.154Z</updated>
+    <updated>2024-12-03T06:28:13.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2025 라이브가족뮤지컬 [피터팬] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15268</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15268"/>
+        <updated>2024-12-03T06:27:26.123Z</updated>
+        <content type="html"><![CDATA[2024.12.06(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [무명호걸:無名豪傑] 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15267</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15267"/>
+        <updated>2024-12-03T06:27:26.131Z</updated>
+        <content type="html"><![CDATA[2024.12.09(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광명] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15266</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15249"/>
         <updated>2024-11-29T02:59:31.298Z</updated>
         <content type="html"><![CDATA[2024.12.03(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15248</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15248"/>
-        <updated>2024-11-29T02:59:31.303Z</updated>
-        <content type="html"><![CDATA[2024.12.06(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2025 라이브가족뮤지컬 [오즈의마법사] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15247</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15247"/>
-        <updated>2024-11-29T07:18:54.620Z</updated>
-        <content type="html"><![CDATA[2024.12.03(화) 09:00]]></content>
     </entry>
 </feed>
