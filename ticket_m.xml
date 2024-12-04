@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-04T01:25:53.902Z</updated>
+    <updated>2024-12-04T03:03:08.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 서초실내악축제 송년음악회 Finale 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15272&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15272&amp;order=1"/>
+        <updated>2024-12-04T03:02:18.234Z</updated>
+        <content type="html"><![CDATA[2024-12-06(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 한글용사 아이야 [사라진 한글을 찾아라!] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15271&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15271&amp;order=1"/>
+        <updated>2024-12-04T03:02:18.236Z</updated>
+        <content type="html"><![CDATA[2024-12-06(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 뮤지컬 한글용사 아이야 [사라진 한글을 찾아라!] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15270&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15270&amp;order=1"/>
+        <updated>2024-12-04T03:02:18.238Z</updated>
+        <content type="html"><![CDATA[2024-12-06(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YOUNG POSSE WINTER FAN CONCERT ‘HOMECOMING POSSE’ 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15269&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15263&amp;order=1"/>
         <updated>2024-12-03T05:18:55.188Z</updated>
         <content type="html"><![CDATA[2024-12-05(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATEEZ EXHIBITION [Destiny’s Memories] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15262&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15262&amp;order=1"/>
-        <updated>2024-12-03T04:23:02.554Z</updated>
-        <content type="html"><![CDATA[2024-12-05(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 신년음악회: 집시 카니발 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15261&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15261&amp;order=1"/>
-        <updated>2024-12-02T12:38:17.059Z</updated>
-        <content type="html"><![CDATA[2024-12-04(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광명] 2025 라이브가족뮤지컬 [알라딘] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15260&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15260&amp;order=1"/>
-        <updated>2024-12-02T09:21:09.565Z</updated>
-        <content type="html"><![CDATA[2024-12-05(목) 09:00]]></content>
     </entry>
 </feed>

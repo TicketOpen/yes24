@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-04T01:25:53.894Z</updated>
+    <updated>2024-12-04T03:03:08.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 서초실내악축제 송년음악회 Finale 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15272</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15272"/>
+        <updated>2024-12-04T03:02:08.688Z</updated>
+        <content type="html"><![CDATA[2024.12.06(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 한글용사 아이야 [사라진 한글을 찾아라!] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15271</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15271"/>
+        <updated>2024-12-04T03:02:08.689Z</updated>
+        <content type="html"><![CDATA[2024.12.06(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 뮤지컬 한글용사 아이야 [사라진 한글을 찾아라!] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15270</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15270"/>
+        <updated>2024-12-04T03:02:08.689Z</updated>
+        <content type="html"><![CDATA[2024.12.06(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매YOUNG POSSE WINTER FAN CONCERT ‘HOMECOMING POSSE’ 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15269</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15253"/>
         <updated>2024-12-02T03:03:55.661Z</updated>
         <content type="html"><![CDATA[2024.12.04(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시라노> OP석 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15252</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15252"/>
-        <updated>2024-11-29T09:19:52.705Z</updated>
-        <content type="html"><![CDATA[2024.12.04(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매힐링뮤지션 [Hue]가 들려주는 오페라 하이라이트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15251</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15251"/>
-        <updated>2024-11-29T04:22:14.129Z</updated>
-        <content type="html"><![CDATA[2024.12.06(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매힐링뮤지션 [Hue]가 들려주는 뮤지컬 하이라이트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15250</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15250"/>
-        <updated>2024-11-29T04:22:14.138Z</updated>
-        <content type="html"><![CDATA[2024.12.06(금) 11:00]]></content>
     </entry>
 </feed>
