@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 06:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 07:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2024.12.04 ~ 2025.01.01]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51881</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51881</guid>
+            <pubDate>Wed, 04 Dec 2024 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>연극 &lt;세일즈맨의 죽음&gt; 1월 7일(화) 19시30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241204/20241204-b14a7d2f-2373-40ee-9ae1-c025ca5a4856.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2024.12.04 ~ 2024.12.31]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51753</link>
