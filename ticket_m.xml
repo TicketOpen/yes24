@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-05T03:03:57.543Z</updated>
+    <updated>2024-12-05T04:23:23.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -25,20 +25,6 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15272&amp;order=1"/>
         <updated>2024-12-04T03:02:18.234Z</updated>
         <content type="html"><![CDATA[2024-12-06(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤지컬 한글용사 아이야 [사라진 한글을 찾아라!] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15271&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15271&amp;order=1"/>
-        <updated>2024-12-04T03:02:18.236Z</updated>
-        <content type="html"><![CDATA[2024-12-06(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 뮤지컬 한글용사 아이야 [사라진 한글을 찾아라!] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15270&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15270&amp;order=1"/>
-        <updated>2024-12-04T03:02:18.238Z</updated>
-        <content type="html"><![CDATA[2024-12-06(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[YOUNG POSSE WINTER FAN CONCERT ‘HOMECOMING POSSE’ 티켓오픈 안내]]></title>
@@ -74,5 +60,19 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15265&amp;order=1"/>
         <updated>2024-12-03T05:18:55.185Z</updated>
         <content type="html"><![CDATA[2024-12-06(금) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2025 연극 〈친정엄마와 2박3일〉]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15264&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15264&amp;order=1"/>
+        <updated>2024-12-05T04:22:31.136Z</updated>
+        <content type="html"><![CDATA[2024-12-05(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 연극 〈친정엄마와 2박3일〉]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15263&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15263&amp;order=1"/>
+        <updated>2024-12-05T04:22:31.137Z</updated>
+        <content type="html"><![CDATA[2024-12-05(목) 15:00]]></content>
     </entry>
 </feed>
