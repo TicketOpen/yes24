@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-06T04:23:18.203Z</updated>
+    <updated>2024-12-06T05:19:16.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 싱어롱데이 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15282</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15282"/>
+        <updated>2024-12-06T05:18:13.644Z</updated>
+        <content type="html"><![CDATA[2024.12.11(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2024 OVER NIGHT With A.C.E 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15281</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15281"/>
+        <updated>2024-12-06T05:18:13.650Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매I.M WORLD TOUR 〈Off The Beat〉 FINAL IN SEOUL 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15280</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15280"/>
+        <updated>2024-12-06T05:18:13.651Z</updated>
+        <content type="html"><![CDATA[2024.12.13(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 연극 〈날개〉 - 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15279</id>
@@ -121,26 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15261"/>
         <updated>2024-12-02T12:38:08.984Z</updated>
         <content type="html"><![CDATA[2024.12.04(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광명] 2025 라이브가족뮤지컬 [알라딘] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15260</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15260"/>
-        <updated>2024-12-02T09:21:02.653Z</updated>
-        <content type="html"><![CDATA[2024.12.05(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광명] 2025 라이브가족뮤지컬 [오즈의마법사] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15259</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15259"/>
-        <updated>2024-12-02T07:21:07.671Z</updated>
-        <content type="html"><![CDATA[2024.12.04(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2025 앤서니브라운 가족뮤지컬 [우리아빠가최고야] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15258</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15258"/>
-        <updated>2024-12-02T06:27:30.304Z</updated>
-        <content type="html"><![CDATA[2024.12.04(수) 09:00]]></content>
     </entry>
 </feed>
