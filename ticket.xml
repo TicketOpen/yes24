@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-06T08:25:03.619Z</updated>
+    <updated>2024-12-06T09:20:52.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 가족매직쇼 [매직사이언스콘서트] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15286</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15286"/>
+        <updated>2024-12-06T09:20:01.888Z</updated>
+        <content type="html"><![CDATA[2024.12.09(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고양] 2025 가족어린이공연 [공룡애니멀쇼] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15284</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15284"/>
         <updated>2024-12-06T08:24:07.896Z</updated>
         <content type="html"><![CDATA[2024.12.09(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2025 TIOT CONCERT THE SEASON 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15283</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15283"/>
+        <updated>2024-12-06T09:20:01.903Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 싱어롱데이 티켓오픈 안내]]></title>
@@ -128,19 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15264"/>
         <updated>2024-12-03T05:18:44.963Z</updated>
         <content type="html"><![CDATA[2024.12.05(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 연극 〈친정엄마와 2박3일〉]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15263</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15263"/>
-        <updated>2024-12-03T05:18:44.963Z</updated>
-        <content type="html"><![CDATA[2024.12.05(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매ATEEZ EXHIBITION [Destiny’s Memories] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15262</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15262"/>
-        <updated>2024-12-03T04:22:53.674Z</updated>
-        <content type="html"><![CDATA[2024.12.05(목) 20:00]]></content>
     </entry>
 </feed>
