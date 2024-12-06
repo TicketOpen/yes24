@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 05:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 06:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -416,6 +416,20 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[뮤지컬 판타지아 시즌1] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.12.06 ~ 2024.12.08</dd><dt>사용기간</dt><dd>2024.12.06 ~ 2024.12.08</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 블러디 러브] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Thu, 25 Apr 2024 17:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.12.06 ~ 2024.12.08</dd><dt>사용기간</dt><dd>2024.12.06 ~ 2024.12.08</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[연극 톡톡] 쿠폰이요! 쿠폰이요!* (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -455,6 +469,20 @@
             <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49923</link>
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49923</guid>
             <pubDate>Thu, 05 Dec 2024 10:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 블러디 러브] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49960</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49960</guid>
+            <pubDate>Fri, 06 Dec 2024 06:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 판타지아 시즌1] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49961</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49961</guid>
+            <pubDate>Fri, 06 Dec 2024 06:28:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
