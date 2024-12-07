@@ -1,7 +1,481 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/yes24/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-12-07T20:19:18.065Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 07 Dec 2024 21:16:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대구] 2025 가족매직쇼 [매직사이언스콘서트] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15286</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15286</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매BANG&JUNG&YOO&MOON ENCORE CONCERT [Farewell, Earth] 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15285</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15285</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.17(화) 19:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.12.13(금) 19:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[고양] 2025 가족어린이공연 [공룡애니멀쇼] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15284</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15284</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매2025 TIOT CONCERT THE SEASON 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15283</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15283</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.12(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 싱어롱데이 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15282</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15282</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.11(수) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매2024 OVER NIGHT With A.C.E 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15281</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15281</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.12(목) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매I.M WORLD TOUR 〈Off The Beat〉 FINAL IN SEOUL 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15280</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15280</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.13(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 연극 〈날개〉 - 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15279</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15279</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[12월 은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(12/6, 12/7, 12/8, 12/14, 12/15, .. (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15278</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15278</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[단독판매<이터니티 콘서트> 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15277</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15277</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09(월) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[수원] 어린이 뮤지컬 바다탐험대 옥토넛3 [바다넘어육지까지] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15276</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15276</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.10(화) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 뮤지컬 [지저스 크라이스트 수퍼스타] 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15275</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15275</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.13(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 2025 라이브 가족뮤지컬 [오즈의마법사] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15274</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15274</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.05(목) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시스템 점검으로 인한 서비스 일시 중지 안내(12/08) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15273</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15273</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024 서초실내악축제 송년음악회 Finale 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15272</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15272</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.06(금) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매YOUNG POSSE WINTER FAN CONCERT ‘HOMECOMING POSSE’ 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15269</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15269</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04(수) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[청주] 2025 라이브가족뮤지컬 [피터팬] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15268</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15268</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.06(금) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [무명호걸:無名豪傑] 1차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15267</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15267</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09(월) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[광명] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15266</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15266</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.05(목) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매82MAJOR 3rd CONCERT 〈82MAJOR BOOM (에투메붐)〉 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15265</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15265</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.06(금) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[대구] 2025 가족매직쇼 [매직사이언스콘서트] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15286&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15286&amp;order=1</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-09(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BANG&JUNG&YOO&MOON ENCORE CONCERT [Farewell, Earth] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15285&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15285&amp;order=1</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-17(화) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[고양] 2025 가족어린이공연 [공룡애니멀쇼] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15284&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15284&amp;order=1</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-09(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 TIOT CONCERT THE SEASON 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15283&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15283&amp;order=1</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-12(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 싱어롱데이 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15282&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15282&amp;order=1</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-11(수) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 OVER NIGHT With A.C.E 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15281&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15281&amp;order=1</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-12(목) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[I.M WORLD TOUR 〈Off The Beat〉 FINAL IN SEOUL 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15280&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15280&amp;order=1</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-13(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 연극 〈날개〉 - 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15279&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15279&amp;order=1</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-09(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[<이터니티 콘서트> 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15277&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15277&amp;order=1</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-09(월) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[수원] 어린이 뮤지컬 바다탐험대 옥토넛3 [바다넘어육지까지] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15276&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15276&amp;order=1</guid>
+            <pubDate>Sat, 07 Dec 2024 21:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-10(화) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈델타 보이즈〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/51298</link>
+            <guid>http://ticket.yes24.com/Perf/51298</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202412/20241202/20241202-51298.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <시라노>관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51331&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51331&amp;Tab=2</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.06 ~ 2024.12.31 | 2025.01.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-b0461d1f-b673-4698-8c38-d3ca55526afa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <세일즈맨의 죽음> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51881&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51881&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2025.01.01 | 2025.01.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241204/20241204-b14a7d2f-2373-40ee-9ae1-c025ca5a4856.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51753&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51753&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.31 | 2025.01.07 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-ed33f73a-6adf-4f7b-8ed0-b1164c3d56ae.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51779&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51779&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.31 | 2025.01.07 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-84a178b1-10eb-4b99-9732-4c638d161a44.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <더 픽션> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.29 ~ 2024.12.13 | 2024.12.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241129/20241129-c46fe0e8-2d2d-4af6-8747-db52a9cbb3e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극<뜨거운 바다>기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51196&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51196&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.26 ~ 2024.12.15 | 2024.12.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241126/20241126-08fec8b0-3a77-4719-bde7-702c5693fc9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <알라딘> 한국 초연 서울 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22 ~ 2025.03.03 | 2025.03.04 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <장화신은 고양이 비긴즈>-플레이 버전 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04 ~ 2024.12.22 | 2024.12.24 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-2393c433-073f-4559-bf5b-abf58862f9af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <판타지아 시즌 1> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51172&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51172&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04 ~ 2024.12.08 | 2024.12.10 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-1951adc2-312f-405f-ae93-915ae70d8031.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.12.06 ~ 2024.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51331</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51331</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2025년 01월 10일(금) 19:30]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-b0461d1f-b673-4698-8c38-d3ca55526afa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.12.04 ~ 2025.01.01 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51881</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51881</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>연극 &lt;세일즈맨의 죽음&gt; 1월 7일(화) 19시30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241204/20241204-b14a7d2f-2373-40ee-9ae1-c025ca5a4856.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.12.04 ~ 2024.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51753</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51753</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>브레드이발소X글라스락 텀블러 4종(브레드/윌크/초코/마카롱) 중 랜덤 1개]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-ed33f73a-6adf-4f7b-8ed0-b1164c3d56ae.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.12.04 ~ 2024.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51779</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51779</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>브레드이발소X글라스락 텀블러 4종(브레드/윌크/초코/마카롱) 중 랜덤 1개]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-84a178b1-10eb-4b99-9732-4c638d161a44.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.11.29 ~ 2024.12.13 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51466</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51466</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;더 픽션&gt; 12월 26일(목) 8시 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241129/20241129-c46fe0e8-2d2d-4af6-8747-db52a9cbb3e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.11.26 ~ 2024.12.15 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51196</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51196</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>12/17(화)~12/20(금) 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241126/20241126-08fec8b0-3a77-4719-bde7-702c5693fc9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.11.22 ~ 2025.03.03 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=50841</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=50841</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;알라딘&gt; 캐스트 포스터]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.10.04 ~ 2024.12.22 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51182</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51182</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>12월 29일(일) 4시 30분 공연]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-2393c433-073f-4559-bf5b-abf58862f9af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.10.04 ~ 2024.12.08 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51172</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51172</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>12월 14일(토) 19시 30분]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-1951adc2-312f-405f-ae93-915ae70d8031.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.04.01 ~ 2024.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3570</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3570</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240830/20240830-90160fff-cfdc-4eed-acd9-10811ddf7629.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2020.02.19 ~ 2024.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Event/2020/DailyStamp.aspx</link>
+            <guid>http://m.ticket.yes24.com/Event/2020/DailyStamp.aspx</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2019.08.09 ~ 2026.08.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3019</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2016.01.01 ~ 2030.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=2450</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=2450</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202010/20201027/20201027-ev_list_guide_review.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[매거진 수신회원] 뮤지컬 2,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
+				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 판타지아 시즌1] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.12.06 ~ 2024.12.08</dd><dt>사용기간</dt><dd>2024.12.06 ~ 2024.12.08</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 블러디 러브] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.12.06 ~ 2024.12.08</dd><dt>사용기간</dt><dd>2024.12.06 ~ 2024.12.08</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[연극 톡톡] 쿠폰이요! 쿠폰이요!* (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.12.04 ~ 2024.12.08</dd><dt>사용기간</dt><dd>2024.12.04 ~ 2024.12.08</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2017.10.01 ~ 2024.12.31</dd><dt>사용기간</dt><dd>발급일로 부터 30일</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2012.02.09 ~ 2030.12.31</dd><dt>사용기간</dt><dd>2012.02.09 ~ 2030.12.31</dd>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[연극 톡톡] 쿠폰이요! 쿠폰이요!* (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49923</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49923</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 블러디 러브] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49960</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49960</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 판타지아 시즌1] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49961</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49961</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
+        </item>
+    </channel>
+</rss>

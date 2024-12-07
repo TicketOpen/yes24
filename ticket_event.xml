@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
-    <title>YES24 티켓 ─ 이벤트</title>
-    <updated>2024-12-07T20:19:18.076Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 이벤트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 07 Dec 2024 21:16:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <시라노>관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51331&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51331&amp;Tab=2</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.06 ~ 2024.12.31 | 2025.01.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-b0461d1f-b673-4698-8c38-d3ca55526afa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <세일즈맨의 죽음> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51881&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51881&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2025.01.01 | 2025.01.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241204/20241204-b14a7d2f-2373-40ee-9ae1-c025ca5a4856.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51753&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51753&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.31 | 2025.01.07 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-ed33f73a-6adf-4f7b-8ed0-b1164c3d56ae.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51779&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51779&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.31 | 2025.01.07 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-84a178b1-10eb-4b99-9732-4c638d161a44.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <더 픽션> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.29 ~ 2024.12.13 | 2024.12.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241129/20241129-c46fe0e8-2d2d-4af6-8747-db52a9cbb3e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극<뜨거운 바다>기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51196&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51196&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.26 ~ 2024.12.15 | 2024.12.16 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241126/20241126-08fec8b0-3a77-4719-bde7-702c5693fc9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <알라딘> 한국 초연 서울 후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22 ~ 2025.03.03 | 2025.03.04 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <장화신은 고양이 비긴즈>-플레이 버전 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04 ~ 2024.12.22 | 2024.12.24 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-2393c433-073f-4559-bf5b-abf58862f9af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <판타지아 시즌 1> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51172&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51172&amp;Tab=3</guid>
+            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04 ~ 2024.12.08 | 2024.12.10 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-1951adc2-312f-405f-ae93-915ae70d8031.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
