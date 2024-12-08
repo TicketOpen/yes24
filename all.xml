@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 14:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 15:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <content:encoded><![CDATA[2024-12-10(화) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈델타 보이즈〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/51298</link>
-            <guid>http://ticket.yes24.com/Perf/51298</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									55,000원								</td>								<td class="dc_price">									<em>→</em>17,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202412/20241202/20241202-51298.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <시라노>관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51331&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51331&amp;Tab=2</guid>
@@ -288,12 +280,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-2393c433-073f-4559-bf5b-abf58862f9af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <판타지아 시즌 1> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51172&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51172&amp;Tab=3</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.04 ~ 2024.12.08 | 2024.12.10 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-1951adc2-312f-405f-ae93-915ae70d8031.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[청년문화예술패스 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</guid>
+            <pubDate>Sun, 08 Dec 2024 15:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240830/20240830-90160fff-cfdc-4eed-acd9-10811ddf7629.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.12.06 ~ 2024.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -360,14 +352,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-2393c433-073f-4559-bf5b-abf58862f9af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이벤트 기간2024.10.04 ~ 2024.12.08 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51172</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51172</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>12월 14일(토) 19시 30분]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-1951adc2-312f-405f-ae93-915ae70d8031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이벤트 기간2024.04.01 ~ 2024.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3570</link>
             <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3570</guid>
@@ -408,27 +392,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[뮤지컬 판타지아 시즌1] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.12.06 ~ 2024.12.08</dd><dt>사용기간</dt><dd>2024.12.06 ~ 2024.12.08</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 블러디 러브] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.12.06 ~ 2024.12.08</dd><dt>사용기간</dt><dd>2024.12.06 ~ 2024.12.08</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[연극 톡톡] 쿠폰이요! 쿠폰이요!* (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.12.04 ~ 2024.12.08</dd><dt>사용기간</dt><dd>2024.12.04 ~ 2024.12.08</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -453,27 +416,6 @@
             <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰 )]]></title>
             <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</link>
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[연극 톡톡] 쿠폰이요! 쿠폰이요!* (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49923</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49923</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 블러디 러브] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49960</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49960</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 판타지아 시즌1] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49961</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=49961</guid>
             <pubDate>Sat, 07 Dec 2024 21:16:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
