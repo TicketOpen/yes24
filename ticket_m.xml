@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-09T04:23:49.120Z</updated>
+    <updated>2024-12-09T05:19:57.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [블러디 러브] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15290&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15290&amp;order=1"/>
+        <updated>2024-12-09T05:19:08.865Z</updated>
+        <content type="html"><![CDATA[2024-12-12(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 뮤지컬 [지저스 크라이스트 수퍼스타] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15289&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15289&amp;order=1"/>
         <updated>2024-12-09T03:05:48.456Z</updated>
         <content type="html"><![CDATA[2024-12-11(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 WEi SHOW-CON〈The Feelings〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15288&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15288&amp;order=1"/>
+        <updated>2024-12-09T05:19:08.871Z</updated>
+        <content type="html"><![CDATA[2024-12-16(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WAKER 1ST GLOBAL FANCLUB FAN MEETING〈WAKER HOUSE〉티켓오픈안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15281&amp;order=1"/>
         <updated>2024-12-07T21:15:56.889Z</updated>
         <content type="html"><![CDATA[2024-12-12(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I.M WORLD TOUR 〈Off The Beat〉 FINAL IN SEOUL 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15280&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15280&amp;order=1"/>
-        <updated>2024-12-07T21:15:56.889Z</updated>
-        <content type="html"><![CDATA[2024-12-13(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 연극 〈날개〉 - 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15279&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15279&amp;order=1"/>
-        <updated>2024-12-07T21:15:56.891Z</updated>
-        <content type="html"><![CDATA[2024-12-09(월) 09:00]]></content>
     </entry>
 </feed>
