@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 01:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 03:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <친구의 전설> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50378&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50378&amp;Tab=2</guid>
+            <pubDate>Tue, 10 Dec 2024 03:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.10 ~ 2025.01.03 | 2025.01.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241210/20241210-279212cb-fc7a-4644-bd99-2ae850a7733f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <시라노>관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51331&amp;Tab=2</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.04 ~ 2024.12.22 | 2024.12.24 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-2393c433-073f-4559-bf5b-abf58862f9af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년문화예술패스]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</guid>
-            <pubDate>Sun, 08 Dec 2024 15:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.01 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202408/20240830/20240830-90160fff-cfdc-4eed-acd9-10811ddf7629.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
