@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 08:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 09:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,22 @@
             <content:encoded><![CDATA[2024-12-11(수) 11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 3 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51869&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51869&amp;Tab=3</guid>
+            <pubDate>Tue, 10 Dec 2024 09:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09 ~ 2025.01.12 | 2025.01.14 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241210/20241210-720eb044-56d9-4063-b376-851bedf20e9e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 1 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51172&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51172&amp;Tab=2</guid>
+            <pubDate>Tue, 10 Dec 2024 09:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.07 ~ 2025.01.12 | 2025.01.14 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241210/20241210-edf6ef64-8f15-4972-b7e3-c56ec8420317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <친구의 전설> 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50378&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50378&amp;Tab=2</guid>
@@ -272,20 +288,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241126/20241126-08fec8b0-3a77-4719-bde7-702c5693fc9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <알라딘> 한국 초연 서울 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.22 ~ 2025.03.03 | 2025.03.04 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2024.12.09 ~ 2025.01.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51869</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51869</guid>
+            <pubDate>Tue, 10 Dec 2024 09:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>1월 18일(토) 11시]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241210/20241210-720eb044-56d9-4063-b376-851bedf20e9e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <장화신은 고양이 비긴즈>-플레이 버전 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=3</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.04 ~ 2024.12.22 | 2024.12.24 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202410/20241016/20241016-2393c433-073f-4559-bf5b-abf58862f9af.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2024.12.07 ~ 2025.01.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51172</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51172</guid>
+            <pubDate>Tue, 10 Dec 2024 09:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;장화 신은 고양이 비긴즈&gt;-플레이 버전 2월 공연 티켓]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241210/20241210-edf6ef64-8f15-4972-b7e3-c56ec8420317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.12.10 ~ 2025.01.03 (YES24 티켓 ─ 이벤트 모바일)]]></title>
