@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-11T05:19:15.342Z</updated>
+    <updated>2024-12-11T06:28:19.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 어린이베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15298&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15298&amp;order=1"/>
+        <updated>2024-12-11T06:27:16.230Z</updated>
+        <content type="html"><![CDATA[2024-12-12(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고양] 김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15297&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15289&amp;order=1"/>
         <updated>2024-12-09T03:05:48.456Z</updated>
         <content type="html"><![CDATA[2024-12-11(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 WEi SHOW-CON〈The Feelings〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15288&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15288&amp;order=1"/>
-        <updated>2024-12-09T05:19:08.871Z</updated>
-        <content type="html"><![CDATA[2024-12-16(월) 20:00]]></content>
     </entry>
 </feed>
