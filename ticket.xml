@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-11T04:23:24.937Z</updated>
+    <updated>2024-12-11T05:19:15.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[고양] 김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15297</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15297"/>
+        <updated>2024-12-11T05:18:24.930Z</updated>
+        <content type="html"><![CDATA[2024.12.17(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2025 라이브 가족뮤지컬 [오즈의마법사] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15296</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15296"/>
         <updated>2024-12-11T04:22:25.538Z</updated>
         <content type="html"><![CDATA[2024.12.12(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안산] 뮤지컬 〈시카고〉 OP석 추가 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15295</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15295"/>
+        <updated>2024-12-11T05:18:24.938Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박진영 30주년 콘서트〈Still JYP〉추가 좌석 오픈 안내]]></title>
@@ -129,19 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15278</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15278"/>
         <updated>2024-12-07T21:15:48.380Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매<이터니티 콘서트> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15277</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15277"/>
-        <updated>2024-12-07T21:15:48.382Z</updated>
-        <content type="html"><![CDATA[2024.12.09(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 어린이 뮤지컬 바다탐험대 옥토넛3 [바다넘어육지까지] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15276</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15276"/>
-        <updated>2024-12-07T21:15:48.384Z</updated>
-        <content type="html"><![CDATA[2024.12.10(화) 10:00]]></content>
     </entry>
 </feed>

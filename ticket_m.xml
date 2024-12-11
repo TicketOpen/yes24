@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-11T04:23:24.941Z</updated>
+    <updated>2024-12-11T05:19:15.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[고양] 김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15297&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15297&amp;order=1"/>
+        <updated>2024-12-11T05:18:32.250Z</updated>
+        <content type="html"><![CDATA[2024-12-17(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2025 라이브 가족뮤지컬 [오즈의마법사] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15296&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15296&amp;order=1"/>
         <updated>2024-12-11T04:22:34.320Z</updated>
         <content type="html"><![CDATA[2024-12-12(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안산] 뮤지컬 〈시카고〉 OP석 추가 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15295&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15295&amp;order=1"/>
+        <updated>2024-12-11T05:18:32.253Z</updated>
+        <content type="html"><![CDATA[2024-12-12(목) 16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박진영 30주년 콘서트〈Still JYP〉추가 좌석 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15288&amp;order=1"/>
         <updated>2024-12-09T05:19:08.871Z</updated>
         <content type="html"><![CDATA[2024-12-16(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAKER 1ST GLOBAL FANCLUB FAN MEETING〈WAKER HOUSE〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15287&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15287&amp;order=1"/>
-        <updated>2024-12-09T03:05:48.460Z</updated>
-        <content type="html"><![CDATA[2024-12-27(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 가족매직쇼 [매직사이언스콘서트] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15286&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15286&amp;order=1"/>
-        <updated>2024-12-07T21:15:56.879Z</updated>
-        <content type="html"><![CDATA[2024-12-09(월) 09:00]]></content>
     </entry>
 </feed>
