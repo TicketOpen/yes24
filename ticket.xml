@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-11T08:27:09.055Z</updated>
+    <updated>2024-12-11T09:21:10.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[성남] 2025 가족매직쇼 [스노우버블쇼] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15301</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15301"/>
+        <updated>2024-12-11T09:20:21.733Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[성남] 2025 라이브 가족뮤지컬 [오즈의마법사] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15300</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15282"/>
         <updated>2024-12-07T21:15:48.371Z</updated>
         <content type="html"><![CDATA[2024.12.11(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매I.M WORLD TOUR 〈Off The Beat〉 FINAL IN SEOUL 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15280</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15280"/>
-        <updated>2024-12-07T21:15:48.375Z</updated>
-        <content type="html"><![CDATA[2024.12.13(금) 20:00]]></content>
     </entry>
 </feed>
