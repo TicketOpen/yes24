@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-11T03:02:28.248Z</updated>
+    <updated>2024-12-11T04:23:24.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2025 라이브 가족뮤지컬 [오즈의마법사] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15296</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15296"/>
+        <updated>2024-12-11T04:22:25.538Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진영 30주년 콘서트〈Still JYP〉추가 좌석 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15294</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15276"/>
         <updated>2024-12-07T21:15:48.384Z</updated>
         <content type="html"><![CDATA[2024.12.10(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 뮤지컬 [지저스 크라이스트 수퍼스타] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15275</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15275"/>
-        <updated>2024-12-07T21:15:48.385Z</updated>
-        <content type="html"><![CDATA[2024.12.13(금) 14:00]]></content>
     </entry>
 </feed>
