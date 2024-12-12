@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-12T06:28:05.108Z</updated>
+    <updated>2024-12-12T08:25:22.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15304"/>
         <updated>2024-12-12T06:27:08.108Z</updated>
         <content type="html"><![CDATA[2024.12.19(목) 16:00<a class="noti-btn-pop" presaletit1="연애인 프리미엄 선예매" presaletit2="" presaletime1="2024.12.19(목) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 - 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15303</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15303"/>
+        <updated>2024-12-12T08:24:19.130Z</updated>
+        <content type="html"><![CDATA[2024.12.16(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 오르간 오딧세이 - 티켓오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15286"/>
         <updated>2024-12-07T21:15:48.365Z</updated>
         <content type="html"><![CDATA[2024.12.09(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매BANG&JUNG&YOO&MOON ENCORE CONCERT [Farewell, Earth] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15285</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15285"/>
-        <updated>2024-12-07T21:15:48.367Z</updated>
-        <content type="html"><![CDATA[2024.12.17(화) 19:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.12.13(금) 19:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

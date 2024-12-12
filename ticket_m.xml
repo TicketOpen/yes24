@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-12T06:28:05.122Z</updated>
+    <updated>2024-12-12T08:25:22.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15304&amp;order=1"/>
         <updated>2024-12-12T06:27:16.308Z</updated>
         <content type="html"><![CDATA[2024-12-19(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 - 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15303&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15303&amp;order=1"/>
+        <updated>2024-12-12T08:24:29.012Z</updated>
+        <content type="html"><![CDATA[2024-12-16(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 오르간 오딧세이 - 티켓오픈 안내]]></title>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15296&amp;order=1"/>
         <updated>2024-12-11T04:22:34.320Z</updated>
         <content type="html"><![CDATA[2024-12-12(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안산] 뮤지컬 〈시카고〉 OP석 추가 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15295&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15295&amp;order=1"/>
-        <updated>2024-12-11T05:18:32.253Z</updated>
-        <content type="html"><![CDATA[2024-12-12(목) 16:00]]></content>
     </entry>
 </feed>
