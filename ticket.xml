@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-13T01:27:00.519Z</updated>
+    <updated>2024-12-13T03:04:06.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매the shes gone oneman live in korea 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15307</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15307"/>
+        <updated>2024-12-13T03:03:09.655Z</updated>
+        <content type="html"><![CDATA[2024.12.20(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「황금시대 오스트리아 거장展」 Egon Schiele-Gustav Klimt Replica 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15305</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15287"/>
         <updated>2024-12-09T03:05:41.512Z</updated>
         <content type="html"><![CDATA[2024.12.27(금) 12:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.12.26(목) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 가족매직쇼 [매직사이언스콘서트] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15286</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15286"/>
-        <updated>2024-12-07T21:15:48.365Z</updated>
-        <content type="html"><![CDATA[2024.12.09(월) 09:00]]></content>
     </entry>
 </feed>

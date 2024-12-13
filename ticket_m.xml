@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-13T01:27:00.527Z</updated>
+    <updated>2024-12-13T03:04:06.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[the shes gone oneman live in korea 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15307&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15307&amp;order=1"/>
+        <updated>2024-12-13T03:03:18.051Z</updated>
+        <content type="html"><![CDATA[2024-12-20(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「황금시대 오스트리아 거장展」 Egon Schiele-Gustav Klimt Replica 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15305&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15297&amp;order=1"/>
         <updated>2024-12-11T05:18:32.250Z</updated>
         <content type="html"><![CDATA[2024-12-17(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2025 라이브 가족뮤지컬 [오즈의마법사] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15296&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15296&amp;order=1"/>
-        <updated>2024-12-11T04:22:34.320Z</updated>
-        <content type="html"><![CDATA[2024-12-12(목) 09:00]]></content>
     </entry>
 </feed>
