@@ -2,15 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-13T04:23:18.625Z</updated>
+    <updated>2024-12-13T05:19:24.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[누가 이 사람을 모르시나요 티켓 오픈 공지]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15309</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15309"/>
+        <updated>2024-12-13T05:18:28.571Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티켓 예매 서비스 일부 개선 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15308</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15308"/>
+        <updated>2024-12-13T05:18:28.571Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매the shes gone oneman live in korea 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15307</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15307"/>
         <updated>2024-12-13T03:03:09.655Z</updated>
         <content type="html"><![CDATA[2024.12.20(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈로미오 앤 줄리〉 - 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15306</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15306"/>
+        <updated>2024-12-13T05:18:28.573Z</updated>
+        <content type="html"><![CDATA[2024.12.19(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[「황금시대 오스트리아 거장展」 Egon Schiele-Gustav Klimt Replica 티켓오픈 안내]]></title>
@@ -122,26 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15290"/>
         <updated>2024-12-09T06:27:47.213Z</updated>
         <content type="html"><![CDATA[2024.12.12(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤지컬 [지저스 크라이스트 수퍼스타] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15289</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15289"/>
-        <updated>2024-12-09T03:05:41.512Z</updated>
-        <content type="html"><![CDATA[2024.12.11(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 WEi SHOW-CON〈The Feelings〉티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15288</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15288"/>
-        <updated>2024-12-09T05:19:00.559Z</updated>
-        <content type="html"><![CDATA[2024.12.16(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.12.12(목) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매WAKER 1ST GLOBAL FANCLUB FAN MEETING〈WAKER HOUSE〉티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15287</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15287"/>
-        <updated>2024-12-09T03:05:41.512Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 12:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.12.26(목) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

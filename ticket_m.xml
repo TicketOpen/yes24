@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-13T04:23:18.678Z</updated>
+    <updated>2024-12-13T05:19:24.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[누가 이 사람을 모르시나요 티켓 오픈 공지]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15309&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15309&amp;order=1"/>
+        <updated>2024-12-13T05:18:36.672Z</updated>
+        <content type="html"><![CDATA[2025-01-10(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[the shes gone oneman live in korea 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15307&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15307&amp;order=1"/>
         <updated>2024-12-13T03:03:18.051Z</updated>
         <content type="html"><![CDATA[2024-12-20(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈로미오 앤 줄리〉 - 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15306&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15306&amp;order=1"/>
+        <updated>2024-12-13T05:18:36.674Z</updated>
+        <content type="html"><![CDATA[2024-12-19(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[「황금시대 오스트리아 거장展」 Egon Schiele-Gustav Klimt Replica 티켓오픈 안내]]></title>
@@ -59,19 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15299&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15299&amp;order=1"/>
         <updated>2024-12-11T07:19:18.601Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 어린이베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15298&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15298&amp;order=1"/>
-        <updated>2024-12-11T06:27:16.230Z</updated>
-        <content type="html"><![CDATA[2024-12-12(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15297&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15297&amp;order=1"/>
-        <updated>2024-12-11T05:18:32.250Z</updated>
-        <content type="html"><![CDATA[2024-12-17(화) 20:00]]></content>
     </entry>
 </feed>
