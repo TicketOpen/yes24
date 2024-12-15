@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Dec 2024 14:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Dec 2024 15:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,12 +280,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-84a178b1-10eb-4b99-9732-4c638d161a44.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[연극<뜨거운 바다>기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51196&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51196&amp;Tab=3</guid>
-            <pubDate>Fri, 13 Dec 2024 15:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.26 ~ 2024.12.15 | 2024.12.16 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241126/20241126-08fec8b0-3a77-4719-bde7-702c5693fc9d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <알라딘> 한국 초연 서울 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</guid>
+            <pubDate>Sun, 15 Dec 2024 15:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22 ~ 2025.03.03 | 2025.03.04 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.12.10 ~ 2025.02.16 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -352,14 +352,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-84a178b1-10eb-4b99-9732-4c638d161a44.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이벤트 기간2024.11.26 ~ 2024.12.15 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51196</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51196</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>12/17(화)~12/20(금) 공연]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241126/20241126-08fec8b0-3a77-4719-bde7-702c5693fc9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이벤트 기간2024.11.22 ~ 2025.03.03 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=50841</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=50841</guid>
@@ -416,20 +408,6 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[연극 로미오 앤 줄리] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.12.13 ~ 2024.12.15</dd><dt>사용기간</dt><dd>2024.12.13 ~ 2024.12.15</dd>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 더 픽션] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2024.12.13 ~ 2024.12.15</dd><dt>사용기간</dt><dd>2024.12.13 ~ 2024.12.15</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[첫 예매 회원] 뮤지컬,연극 3,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -455,20 +433,6 @@
             <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</link>
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=29056</guid>
             <pubDate>Sat, 07 Dec 2024 21:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬 더 픽션] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=50032</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=50032</guid>
-            <pubDate>Fri, 13 Dec 2024 12:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[연극 로미오 앤 줄리] 개막 기념 3,000원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=50033</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=50033</guid>
-            <pubDate>Fri, 13 Dec 2024 12:37:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
