@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-16T01:28:24.803Z</updated>
+    <updated>2024-12-16T03:07:20.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[구미] 뮤지컬 헬로카봇 시즌8 [미래연구소를 지켜라!] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15317</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15317"/>
+        <updated>2024-12-16T03:06:30.887Z</updated>
+        <content type="html"><![CDATA[2024.12.19(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시라노> 4차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15316</id>
@@ -62,7 +69,7 @@
         <content type="html"><![CDATA[2025.01.10(금) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[티켓 예매 서비스 일부 개선 안내]]></title>
+        <title type="html"><![CDATA[[알림] 티켓 예매 서비스 일부 개선 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15308</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15308"/>
         <updated>2024-12-13T05:18:28.571Z</updated>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15298"/>
         <updated>2024-12-11T06:27:09.036Z</updated>
         <content type="html"><![CDATA[2024.12.12(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[고양] 김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15297</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15297"/>
-        <updated>2024-12-11T05:18:24.930Z</updated>
-        <content type="html"><![CDATA[2024.12.17(화) 20:00]]></content>
     </entry>
 </feed>
