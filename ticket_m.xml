@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-16T08:27:47.874Z</updated>
+    <updated>2024-12-16T09:22:09.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15319&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15319&amp;order=1"/>
+        <updated>2024-12-16T09:21:23.753Z</updated>
+        <content type="html"><![CDATA[2024-12-19(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 [어린이마술쇼] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15318&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15310&amp;order=1"/>
         <updated>2024-12-13T09:19:48.217Z</updated>
         <content type="html"><![CDATA[2024-12-19(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 이 사람을 모르시나요 티켓 오픈 공지]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15309&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15309&amp;order=1"/>
-        <updated>2024-12-13T05:18:36.672Z</updated>
-        <content type="html"><![CDATA[2025-01-10(금) 14:00]]></content>
     </entry>
 </feed>
