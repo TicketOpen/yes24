@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-17T04:23:36.832Z</updated>
+    <updated>2024-12-17T05:19:21.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[82MAJOR 3rd CONCERT 〈82MAJOR BOOM (에투메붐)〉 추가 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15322&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15322&amp;order=1"/>
+        <updated>2024-12-17T05:18:33.835Z</updated>
+        <content type="html"><![CDATA[2024-12-19(목) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15321&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15321&amp;order=1"/>
+        <updated>2024-12-17T05:18:33.836Z</updated>
+        <content type="html"><![CDATA[2024-12-18(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15319&amp;order=1</id>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15312&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15312&amp;order=1"/>
         <updated>2024-12-13T09:19:48.214Z</updated>
-        <content type="html"><![CDATA[2024-12-19(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과천 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15311&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15311&amp;order=1"/>
-        <updated>2024-12-13T09:19:48.215Z</updated>
-        <content type="html"><![CDATA[2024-12-19(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15310&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15310&amp;order=1"/>
-        <updated>2024-12-13T09:19:48.217Z</updated>
         <content type="html"><![CDATA[2024-12-19(목) 10:00]]></content>
     </entry>
 </feed>
