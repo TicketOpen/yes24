@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-17T06:27:43.215Z</updated>
+    <updated>2024-12-17T07:19:49.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈웃는 남자〉2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15326&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15326&amp;order=1"/>
+        <updated>2024-12-17T07:18:49.128Z</updated>
+        <content type="html"><![CDATA[2024-12-24(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[82MAJOR 3rd CONCERT 〈82MAJOR BOOM (에투메붐)〉 추가 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15322&amp;order=1</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[용인] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15314&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15314&amp;order=1"/>
-        <updated>2024-12-13T09:19:48.209Z</updated>
-        <content type="html"><![CDATA[2024-12-19(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[구미] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15313&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15313&amp;order=1"/>
         <updated>2024-12-13T09:19:48.209Z</updated>
         <content type="html"><![CDATA[2024-12-19(목) 10:00]]></content>
     </entry>
