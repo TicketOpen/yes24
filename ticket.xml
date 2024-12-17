@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-17T07:19:49.023Z</updated>
+    <updated>2024-12-17T08:25:41.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15326"/>
         <updated>2024-12-17T07:18:40.989Z</updated>
         <content type="html"><![CDATA[2024.12.24(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 뮤지컬 [타키포오] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15325</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15325"/>
+        <updated>2024-12-17T08:24:35.747Z</updated>
+        <content type="html"><![CDATA[2024.12.23(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[성남] 뮤지컬 [타키포오] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15324</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15324"/>
+        <updated>2024-12-17T08:24:35.747Z</updated>
+        <content type="html"><![CDATA[2024.12.23(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 뮤지컬 [타키포오] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15323</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15323"/>
+        <updated>2024-12-17T08:24:35.747Z</updated>
+        <content type="html"><![CDATA[2024.12.23(월) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매82MAJOR 3rd CONCERT 〈82MAJOR BOOM (에투메붐)〉 추가 오픈 안내]]></title>
@@ -122,26 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15307"/>
         <updated>2024-12-13T03:03:09.655Z</updated>
         <content type="html"><![CDATA[2024.12.20(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈로미오 앤 줄리〉 - 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15306</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15306"/>
-        <updated>2024-12-13T05:18:28.573Z</updated>
-        <content type="html"><![CDATA[2024.12.19(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「황금시대 오스트리아 거장展」 Egon Schiele-Gustav Klimt Replica 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15305</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15305"/>
-        <updated>2024-12-12T06:27:08.107Z</updated>
-        <content type="html"><![CDATA[2024.12.17(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈톡톡〉 : 연극열전10_네 번째 작품 - 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15304</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15304"/>
-        <updated>2024-12-12T06:27:08.108Z</updated>
-        <content type="html"><![CDATA[2024.12.19(목) 16:00<a class="noti-btn-pop" presaletit1="연애인 프리미엄 선예매" presaletit2="" presaletime1="2024.12.19(목) 11:30" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
