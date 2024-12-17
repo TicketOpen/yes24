@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 09:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 10:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <블러디 러브>에 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51409&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51409&amp;Tab=2</guid>
+            <pubDate>Tue, 17 Dec 2024 10:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.17 ~ 2025.01.05 | 2025.01.06 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241217/20241217-1c461c37-5128-4695-81ca-723be636d217.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 〈톡톡〉 : 연극열전10_네 번째 작품에 대한 공연 관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51288&amp;Tab=2</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.04 ~ 2024.12.31 | 2025.01.07 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-84a178b1-10eb-4b99-9732-4c638d161a44.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <알라딘> 한국 초연 서울 후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</guid>
-            <pubDate>Sun, 15 Dec 2024 15:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.22 ~ 2025.03.03 | 2025.03.04 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
