@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-19T04:22:30.655Z</updated>
+    <updated>2024-12-19T05:19:04.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15331&amp;order=1"/>
         <updated>2024-12-19T02:57:05.588Z</updated>
         <content type="html"><![CDATA[2024-12-24(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 롯데콘서트홀 마티네 〈대니 구의 플레이리스트〉- 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15330&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15330&amp;order=1"/>
+        <updated>2024-12-19T05:18:20.653Z</updated>
+        <content type="html"><![CDATA[2024-12-27(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대구앵콜] 2025 [더 : 매직서커스] 티켓오픈안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15322&amp;order=1"/>
         <updated>2024-12-17T05:18:33.835Z</updated>
         <content type="html"><![CDATA[2024-12-19(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15321&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15321&amp;order=1"/>
-        <updated>2024-12-17T05:18:33.836Z</updated>
-        <content type="html"><![CDATA[2024-12-18(수) 14:00]]></content>
     </entry>
 </feed>

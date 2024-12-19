@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-19T04:22:30.652Z</updated>
+    <updated>2024-12-19T05:19:04.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15331"/>
         <updated>2024-12-19T02:56:57.158Z</updated>
         <content type="html"><![CDATA[2024.12.24(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 롯데콘서트홀 마티네 〈대니 구의 플레이리스트〉- 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15330</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15330"/>
+        <updated>2024-12-19T05:18:13.819Z</updated>
+        <content type="html"><![CDATA[2024.12.27(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대구앵콜] 2025 [더 : 매직서커스] 티켓오픈안내]]></title>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15312</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15312"/>
         <updated>2024-12-13T09:19:39.174Z</updated>
-        <content type="html"><![CDATA[2024.12.19(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과천] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15311</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15311"/>
-        <updated>2024-12-13T09:19:39.176Z</updated>
         <content type="html"><![CDATA[2024.12.19(목) 10:00]]></content>
     </entry>
 </feed>
