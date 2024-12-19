@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-19T08:24:27.870Z</updated>
+    <updated>2024-12-19T09:20:17.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[QWER The 1st Fan Concert [1, 2, QWER!] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15338&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15338&amp;order=1"/>
+        <updated>2024-12-19T09:19:25.595Z</updated>
+        <content type="html"><![CDATA[2024-12-30(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KIMCHIKURA VOL.12 〈KIMCHIKURA x AniRAVE〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15337&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15337&amp;order=1"/>
+        <updated>2024-12-19T09:19:25.595Z</updated>
+        <content type="html"><![CDATA[2024-12-20(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KENTA SANGGYUN 6th Anniversary FANCON “FREQUENCY” in SEOUL 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15336&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15336&amp;order=1"/>
+        <updated>2024-12-19T09:19:25.595Z</updated>
+        <content type="html"><![CDATA[2024-12-20(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈스타크로스드〉 추가좌석 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15335&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15335&amp;order=1"/>
+        <updated>2024-12-19T09:19:25.595Z</updated>
+        <content type="html"><![CDATA[2024-12-20(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬 [헨젤과그레텔] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15334&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15328&amp;order=1"/>
         <updated>2024-12-18T02:56:15.851Z</updated>
         <content type="html"><![CDATA[2024-12-20(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 앤서니브라운 가족뮤지컬〈난 책이 좋아요〉- 남양주 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15327&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15327&amp;order=1"/>
-        <updated>2024-12-18T02:56:15.851Z</updated>
-        <content type="html"><![CDATA[2024-12-19(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈웃는 남자〉2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15326&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15326&amp;order=1"/>
-        <updated>2024-12-17T07:18:49.128Z</updated>
-        <content type="html"><![CDATA[2024-12-24(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 뮤지컬 [타키포오] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15325&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15325&amp;order=1"/>
-        <updated>2024-12-17T08:24:44.648Z</updated>
-        <content type="html"><![CDATA[2024-12-23(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 뮤지컬 [타키포오] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15324&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15324&amp;order=1"/>
-        <updated>2024-12-17T08:24:44.648Z</updated>
-        <content type="html"><![CDATA[2024-12-23(월) 10:00]]></content>
     </entry>
 </feed>
