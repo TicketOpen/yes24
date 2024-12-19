@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-19T07:18:53.593Z</updated>
+    <updated>2024-12-19T08:24:27.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬 [헨젤과그레텔] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15334&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15334&amp;order=1"/>
+        <updated>2024-12-19T08:23:38.412Z</updated>
+        <content type="html"><![CDATA[2024-12-20(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 JOY콘서트 보이스 오브 스프링(Voice of spring) (엑스디너리히어로즈, 볼빨간사춘기, 루시) 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15333&amp;order=1</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[성남] 뮤지컬 [타키포오] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15324&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15324&amp;order=1"/>
-        <updated>2024-12-17T08:24:44.648Z</updated>
-        <content type="html"><![CDATA[2024-12-23(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 뮤지컬 [타키포오] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15323&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15323&amp;order=1"/>
         <updated>2024-12-17T08:24:44.648Z</updated>
         <content type="html"><![CDATA[2024-12-23(월) 10:00]]></content>
     </entry>

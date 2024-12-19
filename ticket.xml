@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-19T07:18:53.458Z</updated>
+    <updated>2024-12-19T08:24:27.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬 [헨젤과그레텔] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15334</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15334"/>
+        <updated>2024-12-19T08:23:29.639Z</updated>
+        <content type="html"><![CDATA[2024.12.20(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2025 JOY콘서트 보이스 오브 스프링(Voice of spring) (엑스디너리히어로즈, 볼빨간사춘기, 루시..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15333</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15314</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15314"/>
         <updated>2024-12-13T09:19:39.173Z</updated>
-        <content type="html"><![CDATA[2024.12.19(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[구미] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15313</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15313"/>
-        <updated>2024-12-13T09:19:39.174Z</updated>
         <content type="html"><![CDATA[2024.12.19(목) 10:00]]></content>
     </entry>
 </feed>
