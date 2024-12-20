@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-19T23:17:27.967Z</updated>
+    <updated>2024-12-20T01:19:28.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2025 성동구민과 함께하는 신년음악회 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15339</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15339"/>
+        <updated>2024-12-20T01:18:28.865Z</updated>
+        <content type="html"><![CDATA[2024.12.23(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매QWER The 1st Fan Concert [1, 2, QWER!] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15338</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15319</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15319"/>
         <updated>2024-12-16T09:21:16.037Z</updated>
-        <content type="html"><![CDATA[2024.12.19(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 [어린이마술쇼] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15318</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15318"/>
-        <updated>2024-12-16T08:26:01.087Z</updated>
         <content type="html"><![CDATA[2024.12.19(목) 09:00]]></content>
     </entry>
 </feed>
