@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 02:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 03:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <더 픽션> 관람 후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=2</guid>
+            <pubDate>Fri, 20 Dec 2024 03:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.20 ~ 2025.03.09 | 2025.03.11 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241220/20241220-d1860d6c-8c63-47d7-b2a7-9c7ce71031be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬<카포네 밀크>  관람후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51565&amp;Tab=2</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.04 ~ 2025.01.01 | 2025.01.03 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241204/20241204-b14a7d2f-2373-40ee-9ae1-c025ca5a4856.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51753&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51753&amp;Tab=3</guid>
-            <pubDate>Sat, 07 Dec 2024 21:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.31 | 2025.01.07 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-ed33f73a-6adf-4f7b-8ed0-b1164c3d56ae.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
