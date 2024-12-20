@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-20T08:22:59.945Z</updated>
+    <updated>2024-12-20T09:18:54.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매아일 단독콘서트 (RE:Play My Mixtape) - Encore 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15343</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15343"/>
+        <updated>2024-12-20T09:17:58.566Z</updated>
+        <content type="html"><![CDATA[2024.12.27(금) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학가요제 TOP5 전국투어 콘서트 - 서울 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15342</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15342"/>
+        <updated>2024-12-20T09:17:58.574Z</updated>
+        <content type="html"><![CDATA[2024.12.26(목) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈세일즈맨의 죽음〉 - 2차 티켓오픈 공지]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15341</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15323"/>
         <updated>2024-12-17T08:24:35.747Z</updated>
         <content type="html"><![CDATA[2024.12.23(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매82MAJOR 3rd CONCERT 〈82MAJOR BOOM (에투메붐)〉 추가 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15322</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15322"/>
-        <updated>2024-12-17T05:18:25.417Z</updated>
-        <content type="html"><![CDATA[2024.12.19(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15321</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15321"/>
-        <updated>2024-12-17T05:18:25.422Z</updated>
-        <content type="html"><![CDATA[2024.12.18(수) 14:00]]></content>
     </entry>
 </feed>
