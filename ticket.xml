@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-23T08:24:54.574Z</updated>
+    <updated>2024-12-23T09:19:47.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [카포네 밀크] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15348</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15348"/>
+        <updated>2024-12-23T09:18:47.637Z</updated>
+        <content type="html"><![CDATA[2024.12.30(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈스타크로스드〉 - 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15347</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15328"/>
         <updated>2024-12-18T02:56:08.919Z</updated>
         <content type="html"><![CDATA[2024.12.20(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 앤서니브라운 가족뮤지컬〈난 책이 좋아요〉- 남양주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15327</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15327"/>
-        <updated>2024-12-18T02:56:08.919Z</updated>
-        <content type="html"><![CDATA[2024.12.19(목) 09:00]]></content>
     </entry>
 </feed>
