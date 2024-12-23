@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-23T03:24:11.242Z</updated>
+    <updated>2024-12-23T04:22:03.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2025 라이브가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15345</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15345"/>
+        <updated>2024-12-23T04:21:13.756Z</updated>
+        <content type="html"><![CDATA[2024.12.24(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Loopy Live Concert in Seoul 〈HOUSE〉- 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15344</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[[대구] 뮤지컬 [타키포오] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15325</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15325"/>
-        <updated>2024-12-17T08:24:35.747Z</updated>
-        <content type="html"><![CDATA[2024.12.23(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 뮤지컬 [타키포오] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15324</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15324"/>
         <updated>2024-12-17T08:24:35.747Z</updated>
         <content type="html"><![CDATA[2024.12.23(월) 10:00]]></content>
     </entry>
