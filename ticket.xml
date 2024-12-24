@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-24T05:18:03.266Z</updated>
+    <updated>2024-12-24T06:26:40.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[성남] 2024-25 이은미 라이브 투어 [MOVE ON] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15353</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15353"/>
+        <updated>2024-12-24T06:25:40.258Z</updated>
+        <content type="html"><![CDATA[2025.01.02(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[천안] 2025 앤서니브라운 가족뮤지컬 [우리가족] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15350</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15331"/>
         <updated>2024-12-19T02:56:57.158Z</updated>
         <content type="html"><![CDATA[2024.12.24(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 롯데콘서트홀 마티네 〈대니 구의 플레이리스트〉- 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15330</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15330"/>
-        <updated>2024-12-19T05:18:13.819Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 14:00]]></content>
     </entry>
 </feed>
