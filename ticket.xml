@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-24T02:49:39.361Z</updated>
+    <updated>2024-12-24T03:23:01.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[천안] 2025 앤서니브라운 가족뮤지컬 [우리가족] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15350</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15350"/>
+        <updated>2024-12-24T03:22:12.876Z</updated>
+        <content type="html"><![CDATA[2024.12.27(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 뮤직드라마 〈불편한 편의점〉- 2월 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15349</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15330"/>
         <updated>2024-12-19T05:18:13.819Z</updated>
         <content type="html"><![CDATA[2024.12.27(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구앵콜] 2025 [더 : 매직서커스] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15329</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15329"/>
-        <updated>2024-12-18T03:28:56.687Z</updated>
-        <content type="html"><![CDATA[2024.12.19(목) 09:00]]></content>
     </entry>
 </feed>
