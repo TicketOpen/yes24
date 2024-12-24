@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-24T06:26:40.415Z</updated>
+    <updated>2024-12-24T07:17:15.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 라이브가족뮤지컬 [신데렐라] - 평택 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15354</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15354"/>
+        <updated>2024-12-24T07:16:20.056Z</updated>
+        <content type="html"><![CDATA[2024.12.27(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[성남] 2024-25 이은미 라이브 투어 [MOVE ON] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15353</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15353"/>
         <updated>2024-12-24T06:25:40.258Z</updated>
         <content type="html"><![CDATA[2025.01.02(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양] 뮤지컬 [광화문연가] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15352</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15352"/>
+        <updated>2024-12-24T07:16:20.056Z</updated>
+        <content type="html"><![CDATA[2024.12.27(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[용인] 뮤지컬 [광화문연가] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15351</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15351"/>
+        <updated>2024-12-24T07:16:20.056Z</updated>
+        <content type="html"><![CDATA[2024.12.27(금) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[천안] 2025 앤서니브라운 가족뮤지컬 [우리가족] 티켓오픈안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15335"/>
         <updated>2024-12-19T09:19:17.109Z</updated>
         <content type="html"><![CDATA[2024.12.20(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬 [헨젤과그레텔] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15334</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15334"/>
-        <updated>2024-12-19T08:23:29.639Z</updated>
-        <content type="html"><![CDATA[2024.12.20(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 JOY콘서트 보이스 오브 스프링(Voice of spring) (엑스디너리히어로즈, 볼빨간사춘기, 루시..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15333</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15333"/>
-        <updated>2024-12-19T06:26:07.669Z</updated>
-        <content type="html"><![CDATA[2024.12.26(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[제주] 2024-25 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15331</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15331"/>
-        <updated>2024-12-19T02:56:57.158Z</updated>
-        <content type="html"><![CDATA[2024.12.24(화) 10:00]]></content>
     </entry>
 </feed>
