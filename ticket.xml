@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-26T05:17:56.429Z</updated>
+    <updated>2024-12-26T06:25:45.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [카포네 밀크] 추가 좌석 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15358</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15358"/>
+        <updated>2024-12-26T06:24:56.379Z</updated>
+        <content type="html"><![CDATA[2024.12.27(금) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2025 황영웅 앨범 발매 쇼케이스 PANORAMA : SHOWKING 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15357</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15339"/>
         <updated>2024-12-20T01:18:28.865Z</updated>
         <content type="html"><![CDATA[2024.12.23(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매QWER The 1st Fan Concert [1, 2, QWER!] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15338</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15338"/>
-        <updated>2024-12-19T09:19:17.108Z</updated>
-        <content type="html"><![CDATA[2024.12.30(월) 20:00]]></content>
     </entry>
 </feed>
