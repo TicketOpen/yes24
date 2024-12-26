@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-26T04:21:45.406Z</updated>
+    <updated>2024-12-26T05:17:56.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 황영웅 앨범 발매 쇼케이스 PANORAMA : SHOWKING 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15357&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15357&amp;order=1"/>
+        <updated>2024-12-26T05:17:04.096Z</updated>
+        <content type="html"><![CDATA[2025-01-02(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[익산] 뮤지컬 [시카고] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15356&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15356&amp;order=1"/>
+        <updated>2024-12-26T05:17:04.097Z</updated>
+        <content type="html"><![CDATA[2024-12-31(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈이터니티 콘서트〉추가 회차 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15355&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15348&amp;order=1"/>
         <updated>2024-12-23T09:18:56.125Z</updated>
         <content type="html"><![CDATA[2024-12-30(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈스타크로스드〉 - 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15347&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15347&amp;order=1"/>
-        <updated>2024-12-23T08:24:04.298Z</updated>
-        <content type="html"><![CDATA[2024-12-27(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2025 어린이베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15346&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15346&amp;order=1"/>
-        <updated>2024-12-23T06:25:52.560Z</updated>
-        <content type="html"><![CDATA[2024-12-24(화) 09:00]]></content>
     </entry>
 </feed>

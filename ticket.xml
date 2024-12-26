@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-26T04:21:45.395Z</updated>
+    <updated>2024-12-26T05:17:56.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2025 황영웅 앨범 발매 쇼케이스 PANORAMA : SHOWKING 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15357</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15357"/>
+        <updated>2024-12-26T05:16:55.606Z</updated>
+        <content type="html"><![CDATA[2025.01.02(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[익산] 뮤지컬 [시카고] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15356</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15356"/>
+        <updated>2024-12-26T05:16:55.606Z</updated>
+        <content type="html"><![CDATA[2024.12.31(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈이터니티 콘서트〉추가 회차 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15355</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15338"/>
         <updated>2024-12-19T09:19:17.108Z</updated>
         <content type="html"><![CDATA[2024.12.30(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매KIMCHIKURA VOL.12 〈KIMCHIKURA x AniRAVE〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15337</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15337"/>
-        <updated>2024-12-19T09:19:17.108Z</updated>
-        <content type="html"><![CDATA[2024.12.20(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매KENTA SANGGYUN 6th Anniversary FANCON “FREQUENCY” in SEOUL 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15336</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15336"/>
-        <updated>2024-12-19T09:19:17.108Z</updated>
-        <content type="html"><![CDATA[2024.12.20(금) 18:00]]></content>
     </entry>
 </feed>
