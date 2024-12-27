@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-27T01:18:44.200Z</updated>
+    <updated>2024-12-27T02:49:37.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15361&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15361&amp;order=1"/>
+        <updated>2024-12-27T02:48:35.756Z</updated>
+        <content type="html"><![CDATA[2024-12-27(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2025 어린이 베스트셀러 뮤지컬 [누가내머리에똥쌌어？] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15360&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15360&amp;order=1"/>
+        <updated>2024-12-27T02:48:35.757Z</updated>
+        <content type="html"><![CDATA[2024-12-27(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [카포네 밀크] 추가 좌석 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15358&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15351&amp;order=1"/>
         <updated>2024-12-24T07:16:28.523Z</updated>
         <content type="html"><![CDATA[2024-12-27(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천안] 2025 앤서니브라운 가족뮤지컬 [우리가족] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15350&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15350&amp;order=1"/>
-        <updated>2024-12-24T03:22:19.912Z</updated>
-        <content type="html"><![CDATA[2024-12-27(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤직드라마 〈불편한 편의점〉- 2월 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15349&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15349&amp;order=1"/>
-        <updated>2024-12-24T01:18:37.652Z</updated>
-        <content type="html"><![CDATA[2024-12-26(목) 14:00]]></content>
     </entry>
 </feed>
