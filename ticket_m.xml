@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-27T07:18:16.050Z</updated>
+    <updated>2024-12-27T08:22:32.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15368&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15368&amp;order=1"/>
+        <updated>2024-12-27T08:21:50.263Z</updated>
+        <content type="html"><![CDATA[2024-12-27(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAY6 3RD WORLD TOUR 〈FOREVER YOUNG〉 in BUSAN 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15367&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15354&amp;order=1"/>
         <updated>2024-12-24T07:16:28.516Z</updated>
         <content type="html"><![CDATA[2024-12-27(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2024-25 이은미 라이브 투어 [MOVE ON] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15353&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15353&amp;order=1"/>
-        <updated>2024-12-24T06:25:48.708Z</updated>
-        <content type="html"><![CDATA[2025-01-02(목) 14:00]]></content>
     </entry>
 </feed>
