@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-27T04:21:27.102Z</updated>
+    <updated>2024-12-27T05:17:35.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15360"/>
         <updated>2024-12-27T02:48:26.995Z</updated>
         <content type="html"><![CDATA[2024.12.27(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [블러디 러브] 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15359</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15359"/>
+        <updated>2024-12-27T05:16:34.749Z</updated>
+        <content type="html"><![CDATA[2024.12.31(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [카포네 밀크] 추가 좌석 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15342"/>
         <updated>2024-12-20T09:17:58.574Z</updated>
         <content type="html"><![CDATA[2024.12.26(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈세일즈맨의 죽음〉 - 2차 티켓오픈 공지]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15341</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15341"/>
-        <updated>2024-12-20T06:24:26.352Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 15:00]]></content>
     </entry>
 </feed>
