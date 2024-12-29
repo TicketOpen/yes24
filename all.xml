@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Dec 2024 14:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Dec 2024 15:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,14 +218,6 @@
             <content:encoded><![CDATA[2024-12-31(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <무명호걸>기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51905&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51905&amp;Tab=3</guid>
-            <pubDate>Mon, 23 Dec 2024 03:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.23 ~ 2024.12.29 | 2024.12.31 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241223/20241223-0cdae1b7-5edb-4416-98dc-148bfd141ddb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <더 픽션> 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=2</guid>
@@ -290,12 +282,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241206/20241206-b0461d1f-b673-4698-8c38-d3ca55526afa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이벤트 기간2024.12.23 ~ 2024.12.29 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51905</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51905</guid>
-            <pubDate>Mon, 23 Dec 2024 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2025년 1월 8일(수) 19:30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241223/20241223-0cdae1b7-5edb-4416-98dc-148bfd141ddb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연극 <세일즈맨의 죽음> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51881&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51881&amp;Tab=3</guid>
+            <pubDate>Sun, 29 Dec 2024 15:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2025.01.01 | 2025.01.03 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241204/20241204-b14a7d2f-2373-40ee-9ae1-c025ca5a4856.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.12.20 ~ 2025.03.09 (YES24 티켓 ─ 이벤트 모바일)]]></title>
