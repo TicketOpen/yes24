@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-31T06:25:03.547Z</updated>
+    <updated>2024-12-31T07:17:57.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [잭과콩나무] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15370&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15370&amp;order=1"/>
+        <updated>2024-12-31T07:17:07.194Z</updated>
+        <content type="html"><![CDATA[2024-12-31(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전주] 뮤지컬 〈사랑의 하츄핑〉- 전주 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15369&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15361&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15361&amp;order=1"/>
         <updated>2024-12-27T02:48:35.756Z</updated>
-        <content type="html"><![CDATA[2024-12-27(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2025 어린이 베스트셀러 뮤지컬 [누가내머리에똥쌌어？] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15360&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15360&amp;order=1"/>
-        <updated>2024-12-27T02:48:35.757Z</updated>
         <content type="html"><![CDATA[2024-12-27(금) 09:00]]></content>
     </entry>
 </feed>
