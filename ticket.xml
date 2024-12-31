@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-31T07:17:57.350Z</updated>
+    <updated>2024-12-31T08:22:49.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [끝까지 간다!] - 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15371</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15371"/>
+        <updated>2024-12-31T08:21:50.623Z</updated>
+        <content type="html"><![CDATA[2025.01.02(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [잭과콩나무] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15370</id>
@@ -101,7 +108,7 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15357</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15357"/>
         <updated>2024-12-26T05:16:55.606Z</updated>
-        <content type="html"><![CDATA[2025.01.02(목) 14:00]]></content>
+        <content type="html"><![CDATA[2025.01.06(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[익산] 뮤지컬 [시카고] 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15352"/>
         <updated>2024-12-24T07:16:20.056Z</updated>
         <content type="html"><![CDATA[2024.12.27(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 뮤지컬 [광화문연가] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15351</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15351"/>
-        <updated>2024-12-24T07:16:20.056Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 15:00]]></content>
     </entry>
 </feed>
