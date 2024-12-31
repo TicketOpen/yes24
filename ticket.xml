@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-31T08:22:49.338Z</updated>
+    <updated>2024-12-31T09:18:31.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [북극곰 예술여행] - 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15372</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15372"/>
+        <updated>2024-12-31T09:17:42.416Z</updated>
+        <content type="html"><![CDATA[2025.01.02(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [끝까지 간다!] - 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15371</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15353"/>
         <updated>2024-12-24T06:25:40.258Z</updated>
         <content type="html"><![CDATA[2025.01.02(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 뮤지컬 [광화문연가] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15352</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15352"/>
-        <updated>2024-12-24T07:16:20.056Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 16:00]]></content>
     </entry>
 </feed>

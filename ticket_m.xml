@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-31T08:22:49.332Z</updated>
+    <updated>2024-12-31T09:18:31.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [북극곰 예술여행] - 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15372&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15372&amp;order=1"/>
+        <updated>2024-12-31T09:17:49.322Z</updated>
+        <content type="html"><![CDATA[2025-01-02(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [끝까지 간다!] - 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15371&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15363&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15363&amp;order=1"/>
         <updated>2024-12-27T09:17:55.505Z</updated>
-        <content type="html"><![CDATA[2025-01-06(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15362&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15362&amp;order=1"/>
-        <updated>2024-12-27T09:17:55.506Z</updated>
         <content type="html"><![CDATA[2025-01-06(월) 10:00]]></content>
     </entry>
 </feed>
