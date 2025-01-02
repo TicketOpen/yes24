@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-02T01:18:08.906Z</updated>
+    <updated>2025-01-02T02:47:58.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[창원] 2025 화요모닝콘서트 - 4월 [Pops in Jazz with 안드레황] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15378</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15378"/>
+        <updated>2025-01-02T02:47:04.482Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매[창원] 2025 화요모닝콘서트 - 3월 [서형민의 세레나데]  티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15377</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15377"/>
+        <updated>2025-01-02T02:47:04.483Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매[창원] 2025 화요모닝콘서트 - 2월 [박남정 SHOW] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15376</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15376"/>
+        <updated>2025-01-02T02:47:04.483Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안양] 2025 빅3＂행복한만남＂[강진,김용임,진성] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15374</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15358"/>
         <updated>2024-12-26T06:24:56.379Z</updated>
         <content type="html"><![CDATA[2024.12.27(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 황영웅 앨범 발매 쇼케이스 PANORAMA : SHOWKING 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15357</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15357"/>
-        <updated>2024-12-26T05:16:55.606Z</updated>
-        <content type="html"><![CDATA[2025.01.06(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[익산] 뮤지컬 [시카고] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15356</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15356"/>
-        <updated>2024-12-26T05:16:55.606Z</updated>
-        <content type="html"><![CDATA[2024.12.31(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈이터니티 콘서트〉추가 회차 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15355</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15355"/>
-        <updated>2024-12-24T09:17:54.242Z</updated>
-        <content type="html"><![CDATA[2024.12.26(목) 14:00]]></content>
     </entry>
 </feed>
