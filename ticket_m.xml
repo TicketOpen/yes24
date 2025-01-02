@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-02T07:17:28.342Z</updated>
+    <updated>2025-01-02T08:22:32.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[앙상블 코스모폴리탄〈현악의 정수, 브람스와 멘델스존〉- 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15384&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15384&amp;order=1"/>
+        <updated>2025-01-02T08:21:41.246Z</updated>
+        <content type="html"><![CDATA[2025-01-08(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 2025 키즈 클래식 2월〈키즈 시네마 클래식〉티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15383&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15374&amp;order=1"/>
         <updated>2025-01-02T01:17:26.110Z</updated>
         <content type="html"><![CDATA[2025-01-22(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May'n Acoustic Tour 2025 Hangjam vol.5 in Seoul - 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15373&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15373&amp;order=1"/>
-        <updated>2024-12-31T10:17:53.375Z</updated>
-        <content type="html"><![CDATA[2025-01-10(금) 19:00]]></content>
     </entry>
 </feed>

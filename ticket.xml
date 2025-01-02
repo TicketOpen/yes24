@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-02T07:17:28.357Z</updated>
+    <updated>2025-01-02T08:22:32.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[앙상블 코스모폴리탄〈현악의 정수, 브람스와 멘델스존〉- 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15384</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15384"/>
+        <updated>2025-01-02T08:21:32.490Z</updated>
+        <content type="html"><![CDATA[2025.01.08(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[창원] 2025 키즈 클래식 2월〈키즈 시네마 클래식〉티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15383</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15364</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15364"/>
         <updated>2024-12-27T09:17:48.361Z</updated>
-        <content type="html"><![CDATA[2025.01.06(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15363</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15363"/>
-        <updated>2024-12-27T09:17:48.363Z</updated>
         <content type="html"><![CDATA[2025.01.06(월) 10:00]]></content>
     </entry>
 </feed>
