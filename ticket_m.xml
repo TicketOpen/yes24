@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-03T04:21:26.280Z</updated>
+    <updated>2025-01-03T05:17:56.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <시라노> 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15387&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15387&amp;order=1"/>
+        <updated>2025-01-03T05:17:09.340Z</updated>
+        <content type="html"><![CDATA[2025-01-10(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[의정부] 2024-25 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15386&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15378&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15378&amp;order=1"/>
         <updated>2025-01-02T02:47:12.974Z</updated>
-        <content type="html"><![CDATA[2025-01-10(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2025 화요모닝콘서트 - 3월 [서형민의 세레나데]  티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15377&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15377&amp;order=1"/>
-        <updated>2025-01-02T02:47:12.975Z</updated>
         <content type="html"><![CDATA[2025-01-10(금) 14:00]]></content>
     </entry>
 </feed>
