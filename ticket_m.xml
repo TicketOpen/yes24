@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-03T01:19:09.716Z</updated>
+    <updated>2025-01-03T02:50:00.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[의정부] 2024-25 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15386&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15386&amp;order=1"/>
+        <updated>2025-01-03T02:49:17.779Z</updated>
+        <content type="html"><![CDATA[2025-01-07(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이천] 2024-25 김창옥 토크콘서트 시즌4  티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15385&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15377&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15377&amp;order=1"/>
         <updated>2025-01-02T02:47:12.975Z</updated>
-        <content type="html"><![CDATA[2025-01-10(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2025 화요모닝콘서트 - 2월 [박남정 SHOW] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15376&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15376&amp;order=1"/>
-        <updated>2025-01-02T02:47:12.981Z</updated>
         <content type="html"><![CDATA[2025-01-10(금) 14:00]]></content>
     </entry>
 </feed>

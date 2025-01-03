@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-03T01:19:09.719Z</updated>
+    <updated>2025-01-03T02:50:00.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[의정부] 2024-25 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15386</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15386"/>
+        <updated>2025-01-03T02:49:10.903Z</updated>
+        <content type="html"><![CDATA[2025.01.07(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이천] 2024-25 김창옥 토크콘서트 시즌4  티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15385</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15366</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15366"/>
         <updated>2024-12-27T09:17:48.359Z</updated>
-        <content type="html"><![CDATA[2025.01.06(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15365</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15365"/>
-        <updated>2024-12-27T09:17:48.360Z</updated>
         <content type="html"><![CDATA[2025.01.06(월) 10:00]]></content>
     </entry>
 </feed>
