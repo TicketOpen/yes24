@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-03T05:17:56.241Z</updated>
+    <updated>2025-01-03T06:25:26.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2025 서리풀 갈라콘서트 [Sound of Music] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15392</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15392"/>
+        <updated>2025-01-03T06:24:33.359Z</updated>
+        <content type="html"><![CDATA[2025.01.07(화) 10:00<a class="noti-btn-pop" presaletit1="서초구민 선예매" presaletit2="" presaletime1="2025.01.06(월) 09:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2025 뮤지컬 [광화문연가] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15389</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15389"/>
+        <updated>2025-01-03T06:24:33.359Z</updated>
+        <content type="html"><![CDATA[2025.01.07(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈톡톡〉 : 연극열전10_네 번째 작품 - 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15388</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15388"/>
+        <updated>2025-01-03T06:24:33.360Z</updated>
+        <content type="html"><![CDATA[2025.01.09(목) 16:00<a class="noti-btn-pop" presaletit1="연애인 프리미엄 선예매" presaletit2="" presaletime1="2025.01.09(목) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시라노> 마지막 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15387</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15370"/>
         <updated>2024-12-31T07:16:58.724Z</updated>
         <content type="html"><![CDATA[2024.12.31(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주] 뮤지컬 〈사랑의 하츄핑〉- 전주 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15369</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15369"/>
-        <updated>2024-12-31T06:24:15.108Z</updated>
-        <content type="html"><![CDATA[2025.01.03(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15368</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15368"/>
-        <updated>2024-12-27T08:21:43.327Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매DAY6 3RD WORLD TOUR 〈FOREVER YOUNG〉 in BUSAN 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15367</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15367"/>
-        <updated>2024-12-27T07:17:26.461Z</updated>
-        <content type="html"><![CDATA[2025.01.09(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2025.01.08(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
