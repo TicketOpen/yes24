@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jan 2025 14:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 15:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,14 +250,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241218/20241218-cc059cc8-5451-478b-ba0e-1c4141f280c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <블러디 러브>에 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51409&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51409&amp;Tab=2</guid>
-            <pubDate>Tue, 17 Dec 2024 10:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.17 ~ 2025.01.05 | 2025.01.06 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241217/20241217-1c461c37-5128-4695-81ca-723be636d217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈톡톡〉 : 연극열전10_네 번째 작품에 대한 공연 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51288&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51288&amp;Tab=2</guid>
@@ -290,6 +282,13 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NEW출석체크 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Sun, 05 Jan 2025 15:16:19 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이벤트 기간2024.12.13 ~ 2025.01.08 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51853</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51853</guid>
@@ -320,14 +319,6 @@
             <pubDate>Wed, 18 Dec 2024 06:26:28 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;카포네 밀크&gt; 사인 프로그램북]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241218/20241218-cc059cc8-5451-478b-ba0e-1c4141f280c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.12.17 ~ 2025.01.05 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51409</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51409</guid>
-            <pubDate>Tue, 17 Dec 2024 10:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2025년 01월 10일(금) 19:30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241217/20241217-1c461c37-5128-4695-81ca-723be636d217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.12.10 ~ 2025.02.16 (YES24 티켓 ─ 이벤트 모바일)]]></title>
