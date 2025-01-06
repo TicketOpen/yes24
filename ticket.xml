@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-06T04:22:12.529Z</updated>
+    <updated>2025-01-06T05:18:56.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매82MAJOR 3rd CONCERT <82MAJOR BOOM (에투메붐)> 좌석 추가 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15398</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15398"/>
+        <updated>2025-01-06T05:18:09.744Z</updated>
+        <content type="html"><![CDATA[2025.01.08(수) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [무명호걸:無名豪傑] 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15397</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15379"/>
         <updated>2025-01-03T08:21:49.230Z</updated>
         <content type="html"><![CDATA[2025.01.09(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 2025 화요모닝콘서트 - 4월 [Pops in Jazz with 안드레황] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15378</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15378"/>
-        <updated>2025-01-03T08:21:49.231Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 14:00]]></content>
     </entry>
 </feed>
