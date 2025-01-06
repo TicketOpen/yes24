@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-06T02:54:23.401Z</updated>
+    <updated>2025-01-06T03:26:44.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15397&amp;order=1"/>
         <updated>2025-01-06T02:53:41.685Z</updated>
         <content type="html"><![CDATA[2025-01-08(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids 공식 팬클럽 STAY 5기 모집 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15396&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15396&amp;order=1"/>
+        <updated>2025-01-06T03:25:53.667Z</updated>
+        <content type="html"><![CDATA[2025-01-06(월) 13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [알라딘] 한국 초연 (ALADDIN The Musical) 3월 공연 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15388&amp;order=1"/>
         <updated>2025-01-03T06:24:40.257Z</updated>
         <content type="html"><![CDATA[2025-01-09(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시라노> 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15387&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15387&amp;order=1"/>
-        <updated>2025-01-03T05:17:09.340Z</updated>
-        <content type="html"><![CDATA[2025-01-10(금) 11:00]]></content>
     </entry>
 </feed>
