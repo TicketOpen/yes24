@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://m.ticket.yes24.com/Discount/Angel.aspx</id>
-    <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
-    <updated>2025-01-05T23:17:02.393Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 엔젤티켓 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 06 Jan 2025 01:22:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 카포네 밀크]]></title>
+            <link>http://m.ticket.yes24.com/Perf/51565</link>
+            <guid>http://m.ticket.yes24.com/Perf/51565</guid>
+            <pubDate>Mon, 06 Jan 2025 01:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 카포네 밀크
+
+
+</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">35</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">33,350원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/7(화)~1/19(일)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250106/20250106-51565.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

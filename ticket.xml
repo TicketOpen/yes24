@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-05T23:17:02.401Z</updated>
+    <updated>2025-01-06T01:22:23.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [알라딘] 한국 초연 (ALADDIN The Musical) 3월 공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15395</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15395"/>
+        <updated>2025-01-06T01:21:23.713Z</updated>
+        <content type="html"><![CDATA[2025.01.09(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2025 JOY콘서트 보이스 오브 스프링(Voice of spring)  (엑스디너리히어로즈, 볼빨간사춘기, 루..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15394</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15394"/>
+        <updated>2025-01-06T01:21:23.721Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2025 가족마술콘서트 [리틀베가스] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15393</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15376"/>
         <updated>2025-01-03T08:21:49.234Z</updated>
         <content type="html"><![CDATA[2025.01.10(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2025 빅3＂행복한만남＂[강진,김용임,진성] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15374</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15374"/>
-        <updated>2025-01-03T08:21:49.235Z</updated>
-        <content type="html"><![CDATA[2025.01.23(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매May'n Acoustic Tour 2025 Hangjam vol.5 in Seoul - 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15373</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15373"/>
-        <updated>2025-01-03T08:21:49.237Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 19:00]]></content>
     </entry>
 </feed>
