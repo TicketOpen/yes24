@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-07T01:19:41.365Z</updated>
+    <updated>2025-01-07T02:51:41.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈돈 주앙〉프렌치 오리지널 내한공연 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15400&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15400&amp;order=1"/>
+        <updated>2025-01-07T02:50:50.325Z</updated>
+        <content type="html"><![CDATA[2025-01-10(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[82MAJOR 3rd CONCERT <82MAJOR BOOM (에투메붐)> 좌석 추가 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15398&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15390&amp;order=1"/>
         <updated>2025-01-03T07:16:26.148Z</updated>
         <content type="html"><![CDATA[2025-01-08(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2025 뮤지컬 [광화문연가] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15389&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15389&amp;order=1"/>
-        <updated>2025-01-03T06:24:40.253Z</updated>
-        <content type="html"><![CDATA[2025-01-07(화) 14:00]]></content>
     </entry>
 </feed>

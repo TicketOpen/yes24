@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-07T01:19:41.345Z</updated>
+    <updated>2025-01-07T02:51:41.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈돈 주앙〉프렌치 오리지널 내한공연 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15400</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15400"/>
+        <updated>2025-01-07T02:50:41.745Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매82MAJOR 3rd CONCERT <82MAJOR BOOM (에투메붐)> 좌석 추가 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15398</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15380</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15380"/>
         <updated>2025-01-03T08:21:49.229Z</updated>
-        <content type="html"><![CDATA[2025.01.09(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[창원] 2025 키즈 클래식 10월〈스페이스 클래식〉티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15379</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15379"/>
-        <updated>2025-01-03T08:21:49.230Z</updated>
         <content type="html"><![CDATA[2025.01.09(목) 11:00]]></content>
     </entry>
 </feed>
