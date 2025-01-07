@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-07T04:20:51.136Z</updated>
+    <updated>2025-01-07T05:17:43.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 JINJIN [JIN LAB Vol1. Find Your Groove] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15403&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15403&amp;order=1"/>
+        <updated>2025-01-07T05:17:01.189Z</updated>
+        <content type="html"><![CDATA[2025-01-13(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 박지현 콘서트 쇼맨쉽 ‘SHOWMANSHIP’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15402&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15402&amp;order=1"/>
+        <updated>2025-01-07T05:17:01.190Z</updated>
+        <content type="html"><![CDATA[2025-01-14(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양다일 콘서트 〈Memories of D.I.LAND 2025〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15401&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15401&amp;order=1"/>
+        <updated>2025-01-07T05:17:01.191Z</updated>
+        <content type="html"><![CDATA[2025-01-13(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈돈 주앙〉프렌치 오리지널 내한공연 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15400&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15393&amp;order=1"/>
         <updated>2025-01-03T07:16:26.139Z</updated>
         <content type="html"><![CDATA[2025-01-06(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 서리풀 갈라콘서트 [Sound of Music] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15392&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15392&amp;order=1"/>
-        <updated>2025-01-03T06:24:40.253Z</updated>
-        <content type="html"><![CDATA[2025-01-07(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[화성] 팡팡 벌룬서커스 대작전 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15391&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15391&amp;order=1"/>
-        <updated>2025-01-03T07:16:26.144Z</updated>
-        <content type="html"><![CDATA[2025-01-08(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 팡팡 벌룬서커스 대작전 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15390&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15390&amp;order=1"/>
-        <updated>2025-01-03T07:16:26.148Z</updated>
-        <content type="html"><![CDATA[2025-01-08(수) 10:00]]></content>
     </entry>
 </feed>
