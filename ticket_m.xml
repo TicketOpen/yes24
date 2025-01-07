@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-07T07:18:04.707Z</updated>
+    <updated>2025-01-07T08:22:58.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[지브리 OST 콘서트 : 디 오케스트라 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15411&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15411&amp;order=1"/>
+        <updated>2025-01-07T08:22:06.685Z</updated>
+        <content type="html"><![CDATA[2025-01-08(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2025 가족매직쇼 [스노우버블쇼] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15410&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15410&amp;order=1"/>
+        <updated>2025-01-07T08:22:06.687Z</updated>
+        <content type="html"><![CDATA[2025-01-08(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 앤서니브라운 가족뮤지컬 〈우리가족〉 - 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15409&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15409&amp;order=1"/>
+        <updated>2025-01-07T08:22:06.692Z</updated>
+        <content type="html"><![CDATA[2025-01-10(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 마이진 전국투어 콘서트 〈BLOOMING〉 in 울산 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15408&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15402&amp;order=1"/>
         <updated>2025-01-07T05:17:01.190Z</updated>
         <content type="html"><![CDATA[2025-01-14(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양다일 콘서트 〈Memories of D.I.LAND 2025〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15401&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15401&amp;order=1"/>
-        <updated>2025-01-07T05:17:01.191Z</updated>
-        <content type="html"><![CDATA[2025-01-13(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈돈 주앙〉프렌치 오리지널 내한공연 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15400&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15400&amp;order=1"/>
-        <updated>2025-01-07T02:50:50.325Z</updated>
-        <content type="html"><![CDATA[2025-01-10(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[82MAJOR 3rd CONCERT <82MAJOR BOOM (에투메붐)> 좌석 추가 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15398&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15398&amp;order=1"/>
-        <updated>2025-01-06T05:18:16.687Z</updated>
-        <content type="html"><![CDATA[2025-01-08(수) 19:00]]></content>
     </entry>
 </feed>
