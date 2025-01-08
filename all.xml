@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 23:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 01:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 [시지프스] 4차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15412</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15412</guid>
+            <pubDate>Wed, 08 Jan 2025 01:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.13(월) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[지브리 OST 콘서트 : 디 오케스트라 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15411</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2025.01.07(화) 10:00<a class="noti-btn-pop" presaletit1="서초구민 선예매" presaletit2="" presaletime1="2025.01.06(월) 09:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[화성] 팡팡 벌룬서커스 대작전 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15391</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15391</guid>
-            <pubDate>Fri, 03 Jan 2025 07:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.08(수) 10:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [시지프스] 4차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15412&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15412&amp;order=1</guid>
+            <pubDate>Wed, 08 Jan 2025 01:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025-01-13(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지브리 OST 콘서트 : 디 오케스트라 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -209,13 +216,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15403&amp;order=1</guid>
             <pubDate>Tue, 07 Jan 2025 05:17:01 GMT</pubDate>
             <content:encoded><![CDATA[2025-01-13(월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 박지현 콘서트 쇼맨쉽 ‘SHOWMANSHIP’ 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15402&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15402&amp;order=1</guid>
-            <pubDate>Tue, 07 Jan 2025 05:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-14(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [카포네 밀크] (YES24 티켓 ─ 엔젤티켓)]]></title>
