@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-08T07:16:58.549Z</updated>
+    <updated>2025-01-08T08:24:06.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매뮤지컬 [베르테르] 25주년 공연 - YES24DAY 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15425</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15425"/>
+        <updated>2025-01-08T08:23:11.685Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15424</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15424"/>
+        <updated>2025-01-08T08:23:11.685Z</updated>
+        <content type="html"><![CDATA[2025.01.09(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2025 앤서니브라운 가족뮤지컬〈우리가족〉티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15423</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15423"/>
+        <updated>2025-01-08T08:23:11.686Z</updated>
+        <content type="html"><![CDATA[2025.01.13(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 2025 가족매직쇼 [매직키즈마술쇼] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15422</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15422"/>
         <updated>2025-01-08T06:24:53.523Z</updated>
         <content type="html"><![CDATA[2025.01.09(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈세일즈맨의 죽음〉 - 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15421</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15421"/>
+        <updated>2025-01-08T08:23:11.695Z</updated>
+        <content type="html"><![CDATA[2025.01.14(화) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 뮤지컬 [사랑의 하츄핑] 티켓오픈 안내]]></title>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15406"/>
         <updated>2025-01-07T07:17:05.086Z</updated>
         <content type="html"><![CDATA[2025.01.10(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 마이진 전국투어 콘서트 〈BLOOMING〉 in 대구 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15405</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15405"/>
-        <updated>2025-01-07T07:17:05.086Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 마이진 전국투어 콘서트 〈BLOOMING〉 in 서울 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15404</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15404"/>
-        <updated>2025-01-07T07:17:05.087Z</updated>
-        <content type="html"><![CDATA[2025.01.09(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 JINJIN [JIN LAB Vol1. Find Your Groove] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15403</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15403"/>
-        <updated>2025-01-07T05:16:53.491Z</updated>
-        <content type="html"><![CDATA[2025.01.13(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 박지현 콘서트 쇼맨쉽 ‘SHOWMANSHIP’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15402</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15402"/>
-        <updated>2025-01-07T05:16:53.495Z</updated>
-        <content type="html"><![CDATA[2025.01.14(화) 14:00]]></content>
     </entry>
 </feed>
