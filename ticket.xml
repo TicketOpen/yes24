@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-08T05:18:25.713Z</updated>
+    <updated>2025-01-08T06:25:47.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[수원] 2025 가족매직쇼 [매직키즈마술쇼] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15422</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15422"/>
+        <updated>2025-01-08T06:24:53.523Z</updated>
+        <content type="html"><![CDATA[2025.01.09(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 뮤지컬 [사랑의 하츄핑] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15420</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15420"/>
+        <updated>2025-01-08T06:24:53.523Z</updated>
+        <content type="html"><![CDATA[2025.01.13(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2025 범진 단독 콘서트 ‘BE MY VALENTINE : FIRST LOVE’ 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15419</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15402"/>
         <updated>2025-01-07T05:16:53.495Z</updated>
         <content type="html"><![CDATA[2025.01.14(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매양다일 콘서트 〈Memories of D.I.LAND 2025〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15401</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15401"/>
-        <updated>2025-01-07T05:16:53.497Z</updated>
-        <content type="html"><![CDATA[2025.01.13(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈돈 주앙〉프렌치 오리지널 내한공연 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15400</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15400"/>
-        <updated>2025-01-07T02:50:41.745Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 15:00]]></content>
     </entry>
 </feed>

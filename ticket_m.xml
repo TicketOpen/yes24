@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-08T05:18:25.707Z</updated>
+    <updated>2025-01-08T06:25:47.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[수원] 2025 가족매직쇼 [매직키즈마술쇼] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15422&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15422&amp;order=1"/>
+        <updated>2025-01-08T06:25:01.666Z</updated>
+        <content type="html"><![CDATA[2025-01-09(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 뮤지컬 [사랑의 하츄핑] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15420&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15420&amp;order=1"/>
+        <updated>2025-01-08T06:25:01.667Z</updated>
+        <content type="html"><![CDATA[2025-01-13(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 범진 단독 콘서트 ‘BE MY VALENTINE : FIRST LOVE’ 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15419&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15412&amp;order=1"/>
         <updated>2025-01-08T01:18:31.196Z</updated>
         <content type="html"><![CDATA[2025-01-13(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지브리 OST 콘서트 : 디 오케스트라 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15411&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15411&amp;order=1"/>
-        <updated>2025-01-07T08:22:06.685Z</updated>
-        <content type="html"><![CDATA[2025-01-08(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2025 가족매직쇼 [스노우버블쇼] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15410&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15410&amp;order=1"/>
-        <updated>2025-01-07T08:22:06.687Z</updated>
-        <content type="html"><![CDATA[2025-01-08(수) 09:00]]></content>
     </entry>
 </feed>
