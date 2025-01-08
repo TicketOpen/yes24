@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-08T02:49:17.393Z</updated>
+    <updated>2025-01-08T03:22:23.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈웃는 남자〉 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15418</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15418"/>
+        <updated>2025-01-08T03:21:34.676Z</updated>
+        <content type="html"><![CDATA[2025.01.14(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 뮤지컬 [어서 오세요, 휴남동 서점입니다] 3월 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15417</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15398"/>
         <updated>2025-01-06T05:18:09.744Z</updated>
         <content type="html"><![CDATA[2025.01.08(수) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [무명호걸:無名豪傑] 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15397</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15397"/>
-        <updated>2025-01-06T02:53:34.985Z</updated>
-        <content type="html"><![CDATA[2025.01.08(수) 11:00<a class="noti-btn-pop" presaletit1="" presaletit2="" presaletime1="" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
