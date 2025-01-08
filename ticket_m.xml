@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-08T04:22:06.167Z</updated>
+    <updated>2025-01-08T05:18:25.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 범진 단독 콘서트 ‘BE MY VALENTINE : FIRST LOVE’ 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15419&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15419&amp;order=1"/>
+        <updated>2025-01-08T05:17:43.188Z</updated>
+        <content type="html"><![CDATA[2025-01-13(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈웃는 남자〉 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15418&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15410&amp;order=1"/>
         <updated>2025-01-07T08:22:06.687Z</updated>
         <content type="html"><![CDATA[2025-01-08(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 앤서니브라운 가족뮤지컬 〈우리가족〉 - 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15409&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15409&amp;order=1"/>
-        <updated>2025-01-07T08:22:06.692Z</updated>
-        <content type="html"><![CDATA[2025-01-10(금) 09:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-08T04:22:06.189Z</updated>
+    <updated>2025-01-08T05:18:25.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2025 범진 단독 콘서트 ‘BE MY VALENTINE : FIRST LOVE’ 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15419</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15419"/>
+        <updated>2025-01-08T05:17:35.966Z</updated>
+        <content type="html"><![CDATA[2025.01.13(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈웃는 남자〉 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15418</id>
@@ -87,7 +94,7 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15407</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15407"/>
         <updated>2025-01-07T07:17:05.083Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 15:00]]></content>
+        <content type="html"><![CDATA[추후공지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2025 마이진 전국투어 콘서트 〈BLOOMING〉 in 부산 티켓 오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15400"/>
         <updated>2025-01-07T02:50:41.745Z</updated>
         <content type="html"><![CDATA[2025.01.10(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매82MAJOR 3rd CONCERT <82MAJOR BOOM (에투메붐)> 좌석 추가 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15398</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15398"/>
-        <updated>2025-01-06T05:18:09.744Z</updated>
-        <content type="html"><![CDATA[2025.01.08(수) 19:00]]></content>
     </entry>
 </feed>
