@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-08T23:17:39.220Z</updated>
+    <updated>2025-01-09T01:18:52.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뽀로로와 친구들의 드림콘서트〈잃어버린 꿈을 찾아서〉- 광주 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15427</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15427"/>
+        <updated>2025-01-09T01:17:53.634Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 라이브 가족뮤지컬〈아기돼지삼형제〉- 청주 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15426</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15426"/>
+        <updated>2025-01-09T01:17:53.634Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매뮤지컬 [베르테르] 25주년 공연 - YES24DAY 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15425</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15408"/>
         <updated>2025-01-07T07:17:05.083Z</updated>
         <content type="html"><![CDATA[2025.01.10(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 마이진 전국투어 콘서트 〈BLOOMING〉 in 고양 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15407</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15407"/>
-        <updated>2025-01-07T07:17:05.083Z</updated>
-        <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 마이진 전국투어 콘서트 〈BLOOMING〉 in 부산 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15406</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15406"/>
-        <updated>2025-01-07T07:17:05.086Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 14:00]]></content>
     </entry>
 </feed>

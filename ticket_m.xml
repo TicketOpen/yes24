@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-08T23:17:39.233Z</updated>
+    <updated>2025-01-09T01:18:52.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뽀로로와 친구들의 드림콘서트〈잃어버린 꿈을 찾아서〉- 광주 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15427&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15427&amp;order=1"/>
+        <updated>2025-01-09T01:18:02.489Z</updated>
+        <content type="html"><![CDATA[2025-01-10(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 라이브 가족뮤지컬〈아기돼지삼형제〉- 청주 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15426&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15426&amp;order=1"/>
+        <updated>2025-01-09T01:18:02.493Z</updated>
+        <content type="html"><![CDATA[2025-01-10(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [베르테르] 25주년 공연 - YES24DAY 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15425&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15418&amp;order=1"/>
         <updated>2025-01-08T03:21:41.863Z</updated>
         <content type="html"><![CDATA[2025-01-14(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤지컬 [어서 오세요, 휴남동 서점입니다] 3월 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15417&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15417&amp;order=1"/>
-        <updated>2025-01-08T02:48:31.661Z</updated>
-        <content type="html"><![CDATA[2025-01-14(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [더 픽션] 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15416&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15416&amp;order=1"/>
-        <updated>2025-01-08T02:48:31.661Z</updated>
-        <content type="html"><![CDATA[2025-01-13(월) 15:00]]></content>
     </entry>
 </feed>
