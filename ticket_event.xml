@@ -4,9 +4,25 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 14:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 15:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[초대] 뮤지컬 <돈 주앙> 프렌치 오리지널 내한공연 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Perf/52246</link>
+            <guid>http://ticket.yes24.com/Perf/52246</guid>
+            <pubDate>Thu, 09 Jan 2025 15:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.10 ~ 2025.03.23 | 2025.03.25 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250109/20250109-43431384-1d26-49be-a581-3c74307c78ef.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[초대] 뮤지컬 <돈 주앙> 프렌치 오리지널 내한공연 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Perf/52246</link>
+            <guid>http://ticket.yes24.com/Perf/52246</guid>
+            <pubDate>Thu, 09 Jan 2025 15:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.10 ~ 2025.03.23 | 2025.03.25 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250109/20250109-f7ef0a56-e0f3-4809-b9cf-eba61d8f1ada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <라파치니의 정원> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=52070&amp;Tab=3</link>
@@ -62,21 +78,6 @@
             <pubDate>Tue, 10 Dec 2024 09:21:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.09 ~ 2025.01.12 | 2025.01.14 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241210/20241210-edf6ef64-8f15-4972-b7e3-c56ec8420317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <알라딘> 한국 초연 서울 후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</guid>
-            <pubDate>Fri, 03 Jan 2025 15:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.22 ~ 2025.03.03 | 2025.03.04 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Sun, 05 Jan 2025 15:16:19 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
