@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-10T04:21:38.378Z</updated>
+    <updated>2025-01-10T05:18:01.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [배니싱] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15435&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15435&amp;order=1"/>
+        <updated>2025-01-10T05:17:14.458Z</updated>
+        <content type="html"><![CDATA[2025-01-17(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요나스 카우프만 오페라 콘서트 - 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15434&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15434&amp;order=1"/>
+        <updated>2025-01-10T05:17:14.458Z</updated>
+        <content type="html"><![CDATA[2025-01-15(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요나스 카우프만 리사이틀 - 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15433&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15433&amp;order=1"/>
+        <updated>2025-01-10T05:17:14.458Z</updated>
+        <content type="html"><![CDATA[2025-01-15(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 라이브가족뮤지컬〈피터팬〉- 울산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15432&amp;order=1</id>
@@ -52,27 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15426&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15426&amp;order=1"/>
         <updated>2025-01-09T01:18:02.493Z</updated>
-        <content type="html"><![CDATA[2025-01-10(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [베르테르] 25주년 공연 - YES24DAY 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15425&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15425&amp;order=1"/>
-        <updated>2025-01-08T08:23:20.433Z</updated>
-        <content type="html"><![CDATA[2025-01-10(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15424&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15424&amp;order=1"/>
-        <updated>2025-01-08T08:23:20.435Z</updated>
-        <content type="html"><![CDATA[2025-01-09(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2025 앤서니브라운 가족뮤지컬〈우리가족〉티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15423&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15423&amp;order=1"/>
-        <updated>2025-01-08T08:23:20.436Z</updated>
         <content type="html"><![CDATA[2025-01-10(금) 09:00]]></content>
     </entry>
 </feed>
