@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-10T01:21:12.312Z</updated>
+    <updated>2025-01-10T02:53:32.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 라이브가족뮤지컬〈피터팬〉- 울산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15432&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15432&amp;order=1"/>
+        <updated>2025-01-10T02:52:41.083Z</updated>
+        <content type="html"><![CDATA[2025-01-13(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬 [빨간모자] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15431&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15431&amp;order=1"/>
+        <updated>2025-01-10T02:52:41.083Z</updated>
+        <content type="html"><![CDATA[2025-01-13(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [랭보] 앵콜 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15429&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15422&amp;order=1"/>
         <updated>2025-01-08T06:25:01.666Z</updated>
         <content type="html"><![CDATA[2025-01-09(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈세일즈맨의 죽음〉 - 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15421&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15421&amp;order=1"/>
-        <updated>2025-01-08T08:23:20.439Z</updated>
-        <content type="html"><![CDATA[2025-01-14(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 뮤지컬 [사랑의 하츄핑] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15420&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15420&amp;order=1"/>
-        <updated>2025-01-08T06:25:01.667Z</updated>
-        <content type="html"><![CDATA[2025-01-13(월) 14:00]]></content>
     </entry>
 </feed>
