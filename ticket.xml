@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-09T23:18:23.134Z</updated>
+    <updated>2025-01-10T01:21:12.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15429"/>
         <updated>2025-01-09T05:16:53.279Z</updated>
         <content type="html"><![CDATA[2025.01.15(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2025 [더 : 매직서커스] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15428</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15428"/>
+        <updated>2025-01-10T01:20:15.302Z</updated>
+        <content type="html"><![CDATA[2025.01.13(월) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뽀로로와 친구들의 드림콘서트〈잃어버린 꿈을 찾아서〉- 광주 티켓오픈안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15410"/>
         <updated>2025-01-07T08:21:57.777Z</updated>
         <content type="html"><![CDATA[2025.01.08(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 앤서니브라운 가족뮤지컬 〈우리가족〉 - 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15409</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15409"/>
-        <updated>2025-01-07T08:21:57.777Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 09:00]]></content>
     </entry>
 </feed>
