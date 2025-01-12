@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jan 2025 14:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 15:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,28 +218,6 @@
             <content:encoded><![CDATA[2025-01-10(금) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [카포네 밀크] (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/51565</link>
-            <guid>http://ticket.yes24.com/Perf/51565</guid>
-            <pubDate>Mon, 06 Jan 2025 01:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>47,650원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250106/20250106-51565.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 카포네 밀크 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/51565</link>
-            <guid>http://m.ticket.yes24.com/Perf/51565</guid>
-            <pubDate>Mon, 06 Jan 2025 01:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 카포네 밀크
-
-
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">35</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">33,350원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/7(화)~1/19(일)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250106/20250106-51565.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <돈 주앙> 프렌치 오리지널 내한공연 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Perf/52246</link>
             <guid>http://ticket.yes24.com/Perf/52246</guid>
@@ -288,28 +266,26 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241211/20241211-d4a9c778-864b-43ed-921a-6fd3536313cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 3 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51869&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51869&amp;Tab=3</guid>
-            <pubDate>Tue, 10 Dec 2024 09:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.09 ~ 2025.01.12 | 2025.01.14 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241210/20241210-720eb044-56d9-4063-b376-851bedf20e9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 1 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51172&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51172&amp;Tab=2</guid>
-            <pubDate>Tue, 10 Dec 2024 09:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.09 ~ 2025.01.12 | 2025.01.14 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241210/20241210-edf6ef64-8f15-4972-b7e3-c56ec8420317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <알라딘> 한국 초연 서울 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</guid>
             <pubDate>Fri, 10 Jan 2025 01:20:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.22 ~ 2025.03.03 | 2025.03.04 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Sun, 12 Jan 2025 15:16:23 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 12 Jan 2025 15:16:23 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2025.01.10 ~ 2025.03.23 (YES24 티켓 ─ 이벤트 모바일)]]></title>
@@ -358,22 +334,6 @@
             <pubDate>Wed, 11 Dec 2024 10:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>전 배우 사인 프로그램북]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241211/20241211-d4a9c778-864b-43ed-921a-6fd3536313cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.12.09 ~ 2025.01.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51869</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=51869</guid>
-            <pubDate>Tue, 10 Dec 2024 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>1월 18일(토) 11시]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241210/20241210-720eb044-56d9-4063-b376-851bedf20e9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2024.12.09 ~ 2025.01.12 (YES24 티켓 ─ 이벤트 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51172</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51172</guid>
-            <pubDate>Tue, 10 Dec 2024 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;조선 마법사관 진준&gt; (2025.12 국립중앙박물관 극장 용 공연예정)]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241210/20241210-edf6ef64-8f15-4972-b7e3-c56ec8420317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2024.11.22 ~ 2025.03.03 (YES24 티켓 ─ 이벤트 모바일)]]></title>
