@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-13T01:22:59.355Z</updated>
+    <updated>2025-01-13T02:55:26.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2025 어린이베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15438&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15438&amp;order=1"/>
+        <updated>2025-01-13T02:54:44.716Z</updated>
+        <content type="html"><![CDATA[2025-01-14(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 LVUP TONIGHT 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15437&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15428&amp;order=1"/>
         <updated>2025-01-10T01:20:23.579Z</updated>
         <content type="html"><![CDATA[2025-01-13(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽀로로와 친구들의 드림콘서트〈잃어버린 꿈을 찾아서〉- 광주 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15427&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15427&amp;order=1"/>
-        <updated>2025-01-09T01:18:02.489Z</updated>
-        <content type="html"><![CDATA[2025-01-10(금) 09:00]]></content>
     </entry>
 </feed>
