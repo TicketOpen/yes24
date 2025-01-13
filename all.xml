@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 05:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 06:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,28 +218,12 @@
             <content:encoded><![CDATA[2025-01-15(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈시라노〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/51331</link>
-            <guid>http://ticket.yes24.com/Perf/51331</guid>
-            <pubDate>Mon, 13 Jan 2025 01:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250113/20250113-51331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [시지프스] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/51311</link>
             <guid>http://ticket.yes24.com/Perf/51311</guid>
             <pubDate>Mon, 13 Jan 2025 01:22:24 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									70,000원								</td>								<td class="dc_price">									<em>→</em>39,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250113/20250113-51311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오페레타 뮤지컬 [판타지아] 시즌 3 - 월드 오케스트 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/51869</link>
-            <guid>http://ticket.yes24.com/Perf/51869</guid>
-            <pubDate>Mon, 13 Jan 2025 01:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>32,250원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250113/20250113-51869.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 톡톡 : 연극열전10_네 번째 작품 (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -250,17 +234,33 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202412/20241226/20241226-51288.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 톡톡 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/51288</link>
-            <guid>http://m.ticket.yes24.com/Perf/51288</guid>
+            <title><![CDATA[뮤지컬 〈시라노〉 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/51331</link>
+            <guid>http://ticket.yes24.com/Perf/51331</guid>
+            <pubDate>Mon, 13 Jan 2025 01:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250113/20250113-51331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오페레타 뮤지컬 [판타지아] 시즌 3 - 월드 오케스트 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/51869</link>
+            <guid>http://ticket.yes24.com/Perf/51869</guid>
+            <pubDate>Mon, 13 Jan 2025 01:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>32,250원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250113/20250113-51869.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 시지프스 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/51311</link>
+            <guid>http://m.ticket.yes24.com/Perf/51311</guid>
             <pubDate>Mon, 13 Jan 2025 01:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">연극 톡톡</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">35</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">60,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">36,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/14~2/2
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 시지프스
 
-</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202412/20241226/20241226-51288.jpg" length="0" type="image/jpg"/>
+</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">50,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">27,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/14(화)~1/26(일) 회차</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250113/20250113-51311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오페레타 뮤지컬 [판타지아] 시즌 3 - 월드 오케스트라 챔피언십 우승을 차지하라! (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -289,17 +289,17 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250113/20250113-51331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 시지프스 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/51311</link>
-            <guid>http://m.ticket.yes24.com/Perf/51311</guid>
+            <title><![CDATA[연극 톡톡 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/51288</link>
+            <guid>http://m.ticket.yes24.com/Perf/51288</guid>
             <pubDate>Mon, 13 Jan 2025 01:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 시지프스
+            <content:encoded><![CDATA[<p class="goods_name">연극 톡톡</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">35</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">60,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">36,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/14~2/2
 
-</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">50,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">27,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">1/14(화)~1/26(일) 회차</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250113/20250113-51311.jpg" length="0" type="image/jpg"/>
+</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202412/20241226/20241226-51288.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <돈 주앙> 프렌치 오리지널 내한공연 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
