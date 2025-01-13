@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-13T03:27:47.129Z</updated>
+    <updated>2025-01-13T04:22:39.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 라이브가족뮤지컬 〈프린세스공주〉- 청주 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15442</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15442"/>
+        <updated>2025-01-13T04:21:49.062Z</updated>
+        <content type="html"><![CDATA[2025.01.15(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 라이브 가족뮤지컬〈커다란방귀〉 - 용인 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15441</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15423"/>
         <updated>2025-01-08T08:23:11.686Z</updated>
         <content type="html"><![CDATA[2025.01.10(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 2025 가족매직쇼 [매직키즈마술쇼] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15422</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15422"/>
-        <updated>2025-01-08T06:24:53.523Z</updated>
-        <content type="html"><![CDATA[2025.01.09(목) 09:00]]></content>
     </entry>
 </feed>
