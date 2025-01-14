@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-14T02:41:54.269Z</updated>
+    <updated>2025-01-14T03:18:39.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 라이브가족뮤지컬 [피터래빗] - 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15447</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15447"/>
+        <updated>2025-01-14T03:17:38.905Z</updated>
+        <content type="html"><![CDATA[2025.01.20(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Live on 서울(라이브온서울) LUCY(루시), Daybreak(데이브레이크) 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15446</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15426"/>
         <updated>2025-01-09T01:17:53.634Z</updated>
         <content type="html"><![CDATA[2025.01.10(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매뮤지컬 [베르테르] 25주년 공연 - YES24DAY 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15425</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15425"/>
-        <updated>2025-01-08T08:23:11.685Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 11:00]]></content>
     </entry>
 </feed>
