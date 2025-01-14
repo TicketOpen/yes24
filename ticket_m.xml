@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-14T06:24:31.539Z</updated>
+    <updated>2025-01-14T07:16:38.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극〈스타크로스드〉 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15451&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15451&amp;order=1"/>
+        <updated>2025-01-14T07:15:49.755Z</updated>
+        <content type="html"><![CDATA[2025-01-17(금) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2025 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15449&amp;order=1</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[2025-01-20(월) 20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대구] 2025 라이브 가족뮤지컬 [피터래빗]]]></title>
+        <title type="html"><![CDATA[[대구]2025 어린이베스트셀러 뮤지컬 [피터래빗]]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15444&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15444&amp;order=1"/>
         <updated>2025-01-14T05:16:12.584Z</updated>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15439&amp;order=1"/>
         <updated>2025-01-13T03:26:54.754Z</updated>
         <content type="html"><![CDATA[2025-01-23(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2025 어린이베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15438&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15438&amp;order=1"/>
-        <updated>2025-01-13T02:54:44.716Z</updated>
-        <content type="html"><![CDATA[2025-01-14(화) 09:00]]></content>
     </entry>
 </feed>
