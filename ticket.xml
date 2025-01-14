@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-14T07:16:38.386Z</updated>
+    <updated>2025-01-14T08:22:31.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매Shuka Saito Concert 「Shuen 2025 -Koi No Ashioto-」 in Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15454</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15454"/>
+        <updated>2025-01-14T08:21:32.137Z</updated>
+        <content type="html"><![CDATA[2025.01.16(목) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[과천] 2025 가족뮤지컬 [슈퍼 히어로의 똥 닦는 법] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15453</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15453"/>
+        <updated>2025-01-14T08:21:32.140Z</updated>
+        <content type="html"><![CDATA[2025.01.15(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시스템 점검으로 인한 서비스 일시 중지 안내(1/17)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15452</id>
@@ -52,6 +66,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15444"/>
         <updated>2025-01-14T05:16:04.110Z</updated>
         <content type="html"><![CDATA[2025.01.16(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who is Banksy 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15443</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15443"/>
+        <updated>2025-01-14T08:21:32.164Z</updated>
+        <content type="html"><![CDATA[2025.01.20(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 라이브가족뮤지컬 〈프린세스공주〉- 청주 티켓오픈안내]]></title>
@@ -122,26 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15433"/>
         <updated>2025-01-10T05:17:05.902Z</updated>
         <content type="html"><![CDATA[2025.01.15(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 라이브가족뮤지컬〈피터팬〉- 울산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15432</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15432"/>
-        <updated>2025-01-10T02:52:32.398Z</updated>
-        <content type="html"><![CDATA[2025.01.13(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬 [빨간모자] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15431</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15431"/>
-        <updated>2025-01-10T02:52:32.398Z</updated>
-        <content type="html"><![CDATA[2025.01.13(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Xdinary Heroes 공식 팬클럽 Villains 2기 모집 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15430</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15430"/>
-        <updated>2025-01-10T03:24:23.745Z</updated>
-        <content type="html"><![CDATA[2025.01.13(월) 13:00]]></content>
     </entry>
 </feed>
