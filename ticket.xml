@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-14T08:22:31.610Z</updated>
+    <updated>2025-01-14T09:18:38.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Rokudenashi 1st Oneman Live「Not Just A Memory」Live In Korea 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15455</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15455"/>
+        <updated>2025-01-14T09:17:40.630Z</updated>
+        <content type="html"><![CDATA[2025.01.20(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Shuka Saito Concert 「Shuen 2025 -Koi No Ashioto-」 in Seoul 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15454</id>
@@ -135,13 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15434</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15434"/>
         <updated>2025-01-10T05:17:05.901Z</updated>
-        <content type="html"><![CDATA[2025.01.15(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요나스 카우프만 리사이틀 - 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15433</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15433"/>
-        <updated>2025-01-10T05:17:05.902Z</updated>
         <content type="html"><![CDATA[2025.01.15(수) 14:00]]></content>
     </entry>
 </feed>

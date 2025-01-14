@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-14T08:22:31.621Z</updated>
+    <updated>2025-01-14T09:18:38.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Rokudenashi 1st Oneman Live「Not Just A Memory」Live In Korea 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15455&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15455&amp;order=1"/>
+        <updated>2025-01-14T09:17:52.593Z</updated>
+        <content type="html"><![CDATA[2025-01-20(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shuka Saito Concert 「Shuen 2025 -Koi No Ashioto-」 in Seoul 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15454&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15443&amp;order=1"/>
         <updated>2025-01-14T08:21:40.672Z</updated>
         <content type="html"><![CDATA[2025-01-20(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 라이브가족뮤지컬 〈프린세스공주〉- 청주 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15442&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15442&amp;order=1"/>
-        <updated>2025-01-13T04:21:56.227Z</updated>
-        <content type="html"><![CDATA[2025-01-15(수) 09:00]]></content>
     </entry>
 </feed>
