@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-14T04:20:42.659Z</updated>
+    <updated>2025-01-14T05:17:00.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2025 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15449</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15449"/>
+        <updated>2025-01-14T05:16:04.102Z</updated>
+        <content type="html"><![CDATA[2025.01.15(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 라이브가족뮤지컬 [피터래빗] - 부산 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15447</id>
@@ -25,6 +32,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15445"/>
         <updated>2025-01-14T02:41:05.722Z</updated>
         <content type="html"><![CDATA[2025.01.20(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 라이브 가족뮤지컬 [피터래빗]]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15444</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15444"/>
+        <updated>2025-01-14T05:16:04.110Z</updated>
+        <content type="html"><![CDATA[2025.01.16(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 라이브가족뮤지컬 〈프린세스공주〉- 청주 티켓오픈안내]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15428"/>
         <updated>2025-01-10T01:20:15.302Z</updated>
         <content type="html"><![CDATA[2025.01.13(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽀로로와 친구들의 드림콘서트〈잃어버린 꿈을 찾아서〉- 광주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15427</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15427"/>
-        <updated>2025-01-09T01:17:53.634Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 라이브 가족뮤지컬〈아기돼지삼형제〉- 청주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15426</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15426"/>
-        <updated>2025-01-09T01:17:53.634Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 09:00]]></content>
     </entry>
 </feed>
