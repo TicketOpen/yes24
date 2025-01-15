@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-15T01:17:52.179Z</updated>
+    <updated>2025-01-15T02:43:57.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한웅재 찬송가3집 발매기념 “그대와 나의 노래” 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15458&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15458&amp;order=1"/>
+        <updated>2025-01-15T02:43:07.268Z</updated>
+        <content type="html"><![CDATA[2025-01-17(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김해] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15456&amp;order=1</id>
@@ -41,6 +48,13 @@
         <content type="html"><![CDATA[2025-01-17(금) 13:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[구리] 2025 앤서니브라운 가족뮤지컬 [우리가족]]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15450&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15450&amp;order=1"/>
+        <updated>2025-01-15T02:43:07.279Z</updated>
+        <content type="html"><![CDATA[2025-01-16(목) 09:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[울산] 2025 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15449&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15449&amp;order=1"/>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15446&amp;order=1"/>
         <updated>2025-01-14T02:41:12.830Z</updated>
         <content type="html"><![CDATA[2025-01-22(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live on 서울(라이브온서울) LUCY(루시), HA SUNG WOON(하성운) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15445&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15445&amp;order=1"/>
-        <updated>2025-01-14T02:41:12.830Z</updated>
-        <content type="html"><![CDATA[2025-01-20(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구]2025 어린이베스트셀러 뮤지컬 [피터래빗]]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15444&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15444&amp;order=1"/>
-        <updated>2025-01-14T05:16:12.584Z</updated>
-        <content type="html"><![CDATA[2025-01-16(목) 09:00]]></content>
     </entry>
 </feed>
