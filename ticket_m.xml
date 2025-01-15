@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-15T07:16:44.513Z</updated>
+    <updated>2025-01-15T08:22:59.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15461&amp;order=1"/>
         <updated>2025-01-15T06:23:48.986Z</updated>
         <content type="html"><![CDATA[2025-01-15(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 앤서니브라운 가족뮤지컬 [우리가족]]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15460&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15460&amp;order=1"/>
+        <updated>2025-01-15T08:22:10.187Z</updated>
+        <content type="html"><![CDATA[2025-01-17(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids 5TH FANMEETING ‘SKZ 5’CLOCK’ 티켓오픈안내]]></title>
@@ -25,6 +32,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15458&amp;order=1"/>
         <updated>2025-01-15T02:43:07.268Z</updated>
         <content type="html"><![CDATA[2025-01-20(월) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2025 라이브가족뮤지컬 [커다란방귀]]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15457&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15457&amp;order=1"/>
+        <updated>2025-01-15T08:22:10.194Z</updated>
+        <content type="html"><![CDATA[2025-01-17(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[김해] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15451&amp;order=1"/>
         <updated>2025-01-14T07:15:49.755Z</updated>
         <content type="html"><![CDATA[2025-01-17(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[구리] 2025 앤서니브라운 가족뮤지컬 [우리가족]]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15450&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15450&amp;order=1"/>
-        <updated>2025-01-15T02:43:07.279Z</updated>
-        <content type="html"><![CDATA[2025-01-16(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2025 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15449&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15449&amp;order=1"/>
-        <updated>2025-01-14T05:16:12.581Z</updated>
-        <content type="html"><![CDATA[2025-01-15(수) 14:00]]></content>
     </entry>
 </feed>

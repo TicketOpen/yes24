@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 엔젤티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 07:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 08:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 13 Jan 2025 01:22:24 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									150,000원								</td>								<td class="dc_price">									<em>→</em>117,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250113/20250113-51331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 톡톡 : 연극열전10_네 번째 작품]]></title>
+            <link>http://ticket.yes24.com/Perf/51288</link>
+            <guid>http://ticket.yes24.com/Perf/51288</guid>
+            <pubDate>Mon, 13 Jan 2025 01:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>일반석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>36,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202412/20241226/20241226-51288.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오페레타 뮤지컬 [판타지아] 시즌 3 - 월드 오케스트]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Mon, 13 Jan 2025 01:22:24 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									70,000원								</td>								<td class="dc_price">									<em>→</em>39,600원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202501/20250113/20250113-51311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 톡톡 : 연극열전10_네 번째 작품]]></title>
-            <link>http://ticket.yes24.com/Perf/51288</link>
-            <guid>http://ticket.yes24.com/Perf/51288</guid>
-            <pubDate>Mon, 13 Jan 2025 01:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>일반석								</td>								<td class="price">									60,000원								</td>								<td class="dc_price">									<em>→</em>36,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202412/20241226/20241226-51288.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
