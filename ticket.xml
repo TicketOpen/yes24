@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-14T23:16:41.320Z</updated>
+    <updated>2025-01-15T01:17:52.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[김해] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15456</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15456"/>
+        <updated>2025-01-15T01:17:02.613Z</updated>
+        <content type="html"><![CDATA[2025.01.20(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rokudenashi 1st Oneman Live「Not Just A Memory」Live In Korea 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15455</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15435"/>
         <updated>2025-01-10T05:17:05.899Z</updated>
         <content type="html"><![CDATA[2025.01.17(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요나스 카우프만 오페라 콘서트 - 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15434</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15434"/>
-        <updated>2025-01-10T05:17:05.901Z</updated>
-        <content type="html"><![CDATA[2025.01.15(수) 14:00]]></content>
     </entry>
 </feed>
