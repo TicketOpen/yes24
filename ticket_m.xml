@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-15T04:21:07.340Z</updated>
+    <updated>2025-01-15T05:18:19.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids 5TH FANMEETING ‘SKZ 5’CLOCK’ 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15459&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15459&amp;order=1"/>
+        <updated>2025-01-15T05:17:36.705Z</updated>
+        <content type="html"><![CDATA[2025-01-23(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한웅재 찬송가3집 발매기념 “그대와 나의 노래” 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15458&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15458&amp;order=1"/>
         <updated>2025-01-15T02:43:07.268Z</updated>
-        <content type="html"><![CDATA[2025-01-17(금) 12:00]]></content>
+        <content type="html"><![CDATA[2025-01-20(월) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[김해] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15447&amp;order=1"/>
         <updated>2025-01-14T03:17:47.791Z</updated>
         <content type="html"><![CDATA[2025-01-20(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live on 서울(라이브온서울) LUCY(루시), Daybreak(데이브레이크) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15446&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15446&amp;order=1"/>
-        <updated>2025-01-14T02:41:12.830Z</updated>
-        <content type="html"><![CDATA[2025-01-22(수) 20:00]]></content>
     </entry>
 </feed>
