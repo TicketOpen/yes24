@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-16T04:20:33.971Z</updated>
+    <updated>2025-01-16T05:17:15.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2025 오르간 시리즈 II. 켄 코완 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15465&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15465&amp;order=1"/>
+        <updated>2025-01-16T05:16:23.940Z</updated>
+        <content type="html"><![CDATA[2025-01-22(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 오르간 시리즈 I. 이베타 압칼나 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15464&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15464&amp;order=1"/>
+        <updated>2025-01-16T05:16:23.943Z</updated>
+        <content type="html"><![CDATA[2025-01-22(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국악관현악단 결 제3회 정기연주회 ‘Conversion [逆]’ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15463&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15455&amp;order=1"/>
         <updated>2025-01-14T09:17:52.593Z</updated>
         <content type="html"><![CDATA[2025-01-20(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shuka Saito Concert 「Shuen 2025 -Koi No Ashioto-」 in Seoul 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15454&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15454&amp;order=1"/>
-        <updated>2025-01-14T08:21:40.658Z</updated>
-        <content type="html"><![CDATA[2025-01-16(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과천] 2025 가족뮤지컬 [슈퍼 히어로의 똥 닦는 법] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15453&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15453&amp;order=1"/>
-        <updated>2025-01-14T08:21:40.662Z</updated>
-        <content type="html"><![CDATA[2025-01-15(수) 09:00]]></content>
     </entry>
 </feed>
