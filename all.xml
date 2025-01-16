@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-16T10:21:34.354Z</updated>
+    <updated>2025-01-16T11:15:37.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -73,20 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15458&amp;order=1"/>
         <updated>2025-01-15T02:43:07.268Z</updated>
         <content type="html"><![CDATA[2025-01-20(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[매거진 수신회원] 뮤지컬 2,000원 할인 (YES24 티켓 ─ 쿠폰)]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2025-01-16T10:21:26.698Z</updated>
-        <content type="html"><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
-				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2025-01-16T10:21:26.700Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2012.02.09 ~ 2030.12.31</dd><dt>사용기간</dt><dd>2012.02.09 ~ 2030.12.31</dd>]]></content>
     </entry>
 </feed>
