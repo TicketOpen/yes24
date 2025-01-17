@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-17T04:21:35.833Z</updated>
+    <updated>2025-01-17T05:17:40.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 팡팡 벌룬서커스 대작전 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15479&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15479&amp;order=1"/>
+        <updated>2025-01-17T05:16:37.160Z</updated>
+        <content type="html"><![CDATA[2025-01-24(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SM CLASSICS LIVE 2025 with 서울시립교향악단 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15478&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15468&amp;order=1"/>
         <updated>2025-01-16T20:18:34.433Z</updated>
         <content type="html"><![CDATA[2025-01-20(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 앤서니브라운 가족뮤지컬 [우리가족] - 화성 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15467&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15467&amp;order=1"/>
-        <updated>2025-01-16T20:18:34.433Z</updated>
-        <content type="html"><![CDATA[2025-01-21(화) 09:00]]></content>
     </entry>
 </feed>
