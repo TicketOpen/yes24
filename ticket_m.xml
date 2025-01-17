@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-17T02:42:34.086Z</updated>
+    <updated>2025-01-17T03:20:16.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15476&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15476&amp;order=1"/>
         <updated>2025-01-17T02:41:53.970Z</updated>
-        <content type="html"><![CDATA[2025-01-23(목) 11:00]]></content>
+        <content type="html"><![CDATA[2025-01-23(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [카포네 밀크] 4차 티켓오픈 안내]]></title>
@@ -18,6 +18,34 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15475&amp;order=1"/>
         <updated>2025-01-17T02:41:53.975Z</updated>
         <content type="html"><![CDATA[2025-01-22(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인천] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15472&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15472&amp;order=1"/>
+        <updated>2025-01-17T03:19:24.607Z</updated>
+        <content type="html"><![CDATA[2025-01-23(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천안] 뮤지컬 타키포오 [몬스터 전쟁의 서막；더 좀비] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15471&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15471&amp;order=1"/>
+        <updated>2025-01-17T03:19:24.607Z</updated>
+        <content type="html"><![CDATA[2025-01-23(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM CLASSICS LIVE 2025 with 서울시립교향악단 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15470&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15470&amp;order=1"/>
+        <updated>2025-01-17T03:19:24.608Z</updated>
+        <content type="html"><![CDATA[2025-01-21(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 뮤지컬 타키포오 [몬스터 전쟁의 서막；더 좀비] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15469&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15469&amp;order=1"/>
+        <updated>2025-01-17T03:19:24.610Z</updated>
+        <content type="html"><![CDATA[2025-01-23(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉마지막 티켓오픈 안내]]></title>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15465&amp;order=1"/>
         <updated>2025-01-16T20:18:34.436Z</updated>
         <content type="html"><![CDATA[2025-01-22(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 오르간 시리즈 I. 이베타 압칼나 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15464&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15464&amp;order=1"/>
-        <updated>2025-01-16T20:18:34.439Z</updated>
-        <content type="html"><![CDATA[2025-01-22(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국악관현악단 결 제3회 정기연주회 ‘Conversion [逆]’ 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15463&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15463&amp;order=1"/>
-        <updated>2025-01-16T20:18:34.442Z</updated>
-        <content type="html"><![CDATA[2025-01-17(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 2025 [더：매직서커스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15461&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15461&amp;order=1"/>
-        <updated>2025-01-16T20:18:34.444Z</updated>
-        <content type="html"><![CDATA[2025-01-15(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 앤서니브라운 가족뮤지컬 [우리가족]]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15460&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15460&amp;order=1"/>
-        <updated>2025-01-16T20:18:34.445Z</updated>
-        <content type="html"><![CDATA[2025-01-17(금) 09:00]]></content>
     </entry>
 </feed>
