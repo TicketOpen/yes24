@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-20T01:18:38.956Z</updated>
+    <updated>2025-01-20T02:47:29.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[김해] 뮤지컬 헬로카봇 시즌8 [미래연구소를 지켜라!] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15491&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15491&amp;order=1"/>
+        <updated>2025-01-20T02:46:39.210Z</updated>
+        <content type="html"><![CDATA[2025-01-23(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바리톤 크리스티안 게르하허 리사이틀 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15489&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15489&amp;order=1"/>
+        <updated>2025-01-20T02:46:39.211Z</updated>
+        <content type="html"><![CDATA[2025-01-20(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[용인] 뮤지컬 헬로카봇 시즌8 [미래연구소를 지켜라!] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15488&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15488&amp;order=1"/>
+        <updated>2025-01-20T02:46:39.212Z</updated>
+        <content type="html"><![CDATA[2025-01-23(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remember 젊음의 행진 - 대전 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15487&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15481&amp;order=1"/>
         <updated>2025-01-18T08:19:21.773Z</updated>
         <content type="html"><![CDATA[2025-01-24(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 팡팡 벌룬서커스 대작전 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15480&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15480&amp;order=1"/>
-        <updated>2025-01-18T08:19:21.774Z</updated>
-        <content type="html"><![CDATA[2025-01-24(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 팡팡 벌룬서커스 대작전 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15479&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15479&amp;order=1"/>
-        <updated>2025-01-18T08:19:21.776Z</updated>
-        <content type="html"><![CDATA[2025-01-24(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM CLASSICS LIVE 2025 with 서울시립교향악단 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15478&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15478&amp;order=1"/>
-        <updated>2025-01-18T08:19:21.778Z</updated>
-        <content type="html"><![CDATA[2025-01-22(수) 11:00]]></content>
     </entry>
 </feed>
