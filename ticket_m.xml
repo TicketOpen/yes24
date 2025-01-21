@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-21T04:21:07.026Z</updated>
+    <updated>2025-01-21T05:18:08.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 KANGTA LIVE WORKSHOP - Studio Camp with KANGTA 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15500&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15500&amp;order=1"/>
+        <updated>2025-01-21T05:17:20.240Z</updated>
+        <content type="html"><![CDATA[2025-02-05(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE PLAYER Season 1 〈Daybreak X LUCY〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15499&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15499&amp;order=1"/>
+        <updated>2025-01-21T05:17:20.240Z</updated>
+        <content type="html"><![CDATA[2025-01-28(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG아트센터 서울 2025년 기획공연 시즌 CoMPAS 25 티켓 오픈]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15498&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15491&amp;order=1"/>
         <updated>2025-01-20T19:13:21.538Z</updated>
         <content type="html"><![CDATA[2025-01-23(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바리톤 크리스티안 게르하허 리사이틀 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15489&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15489&amp;order=1"/>
-        <updated>2025-01-20T19:13:21.539Z</updated>
-        <content type="html"><![CDATA[2025-01-20(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 뮤지컬 헬로카봇 시즌8 [미래연구소를 지켜라!] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15488&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15488&amp;order=1"/>
-        <updated>2025-01-20T19:13:21.540Z</updated>
-        <content type="html"><![CDATA[2025-01-23(목) 14:00]]></content>
     </entry>
 </feed>
