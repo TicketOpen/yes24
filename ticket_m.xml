@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-20T23:16:27.218Z</updated>
+    <updated>2025-01-21T01:16:50.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [반짝반짝 달님이 - 내동생은 천하무적] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15497&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15497&amp;order=1"/>
+        <updated>2025-01-21T01:15:59.938Z</updated>
+        <content type="html"><![CDATA[2025-01-22(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대전시립미술관 특별전 [불멸의 화가 반 고흐] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15496&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15496&amp;order=1"/>
+        <updated>2025-01-21T01:15:59.938Z</updated>
+        <content type="html"><![CDATA[2025-02-05(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국립합창단 3.1절 기념음악회 〈거룩한 함성〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15495&amp;order=1</id>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15487&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15487&amp;order=1"/>
         <updated>2025-01-20T19:13:21.541Z</updated>
-        <content type="html"><![CDATA[2025-01-24(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remember 젊음의 행진 - 대구 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15486&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15486&amp;order=1"/>
-        <updated>2025-01-20T19:13:21.542Z</updated>
-        <content type="html"><![CDATA[2025-01-24(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remember 젊음의 행진 - 서울 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15485&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15485&amp;order=1"/>
-        <updated>2025-01-20T19:13:21.544Z</updated>
         <content type="html"><![CDATA[2025-01-24(금) 10:00]]></content>
     </entry>
 </feed>
