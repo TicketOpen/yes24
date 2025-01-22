@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-22T05:17:41.461Z</updated>
+    <updated>2025-01-22T06:25:14.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[DUETTO 2025 RE WRITE 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15509&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15509&amp;order=1"/>
+        <updated>2025-01-22T06:24:26.151Z</updated>
+        <content type="html"><![CDATA[2025-01-24(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 뮤지컬 [사랑의 하츄핑] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15507&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15499&amp;order=1"/>
         <updated>2025-01-22T05:16:51.235Z</updated>
         <content type="html"><![CDATA[2025-01-28(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG아트센터 서울 2025년 기획공연 시즌 CoMPAS 25 티켓 오픈 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15498&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15498&amp;order=1"/>
-        <updated>2025-01-22T05:16:51.239Z</updated>
-        <content type="html"><![CDATA[2025-02-04(화) 11:00]]></content>
     </entry>
 </feed>
