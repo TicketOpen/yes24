@@ -1,153 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 18:24:22 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[울산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15514&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15514&amp;order=1</guid>
-            <pubDate>Thu, 23 Jan 2025 09:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-04(화) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대전] 2025 [더：매직서커스] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15513&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15513&amp;order=1</guid>
-            <pubDate>Thu, 23 Jan 2025 08:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-04(화) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SHIN SOOHYUN SOLO CONCERT [ I AM ] IN SEOUL 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15512&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15512&amp;order=1</guid>
-            <pubDate>Thu, 23 Jan 2025 05:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-03(월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부산] 2025 라이브 가족뮤지컬 [정글북] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15511&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15511&amp;order=1</guid>
-            <pubDate>Thu, 23 Jan 2025 01:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-03(월) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈로미오 앤 줄리〉 혜공 전관 - 그래이공 DAY 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15510&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15510&amp;order=1</guid>
-            <pubDate>Wed, 22 Jan 2025 10:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-24(금) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 Utagokoro Rie in Seoul ‘Sing A Soul’ 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15508&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15508&amp;order=1</guid>
-            <pubDate>Wed, 22 Jan 2025 09:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-24(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[수원] 뮤지컬 [사랑의 하츄핑] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15507&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15507&amp;order=1</guid>
-            <pubDate>Wed, 22 Jan 2025 05:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-24(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이천] 2025 앤서니브라운 가족뮤지컬 [우리가족] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15506&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15506&amp;order=1</guid>
-            <pubDate>Wed, 22 Jan 2025 05:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-03(월) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[울산] 2025 [더：매직서커스] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15505&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15505&amp;order=1</guid>
-            <pubDate>Wed, 22 Jan 2025 05:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-03(월) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아티스타 [문학 속에 흐르는 클래식 ‘무라카미 하루키’] - 부산 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15504&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15504&amp;order=1</guid>
-            <pubDate>Wed, 22 Jan 2025 05:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-31(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [알라딘] 한국 초연 (ALADDIN The Musical) - YES24DAY 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Perf/51603</link>
-            <guid>http://ticket.yes24.com/Perf/51603</guid>
-            <pubDate>Thu, 23 Jan 2025 18:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.22 ~ 2025.02.02 | 2025.02.06 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250122/20250122-03a9b757-0d9e-4a47-be3f-3ac83450e6fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 3 - 월드 오케스트라 챔피언십 우승을 차지하라! 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Perf/51869</link>
-            <guid>http://ticket.yes24.com/Perf/51869</guid>
-            <pubDate>Thu, 23 Jan 2025 18:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.21 ~ 2025.02.23 | 2025.02.28 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250121/20250121-5787cc29-5ce7-4a8a-9376-17c3b27f0665.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <시지프스> 후기이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Perf/51311</link>
-            <guid>http://ticket.yes24.com/Perf/51311</guid>
-            <pubDate>Thu, 23 Jan 2025 18:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.23 ~ 2025.02.23 | 2025.02.26 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250121/20250121-1a2283ed-8526-4194-b7fc-2a7f7010cf36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 설프라이즈 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=-1</guid>
-            <pubDate>Thu, 23 Jan 2025 18:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.24 ~ 2025.01.30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250123/20250123-02a9c7d9-e214-4e6b-af1e-bd3adbe77ea3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [사랑의 하츄핑] 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51752&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51752&amp;Tab=2</guid>
-            <pubDate>Thu, 23 Jan 2025 18:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.08 ~ 2025.02.16 | 2025.02.25 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250117/20250117-4beaea49-7258-48d6-89ad-6bc857b661ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <돈 주앙> 프렌치 오리지널 내한공연 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Perf/52246</link>
-            <guid>http://ticket.yes24.com/Perf/52246</guid>
-            <pubDate>Thu, 23 Jan 2025 18:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.10 ~ 2025.03.23 | 2025.03.25 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250109/20250109-43431384-1d26-49be-a581-3c74307c78ef.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <비긴즈 장화 신은 고양이> - 플레이버전 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=2</guid>
-            <pubDate>Thu, 23 Jan 2025 18:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.30 ~ 2025.03.02 | 2025.03.06 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241230/20241230-b4474ec5-f96c-4846-9872-e41a9960cebb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <더 픽션> 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=2</guid>
-            <pubDate>Thu, 23 Jan 2025 18:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.20 ~ 2025.03.09 | 2025.03.11 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241220/20241220-d1860d6c-8c63-47d7-b2a7-9c7ce71031be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈톡톡〉 : 연극열전10_네 번째 작품에 대한 공연 관람후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51288&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51288&amp;Tab=2</guid>
-            <pubDate>Thu, 23 Jan 2025 18:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.10 ~ 2025.02.16 | 2025.02.17 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241211/20241211-d4a9c778-864b-43ed-921a-6fd3536313cd.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://TicketOpen.github.io/yes24/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2025-01-23T19:14:36.531Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15514&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15514&amp;order=1"/>
+        <updated>2025-01-23T09:18:37.674Z</updated>
+        <content type="html"><![CDATA[2025-02-04(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2025 [더：매직서커스] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15513&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15513&amp;order=1"/>
+        <updated>2025-01-23T08:22:25.647Z</updated>
+        <content type="html"><![CDATA[2025-02-04(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHIN SOOHYUN SOLO CONCERT [ I AM ] IN SEOUL 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15512&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15512&amp;order=1"/>
+        <updated>2025-01-23T05:16:37.790Z</updated>
+        <content type="html"><![CDATA[2025-02-03(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 라이브 가족뮤지컬 [정글북] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15511&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15511&amp;order=1"/>
+        <updated>2025-01-23T01:16:19.811Z</updated>
+        <content type="html"><![CDATA[2025-02-03(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈로미오 앤 줄리〉 혜공 전관 - 그래이공 DAY 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15510&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15510&amp;order=1"/>
+        <updated>2025-01-22T10:16:51.098Z</updated>
+        <content type="html"><![CDATA[2025-01-24(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Utagokoro Rie in Seoul ‘Sing A Soul’ 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15508&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15508&amp;order=1"/>
+        <updated>2025-01-22T09:18:49.581Z</updated>
+        <content type="html"><![CDATA[2025-01-24(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[수원] 뮤지컬 [사랑의 하츄핑] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15507&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15507&amp;order=1"/>
+        <updated>2025-01-22T05:16:51.227Z</updated>
+        <content type="html"><![CDATA[2025-01-24(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이천] 2025 앤서니브라운 가족뮤지컬 [우리가족] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15506&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15506&amp;order=1"/>
+        <updated>2025-01-22T05:16:51.227Z</updated>
+        <content type="html"><![CDATA[2025-02-03(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2025 [더：매직서커스] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15505&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15505&amp;order=1"/>
+        <updated>2025-01-22T05:16:51.228Z</updated>
+        <content type="html"><![CDATA[2025-02-03(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아티스타 [문학 속에 흐르는 클래식 ‘무라카미 하루키’] - 부산 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15504&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15504&amp;order=1"/>
+        <updated>2025-01-22T05:16:51.229Z</updated>
+        <content type="html"><![CDATA[2025-01-31(금) 14:00]]></content>
+    </entry>
+</feed>
