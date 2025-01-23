@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-22T23:16:57.524Z</updated>
+    <updated>2025-01-23T01:17:08.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 라이브 가족뮤지컬 [정글북] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15511&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15511&amp;order=1"/>
+        <updated>2025-01-23T01:16:19.811Z</updated>
+        <content type="html"><![CDATA[2025-02-03(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈로미오 앤 줄리〉 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15510&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15501&amp;order=1"/>
         <updated>2025-01-22T05:16:51.233Z</updated>
         <content type="html"><![CDATA[2025-01-23(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 KANGTA LIVE WORKSHOP - Studio Camp with KANGTA 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15500&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15500&amp;order=1"/>
-        <updated>2025-01-22T05:16:51.234Z</updated>
-        <content type="html"><![CDATA[2025-02-05(수) 14:00]]></content>
     </entry>
 </feed>
