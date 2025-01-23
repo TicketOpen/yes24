@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/yes24/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-23T08:23:10.681Z</updated>
+    <updated>2025-01-23T09:19:19.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15514&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15514&amp;order=1"/>
+        <updated>2025-01-23T09:18:37.674Z</updated>
+        <content type="html"><![CDATA[2025-02-04(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2025 [더：매직서커스] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15513&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15504&amp;order=1"/>
         <updated>2025-01-22T05:16:51.229Z</updated>
         <content type="html"><![CDATA[2025-01-31(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈baby selects "2hollis" 아시아 투어 서울 공연〉 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15503&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15503&amp;order=1"/>
-        <updated>2025-01-22T05:16:51.230Z</updated>
-        <content type="html"><![CDATA[2025-01-31(금) 18:00]]></content>
     </entry>
 </feed>
