@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-23T23:17:17.802Z</updated>
+    <updated>2025-01-24T01:17:23.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈웃는 남자〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15515&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15515&amp;order=1"/>
+        <updated>2025-01-24T01:16:34.063Z</updated>
+        <content type="html"><![CDATA[2025-02-05(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15514&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15505&amp;order=1"/>
         <updated>2025-01-22T05:16:51.228Z</updated>
         <content type="html"><![CDATA[2025-02-03(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아티스타 [문학 속에 흐르는 클래식 ‘무라카미 하루키’] - 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15504&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15504&amp;order=1"/>
-        <updated>2025-01-22T05:16:51.229Z</updated>
-        <content type="html"><![CDATA[2025-01-31(금) 14:00]]></content>
     </entry>
 </feed>
