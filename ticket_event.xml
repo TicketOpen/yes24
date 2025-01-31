@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
-    <title>YES24 티켓 ─ 이벤트</title>
-    <updated>2025-01-31T07:17:12.304Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://ticket.yes24.com/New/Events/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 이벤트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 31 Jan 2025 08:21:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 [알라딘] 한국 초연 (ALADDIN The Musical) - YES24DAY 관람 후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Perf/51603</link>
+            <guid>http://ticket.yes24.com/Perf/51603</guid>
+            <pubDate>Fri, 31 Jan 2025 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.22 ~ 2025.02.02 | 2025.02.06 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250122/20250122-03a9b757-0d9e-4a47-be3f-3ac83450e6fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 3 - 월드 오케스트라 챔피언십 우승을 차지하라! 후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Perf/51869</link>
+            <guid>http://ticket.yes24.com/Perf/51869</guid>
+            <pubDate>Fri, 31 Jan 2025 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.21 ~ 2025.02.23 | 2025.02.28 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250121/20250121-5787cc29-5ce7-4a8a-9376-17c3b27f0665.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <시지프스> 후기이벤트]]></title>
+            <link>http://ticket.yes24.com/Perf/51311</link>
+            <guid>http://ticket.yes24.com/Perf/51311</guid>
+            <pubDate>Fri, 31 Jan 2025 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.23 ~ 2025.02.23 | 2025.02.26 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250121/20250121-1a2283ed-8526-4194-b7fc-2a7f7010cf36.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [사랑의 하츄핑] 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51752&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51752&amp;Tab=2</guid>
+            <pubDate>Fri, 31 Jan 2025 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.08 ~ 2025.02.16 | 2025.02.25 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250117/20250117-4beaea49-7258-48d6-89ad-6bc857b661ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <돈 주앙> 프렌치 오리지널 내한공연 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Perf/52246</link>
+            <guid>http://ticket.yes24.com/Perf/52246</guid>
+            <pubDate>Fri, 31 Jan 2025 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.10 ~ 2025.03.23 | 2025.03.25 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250109/20250109-43431384-1d26-49be-a581-3c74307c78ef.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <비긴즈 장화 신은 고양이> - 플레이버전 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51182&amp;Tab=2</guid>
+            <pubDate>Fri, 31 Jan 2025 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.30 ~ 2025.03.02 | 2025.03.06 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241230/20241230-b4474ec5-f96c-4846-9872-e41a9960cebb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <더 픽션> 관람 후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51466&amp;Tab=2</guid>
+            <pubDate>Fri, 31 Jan 2025 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.20 ~ 2025.03.09 | 2025.03.11 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241220/20241220-d1860d6c-8c63-47d7-b2a7-9c7ce71031be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈톡톡〉 : 연극열전10_네 번째 작품에 대한 공연 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51288&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=51288&amp;Tab=2</guid>
+            <pubDate>Fri, 31 Jan 2025 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.10 ~ 2025.02.16 | 2025.02.17 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241211/20241211-d4a9c778-864b-43ed-921a-6fd3536313cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <알라딘> 한국 초연 서울 후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</guid>
+            <pubDate>Fri, 31 Jan 2025 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22 ~ 2025.03.03 | 2025.03.04 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
