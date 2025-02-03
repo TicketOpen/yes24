@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-03T07:19:17.519Z</updated>
+    <updated>2025-02-03T08:24:02.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025년 로맨틱 화이트데이 디너 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15551</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15551"/>
+        <updated>2025-02-03T08:22:40.645Z</updated>
+        <content type="html"><![CDATA[2025.02.06(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 라이브 가족뮤지컬 [어린이캣프렌즈] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15550</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15550"/>
+        <updated>2025-02-03T08:22:40.646Z</updated>
+        <content type="html"><![CDATA[2025.02.06(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈THE이재훈_31년〉 단독 콘서트 부산공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15549</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15549"/>
+        <updated>2025-02-03T08:22:40.646Z</updated>
+        <content type="html"><![CDATA[2025.02.05(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2월 은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(2/6, 2/8, 2/9, 2/16, 2/17)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15548</id>
@@ -122,26 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15532"/>
         <updated>2025-01-31T08:20:57.469Z</updated>
         <content type="html"><![CDATA[2025.02.10(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[광주] 오월오일 전국 클럽 투어 〈Harvest Days〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15531</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15531"/>
-        <updated>2025-01-31T08:20:57.471Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[전주] 오월오일 전국 클럽 투어 〈Harvest Days〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15530</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15530"/>
-        <updated>2025-01-31T08:20:57.472Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[대전] 오월오일 전국 클럽 투어 〈Harvest Days〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15529</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15529"/>
-        <updated>2025-01-31T08:20:57.474Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 17:00]]></content>
     </entry>
 </feed>
