@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-03T04:21:19.719Z</updated>
+    <updated>2025-02-03T05:18:22.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 JISUNG B-day PARTY [FM 2.05 Mhz〈Happy JISUNG Day〉] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15547&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15547&amp;order=1"/>
+        <updated>2025-02-03T05:17:35.401Z</updated>
+        <content type="html"><![CDATA[2025-02-11(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2025 푸에르자 부르타 [아벤] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15546&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15546&amp;order=1"/>
+        <updated>2025-02-03T05:17:35.401Z</updated>
+        <content type="html"><![CDATA[2025-02-10(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids 5TH FANMEETING ‘SKZ 5’CLOCK’ 추가 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15545&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15538&amp;order=1"/>
         <updated>2025-02-02T08:19:22.888Z</updated>
         <content type="html"><![CDATA[2025-02-04(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 JUNGWOO B-day PARTY [CANDY FACTORY] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15537&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15537&amp;order=1"/>
-        <updated>2025-02-02T08:19:22.890Z</updated>
-        <content type="html"><![CDATA[2025-02-10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAY6 3RD WORLD TOUR〈FOREVER YOUNG〉in DAEGU 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15536&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15536&amp;order=1"/>
-        <updated>2025-02-02T08:19:22.891Z</updated>
-        <content type="html"><![CDATA[2025-02-14(금) 20:00]]></content>
     </entry>
 </feed>
