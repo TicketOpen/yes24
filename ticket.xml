@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-04T08:23:09.251Z</updated>
+    <updated>2025-02-04T09:19:29.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 세종시즌 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15554</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15554"/>
+        <updated>2025-02-04T09:18:24.888Z</updated>
+        <content type="html"><![CDATA[2025.02.06(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [니진스키] 프리뷰 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15553</id>
@@ -135,13 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15535</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15535"/>
         <updated>2025-01-31T08:20:57.466Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[부산] 오월오일 전국 클럽 투어 〈Harvest Days〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15534</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15534"/>
-        <updated>2025-01-31T08:20:57.467Z</updated>
         <content type="html"><![CDATA[2025.02.10(월) 19:00]]></content>
     </entry>
 </feed>
