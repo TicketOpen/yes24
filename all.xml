@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 08:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 09:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 Soundberry Theater 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15561</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15561</guid>
+            <pubDate>Wed, 05 Feb 2025 09:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.07(금) 18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[연극 [즐거운 나의 집] 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15560</link>
@@ -140,11 +147,11 @@
             <content:encoded><![CDATA[2025.02.04(화) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [카포네 밀크] 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15541</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15541</guid>
-            <pubDate>Fri, 31 Jan 2025 08:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.05(수) 14:00]]></content:encoded>
+            <title><![CDATA[2025 Soundberry Theater 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15561&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15561&amp;order=1</guid>
+            <pubDate>Wed, 05 Feb 2025 09:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-07(금) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 [즐거운 나의 집] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -208,13 +215,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15552&amp;order=1</guid>
             <pubDate>Tue, 04 Feb 2025 05:17:06 GMT</pubDate>
             <content:encoded><![CDATA[2025-02-06(목) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025년 로맨틱 화이트데이 디너 콘서트 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15551&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15551&amp;order=1</guid>
-            <pubDate>Mon, 03 Feb 2025 08:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-06(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [무명호걸：無名豪傑] - CKL 스테이지 (YES24 티켓 ─ 엔젤티켓)]]></title>
