@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-05T04:21:44.385Z</updated>
+    <updated>2025-02-05T05:19:33.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알라딘> 4월 봄 시즌 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15559</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15559"/>
+        <updated>2025-02-05T05:18:05.335Z</updated>
+        <content type="html"><![CDATA[2025.02.13(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매[부산] 김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15558</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15558"/>
+        <updated>2025-02-05T05:18:05.338Z</updated>
+        <content type="html"><![CDATA[2025.02.11(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [아나키스트] 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15557</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15540"/>
         <updated>2025-01-31T08:20:57.452Z</updated>
         <content type="html"><![CDATA[2025.02.06(목) 16:00<a class="noti-btn-pop" presaletit1="연애인 프리미엄 선예매" presaletit2="" presaletime1="2025.02.06(목) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [라흐 헤스트] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15539</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15539"/>
-        <updated>2025-01-31T08:20:57.458Z</updated>
-        <content type="html"><![CDATA[2025.02.06(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매소호도(小虎島) : im your Rockstar 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15538</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15538"/>
-        <updated>2025-01-31T08:20:57.461Z</updated>
-        <content type="html"><![CDATA[2025.02.04(화) 20:00]]></content>
     </entry>
 </feed>

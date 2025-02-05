@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-05T04:21:44.381Z</updated>
+    <updated>2025-02-05T05:19:33.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알라딘> 4월 봄 시즌 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15559&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15559&amp;order=1"/>
+        <updated>2025-02-05T05:18:17.478Z</updated>
+        <content type="html"><![CDATA[2025-02-13(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15558&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15558&amp;order=1"/>
+        <updated>2025-02-05T05:18:17.479Z</updated>
+        <content type="html"><![CDATA[2025-02-11(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [아나키스트] 혜공 전관 - 그래이공 DAY 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15557&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15550&amp;order=1"/>
         <updated>2025-02-03T08:22:51.956Z</updated>
         <content type="html"><![CDATA[2025-02-06(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈THE이재훈_31년〉 단독 콘서트 부산공연 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15549&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15549&amp;order=1"/>
-        <updated>2025-02-03T08:22:51.957Z</updated>
-        <content type="html"><![CDATA[2025-02-05(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 JISUNG B-day PARTY [FM 2.05 Mhz 〈Happy JISUNG Day〉] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15547&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15547&amp;order=1"/>
-        <updated>2025-02-03T05:17:35.401Z</updated>
-        <content type="html"><![CDATA[2025-02-11(화) 14:00]]></content>
     </entry>
 </feed>
