@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-06T09:19:24.870Z</updated>
+    <updated>2025-02-06T10:20:47.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매YUGYEOM TOUR [TRUSTY] IN SEOUL 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15568</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15568"/>
+        <updated>2025-02-06T10:19:49.786Z</updated>
+        <content type="html"><![CDATA[2025.02.14(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제1262회 서초금요음악회 [별 헤는 밤 - 위대한 유산] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15567</id>
@@ -137,11 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15549"/>
         <updated>2025-02-03T08:22:40.646Z</updated>
         <content type="html"><![CDATA[2025.02.05(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2월 은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(2/6, 2/8, 2/9, 2/16, 2/17)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15548</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15548"/>
-        <updated>2025-02-03T06:24:11.019Z</updated>
     </entry>
 </feed>
