@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-07T04:22:24.818Z</updated>
+    <updated>2025-02-07T05:18:00.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15574"/>
         <updated>2025-02-07T03:21:05.028Z</updated>
         <content type="html"><![CDATA[2025.02.14(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안산] 2025 주현미 콘서트 [The Original] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15573</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15573"/>
+        <updated>2025-02-07T05:16:50.108Z</updated>
+        <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매marasy Piano Live Asia Tour 2025 in Seoul 티켓 오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15555"/>
         <updated>2025-02-05T02:46:28.944Z</updated>
         <content type="html"><![CDATA[2025.02.07(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 세종시즌 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15554</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15554"/>
-        <updated>2025-02-04T09:18:24.888Z</updated>
-        <content type="html"><![CDATA[2025.02.06(목) 10:00]]></content>
     </entry>
 </feed>
