@@ -1,8 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://m.ticket.yes24.com/Event/List.aspx</id>
-    <title>YES24 티켓 ─ 이벤트 모바일</title>
-    <updated>2025-02-09T15:17:18.425Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://m.ticket.yes24.com/Event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 이벤트 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 09 Feb 2025 16:20:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2025.01.21 ~ 2025.02.23]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51869</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51869</guid>
+            <pubDate>Sun, 09 Feb 2025 16:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2025년 12월 국립중앙박물관 극장 용 공연예정]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202501/20250121/20250121-5787cc29-5ce7-4a8a-9376-17c3b27f0665.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2025.01.23 ~ 2025.02.23]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51311</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51311</guid>
+            <pubDate>Sun, 09 Feb 2025 16:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>스페셜 MD]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202501/20250121/20250121-1a2283ed-8526-4194-b7fc-2a7f7010cf36.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2025.01.08 ~ 2025.02.16]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51752</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51752</guid>
+            <pubDate>Sun, 09 Feb 2025 16:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>도미노피자 피자상품권]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202501/20250117/20250117-4beaea49-7258-48d6-89ad-6bc857b661ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2025.01.10 ~ 2025.03.23]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=52246</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=52246</guid>
+            <pubDate>Sun, 09 Feb 2025 16:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;돈 주앙&gt; 프렌치 오리지널 내한공연 4/4(금) 오후 7시30분]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202501/20250109/20250109-43431384-1d26-49be-a581-3c74307c78ef.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.12.30 ~ 2025.03.02]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51182</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51182</guid>
+            <pubDate>Sun, 09 Feb 2025 16:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2025 HJ NEW 뮤지컬 &lt;조선 마법사관 진준&gt; 관람권<br>(2025년 12월 국립중앙박물관 극장 용 공연 예정)]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202412/20241230/20241230-b4474ec5-f96c-4846-9872-e41a9960cebb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.12.20 ~ 2025.03.09]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51466</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51466</guid>
+            <pubDate>Sun, 09 Feb 2025 16:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;더 픽션&gt; 싸인 프로그램 북]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202412/20241220/20241220-d1860d6c-8c63-47d7-b2a7-9c7ce71031be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.12.10 ~ 2025.02.16]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51288</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=51288</guid>
+            <pubDate>Sun, 09 Feb 2025 16:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>전 배우 사인 프로그램북]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202412/20241211/20241211-d4a9c778-864b-43ed-921a-6fd3536313cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2024.11.22 ~ 2025.03.03]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=50841</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=50841</guid>
+            <pubDate>Sun, 09 Feb 2025 16:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>뮤지컬 &lt;알라딘&gt; 캐스트 포스터]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2025.02.04 ~ 2025.02.28]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3593</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3593</guid>
+            <pubDate>Sun, 09 Feb 2025 16:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202502/20250204/20250204-643d0fd7-6aa4-463e-a5c2-69c4119e7d4a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2019.08.09 ~ 2026.08.31]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3019</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 09 Feb 2025 16:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2016.01.01 ~ 2030.12.31]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=2450</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=2450</guid>
+            <pubDate>Sun, 09 Feb 2025 16:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202010/20201027/20201027-ev_list_guide_review.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
