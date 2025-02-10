@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 03:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 04:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -234,6 +234,17 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250210/20250210-52070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 [라파치니의 정원] (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/52070</link>
+            <guid>http://m.ticket.yes24.com/Perf/52070</guid>
+            <pubDate>Mon, 10 Feb 2025 01:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 [라파치니의 정원]</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/11(화)~2/23(일)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250210/20250210-52070.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 〈로미오 앤 줄리 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/51605</link>
             <guid>http://m.ticket.yes24.com/Perf/51605</guid>
@@ -245,17 +256,6 @@
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/11(화)~2/23(일) 회차
 </div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250210/20250210-51605.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [라파치니의 정원] (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/52070</link>
-            <guid>http://m.ticket.yes24.com/Perf/52070</guid>
-            <pubDate>Mon, 10 Feb 2025 01:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 [라파치니의 정원]</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/11(화)~2/23(일)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250210/20250210-52070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 3 - 월드 오케스트라 챔피언십 우승을 차지하라! 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
