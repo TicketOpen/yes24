@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-10T04:22:03.991Z</updated>
+    <updated>2025-02-10T05:19:07.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광명] 2025 라이브 가족뮤지컬 [백설공주] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15591&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15591&amp;order=1"/>
+        <updated>2025-02-10T05:18:16.043Z</updated>
+        <content type="html"><![CDATA[2025-02-13(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 김영흠 콘서트 〈Komma,〉티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15590&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15590&amp;order=1"/>
+        <updated>2025-02-10T05:18:16.044Z</updated>
+        <content type="html"><![CDATA[2025-02-17(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리버틴즈 내한공연 (The Libertines Live in Seoul) 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15589&amp;order=1</id>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15582&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15582&amp;order=1"/>
         <updated>2025-02-09T16:19:19.197Z</updated>
-        <content type="html"><![CDATA[2025-02-10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김해] 정형일 발레단 ‘더 라인 오브 옵세션-몬드리안 [The Line of Obsession-Mondrian]’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15581&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15581&amp;order=1"/>
-        <updated>2025-02-09T16:19:19.198Z</updated>
-        <content type="html"><![CDATA[2025-02-10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김해] 연극 [꽃, 별이 지나] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15580&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15580&amp;order=1"/>
-        <updated>2025-02-09T16:19:19.199Z</updated>
         <content type="html"><![CDATA[2025-02-10(월) 14:00]]></content>
     </entry>
 </feed>
