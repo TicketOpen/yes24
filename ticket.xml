@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-11T02:49:42.204Z</updated>
+    <updated>2025-02-11T03:22:21.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈돈 주앙〉프렌치 오리지널 내한공연 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15599</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15599"/>
+        <updated>2025-02-11T03:21:03.524Z</updated>
+        <content type="html"><![CDATA[2025.02.19(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매윌 하이드(will hyde) 내한 공연 ‘with u in mind’ 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15598</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15598"/>
+        <updated>2025-02-11T03:21:03.525Z</updated>
+        <content type="html"><![CDATA[2025.02.14(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정명훈 × KBS교향악단 〈베토벤 9〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15597</id>
@@ -129,20 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15579</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15579"/>
         <updated>2025-02-10T12:34:47.293Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[김해] 3월 저녁의 음악회 - 뷔에르 앙상블 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15578</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15578"/>
-        <updated>2025-02-10T12:34:47.293Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[김해] 베리어프리（접근성공연）[Hit＆Run] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15577</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15577"/>
-        <updated>2025-02-10T12:34:47.295Z</updated>
         <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
     </entry>
 </feed>
