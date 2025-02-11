@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-11T05:18:31.166Z</updated>
+    <updated>2025-02-11T06:25:29.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬 [정글북] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15604</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15604"/>
+        <updated>2025-02-11T06:24:15.463Z</updated>
+        <content type="html"><![CDATA[2025.02.13(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 뮤지컬 [웃는 남자] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15603</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15584</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15584"/>
         <updated>2025-02-10T12:34:47.282Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[김해] 이머시브 씨어터 [카지노] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15583</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15583"/>
-        <updated>2025-02-10T12:34:47.283Z</updated>
         <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
     </entry>
 </feed>
