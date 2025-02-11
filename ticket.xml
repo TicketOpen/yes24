@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-10T23:18:20.206Z</updated>
+    <updated>2025-02-11T01:18:49.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정명훈 × KBS교향악단 〈베토벤 9〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15597</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15597"/>
+        <updated>2025-02-11T01:17:39.459Z</updated>
+        <content type="html"><![CDATA[2025.02.20(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매NANAOAKARI 7th anniversary stage.2 NANA’s ASIA TOUR 2025 in Seoul 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15596</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15577</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15577"/>
         <updated>2025-02-10T12:34:47.295Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[김해] 음악극 ‘당신이 좋아’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15576</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15576"/>
-        <updated>2025-02-10T12:34:47.297Z</updated>
         <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
     </entry>
 </feed>
