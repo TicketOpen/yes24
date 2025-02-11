@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-11T04:21:16.541Z</updated>
+    <updated>2025-02-11T05:18:31.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 [웃는 남자] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15603</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15603"/>
+        <updated>2025-02-11T05:17:23.788Z</updated>
+        <content type="html"><![CDATA[2025.02.14(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 뮤지컬 [웃는 남자] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15602</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15602"/>
+        <updated>2025-02-11T05:17:23.798Z</updated>
+        <content type="html"><![CDATA[2025.02.14(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-대구공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15601</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15601"/>
+        <updated>2025-02-11T05:17:23.799Z</updated>
+        <content type="html"><![CDATA[2025.02.14(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-안산공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15600</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15600"/>
+        <updated>2025-02-11T05:17:23.802Z</updated>
+        <content type="html"><![CDATA[2025.02.14(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈돈 주앙〉프렌치 오리지널 내한공연 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15599</id>
@@ -115,34 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15583</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15583"/>
         <updated>2025-02-10T12:34:47.283Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[김해] 필하모니코리아 [1882-1901 동유럽의 낭만] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15582</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15582"/>
-        <updated>2025-02-10T12:34:47.286Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[김해] 정형일 발레단 ‘더 라인 오브 옵세션-몬드리안 [The Line of Obsession-Mondrian]’ 티..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15581</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15581"/>
-        <updated>2025-02-10T12:34:47.287Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[김해] 연극 [꽃, 별이 지나] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15580</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15580"/>
-        <updated>2025-02-10T12:34:47.289Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[김해] 말로 재즈 콘서트 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15579</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15579"/>
-        <updated>2025-02-10T12:34:47.293Z</updated>
         <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
     </entry>
 </feed>
