@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-12T01:18:44.893Z</updated>
+    <updated>2025-02-12T02:47:44.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2025 연극 [친정엄마와 2박3일] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15607</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15607"/>
+        <updated>2025-02-12T02:46:37.198Z</updated>
+        <content type="html"><![CDATA[2025.02.17(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬 [정글북] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15604</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15585</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15585"/>
         <updated>2025-02-10T12:34:47.281Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[김해] 5월 저녁의 음악회 [브라스 마켓] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15584</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15584"/>
-        <updated>2025-02-10T12:34:47.282Z</updated>
         <content type="html"><![CDATA[2025.02.10(월) 14:00]]></content>
     </entry>
 </feed>

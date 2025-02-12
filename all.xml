@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 01:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 02:47:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안양] 2025 연극 [친정엄마와 2박3일] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15607</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15607</guid>
+            <pubDate>Wed, 12 Feb 2025 02:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.17(월) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[대구] 2025 라이브가족뮤지컬 [정글북] 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15604</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매[김해] 5월 저녁의 음악회 [브라스 마켓] 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15584</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15584</guid>
-            <pubDate>Mon, 10 Feb 2025 12:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+            <title><![CDATA[[안양] 2025 연극 [친정엄마와 2박3일] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15607&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15607&amp;order=1</guid>
+            <pubDate>Wed, 12 Feb 2025 02:46:48 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-17(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] 2025 라이브가족뮤지컬 [정글북] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,13 +218,6 @@
             <content:encoded><![CDATA[2025-02-18(화) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 LOVESOME - 반 고흐, 영혼의 편지 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15595&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15595&amp;order=1</guid>
-            <pubDate>Mon, 10 Feb 2025 12:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-17(월) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [라파치니의 정원] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/52070</link>
             <guid>http://ticket.yes24.com/Perf/52070</guid>
@@ -234,6 +234,17 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250210/20250210-51605.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 [라파치니의 정원] (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/52070</link>
+            <guid>http://m.ticket.yes24.com/Perf/52070</guid>
+            <pubDate>Mon, 10 Feb 2025 12:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 [라파치니의 정원]</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/11(화)~2/23(일)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250210/20250210-52070.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 〈로미오 앤 줄리 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Perf/51605</link>
             <guid>http://m.ticket.yes24.com/Perf/51605</guid>
@@ -247,15 +258,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250210/20250210-51605.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [라파치니의 정원] (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/52070</link>
-            <guid>http://m.ticket.yes24.com/Perf/52070</guid>
-            <pubDate>Mon, 10 Feb 2025 12:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 [라파치니의 정원]</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">2/11(화)~2/23(일)</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250210/20250210-52070.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[음악극 <노베첸토> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Perf/52537</link>
+            <guid>http://ticket.yes24.com/Perf/52537</guid>
+            <pubDate>Wed, 12 Feb 2025 02:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.12 ~ 2025.03.18 | 2025.03.21 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202502/20250212/20250212-407c417b-536d-4b69-9005-8aa3f4815203.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[토스페이로 예매 시 최대 3천원 할인! (YES24 티켓 ─ 이벤트)]]></title>
@@ -322,12 +330,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202412/20241211/20241211-d4a9c778-864b-43ed-921a-6fd3536313cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <알라딘> 한국 초연 서울 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=50841&amp;Tab=2</guid>
-            <pubDate>Mon, 10 Feb 2025 12:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.22 ~ 2025.03.03 | 2025.03.04 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2025.02.12 ~ 2025.03.18 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=52537</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=52537</guid>
+            <pubDate>Wed, 12 Feb 2025 02:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>음악극 &lt;노베첸토&gt; 3월 29일(토) 7시 공연]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202502/20250212/20250212-407c417b-536d-4b69-9005-8aa3f4815203.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2025.02.10 ~ 2025.12.31 (YES24 티켓 ─ 이벤트 모바일)]]></title>
