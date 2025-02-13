@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-13T06:25:17.807Z</updated>
+    <updated>2025-02-13T07:31:03.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매성동문화재단 소월아트홀 봄바람 콘서트 '너는 나의 봄' 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15616</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15616"/>
+        <updated>2025-02-13T07:29:39.870Z</updated>
+        <content type="html"><![CDATA[2025.02.14(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 뮤지컬 [돈 주앙] 프렌치 오리지널 내한공연 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15615</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15597"/>
         <updated>2025-02-11T01:17:39.459Z</updated>
         <content type="html"><![CDATA[2025.02.20(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매NANAOAKARI 7th anniversary stage.2 NANA’s ASIA TOUR 2025 in Seoul 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15596</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15596"/>
-        <updated>2025-02-10T12:34:47.267Z</updated>
-        <content type="html"><![CDATA[2025.02.18(화) 20:00]]></content>
     </entry>
 </feed>
