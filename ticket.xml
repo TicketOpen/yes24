@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-14T06:24:57.394Z</updated>
+    <updated>2025-02-14T07:17:15.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매이토카시타로 Live in Seoul 「K and K」 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15624</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15624"/>
+        <updated>2025-02-14T07:16:12.812Z</updated>
+        <content type="html"><![CDATA[2025.02.18(화) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2025 어린이베스트셀러 뮤지컬 [콧구멍을후비면] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15623</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15604"/>
         <updated>2025-02-11T06:24:15.463Z</updated>
         <content type="html"><![CDATA[2025.02.13(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤지컬 [웃는 남자] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15603</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15603"/>
-        <updated>2025-02-11T05:17:23.788Z</updated>
-        <content type="html"><![CDATA[2025.02.14(금) 15:00]]></content>
     </entry>
 </feed>
