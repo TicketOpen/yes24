@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-14T02:48:17.961Z</updated>
+    <updated>2025-02-14T03:21:52.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [알라딘] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15619</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15619"/>
+        <updated>2025-02-14T03:20:49.313Z</updated>
+        <content type="html"><![CDATA[2025.02.18(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Have A Nice Day #11 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15618</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15599"/>
         <updated>2025-02-11T03:21:03.524Z</updated>
         <content type="html"><![CDATA[2025.02.19(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매윌 하이드(will hyde) 내한 공연 ‘with u in mind’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15598</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15598"/>
-        <updated>2025-02-11T03:21:03.525Z</updated>
-        <content type="html"><![CDATA[2025.02.14(금) 12:00]]></content>
     </entry>
 </feed>
