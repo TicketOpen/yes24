@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-18T10:20:39.998Z</updated>
+    <updated>2025-02-18T11:15:49.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[RAP:PUBLIC] 2 BLOCK Concert ´HAPPY2GETHER´ 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15639&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15639&amp;order=1"/>
+        <updated>2025-02-18T11:14:48.034Z</updated>
+        <content type="html"><![CDATA[2025-02-21(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유니버설발레단 〈지젤〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15638&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15630&amp;order=1"/>
         <updated>2025-02-18T01:18:33.379Z</updated>
         <content type="html"><![CDATA[2025-02-20(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALL(H)OURS 1st FANCON 〈ALL the HOURS〉 in SEOUL 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15629&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15629&amp;order=1"/>
-        <updated>2025-02-17T09:20:13.051Z</updated>
-        <content type="html"><![CDATA[2025-03-04(화) 20:00]]></content>
     </entry>
 </feed>
