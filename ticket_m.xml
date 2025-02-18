@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-18T05:19:59.771Z</updated>
+    <updated>2025-02-18T06:25:35.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[성남] 뮤지컬 [웃는 남자] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15635&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15635&amp;order=1"/>
+        <updated>2025-02-18T06:24:34.978Z</updated>
+        <content type="html"><![CDATA[2025-02-21(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈프라이드〉 : 연극열전10_다섯 번째 작품 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15634&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15634&amp;order=1"/>
+        <updated>2025-02-18T06:24:34.978Z</updated>
+        <content type="html"><![CDATA[2025-02-26(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 HAPPY MINJUN DAY (송민준 단독 팬미팅) 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15633&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15626&amp;order=1"/>
         <updated>2025-02-17T03:23:58.643Z</updated>
         <content type="html"><![CDATA[2025-02-26(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE PACT (원팩트) 1st fan Meeting ‘CANDY PACTORY’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15625&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15625&amp;order=1"/>
-        <updated>2025-02-17T04:20:57.498Z</updated>
-        <content type="html"><![CDATA[2025-02-21(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이토카시타로 Live in Seoul 「K and K」 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15624&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15624&amp;order=1"/>
-        <updated>2025-02-14T12:33:43.920Z</updated>
-        <content type="html"><![CDATA[2025-02-18(화) 12:00]]></content>
     </entry>
 </feed>
