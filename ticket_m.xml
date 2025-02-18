@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-18T04:21:39.354Z</updated>
+    <updated>2025-02-18T05:19:59.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 HAPPY MINJUN DAY (송민준 단독 팬미팅) 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15633&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15633&amp;order=1"/>
+        <updated>2025-02-18T05:19:09.464Z</updated>
+        <content type="html"><![CDATA[2025-02-21(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HIPHOPPLAYA FESTIVAL 2025 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15632&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15624&amp;order=1"/>
         <updated>2025-02-14T12:33:43.920Z</updated>
         <content type="html"><![CDATA[2025-02-18(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2025 어린이베스트셀러 뮤지컬 [콧구멍을후비면] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15623&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15623&amp;order=1"/>
-        <updated>2025-02-14T12:33:43.922Z</updated>
-        <content type="html"><![CDATA[2025-02-19(수) 09:00]]></content>
     </entry>
 </feed>
