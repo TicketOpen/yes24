@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-18T23:17:33.341Z</updated>
+    <updated>2025-02-19T01:19:48.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[[RAP:PUBLIC] 2 BLOCK Concert ´HAPPY2GETHER´ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[평택] 2025 [어린이마술쇼] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15641</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15641"/>
+        <updated>2025-02-19T01:18:39.826Z</updated>
+        <content type="html"><![CDATA[2025.02.24(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매[RAP:PUBLIC] 2 BLOCK Concert ´HAPPY2GETHER´ 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15639</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15639"/>
         <updated>2025-02-18T11:14:37.244Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15621"/>
         <updated>2025-02-17T02:51:14.184Z</updated>
         <content type="html"><![CDATA[2025.02.18(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 앤서니브라운 가족뮤지컬 [우리아빠가최고야] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15620</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15620"/>
-        <updated>2025-02-17T02:51:14.188Z</updated>
-        <content type="html"><![CDATA[2025.02.19(수) 09:00]]></content>
     </entry>
 </feed>
