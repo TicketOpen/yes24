@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-19T07:18:05.693Z</updated>
+    <updated>2025-02-19T08:24:11.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 세계적인 바리톤 고성현 독창회 [김연준 가곡 콘서트 ‘남자의 사랑과 생애’] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15648&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15648&amp;order=1"/>
+        <updated>2025-02-19T08:23:07.699Z</updated>
+        <content type="html"><![CDATA[2025-02-26(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2025 한국가곡콘서트 [가곡의 별들] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15647&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15647&amp;order=1"/>
+        <updated>2025-02-19T08:23:07.699Z</updated>
+        <content type="html"><![CDATA[2025-02-27(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <시련> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15646&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15638&amp;order=1"/>
         <updated>2025-02-18T09:18:32.305Z</updated>
         <content type="html"><![CDATA[2025-02-28(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15637&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15637&amp;order=1"/>
-        <updated>2025-02-18T09:18:32.305Z</updated>
-        <content type="html"><![CDATA[2025-02-24(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2025 앤서니브라운 가족뮤지컬 [우리아빠가최고야] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15636&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15636&amp;order=1"/>
-        <updated>2025-02-18T09:18:32.308Z</updated>
-        <content type="html"><![CDATA[2025-02-24(월) 09:00]]></content>
     </entry>
 </feed>

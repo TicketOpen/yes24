@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-19T07:18:05.663Z</updated>
+    <updated>2025-02-19T08:24:11.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[부산] 세계적인 바리톤 고성현 독창회 [김연준 가곡 콘서트 ‘남자의 사랑과 생애’] 티켓 오픈..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15648</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15648"/>
+        <updated>2025-02-19T08:22:56.681Z</updated>
+        <content type="html"><![CDATA[2025.02.26(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매[창원] 2025 한국가곡콘서트 [가곡의 별들] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15647</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15647"/>
+        <updated>2025-02-19T08:22:56.682Z</updated>
+        <content type="html"><![CDATA[2025.02.27(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <시련> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15646</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15628"/>
         <updated>2025-02-17T08:24:16.633Z</updated>
         <content type="html"><![CDATA[2025.02.21(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [탐정케이 : 수인마을 전설] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15627</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15627"/>
-        <updated>2025-02-17T08:24:16.634Z</updated>
-        <content type="html"><![CDATA[2025.02.19(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매ASH DA HERO "WORLD TOUR" 2025 IN KOREA 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15626</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15626"/>
-        <updated>2025-02-17T03:23:47.926Z</updated>
-        <content type="html"><![CDATA[2025.02.26(수) 18:00]]></content>
     </entry>
 </feed>
