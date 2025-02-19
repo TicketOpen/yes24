@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-19T04:22:49.493Z</updated>
+    <updated>2025-02-19T05:18:08.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오은영 박사와 함께하는 톡톡(Talk Talk)한 육아, 똑똑한 돌봄 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15645&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15645&amp;order=1"/>
+        <updated>2025-02-19T05:17:22.474Z</updated>
+        <content type="html"><![CDATA[2025-02-25(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 [블러디 러브] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15644&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15644&amp;order=1"/>
+        <updated>2025-02-19T05:17:22.474Z</updated>
+        <content type="html"><![CDATA[2025-02-21(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 EVNNE CONCERT ‘SET N GO’ SEOUL 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15643&amp;order=1</id>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15635&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15635&amp;order=1"/>
         <updated>2025-02-18T06:24:34.978Z</updated>
-        <content type="html"><![CDATA[2025-02-21(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈프라이드〉 : 연극열전10_다섯 번째 작품 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15634&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15634&amp;order=1"/>
-        <updated>2025-02-18T06:24:34.978Z</updated>
-        <content type="html"><![CDATA[2025-02-26(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 HAPPY MINJUN DAY (송민준 단독 팬미팅) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15633&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15633&amp;order=1"/>
-        <updated>2025-02-18T05:19:09.464Z</updated>
         <content type="html"><![CDATA[2025-02-21(금) 14:00]]></content>
     </entry>
 </feed>
