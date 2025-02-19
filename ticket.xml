@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-19T08:24:11.965Z</updated>
+    <updated>2025-02-19T09:19:48.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매제1264회 서초금요음악회 [태고의 소리 흙의 울림 ‘훈’과 ‘율기’] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15649</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15649"/>
+        <updated>2025-02-19T09:18:31.938Z</updated>
+        <content type="html"><![CDATA[2025.02.21(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[부산] 세계적인 바리톤 고성현 독창회 [김연준 가곡 콘서트 ‘남자의 사랑과 생애’] 티켓 오픈..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15648</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15629"/>
         <updated>2025-02-17T09:20:04.124Z</updated>
         <content type="html"><![CDATA[2025.03.04(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2025.02.25(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영도의 자연과 함께 일상에서의 [탈피] - 부산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15628</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15628"/>
-        <updated>2025-02-17T08:24:16.633Z</updated>
-        <content type="html"><![CDATA[2025.02.21(금) 14:00]]></content>
     </entry>
 </feed>
