@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-20T07:17:36.992Z</updated>
+    <updated>2025-02-20T08:23:55.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] SUPER! 수요콘서트 4월 〈대니 구 Primavera〉공연 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15656</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15656"/>
+        <updated>2025-02-20T08:22:43.861Z</updated>
+        <content type="html"><![CDATA[2025.03.04(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [우리 노래방 가서… 얘기 좀 할까] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15655</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15636"/>
         <updated>2025-02-18T09:18:20.004Z</updated>
         <content type="html"><![CDATA[2025.02.24(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 뮤지컬 [웃는 남자] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15635</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15635"/>
-        <updated>2025-02-18T06:24:23.237Z</updated>
-        <content type="html"><![CDATA[2025.02.21(금) 14:00]]></content>
     </entry>
 </feed>
