@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-20T10:20:49.859Z</updated>
+    <updated>2025-02-20T11:16:31.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[go!go!vanillas presents READY STEADY go!go! vol.10 in Seoul（고고바닐라즈 내한공연）티켓오..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15657</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15657"/>
+        <updated>2025-02-20T11:15:13.538Z</updated>
+        <content type="html"><![CDATA[2025.02.28(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] SUPER! 수요콘서트 4월 〈대니 구 Primavera〉공연 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15656</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15637</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15637"/>
         <updated>2025-02-18T09:18:20.002Z</updated>
-        <content type="html"><![CDATA[2025.02.24(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2025 앤서니브라운 가족뮤지컬 [우리아빠가최고야] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15636</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15636"/>
-        <updated>2025-02-18T09:18:20.004Z</updated>
         <content type="html"><![CDATA[2025.02.24(월) 09:00]]></content>
     </entry>
 </feed>
