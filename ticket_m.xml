@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-20T04:21:35.746Z</updated>
+    <updated>2025-02-20T05:18:37.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [우리 노래방 가서… 얘기 좀 할까] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15655&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15655&amp;order=1"/>
+        <updated>2025-02-20T05:17:43.686Z</updated>
+        <content type="html"><![CDATA[2025-02-27(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2025 라이브가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15654&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15646&amp;order=1"/>
         <updated>2025-02-19T06:24:57.028Z</updated>
         <content type="html"><![CDATA[2025-02-26(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오은영 박사와 함께하는 서초 육아힐링 톡톡 ‘톡톡(Talk Talk)한 육아, 똑똑한 돌봄’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15645&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15645&amp;order=1"/>
-        <updated>2025-02-19T05:17:22.474Z</updated>
-        <content type="html"><![CDATA[2025-02-25(화) 09:00]]></content>
     </entry>
 </feed>
