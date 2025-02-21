@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-20T23:18:37.487Z</updated>
+    <updated>2025-02-21T01:20:04.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[xikers 2025 WORLD TOUR [Road to XY : Enter the Gate] IN SEOUL 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15658&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15658&amp;order=1"/>
+        <updated>2025-02-21T01:19:07.317Z</updated>
+        <content type="html"><![CDATA[2025-03-06(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[go!go!vanillas presents READY STEADY go!go! vol.10 in Seoul（고고바닐라즈 내한공연）티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15657&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15649&amp;order=1"/>
         <updated>2025-02-19T09:18:43.607Z</updated>
         <content type="html"><![CDATA[2025-02-21(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 세계적인 바리톤 고성현 독창회 [김연준 가곡 콘서트 ‘남자의 사랑과 생애’] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15648&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15648&amp;order=1"/>
-        <updated>2025-02-19T08:23:07.699Z</updated>
-        <content type="html"><![CDATA[2025-02-26(수) 14:00]]></content>
     </entry>
 </feed>
