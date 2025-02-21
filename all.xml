@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 01:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 02:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 [띨뿌리] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15660</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15660</guid>
+            <pubDate>Fri, 21 Feb 2025 02:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.26(수) 11:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[단독판매xikers 2025 WORLD TOUR [Road to XY : Enter the Gate] IN SEOUL 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15658</link>
@@ -141,11 +148,11 @@
             <content:encoded><![CDATA[2025.02.21(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유니버설발레단 〈지젤〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15638</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15638</guid>
-            <pubDate>Tue, 18 Feb 2025 09:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28(금) 11:00]]></content:encoded>
+            <title><![CDATA[연극 [띨뿌리] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15660&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15660&amp;order=1</guid>
+            <pubDate>Fri, 21 Feb 2025 02:49:59 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-26(수) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[xikers 2025 WORLD TOUR [Road to XY : Enter the Gate] IN SEOUL 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,27 +218,12 @@
             <content:encoded><![CDATA[2025-02-25(화) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제1264회 서초금요음악회 [태고의 소리 흙의 울림 ‘훈’과 ‘율기’] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15649&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15649&amp;order=1</guid>
-            <pubDate>Wed, 19 Feb 2025 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-21(금) 09:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [비긴즈 장화신은 고양이] - 플레이 버전 (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/51182</link>
             <guid>http://ticket.yes24.com/Perf/51182</guid>
             <pubDate>Mon, 17 Feb 2025 01:21:08 GMT</pubDate>
             <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									66,000원								</td>								<td class="dc_price">									<em>→</em>27,300원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250217/20250217-51182.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오페레타 뮤지컬 [판타지아] 시즌 3 - 월드 오케스트 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/51869</link>
-            <guid>http://ticket.yes24.com/Perf/51869</guid>
-            <pubDate>Sat, 15 Feb 2025 21:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>32,250원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250217/20250217-51869.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [더 픽션] (YES24 티켓 ─ 엔젤티켓)]]></title>
@@ -242,15 +234,23 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250217/20250217-51466.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오페레타 뮤지컬 판타지아 시즌3 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/51869</link>
-            <guid>http://m.ticket.yes24.com/Perf/51869</guid>
-            <pubDate>Mon, 17 Feb 2025 01:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">오페레타 뮤지컬 판타지아 시즌3</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">22,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">7,500원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">전회차</div>]]></content:encoded>
+            <title><![CDATA[오페레타 뮤지컬 [판타지아] 시즌 3 - 월드 오케스트 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/51869</link>
+            <guid>http://ticket.yes24.com/Perf/51869</guid>
+            <pubDate>Sat, 15 Feb 2025 21:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>VIP석								</td>								<td class="price">									77,000원								</td>								<td class="dc_price">									<em>→</em>32,250원								</td>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250217/20250217-51869.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 장화 신은 고양이 플레이버전 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/51182</link>
+            <guid>http://m.ticket.yes24.com/Perf/51182</guid>
+            <pubDate>Mon, 17 Feb 2025 01:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 장화 신은 고양이 플레이버전</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">27,300원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">전 회차</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250217/20250217-51182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 더 픽션 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -264,15 +264,15 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250217/20250217-51466.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 장화 신은 고양이 플레이버전 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/51182</link>
-            <guid>http://m.ticket.yes24.com/Perf/51182</guid>
+            <title><![CDATA[오페레타 뮤지컬 판타지아 시즌3 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/51869</link>
+            <guid>http://m.ticket.yes24.com/Perf/51869</guid>
             <pubDate>Mon, 17 Feb 2025 01:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 장화 신은 고양이 플레이버전</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">66,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">27,300원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">전 회차</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250217/20250217-51182.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<p class="goods_name">오페레타 뮤지컬 판타지아 시즌3</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">55</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">22,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">7,500원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">전회차</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202502/20250217/20250217-51869.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <베르테르> - YES24DAY 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>

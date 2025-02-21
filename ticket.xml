@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-21T01:20:04.672Z</updated>
+    <updated>2025-02-21T02:50:54.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [띨뿌리] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15660</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15660"/>
+        <updated>2025-02-21T02:49:47.936Z</updated>
+        <content type="html"><![CDATA[2025.02.26(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매xikers 2025 WORLD TOUR [Road to XY : Enter the Gate] IN SEOUL 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15658</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15639"/>
         <updated>2025-02-18T11:14:37.244Z</updated>
         <content type="html"><![CDATA[2025.02.21(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니버설발레단 〈지젤〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15638</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15638"/>
-        <updated>2025-02-18T09:18:20.001Z</updated>
-        <content type="html"><![CDATA[2025.02.28(금) 11:00]]></content>
     </entry>
 </feed>
