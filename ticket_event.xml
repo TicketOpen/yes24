@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Feb 2025 14:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 15:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,22 +30,6 @@
             <pubDate>Sat, 15 Feb 2025 21:16:19 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.10 ~ 2025.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202502/20250210/20250210-55e6cf75-098e-41f9-8b05-73494b833851.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 3 - 월드 오케스트라 챔피언십 우승을 차지하라! 후기 이벤트]]></title>
-            <link>http://ticket.yes24.com/Perf/51869</link>
-            <guid>http://ticket.yes24.com/Perf/51869</guid>
-            <pubDate>Sat, 15 Feb 2025 21:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.21 ~ 2025.02.23 | 2025.02.28 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250121/20250121-5787cc29-5ce7-4a8a-9376-17c3b27f0665.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <시지프스> 후기이벤트]]></title>
-            <link>http://ticket.yes24.com/Perf/51311</link>
-            <guid>http://ticket.yes24.com/Perf/51311</guid>
-            <pubDate>Sat, 15 Feb 2025 21:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.23 ~ 2025.02.23 | 2025.02.26 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250121/20250121-1a2283ed-8526-4194-b7fc-2a7f7010cf36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <돈 주앙> 프렌치 오리지널 내한공연 기대평 이벤트]]></title>
@@ -78,6 +62,20 @@
             <pubDate>Sun, 16 Feb 2025 15:16:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.22 ~ 2025.03.03 | 2025.03.04 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202411/20241122/20241122-9b57a412-456e-4bcd-a697-3fa3e6ee68f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW출석체크]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
+            <pubDate>Sun, 23 Feb 2025 15:16:46 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 보호 캠페인]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
+            <pubDate>Sun, 23 Feb 2025 15:16:46 GMT</pubDate>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
