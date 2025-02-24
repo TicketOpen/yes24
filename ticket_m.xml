@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-24T07:18:31.731Z</updated>
+    <updated>2025-02-24T08:24:46.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [괜찮아，안데르센] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15664&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15664&amp;order=1"/>
+        <updated>2025-02-24T08:24:00.818Z</updated>
+        <content type="html"><![CDATA[2025-02-26(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2025 앤서니브라운 가족뮤지컬 [난 책이 좋아요] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15663&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15663&amp;order=1"/>
+        <updated>2025-02-24T08:24:00.819Z</updated>
+        <content type="html"><![CDATA[2025-02-26(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EUNHYUK LIVE TOUR 2025 -Limitless: Time- Special in SEOUL 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15662&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15655&amp;order=1"/>
         <updated>2025-02-20T05:17:43.686Z</updated>
         <content type="html"><![CDATA[2025-02-27(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2025 라이브가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15654&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15654&amp;order=1"/>
-        <updated>2025-02-20T01:18:53.900Z</updated>
-        <content type="html"><![CDATA[2025-02-25(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[구리] 뮤지컬 타키포오 ［몬스터 전쟁의 서막；더 좀비] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15653&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15653&amp;order=1"/>
-        <updated>2025-02-20T01:18:53.901Z</updated>
-        <content type="html"><![CDATA[2025-02-28(금) 10:00]]></content>
     </entry>
 </feed>
