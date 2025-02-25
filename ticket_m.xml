@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-24T23:18:06.365Z</updated>
+    <updated>2025-02-25T01:21:09.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전]2025 라이브 가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15667&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15667&amp;order=1"/>
+        <updated>2025-02-25T01:20:08.614Z</updated>
+        <content type="html"><![CDATA[2025-02-27(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2025 베스트셀러 뮤지컬 [커다란방귀] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15666&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15666&amp;order=1"/>
+        <updated>2025-02-25T01:20:08.615Z</updated>
+        <content type="html"><![CDATA[2025-02-27(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 어린이베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15665&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15658&amp;order=1"/>
         <updated>2025-02-21T01:19:07.317Z</updated>
         <content type="html"><![CDATA[2025-03-06(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[go!go!vanillas presents READY STEADY go!go! vol.10 in Seoul（고고바닐라즈 내한공연）티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15657&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15657&amp;order=1"/>
-        <updated>2025-02-20T11:15:26.491Z</updated>
-        <content type="html"><![CDATA[2025-02-28(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] SUPER! 수요콘서트 4월 〈대니 구 Primavera〉공연 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15656&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15656&amp;order=1"/>
-        <updated>2025-02-20T08:22:53.497Z</updated>
-        <content type="html"><![CDATA[2025-03-04(화) 14:00]]></content>
     </entry>
 </feed>
