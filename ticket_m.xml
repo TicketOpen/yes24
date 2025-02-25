@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-25T03:26:08.128Z</updated>
+    <updated>2025-02-25T04:22:46.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [이솝이야기] 프리뷰 및 1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15670&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15670&amp;order=1"/>
+        <updated>2025-02-25T04:21:35.133Z</updated>
+        <content type="html"><![CDATA[2025-03-05(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG아트센터 25주년 기념 제작 연극 ˝헤다 가블러˝ 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15669&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15661&amp;order=1"/>
         <updated>2025-02-21T10:19:12.643Z</updated>
         <content type="html"><![CDATA[2025-03-06(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [띨뿌리] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15660&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15660&amp;order=1"/>
-        <updated>2025-02-21T02:49:59.659Z</updated>
-        <content type="html"><![CDATA[2025-02-26(수) 11:00]]></content>
     </entry>
 </feed>
