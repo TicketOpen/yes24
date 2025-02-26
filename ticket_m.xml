@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-26T02:52:52.591Z</updated>
+    <updated>2025-02-26T03:25:17.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15677&amp;order=1"/>
         <updated>2025-02-26T02:51:51.430Z</updated>
         <content type="html"><![CDATA[2025-02-28(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ 티켓 권종 추가 안내 ] xikers 2025 WORLD TOUR [Road to XY : Enter the Gate] IN SEOUL]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15676&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15676&amp;order=1"/>
+        <updated>2025-02-26T03:24:31.095Z</updated>
+        <content type="html"><![CDATA[2025-03-06(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[화성] 2025 라이브 가족뮤지컬 [커다란방귀] 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15666&amp;order=1"/>
         <updated>2025-02-25T01:20:08.615Z</updated>
         <content type="html"><![CDATA[2025-02-27(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 어린이베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15665&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15665&amp;order=1"/>
-        <updated>2025-02-24T09:20:31.248Z</updated>
-        <content type="html"><![CDATA[2025-02-26(수) 09:00]]></content>
     </entry>
 </feed>
