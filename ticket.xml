@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-26T08:24:30.099Z</updated>
+    <updated>2025-02-26T09:20:16.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뷰티풀 민트 라이프 2025 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15680</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15680"/>
+        <updated>2025-02-26T09:19:08.625Z</updated>
+        <content type="html"><![CDATA[2025.03.05(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2025 BAE IN HYUK FANMEETING IN SEOUL 〈B’s Ground〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15679</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15661"/>
         <updated>2025-02-24T06:26:41.635Z</updated>
         <content type="html"><![CDATA[2025.03.06(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [띨뿌리] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15660</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15660"/>
-        <updated>2025-02-24T06:26:41.635Z</updated>
-        <content type="html"><![CDATA[2025.02.26(수) 11:00]]></content>
     </entry>
 </feed>
