@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-26T03:25:17.179Z</updated>
+    <updated>2025-02-26T04:22:43.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [라흐 헤스트] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15678&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15678&amp;order=1"/>
+        <updated>2025-02-26T04:21:46.851Z</updated>
+        <content type="html"><![CDATA[2025-03-05(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15677&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15667&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15667&amp;order=1"/>
         <updated>2025-02-25T01:20:08.614Z</updated>
-        <content type="html"><![CDATA[2025-02-27(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2025 베스트셀러 뮤지컬 [커다란방귀] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15666&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15666&amp;order=1"/>
-        <updated>2025-02-25T01:20:08.615Z</updated>
         <content type="html"><![CDATA[2025-02-27(목) 09:00]]></content>
     </entry>
 </feed>
