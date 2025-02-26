@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-26T04:22:43.875Z</updated>
+    <updated>2025-02-26T05:18:54.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15676"/>
         <updated>2025-02-26T03:24:21.620Z</updated>
         <content type="html"><![CDATA[2025.03.06(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2025.03.04(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 뮤지컬 [블러디 러브] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15675</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15675"/>
+        <updated>2025-02-26T05:17:42.589Z</updated>
+        <content type="html"><![CDATA[2025.02.28(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[성남] 뮤지컬 [블러디 러브] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15674</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15674"/>
+        <updated>2025-02-26T05:17:42.589Z</updated>
+        <content type="html"><![CDATA[2025.02.28(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[화성] 2025 라이브 가족뮤지컬 [커다란방귀] 티켓오픈 안내]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15659"/>
         <updated>2025-02-24T06:26:41.637Z</updated>
         <content type="html"><![CDATA[2025.02.24(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매xikers 2025 WORLD TOUR [Road to XY : Enter the Gate] IN SEOUL 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15658</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15658"/>
-        <updated>2025-02-24T06:26:41.637Z</updated>
-        <content type="html"><![CDATA[2025.03.06(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2025.03.04(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[go!go!vanillas presents READY STEADY go!go! vol.10 in Seoul（고고바닐라즈 내한공연）티켓오..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15657</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15657"/>
-        <updated>2025-02-24T06:26:41.637Z</updated>
-        <content type="html"><![CDATA[2025.02.28(금) 18:00]]></content>
     </entry>
 </feed>
