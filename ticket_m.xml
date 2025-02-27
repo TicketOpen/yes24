@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-27T03:26:22.419Z</updated>
+    <updated>2025-02-27T04:22:09.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 위아페 (WE ARE FESTIVAL) 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15683&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15683&amp;order=1"/>
+        <updated>2025-02-27T04:21:12.344Z</updated>
+        <content type="html"><![CDATA[2025-02-28(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 창작가무극 <윤동주, 달을 쏘다.> 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15682&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15674&amp;order=1"/>
         <updated>2025-02-26T05:17:54.401Z</updated>
         <content type="html"><![CDATA[2025-02-28(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[화성] 2025 라이브 가족뮤지컬 [커다란방귀] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15673&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15673&amp;order=1"/>
-        <updated>2025-02-26T01:20:07.324Z</updated>
-        <content type="html"><![CDATA[2025-03-06(목) 09:00]]></content>
     </entry>
 </feed>
