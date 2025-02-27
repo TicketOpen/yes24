@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-27T06:26:53.765Z</updated>
+    <updated>2025-02-27T07:18:13.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[콘서트 [On cloud nine] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15687&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15687&amp;order=1"/>
+        <updated>2025-02-27T07:17:14.345Z</updated>
+        <content type="html"><![CDATA[2025-03-04(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘서트 [샤윱규양] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15686&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15686&amp;order=1"/>
+        <updated>2025-02-27T07:17:14.346Z</updated>
+        <content type="html"><![CDATA[2025-03-04(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘서트 [작심4일] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15685&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15685&amp;order=1"/>
+        <updated>2025-02-27T07:17:14.347Z</updated>
+        <content type="html"><![CDATA[2025-03-04(화) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘서트 [모범생들] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15684&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15684&amp;order=1"/>
+        <updated>2025-02-27T07:17:14.352Z</updated>
+        <content type="html"><![CDATA[2025-03-04(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 위아페 (WE ARE FESTIVAL) 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15683&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15678&amp;order=1"/>
         <updated>2025-02-26T04:21:46.851Z</updated>
         <content type="html"><![CDATA[2025-03-05(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15677&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15677&amp;order=1"/>
-        <updated>2025-02-26T02:51:51.430Z</updated>
-        <content type="html"><![CDATA[2025-02-28(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ 티켓 권종 추가 안내 ] xikers 2025 WORLD TOUR [Road to XY : Enter the Gate] IN SEOUL]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15676&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15676&amp;order=1"/>
-        <updated>2025-02-26T03:24:31.095Z</updated>
-        <content type="html"><![CDATA[2025-03-06(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 뮤지컬 [블러디 러브] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15675&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15675&amp;order=1"/>
-        <updated>2025-02-26T05:17:54.395Z</updated>
-        <content type="html"><![CDATA[2025-02-28(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 뮤지컬 [블러디 러브] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15674&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15674&amp;order=1"/>
-        <updated>2025-02-26T05:17:54.401Z</updated>
-        <content type="html"><![CDATA[2025-02-28(금) 14:00]]></content>
     </entry>
 </feed>
