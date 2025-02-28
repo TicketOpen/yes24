@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-28T01:21:37.637Z</updated>
+    <updated>2025-02-28T02:54:12.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[그린캠프페스티벌 2025 (GREENCAMP FESTIVAL 2025) 공식티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15696&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15696&amp;order=1"/>
+        <updated>2025-02-28T02:53:26.629Z</updated>
+        <content type="html"><![CDATA[2025-03-04(화) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 뮤지컬 헬로카봇 시즌8 [미래연구소를 지켜라！] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15693&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15693&amp;order=1"/>
+        <updated>2025-02-28T02:53:26.632Z</updated>
+        <content type="html"><![CDATA[2025-03-05(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천안] 뮤지컬 헬로카봇 시즌8 [미래연구소를 지켜라！] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15692&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15692&amp;order=1"/>
+        <updated>2025-02-28T02:53:26.642Z</updated>
+        <content type="html"><![CDATA[2025-03-05(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2025 앤서니브라운 가족뮤지컬 [난 책이 좋아요] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15690&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15690&amp;order=1"/>
+        <updated>2025-02-28T02:53:26.642Z</updated>
+        <content type="html"><![CDATA[2025-03-05(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [배니싱] 4차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15689&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15683&amp;order=1"/>
         <updated>2025-02-27T04:21:12.344Z</updated>
         <content type="html"><![CDATA[2025-02-28(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 창작가무극 <윤동주, 달을 쏘다.> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15682&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15682&amp;order=1"/>
-        <updated>2025-02-27T02:52:40.958Z</updated>
-        <content type="html"><![CDATA[2025-03-12(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 [더：매직서커스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15681&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15681&amp;order=1"/>
-        <updated>2025-02-27T02:52:40.962Z</updated>
-        <content type="html"><![CDATA[2025-03-04(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷰티풀 민트 라이프 2025 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15680&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15680&amp;order=1"/>
-        <updated>2025-02-26T09:19:18.843Z</updated>
-        <content type="html"><![CDATA[2025-03-05(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 BAE IN HYUK FANMEETING IN SEOUL 〈B’s Ground〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15679&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15679&amp;order=1"/>
-        <updated>2025-02-26T06:25:35.332Z</updated>
-        <content type="html"><![CDATA[2025-02-28(금) 19:00]]></content>
     </entry>
 </feed>
