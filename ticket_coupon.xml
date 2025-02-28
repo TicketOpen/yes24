@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Events/Main.aspx</id>
     <title>YES24 티켓 ─ 쿠폰</title>
-    <updated>2025-02-28T09:24:07.213Z</updated>
+    <updated>2025-02-28T10:20:26.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -12,6 +12,27 @@
         <updated>2025-02-24T06:27:39.989Z</updated>
         <content type="html"><![CDATA[<dt>대상</dt><dd>공연매거진 수신 후 직접 다운로드</dd>
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 탐정케이] 개막 기념 3,000원 할인 쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2025-02-24T06:27:39.989Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2025.02.28 ~ 2025.03.03</dd><dt>사용기간</dt><dd>2025.02.28 ~ 2025.03.03</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 장화 신은 고양이] 마지막 3,000원 할인 쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2025-02-24T06:27:39.989Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2025.02.28 ~ 2025.03.03</dd><dt>사용기간</dt><dd>2025.02.28 ~ 2025.03.03</dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬 브레드 이발소] 마지막 3,000원 할인 쿠폰]]></title>
+        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
+        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
+        <updated>2025-02-24T06:27:39.989Z</updated>
+        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2025.02.28 ~ 2025.03.03</dd><dt>사용기간</dt><dd>2025.02.28 ~ 2025.03.03</dd>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뮤지컬 돈 주앙] 1만원 할인 쿠폰]]></title>
@@ -33,12 +54,5 @@
         <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
         <updated>2025-02-24T06:27:39.989Z</updated>
         <content type="html"><![CDATA[<dt>발급기간</dt><dd>2025.02.18 ~ 2025.03.19</dd><dt>사용기간</dt><dd>2025.02.18 ~ 2025.03.19</dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[YES마니아] 예매수수료 면제쿠폰]]></title>
-        <id>http://ticket.yes24.com/New/Events/Main.aspx#</id>
-        <link href="http://ticket.yes24.com/New/Events/Main.aspx#"/>
-        <updated>2025-02-24T06:27:39.989Z</updated>
-        <content type="html"><![CDATA[<dt>발급기간</dt><dd>2012.02.09 ~ 2030.12.31</dd><dt>사용기간</dt><dd>2012.02.09 ~ 2030.12.31</dd>]]></content>
     </entry>
 </feed>
