@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2025-03-03T14:18:24.959Z</updated>
+    <updated>2025-03-03T15:21:14.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -32,26 +32,5 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51026"/>
         <updated>2025-02-27T02:53:37.917Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 브레드 이발소] 마지막 3,000원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51102</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51102"/>
-        <updated>2025-02-28T10:20:25.838Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 장화 신은 고양이] 마지막 3,000원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51103</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51103"/>
-        <updated>2025-02-28T10:20:25.839Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 탐정케이] 개막 기념 3,000원 할인 쿠폰]]></title>
-        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51104</id>
-        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51104"/>
-        <updated>2025-02-28T10:20:25.841Z</updated>
-        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
     </entry>
 </feed>
