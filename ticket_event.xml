@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 01:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 02:55:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <알라딘> 한국 초연 서울 후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Perf/50841</link>
+            <guid>http://ticket.yes24.com/Perf/50841</guid>
+            <pubDate>Tue, 04 Mar 2025 02:54:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.04 ~ 2025.06.22 | 2025.06.23 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250304/20250304-640db936-ffae-4668-8be3-dc279fe8480e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악극 <노베첸토> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Perf/52537</link>
@@ -20,8 +28,8 @@
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3738</link>
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3738</guid>
             <pubDate>Mon, 24 Feb 2025 06:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.10 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202502/20250210/20250210-55e6cf75-098e-41f9-8b05-73494b833851.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[2025.03.01 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250304/20250304-5da5fe7e-e1e1-47f5-914c-64eecb21714e.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <돈 주앙> 프렌치 오리지널 내한공연 기대평 이벤트]]></title>
@@ -66,14 +74,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
             <pubDate>Sun, 02 Mar 2025 15:17:58 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[관람후기, YES포인트로 받아가세요]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2450</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2450</guid>
-            <pubDate>Mon, 03 Mar 2025 15:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[2016.01.01 ~ 2030.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202010/20201027/20201027-ev_list_guide_review.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

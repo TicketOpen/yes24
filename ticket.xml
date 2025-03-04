@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-04T01:22:23.769Z</updated>
+    <updated>2025-03-04T02:55:28.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 콘서트 [루드윅 다락방 콘서트] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15701</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15701"/>
+        <updated>2025-03-04T02:54:19.327Z</updated>
+        <content type="html"><![CDATA[2025.03.05(수) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼뮤지컬 Again [드림하이] 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15700</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15682"/>
         <updated>2025-02-27T02:52:30.159Z</updated>
         <content type="html"><![CDATA[2025.03.12(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 [더：매직서커스] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15681</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15681"/>
-        <updated>2025-02-27T02:52:30.159Z</updated>
-        <content type="html"><![CDATA[2025.03.04(화) 09:00]]></content>
     </entry>
 </feed>
