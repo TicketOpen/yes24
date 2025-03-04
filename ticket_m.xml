@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-04T07:19:47.232Z</updated>
+    <updated>2025-03-04T08:22:28.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[PITTA 강형호 콘서트 〈UNIVERSE〉 ENCORE 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15705&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15705&amp;order=1"/>
+        <updated>2025-03-04T08:21:21.591Z</updated>
+        <content type="html"><![CDATA[2025-03-06(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [매디슨 카운티의 다리] 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15704&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15696&amp;order=1"/>
         <updated>2025-02-28T02:53:26.629Z</updated>
         <content type="html"><![CDATA[2025-03-04(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WANUKA Live in Korea 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15695&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15695&amp;order=1"/>
-        <updated>2025-02-28T03:26:06.954Z</updated>
-        <content type="html"><![CDATA[2025-03-07(금) 18:00]]></content>
     </entry>
 </feed>
