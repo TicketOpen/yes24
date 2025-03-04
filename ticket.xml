@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-04T02:55:28.958Z</updated>
+    <updated>2025-03-04T03:28:49.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매WE THROW A BASH CONCERT 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15703</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15703"/>
+        <updated>2025-03-04T03:27:40.259Z</updated>
+        <content type="html"><![CDATA[2025.03.05(수) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 콘서트 [루드윅 다락방 콘서트] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15701</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15683"/>
         <updated>2025-02-27T04:21:00.900Z</updated>
         <content type="html"><![CDATA[2025.02.28(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 창작가무극 <윤동주, 달을 쏘다.> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15682</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15682"/>
-        <updated>2025-02-27T02:52:30.159Z</updated>
-        <content type="html"><![CDATA[2025.03.12(수) 15:00]]></content>
     </entry>
 </feed>
