@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 01:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 02:54:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 04 Mar 2025 02:54:58 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.04 ~ 2025.06.22 | 2025.06.23 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250304/20250304-640db936-ffae-4668-8be3-dc279fe8480e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 청년문화예술패스]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3740</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3740</guid>
+            <pubDate>Wed, 05 Mar 2025 02:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.05 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250305/20250305-5e85b675-1e7c-4e9e-b3bb-9437f1c6ac9c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음악극 <노베첸토> 기대평 이벤트]]></title>
@@ -67,13 +75,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
             <pubDate>Wed, 26 Feb 2025 15:20:45 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예술의전당]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2729</guid>
-            <pubDate>Sun, 02 Mar 2025 15:17:58 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_art.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

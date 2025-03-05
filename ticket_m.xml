@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-05T01:22:37.914Z</updated>
+    <updated>2025-03-05T02:54:57.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2025_부천 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15713&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15713&amp;order=1"/>
+        <updated>2025-03-05T02:53:57.674Z</updated>
+        <content type="html"><![CDATA[2025-03-07(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알라딘> 5월 가정의 달 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15712&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15712&amp;order=1"/>
+        <updated>2025-03-05T02:53:57.674Z</updated>
+        <content type="html"><![CDATA[2025-03-13(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[군포] 2025 김창옥 토크콘서트 시즌5 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15711&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15703&amp;order=1"/>
         <updated>2025-03-04T03:27:51.976Z</updated>
         <content type="html"><![CDATA[2025-03-05(수) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 OH MY GIRL CONCERT [Milky Way] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15702&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15702&amp;order=1"/>
-        <updated>2025-03-04T05:17:50.394Z</updated>
-        <content type="html"><![CDATA[2025-03-14(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 콘서트 [루드윅 다락방 콘서트] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15701&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15701&amp;order=1"/>
-        <updated>2025-03-04T02:54:30.227Z</updated>
-        <content type="html"><![CDATA[2025-03-05(수) 13:00]]></content>
     </entry>
 </feed>
