@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-05T04:22:44.156Z</updated>
+    <updated>2025-03-05T05:18:55.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [랭보] 앵콜 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15716</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15716"/>
+        <updated>2025-03-05T05:18:01.931Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어?] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15715</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15715"/>
+        <updated>2025-03-05T05:18:01.935Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [소란스러운 나의 서림에서] 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15714</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15714"/>
+        <updated>2025-03-05T05:18:01.935Z</updated>
+        <content type="html"><![CDATA[2025.03.12(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2025_부천 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15713</id>
@@ -122,26 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15697"/>
         <updated>2025-02-28T05:19:15.833Z</updated>
         <content type="html"><![CDATA[2025.03.06(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매그린캠프페스티벌 2025 (GREENCAMP FESTIVAL 2025) 공식티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15696</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15696"/>
-        <updated>2025-02-28T02:53:17.427Z</updated>
-        <content type="html"><![CDATA[2025.03.04(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매WANUKA Live in Korea 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15695</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15695"/>
-        <updated>2025-02-28T03:25:58.316Z</updated>
-        <content type="html"><![CDATA[2025.03.07(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매최성윤 팬미팅 All about Yun 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15694</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15694"/>
-        <updated>2025-02-28T03:25:58.316Z</updated>
-        <content type="html"><![CDATA[2025.03.05(수) 20:00]]></content>
     </entry>
 </feed>
