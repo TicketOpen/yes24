@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-06T06:26:33.185Z</updated>
+    <updated>2025-03-06T07:20:30.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2025 베스트셀러 뮤지컬 [커다란방귀] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15722&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15722&amp;order=1"/>
+        <updated>2025-03-06T07:19:45.515Z</updated>
+        <content type="html"><![CDATA[2025-03-10(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15721&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15721&amp;order=1"/>
+        <updated>2025-03-06T07:19:45.516Z</updated>
+        <content type="html"><![CDATA[2025-03-10(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [라파치니의 정원] 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15719&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15712&amp;order=1"/>
         <updated>2025-03-05T02:53:57.674Z</updated>
         <content type="html"><![CDATA[2025-03-13(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[군포] 2025 김창옥 토크콘서트 시즌5 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15711&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15711&amp;order=1"/>
-        <updated>2025-03-05T01:21:46.484Z</updated>
-        <content type="html"><![CDATA[2025-03-10(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 2025 김창옥 토크콘서트 시즌5 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15710&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15710&amp;order=1"/>
-        <updated>2025-03-05T01:21:46.485Z</updated>
-        <content type="html"><![CDATA[2025-03-10(월) 10:00]]></content>
     </entry>
 </feed>
