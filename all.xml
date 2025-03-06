@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 05:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 06:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 [라파치니의 정원] 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15719</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15719</guid>
+            <pubDate>Thu, 06 Mar 2025 06:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14(금) 12:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[단독판매이기찬 단독 콘서트 [Back to You] 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15718</link>
@@ -140,11 +147,11 @@
             <content:encoded><![CDATA[2025.03.07(금) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[용인] 2025 김창옥 토크콘서트 시즌5 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15699</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15699</guid>
-            <pubDate>Fri, 28 Feb 2025 08:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.07(금) 14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [라파치니의 정원] 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15719&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15719&amp;order=1</guid>
+            <pubDate>Thu, 06 Mar 2025 06:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025-03-14(금) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이기찬 단독 콘서트 [Back to You] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -206,13 +213,6 @@
             <title><![CDATA[[여수] 2025 김창옥 토크콘서트 시즌5 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15710&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15710&amp;order=1</guid>
-            <pubDate>Wed, 05 Mar 2025 01:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-10(월) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[서울 앵콜] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15709&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15709&amp;order=1</guid>
             <pubDate>Wed, 05 Mar 2025 01:21:46 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-10(월) 10:00]]></content:encoded>
         </item>
