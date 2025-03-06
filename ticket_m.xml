@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-06T08:24:13.405Z</updated>
+    <updated>2025-03-06T09:21:03.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15721&amp;order=1"/>
         <updated>2025-03-06T07:19:45.516Z</updated>
         <content type="html"><![CDATA[2025-03-10(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[화성] 어린이 뮤지컬 [바다탐험대 옥토넛 시즌3] 바다넘어 육지까지 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15720&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15720&amp;order=1"/>
+        <updated>2025-03-06T09:20:03.569Z</updated>
+        <content type="html"><![CDATA[2025-03-11(화) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [라파치니의 정원] 마지막 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15713&amp;order=1"/>
         <updated>2025-03-05T02:53:57.674Z</updated>
         <content type="html"><![CDATA[2025-03-07(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알라딘> 5월 가정의 달 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15712&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15712&amp;order=1"/>
-        <updated>2025-03-05T02:53:57.674Z</updated>
-        <content type="html"><![CDATA[2025-03-13(목) 14:00]]></content>
     </entry>
 </feed>
