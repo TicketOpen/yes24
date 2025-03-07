@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-07T04:22:42.510Z</updated>
+    <updated>2025-03-07T05:18:43.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2025 RENJUN B-day PARTY [My Little Planet] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15727</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15727"/>
+        <updated>2025-03-07T05:17:35.988Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 14:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2025.03.13(목) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAHO TAKADA 1st Fan Meeting 2025 in Seoul : ViTAMiN YOU 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15725</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15706"/>
         <updated>2025-03-04T09:19:21.774Z</updated>
         <content type="html"><![CDATA[2025.03.12(수) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매PITTA 강형호 콘서트 〈UNIVERSE〉 ENCORE 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15705</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15705"/>
-        <updated>2025-03-04T08:21:11.113Z</updated>
-        <content type="html"><![CDATA[2025.03.06(목) 16:00]]></content>
     </entry>
 </feed>
