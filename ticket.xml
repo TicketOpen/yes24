@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-06T23:18:42.672Z</updated>
+    <updated>2025-03-07T01:23:20.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[KAHO TAKADA 1st Fan Meeting 2025 in Seoul : ViTAMiN YOU 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15725</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15725"/>
+        <updated>2025-03-07T01:22:24.891Z</updated>
+        <content type="html"><![CDATA[2025.03.27(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2025 베스트셀러 뮤지컬 [커다란방귀] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15722</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15704"/>
         <updated>2025-03-04T05:17:40.529Z</updated>
         <content type="html"><![CDATA[2025.03.07(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매WE THROW A BASH CONCERT 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15703</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15703"/>
-        <updated>2025-03-04T03:27:40.259Z</updated>
-        <content type="html"><![CDATA[2025.03.05(수) 17:00]]></content>
     </entry>
 </feed>
