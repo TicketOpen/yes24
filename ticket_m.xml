@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-08T08:19:08.231Z</updated>
+    <updated>2025-03-08T09:15:58.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024-25 TAEMIN WORLD TOUR [Ephemeral Gaze] Finale 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15732&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15732&amp;order=1"/>
+        <updated>2025-03-08T09:14:59.238Z</updated>
+        <content type="html"><![CDATA[2025-03-19(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 LOVESOME - 반 고흐, 영혼의 편지 2차 라인업 발표]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15730&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15720&amp;order=1"/>
         <updated>2025-03-06T09:20:03.569Z</updated>
         <content type="html"><![CDATA[2025-03-11(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [라파치니의 정원] 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15719&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15719&amp;order=1"/>
-        <updated>2025-03-06T06:25:37.289Z</updated>
-        <content type="html"><![CDATA[2025-03-14(금) 12:00]]></content>
     </entry>
 </feed>
