@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-10T02:34:27.217Z</updated>
+    <updated>2025-03-10T03:19:49.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매VIVIZ (비비지) 공식 팬클럽 나비 (Na.V) 3기 모집 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15734</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15734"/>
+        <updated>2025-03-10T03:18:52.827Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15733</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15712"/>
         <updated>2025-03-05T02:53:46.669Z</updated>
         <content type="html"><![CDATA[2025.03.13(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[군포] 2025 김창옥 토크콘서트 시즌5 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15711</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15711"/>
-        <updated>2025-03-05T01:21:35.995Z</updated>
-        <content type="html"><![CDATA[2025.03.10(월) 10:00]]></content>
     </entry>
 </feed>

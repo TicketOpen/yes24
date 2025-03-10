@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-10T02:34:27.212Z</updated>
+    <updated>2025-03-10T03:19:49.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[VIVIZ (비비지) 공식 팬클럽 나비 (Na.V) 3기 모집 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15734&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15734&amp;order=1"/>
+        <updated>2025-03-10T03:19:01.602Z</updated>
+        <content type="html"><![CDATA[2025-03-17(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15733&amp;order=1</id>
@@ -65,13 +72,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15722&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15722&amp;order=1"/>
         <updated>2025-03-06T07:19:45.515Z</updated>
-        <content type="html"><![CDATA[2025-03-10(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15721&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15721&amp;order=1"/>
-        <updated>2025-03-06T07:19:45.516Z</updated>
         <content type="html"><![CDATA[2025-03-10(월) 09:00]]></content>
     </entry>
 </feed>
