@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-10T01:10:21.883Z</updated>
+    <updated>2025-03-10T02:34:27.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15733&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15733&amp;order=1"/>
+        <updated>2025-03-10T02:33:25.949Z</updated>
+        <content type="html"><![CDATA[2025-03-11(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024-25 TAEMIN WORLD TOUR [Ephemeral Gaze] Finale 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15732&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15721&amp;order=1"/>
         <updated>2025-03-06T07:19:45.516Z</updated>
         <content type="html"><![CDATA[2025-03-10(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[화성] 어린이 뮤지컬 [바다탐험대 옥토넛 시즌3] 바다넘어 육지까지 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15720&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15720&amp;order=1"/>
-        <updated>2025-03-06T09:20:03.569Z</updated>
-        <content type="html"><![CDATA[2025-03-11(화) 10:00]]></content>
     </entry>
 </feed>
