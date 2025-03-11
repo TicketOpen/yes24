@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-11T06:26:38.383Z</updated>
+    <updated>2025-03-11T07:18:54.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 앤서니브라운 가족뮤지컬 [난 책이 좋아요] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15745&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15745&amp;order=1"/>
+        <updated>2025-03-11T07:18:07.982Z</updated>
+        <content type="html"><![CDATA[2025-03-13(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 라이브 가족뮤지컬 [알라딘] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15744&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15744&amp;order=1"/>
+        <updated>2025-03-11T07:18:07.983Z</updated>
+        <content type="html"><![CDATA[2025-03-13(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인천] 2025 라이브 가족뮤지컬 [인어공주] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15743&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15743&amp;order=1"/>
+        <updated>2025-03-11T07:18:07.984Z</updated>
+        <content type="html"><![CDATA[2025-03-13(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2025 라이브가족뮤지컬 [라푼젤] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15742&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15742&amp;order=1"/>
+        <updated>2025-03-11T07:18:07.986Z</updated>
+        <content type="html"><![CDATA[2025-03-13(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PEAK FESTIVAL 2025 일반티켓 오픈]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15741&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15736&amp;order=1"/>
         <updated>2025-03-10T04:18:01.632Z</updated>
         <content type="html"><![CDATA[2025-03-12(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2025 앤서니브라운 가족뮤지컬 [우리가족] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15735&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15735&amp;order=1"/>
-        <updated>2025-03-10T04:18:01.634Z</updated>
-        <content type="html"><![CDATA[2025-03-12(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIVIZ (비비지) 공식 팬클럽 나비 (Na.V) 3기 모집 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15734&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15734&amp;order=1"/>
-        <updated>2025-03-10T03:19:01.602Z</updated>
-        <content type="html"><![CDATA[2025-03-17(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15733&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15733&amp;order=1"/>
-        <updated>2025-03-10T02:33:25.949Z</updated>
-        <content type="html"><![CDATA[2025-03-11(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024-25 TAEMIN WORLD TOUR [Ephemeral Gaze] Finale 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15732&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15732&amp;order=1"/>
-        <updated>2025-03-08T09:14:59.238Z</updated>
-        <content type="html"><![CDATA[2025-03-19(수) 20:00]]></content>
     </entry>
 </feed>
