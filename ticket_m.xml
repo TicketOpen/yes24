@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-12T05:18:48.777Z</updated>
+    <updated>2025-03-12T06:27:37.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[세종] 어린이 뮤지컬 바다탐험대 옥토넛 시즌3 [바다넘어 육지까지] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15751&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15751&amp;order=1"/>
+        <updated>2025-03-12T06:26:39.343Z</updated>
+        <content type="html"><![CDATA[2025-03-14(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [인어공주] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15750&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15750&amp;order=1"/>
+        <updated>2025-03-12T06:26:39.343Z</updated>
+        <content type="html"><![CDATA[2025-03-14(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2025 라이브가족뮤지컬 [인어공주] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15749&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15749&amp;order=1"/>
+        <updated>2025-03-12T06:26:39.346Z</updated>
+        <content type="html"><![CDATA[2025-03-14(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[평창]두루두루 찾아가는 대중음악콘서트 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15748&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15742&amp;order=1"/>
         <updated>2025-03-11T07:18:07.986Z</updated>
         <content type="html"><![CDATA[2025-03-13(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2025 일반티켓 오픈]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15741&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15741&amp;order=1"/>
-        <updated>2025-03-10T06:22:01.113Z</updated>
-        <content type="html"><![CDATA[2025-03-11(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스위스 로망드 오케스트라 & 양인모 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15740&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15740&amp;order=1"/>
-        <updated>2025-03-10T05:15:40.920Z</updated>
-        <content type="html"><![CDATA[2025-03-13(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 라이브 가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15739&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15739&amp;order=1"/>
-        <updated>2025-03-10T04:18:01.629Z</updated>
-        <content type="html"><![CDATA[2025-03-12(수) 09:00]]></content>
     </entry>
 </feed>
