@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-12T08:26:10.237Z</updated>
+    <updated>2025-03-12T09:21:05.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매Yui Ogura Fan Meeting 2025 in Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15753</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15753"/>
+        <updated>2025-03-12T09:19:59.209Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매9MICE & KAI ANGEL In Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15752</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15752"/>
+        <updated>2025-03-12T09:19:59.210Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세종] 어린이 뮤지컬 바다탐험대 옥토넛 시즌3 [바다넘어 육지까지] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15751</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15734"/>
         <updated>2025-03-10T03:18:52.827Z</updated>
         <content type="html"><![CDATA[2025.03.17(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15733</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15733"/>
-        <updated>2025-03-10T02:33:14.110Z</updated>
-        <content type="html"><![CDATA[2025.03.11(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2024-25 TAEMIN WORLD TOUR [Ephemeral Gaze] Finale 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15732</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15732"/>
-        <updated>2025-03-08T09:14:47.119Z</updated>
-        <content type="html"><![CDATA[2025.03.19(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2025.03.17(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
