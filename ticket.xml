@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-12T01:22:21.378Z</updated>
+    <updated>2025-03-12T02:55:42.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2025 Road to BU-ROCK Busan 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15747</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15747"/>
+        <updated>2025-03-12T02:54:46.583Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 앤서니브라운 가족뮤지컬 [난 책이 좋아요] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15745</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15725"/>
         <updated>2025-03-07T01:22:24.891Z</updated>
         <content type="html"><![CDATA[2025.03.27(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 수어 연극 [너의 하루] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15724</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15724"/>
-        <updated>2025-03-07T02:55:20.677Z</updated>
-        <content type="html"><![CDATA[2025.03.14(금) 14:00]]></content>
     </entry>
 </feed>

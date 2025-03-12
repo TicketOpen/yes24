@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 01:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 02:55:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <이솝이야기> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Perf/52887</link>
+            <guid>http://ticket.yes24.com/Perf/52887</guid>
+            <pubDate>Wed, 12 Mar 2025 02:55:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12 ~ 2025.03.18 | 2025.03.20 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250312/20250312-555ad414-9b19-4b6c-80cc-7f82bf4aa86e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <우리 노래방 가서… 얘기 좀 할까> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Perf/52866</link>
@@ -70,13 +78,6 @@
             <pubDate>Mon, 24 Feb 2025 06:27:20 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.10 ~ 2025.03.23 | 2025.03.25 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202501/20250109/20250109-43431384-1d26-49be-a581-3c74307c78ef.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW출석체크]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
-            <pubDate>Mon, 24 Feb 2025 06:27:20 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
