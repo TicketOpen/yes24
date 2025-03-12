@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-12T02:55:42.657Z</updated>
+    <updated>2025-03-12T03:28:25.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[평창]두루두루 찾아가는 대중음악콘서트 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15748&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15748&amp;order=1"/>
+        <updated>2025-03-12T03:27:39.022Z</updated>
+        <content type="html"><![CDATA[2025-03-12(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 Road to BU-ROCK Busan 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15747&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15747&amp;order=1"/>
         <updated>2025-03-12T02:54:55.676Z</updated>
         <content type="html"><![CDATA[2025-03-14(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[여둘톡: 여자 둘이 토크하고 있습니다] 공개방송 ‘톡토로투게더 2025’  티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15746&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15746&amp;order=1"/>
+        <updated>2025-03-12T03:27:39.030Z</updated>
+        <content type="html"><![CDATA[2025-03-19(수) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 앤서니브라운 가족뮤지컬 [난 책이 좋아요] 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15739&amp;order=1"/>
         <updated>2025-03-10T04:18:01.629Z</updated>
         <content type="html"><![CDATA[2025-03-12(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[군포] 뮤지컬 최고다 호기심딱지 시즌2 [빵빵 이야기 속으로] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15738&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15738&amp;order=1"/>
-        <updated>2025-03-10T04:18:01.630Z</updated>
-        <content type="html"><![CDATA[2025-03-12(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제1265회 서초금요음악회 [클래식의 봄 : 음이 흩날리다] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15737&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15737&amp;order=1"/>
-        <updated>2025-03-10T04:18:01.631Z</updated>
-        <content type="html"><![CDATA[2025-03-14(금) 09:00]]></content>
     </entry>
 </feed>

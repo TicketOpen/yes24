@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-12T02:55:42.651Z</updated>
+    <updated>2025-03-12T03:28:25.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[평창]두루두루 찾아가는 대중음악콘서트 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15748</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15748"/>
+        <updated>2025-03-12T03:27:29.076Z</updated>
+        <content type="html"><![CDATA[2025.03.12(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2025 Road to BU-ROCK Busan 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15747</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15747"/>
         <updated>2025-03-12T02:54:46.583Z</updated>
         <content type="html"><![CDATA[2025.03.14(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매[여둘톡: 여자 둘이 토크하고 있습니다] 공개방송 ‘톡토로투게더 2025’  티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15746</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15746"/>
+        <updated>2025-03-12T03:27:29.076Z</updated>
+        <content type="html"><![CDATA[2025.03.19(수) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 앤서니브라운 가족뮤지컬 [난 책이 좋아요] 티켓오픈 안내]]></title>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15727"/>
         <updated>2025-03-07T05:17:35.988Z</updated>
         <content type="html"><![CDATA[2025.03.14(금) 14:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2025.03.13(목) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 HONGSEOK FANMEETING 〈홍석을 봄〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15726</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15726"/>
-        <updated>2025-03-07T06:25:21.857Z</updated>
-        <content type="html"><![CDATA[2025.03.10(월) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAHO TAKADA 1st Fan Meeting 2025 in Seoul : ViTAMiN YOU 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15725</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15725"/>
-        <updated>2025-03-07T01:22:24.891Z</updated>
-        <content type="html"><![CDATA[2025.03.27(목) 10:00]]></content>
     </entry>
 </feed>
