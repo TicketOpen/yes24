@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-13T09:20:25.619Z</updated>
+    <updated>2025-03-13T10:21:21.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[과천] 2025 [더 : 매직서커스] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15758</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15758"/>
+        <updated>2025-03-13T10:20:14.174Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매정여진 Live Concert, AniBirthday to You 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15757</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15739"/>
         <updated>2025-03-10T04:17:49.811Z</updated>
         <content type="html"><![CDATA[2025.03.12(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[군포] 뮤지컬 최고다 호기심딱지 시즌2 [빵빵 이야기 속으로] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15738</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15738"/>
-        <updated>2025-03-10T04:17:49.818Z</updated>
-        <content type="html"><![CDATA[2025.03.12(수) 10:00]]></content>
     </entry>
 </feed>
