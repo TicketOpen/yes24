@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-12T23:18:27.222Z</updated>
+    <updated>2025-03-13T01:23:41.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[얼리버드] 432Mhz：하모닉스 . 다프네 기네스의 세계 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15754</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15754"/>
+        <updated>2025-03-13T01:22:27.735Z</updated>
+        <content type="html"><![CDATA[2025.03.13(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매Yui Ogura Fan Meeting 2025 in Seoul 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15753</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15735"/>
         <updated>2025-03-10T04:17:49.820Z</updated>
         <content type="html"><![CDATA[2025.03.12(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매VIVIZ (비비지) 공식 팬클럽 나비 (Na.V) 3기 모집 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15734</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15734"/>
-        <updated>2025-03-10T03:18:52.827Z</updated>
-        <content type="html"><![CDATA[2025.03.17(월) 12:00]]></content>
     </entry>
 </feed>
