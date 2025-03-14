@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-14T02:55:41.711Z</updated>
+    <updated>2025-03-14T03:29:21.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매MAHIRU “ASIA TOUR” 2025 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15761</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15761"/>
+        <updated>2025-03-14T03:28:17.298Z</updated>
+        <content type="html"><![CDATA[2025.03.20(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 유나이티드 코리안 오케스트라 정기연주회 유코의 [불새] 그리고···. 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15760</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15742"/>
         <updated>2025-03-11T07:17:58.870Z</updated>
         <content type="html"><![CDATA[2025.03.13(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2025 일반티켓 오픈]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15741</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15741"/>
-        <updated>2025-03-10T06:21:51.497Z</updated>
-        <content type="html"><![CDATA[2025.03.11(화) 18:00]]></content>
     </entry>
 </feed>
