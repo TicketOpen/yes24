@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-14T01:22:11.544Z</updated>
+    <updated>2025-03-14T02:55:41.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 유나이티드 코리안 오케스트라 정기연주회 유코의 [불새] 그리고···. 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15760</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15760"/>
+        <updated>2025-03-14T02:54:43.496Z</updated>
+        <content type="html"><![CDATA[2025.03.19(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 2025 라이브가족뮤지컬 [인어공주] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15759</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15741"/>
         <updated>2025-03-10T06:21:51.497Z</updated>
         <content type="html"><![CDATA[2025.03.11(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스위스 로망드 오케스트라 & 양인모 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15740</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15740"/>
-        <updated>2025-03-10T05:15:31.705Z</updated>
-        <content type="html"><![CDATA[2025.03.13(목) 14:00]]></content>
     </entry>
 </feed>
