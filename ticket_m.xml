@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-14T05:18:30.004Z</updated>
+    <updated>2025-03-14T06:26:28.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [커다란방귀] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15763&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15763&amp;order=1"/>
+        <updated>2025-03-14T06:25:31.494Z</updated>
+        <content type="html"><![CDATA[2025-03-19(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15762&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15762&amp;order=1"/>
+        <updated>2025-03-14T06:25:31.497Z</updated>
+        <content type="html"><![CDATA[2025-03-19(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAHIRU “ASIA TOUR” 2025 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15761&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15754&amp;order=1"/>
         <updated>2025-03-13T01:22:40.765Z</updated>
         <content type="html"><![CDATA[2025-03-13(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yui Ogura Fan Meeting 2025 in Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15753&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15753&amp;order=1"/>
-        <updated>2025-03-12T09:20:09.449Z</updated>
-        <content type="html"><![CDATA[2025-03-14(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9MICE & KAI ANGEL In Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15752&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15752&amp;order=1"/>
-        <updated>2025-03-12T09:20:09.449Z</updated>
-        <content type="html"><![CDATA[2025-03-14(금) 18:00]]></content>
     </entry>
 </feed>
