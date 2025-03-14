@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-13T23:18:18.569Z</updated>
+    <updated>2025-03-14T01:22:11.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2025 라이브가족뮤지컬 [인어공주] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15759</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15759"/>
+        <updated>2025-03-14T01:21:04.011Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[과천] 2025 [더 : 매직서커스] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15758</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15740"/>
         <updated>2025-03-10T05:15:31.705Z</updated>
         <content type="html"><![CDATA[2025.03.13(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 라이브 가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15739</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15739"/>
-        <updated>2025-03-10T04:17:49.811Z</updated>
-        <content type="html"><![CDATA[2025.03.12(수) 09:00]]></content>
     </entry>
 </feed>
