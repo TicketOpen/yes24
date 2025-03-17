@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-17T04:23:27.872Z</updated>
+    <updated>2025-03-17T05:19:32.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[〈2025 롯데콘서트홀 마티네 〈황수미의 사운드트랙〉〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15774</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15774"/>
+        <updated>2025-03-17T05:18:36.398Z</updated>
+        <content type="html"><![CDATA[2025.03.19(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2025 김창옥 토크콘서트 시즌5 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15773</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15773"/>
+        <updated>2025-03-17T05:18:36.400Z</updated>
+        <content type="html"><![CDATA[2025.03.19(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매Live on Spring in 대구(라이브 온 스프링 인 대구) N.Flying (엔플라잉), Band Nah (나상현씨밴..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15772</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15772"/>
+        <updated>2025-03-17T05:18:36.403Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매Live on Spring in 대구(라이브 온 스프링 인 대구) 홍이삭(Isaac Hong), 리도어(Redoor) 티켓 ..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15771</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15771"/>
+        <updated>2025-03-17T05:18:36.405Z</updated>
+        <content type="html"><![CDATA[2025.03.20(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2025 라이브가족뮤지컬 [인어공주] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15769</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15753"/>
         <updated>2025-03-12T09:19:59.209Z</updated>
         <content type="html"><![CDATA[2025.03.14(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매9MICE & KAI ANGEL In Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15752</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15752"/>
-        <updated>2025-03-12T09:19:59.210Z</updated>
-        <content type="html"><![CDATA[2025.03.14(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세종] 어린이 뮤지컬 바다탐험대 옥토넛 시즌3 [바다넘어 육지까지] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15751</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15751"/>
-        <updated>2025-03-12T06:26:27.442Z</updated>
-        <content type="html"><![CDATA[2025.03.14(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [인어공주] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15750</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15750"/>
-        <updated>2025-03-12T06:26:27.445Z</updated>
-        <content type="html"><![CDATA[2025.03.14(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 2025 라이브가족뮤지컬 [인어공주] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15749</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15749"/>
-        <updated>2025-03-12T06:26:27.447Z</updated>
-        <content type="html"><![CDATA[2025.03.14(금) 09:00]]></content>
     </entry>
 </feed>
