@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-17T06:28:17.968Z</updated>
+    <updated>2025-03-17T07:19:43.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15776"/>
         <updated>2025-03-17T06:27:12.403Z</updated>
         <content type="html"><![CDATA[2025.03.18(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼뮤지컬 어게인 [드림하이] (Showmusical Again [DreamHigh]) 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15775</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15775"/>
+        <updated>2025-03-17T07:18:48.467Z</updated>
+        <content type="html"><![CDATA[2025.03.24(월) 16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[〈2025 롯데콘서트홀 마티네 〈황수미의 사운드트랙〉〉 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15756"/>
         <updated>2025-03-13T09:19:20.771Z</updated>
         <content type="html"><![CDATA[2025.03.26(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 어린이 뮤지컬 바다탐험대 옥토넛 시즌3 [바다넘어 육지까지] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15755</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15755"/>
-        <updated>2025-03-13T07:17:19.006Z</updated>
-        <content type="html"><![CDATA[2025.03.17(월) 10:00]]></content>
     </entry>
 </feed>

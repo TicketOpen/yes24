@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-17T06:28:17.973Z</updated>
+    <updated>2025-03-17T07:19:43.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15776&amp;order=1"/>
         <updated>2025-03-17T06:27:23.361Z</updated>
         <content type="html"><![CDATA[2025-03-18(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼뮤지컬 어게인 [드림하이] (Showmusical Again [DreamHigh]) 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15775&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15775&amp;order=1"/>
+        <updated>2025-03-17T07:18:57.258Z</updated>
+        <content type="html"><![CDATA[2025-03-24(월) 16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[〈2025 롯데콘서트홀 마티네 〈황수미의 사운드트랙〉〉 티켓오픈 안내]]></title>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[창원] 2025 화요모닝콘서트 - 7월 [‘오래된노래’ 스탠딩에그의 초여름의 어쿠스틱] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15767&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15767&amp;order=1"/>
-        <updated>2025-03-14T08:23:26.935Z</updated>
-        <content type="html"><![CDATA[2025-03-18(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2025 화요모닝콘서트 - 6월 [프렐류드와 함께하는 Jazz 브런치] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15766&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15766&amp;order=1"/>
         <updated>2025-03-14T08:23:26.935Z</updated>
         <content type="html"><![CDATA[2025-03-18(화) 14:00]]></content>
     </entry>
