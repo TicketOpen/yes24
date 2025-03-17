@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-17T05:19:32.908Z</updated>
+    <updated>2025-03-17T06:28:17.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매[부산] 튠에이드 [하나되는 너와 나의 목소리, 아카펠라!] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15777</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15777"/>
+        <updated>2025-03-17T06:27:12.401Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니 & 픽사 OST 콘서트 티켓오픈 안내입니다.]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15776</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15776"/>
+        <updated>2025-03-17T06:27:12.403Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈2025 롯데콘서트홀 마티네 〈황수미의 사운드트랙〉〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15774</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15755"/>
         <updated>2025-03-13T07:17:19.006Z</updated>
         <content type="html"><![CDATA[2025.03.17(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[얼리버드] 432Mhz：하모닉스 . 다프네 기네스의 세계 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15754</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15754"/>
-        <updated>2025-03-13T01:22:27.735Z</updated>
-        <content type="html"><![CDATA[2025.03.13(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매Yui Ogura Fan Meeting 2025 in Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15753</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15753"/>
-        <updated>2025-03-12T09:19:59.209Z</updated>
-        <content type="html"><![CDATA[2025.03.14(금) 20:00]]></content>
     </entry>
 </feed>

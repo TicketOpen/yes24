@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-17T05:19:32.921Z</updated>
+    <updated>2025-03-17T06:28:17.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 튠에이드 [하나되는 너와 나의 목소리, 아카펠라!] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15777&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15777&amp;order=1"/>
+        <updated>2025-03-17T06:27:23.361Z</updated>
+        <content type="html"><![CDATA[2025-03-18(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니 & 픽사 OST 콘서트 티켓오픈 안내입니다.]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15776&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15776&amp;order=1"/>
+        <updated>2025-03-17T06:27:23.361Z</updated>
+        <content type="html"><![CDATA[2025-03-18(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈2025 롯데콘서트홀 마티네 〈황수미의 사운드트랙〉〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15774&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15766&amp;order=1"/>
         <updated>2025-03-14T08:23:26.935Z</updated>
         <content type="html"><![CDATA[2025-03-18(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2025 화요모닝콘서트 - 5월 [바리톤 김동규의 5월의 어느 멋진날에] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15765&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15765&amp;order=1"/>
-        <updated>2025-03-14T08:23:26.935Z</updated>
-        <content type="html"><![CDATA[2025-03-18(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [커다란방귀] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15763&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15763&amp;order=1"/>
-        <updated>2025-03-14T06:25:31.494Z</updated>
-        <content type="html"><![CDATA[2025-03-19(수) 09:00]]></content>
     </entry>
 </feed>
