@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 09:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 10:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,13 +27,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15777</guid>
             <pubDate>Mon, 17 Mar 2025 06:27:12 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.18(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 & 픽사 OST 콘서트 티켓오픈 안내입니다. (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15776</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15776</guid>
-            <pubDate>Mon, 17 Mar 2025 06:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.18(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼뮤지컬 어게인 [드림하이] (Showmusical Again [DreamHigh]) 2차 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -148,6 +141,13 @@
             <content:encoded><![CDATA[2025.03.18(화) 09:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[단독판매정여진 Live Concert, AniBirthday to You 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15757</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15757</guid>
+            <pubDate>Mon, 17 Mar 2025 10:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20(목) 12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Xdinary Heroes〈Beautiful Mind〉World Tour in SEOUL 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15779&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15779&amp;order=1</guid>
@@ -167,13 +167,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15777&amp;order=1</guid>
             <pubDate>Mon, 17 Mar 2025 06:27:23 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-18(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 & 픽사 OST 콘서트 티켓오픈 안내입니다. (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15776&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15776&amp;order=1</guid>
-            <pubDate>Mon, 17 Mar 2025 06:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-18(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼뮤지컬 어게인 [드림하이] (Showmusical Again [DreamHigh]) 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -216,6 +209,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15769&amp;order=1</guid>
             <pubDate>Mon, 17 Mar 2025 03:34:09 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-20(목) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 2025 라이브가족뮤지컬 [미녀와야수] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15768&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15768&amp;order=1</guid>
+            <pubDate>Mon, 17 Mar 2025 10:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025-03-20(목) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <이솝이야기> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
