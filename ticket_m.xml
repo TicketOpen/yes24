@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-17T07:19:43.925Z</updated>
+    <updated>2025-03-17T08:26:38.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes〈Beautiful Mind〉World Tour in SEOUL 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15779&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15779&amp;order=1"/>
+        <updated>2025-03-17T08:25:38.394Z</updated>
+        <content type="html"><![CDATA[2025-04-01(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘서트 가이드 김성민과 함께하는 [영도에서 떠나는 예술여행 ‘르네상스’] - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15778&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15778&amp;order=1"/>
+        <updated>2025-03-17T08:25:38.395Z</updated>
+        <content type="html"><![CDATA[2025-03-21(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 튠에이드 [하나되는 너와 나의 목소리, 아카펠라!] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15777&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15769&amp;order=1"/>
         <updated>2025-03-17T03:34:09.654Z</updated>
         <content type="html"><![CDATA[2025-03-20(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15768&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15768&amp;order=1"/>
-        <updated>2025-03-17T03:34:09.656Z</updated>
-        <content type="html"><![CDATA[2025-03-20(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2025 화요모닝콘서트 - 7월 [‘오래된노래’ 스탠딩에그의 초여름의 어쿠스틱] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15767&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15767&amp;order=1"/>
-        <updated>2025-03-14T08:23:26.935Z</updated>
-        <content type="html"><![CDATA[2025-03-18(화) 14:00]]></content>
     </entry>
 </feed>

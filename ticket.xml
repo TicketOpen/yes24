@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-17T07:19:43.929Z</updated>
+    <updated>2025-03-17T08:26:38.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매Xdinary Heroes〈Beautiful Mind〉World Tour in SEOUL 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15779</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15779"/>
+        <updated>2025-03-17T08:25:26.528Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2025.03.31(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘서트 가이드 김성민과 함께하는 [영도에서 떠나는 예술여행 ‘르네상스’] - 부산 티켓오픈안..]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15778</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15778"/>
+        <updated>2025-03-17T08:25:26.531Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[부산] 튠에이드 [하나되는 너와 나의 목소리, 아카펠라!] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15777</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15758"/>
         <updated>2025-03-13T10:20:14.174Z</updated>
         <content type="html"><![CDATA[2025.03.18(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매정여진 Live Concert, AniBirthday to You 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15757</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15757"/>
-        <updated>2025-03-13T09:19:20.771Z</updated>
-        <content type="html"><![CDATA[2025.03.20(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[함안] 제32회 함안 낙화놀이 공개행사 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15756</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15756"/>
-        <updated>2025-03-13T09:19:20.771Z</updated>
-        <content type="html"><![CDATA[2025.03.26(수) 10:00]]></content>
     </entry>
 </feed>
