@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-17T02:59:47.191Z</updated>
+    <updated>2025-03-17T03:35:01.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2025 라이브가족뮤지컬 [인어공주] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15769&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15769&amp;order=1"/>
+        <updated>2025-03-17T03:34:09.654Z</updated>
+        <content type="html"><![CDATA[2025-03-20(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15768&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15768&amp;order=1"/>
+        <updated>2025-03-17T03:34:09.656Z</updated>
+        <content type="html"><![CDATA[2025-03-20(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 2025 화요모닝콘서트 - 7월 [‘오래된노래’ 스탠딩에그의 초여름의 어쿠스틱] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15767&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15759&amp;order=1"/>
         <updated>2025-03-14T01:21:14.874Z</updated>
         <content type="html"><![CDATA[2025-03-18(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과천] 2025 [더 : 매직서커스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15758&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15758&amp;order=1"/>
-        <updated>2025-03-13T10:20:25.721Z</updated>
-        <content type="html"><![CDATA[2025-03-18(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정여진 Live Concert, AniBirthday to You 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15757&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15757&amp;order=1"/>
-        <updated>2025-03-13T09:19:31.473Z</updated>
-        <content type="html"><![CDATA[2025-03-20(목) 12:00]]></content>
     </entry>
 </feed>

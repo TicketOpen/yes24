@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-17T02:59:47.195Z</updated>
+    <updated>2025-03-17T03:35:01.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2025 라이브가족뮤지컬 [인어공주] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15769</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15769"/>
+        <updated>2025-03-17T03:33:59.862Z</updated>
+        <content type="html"><![CDATA[2025.03.20(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15768</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15768"/>
+        <updated>2025-03-17T03:33:59.862Z</updated>
+        <content type="html"><![CDATA[2025.03.20(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매[창원] 2025 화요모닝콘서트 - 7월 [‘오래된노래’ 스탠딩에그의 초여름의 어쿠스틱] 티켓 오픈..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15767</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15749"/>
         <updated>2025-03-12T06:26:27.447Z</updated>
         <content type="html"><![CDATA[2025.03.14(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[평창]두루두루 찾아가는 대중음악콘서트 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15748</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15748"/>
-        <updated>2025-03-12T03:27:29.076Z</updated>
-        <content type="html"><![CDATA[2025.03.12(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 Road to BU-ROCK Busan 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15747</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15747"/>
-        <updated>2025-03-12T02:54:46.583Z</updated>
-        <content type="html"><![CDATA[2025.03.14(금) 14:00]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 02:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 03:35:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Fri, 14 Feb 2025 12:34:16 GMT</pubDate>
             <content:encoded><![CDATA[<em>초대</em>뮤지컬 &lt;돈 주앙&gt; 프렌치 오리지널 내한공연 4/4(금) 오후 7시30분]]></content:encoded>
             <enclosure url="https://tkfile.yes24.com/upload2/Event/202501/20250109/20250109-43431384-1d26-49be-a581-3c74307c78ef.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2025.03.17 ~ 2025.03.23]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3593</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3593</guid>
+            <pubDate>Mon, 17 Mar 2025 03:34:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202503/20250317/20250317-62d38d0d-77d2-41e1-8fdb-aa1b9aad2939.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2019.08.09 ~ 2026.08.31]]></title>
