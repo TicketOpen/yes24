@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-18T05:19:28.203Z</updated>
+    <updated>2025-03-18T06:27:33.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 리사 오노 내한공연 2025 - Bossa Nova Breeze 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15785</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15785"/>
+        <updated>2025-03-18T06:26:36.192Z</updated>
+        <content type="html"><![CDATA[2025.03.20(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 리사 오노 내한공연 2025 - Bossa Nova Breeze 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15784</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15784"/>
+        <updated>2025-03-18T06:26:36.194Z</updated>
+        <content type="html"><![CDATA[2025.03.20(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [백작] 프리뷰 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15782</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15782"/>
+        <updated>2025-03-18T06:26:36.194Z</updated>
+        <content type="html"><![CDATA[2025.03.25(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [매디슨 카운티의 다리] 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15781</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15763"/>
         <updated>2025-03-14T06:25:19.134Z</updated>
         <content type="html"><![CDATA[2025.03.19(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15762</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15762"/>
-        <updated>2025-03-14T06:25:19.136Z</updated>
-        <content type="html"><![CDATA[2025.03.19(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매MAHIRU “ASIA TOUR” 2025 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15761</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15761"/>
-        <updated>2025-03-14T03:28:17.298Z</updated>
-        <content type="html"><![CDATA[2025.03.20(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 유나이티드 코리안 오케스트라 정기연주회 유코의 [불새] 그리고···. 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15760</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15760"/>
-        <updated>2025-03-14T02:54:43.496Z</updated>
-        <content type="html"><![CDATA[2025.03.19(수) 10:00]]></content>
     </entry>
 </feed>

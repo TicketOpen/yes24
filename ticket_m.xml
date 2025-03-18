@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-18T05:19:28.185Z</updated>
+    <updated>2025-03-18T06:27:33.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 리사 오노 내한공연 2025 - Bossa Nova Breeze 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15785&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15785&amp;order=1"/>
+        <updated>2025-03-18T06:26:44.710Z</updated>
+        <content type="html"><![CDATA[2025-03-20(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 리사 오노 내한공연 2025 - Bossa Nova Breeze 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15784&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15784&amp;order=1"/>
+        <updated>2025-03-18T06:26:44.713Z</updated>
+        <content type="html"><![CDATA[2025-03-20(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [백작] 프리뷰 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15782&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15782&amp;order=1"/>
+        <updated>2025-03-18T06:26:44.714Z</updated>
+        <content type="html"><![CDATA[2025-03-25(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [매디슨 카운티의 다리] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15781&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15775&amp;order=1"/>
         <updated>2025-03-17T07:18:57.258Z</updated>
         <content type="html"><![CDATA[2025-03-24(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈2025 롯데콘서트홀 마티네 〈황수미의 사운드트랙〉〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15774&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15774&amp;order=1"/>
-        <updated>2025-03-17T05:18:46.811Z</updated>
-        <content type="html"><![CDATA[2025-03-19(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2025 김창옥 토크콘서트 시즌5 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15773&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15773&amp;order=1"/>
-        <updated>2025-03-17T05:18:46.812Z</updated>
-        <content type="html"><![CDATA[2025-03-19(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live on Spring in 대구(라이브 온 스프링 인 대구) N.Flying (엔플라잉), Band Nah (나상현씨밴드) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15772&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15772&amp;order=1"/>
-        <updated>2025-03-17T05:18:46.813Z</updated>
-        <content type="html"><![CDATA[2025-03-21(금) 20:00]]></content>
     </entry>
 </feed>
