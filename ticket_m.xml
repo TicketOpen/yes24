@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-18T04:23:07.191Z</updated>
+    <updated>2025-03-18T05:19:28.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [매디슨 카운티의 다리] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15781&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15781&amp;order=1"/>
+        <updated>2025-03-18T05:18:38.863Z</updated>
+        <content type="html"><![CDATA[2025-03-21(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [조선 이야기꾼 전기수] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15780&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15780&amp;order=1"/>
+        <updated>2025-03-18T05:18:38.865Z</updated>
+        <content type="html"><![CDATA[2025-03-24(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xdinary Heroes〈Beautiful Mind〉World Tour in SEOUL 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15779&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15772&amp;order=1"/>
         <updated>2025-03-17T05:18:46.813Z</updated>
         <content type="html"><![CDATA[2025-03-21(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live on Spring in 대구(라이브 온 스프링 인 대구) 홍이삭(Isaac Hong), 리도어(Redoor) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15771&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15771&amp;order=1"/>
-        <updated>2025-03-17T05:18:46.815Z</updated>
-        <content type="html"><![CDATA[2025-03-20(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2025 라이브가족뮤지컬 [인어공주] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15769&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15769&amp;order=1"/>
-        <updated>2025-03-17T03:34:09.654Z</updated>
-        <content type="html"><![CDATA[2025-03-20(목) 10:00]]></content>
     </entry>
 </feed>
