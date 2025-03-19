@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 05:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 06:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15791</guid>
             <pubDate>Wed, 19 Mar 2025 01:23:06 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.26(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매2025 우디 콘서트 〈Woody, Live〉 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15790</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15790</guid>
+            <pubDate>Wed, 19 Mar 2025 06:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21(금) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[광주] 2025 베스트셀러 뮤지컬 [커다란방귀] 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -141,13 +148,6 @@
             <content:encoded><![CDATA[2025.03.24(월) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[〈2025 롯데콘서트홀 마티네 〈황수미의 사운드트랙〉〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15774</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15774</guid>
-            <pubDate>Mon, 17 Mar 2025 05:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.19(수) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[대전] 2025 윤종신 전국투어 콘서트 [그때] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15794&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15794&amp;order=1</guid>
@@ -174,6 +174,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15791&amp;order=1</guid>
             <pubDate>Wed, 19 Mar 2025 01:23:17 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-26(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 우디 콘서트 〈Woody, Live〉 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15790&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15790&amp;order=1</guid>
+            <pubDate>Wed, 19 Mar 2025 06:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025-03-21(금) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[광주] 2025 베스트셀러 뮤지컬 [커다란방귀] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -207,13 +214,6 @@
             <title><![CDATA[[대구] 리사 오노 내한공연 2025 - Bossa Nova Breeze 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15785&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15785&amp;order=1</guid>
-            <pubDate>Tue, 18 Mar 2025 06:26:44 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-20(목) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[서울] 리사 오노 내한공연 2025 - Bossa Nova Breeze 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15784&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15784&amp;order=1</guid>
             <pubDate>Tue, 18 Mar 2025 06:26:44 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-20(목) 12:00]]></content:encoded>
         </item>
