@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 14:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 15:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,13 +398,6 @@
             <content:encoded><![CDATA[<dt>발급기간</dt><dd>2025.02.27 ~ 2025.04.27</dd><dt>사용기간</dt><dd>2025.02.27 ~ 2025.04.27</dd>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[알폰스 무하 원화전] 얼리버드 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
-            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
-            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
-            <pubDate>Mon, 24 Feb 2025 06:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2025.02.18 ~ 2025.03.19</dd><dt>사용기간</dt><dd>2025.02.18 ~ 2025.03.19</dd>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[YES마니아] 예매수수료 면제쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -417,13 +410,6 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=13097</guid>
             <pubDate>Wed, 12 Feb 2025 07:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 0원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[알폰스 무하 원화전] 얼리버드 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
-            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=50899</link>
-            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=50899</guid>
-            <pubDate>Tue, 18 Feb 2025 03:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 500원]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[뮤지컬 돈 주앙] 5천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
