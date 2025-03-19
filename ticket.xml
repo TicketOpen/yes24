@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-19T04:23:26.070Z</updated>
+    <updated>2025-03-19T05:19:04.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2025 윤종신 전국투어 콘서트 [그때] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15794</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15794"/>
+        <updated>2025-03-19T05:17:58.296Z</updated>
+        <content type="html"><![CDATA[2025.03.25(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2025 Road to BU-ROCK ~ SPYAIR ASIA TOUR 2025 -BUDDY- in Seoul 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15793</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15774"/>
         <updated>2025-03-17T05:18:36.398Z</updated>
         <content type="html"><![CDATA[2025.03.19(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[광주] 2025 김창옥 토크콘서트 시즌5 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15773</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15773"/>
-        <updated>2025-03-17T05:18:36.400Z</updated>
-        <content type="html"><![CDATA[2025.03.19(수) 10:00]]></content>
     </entry>
 </feed>
