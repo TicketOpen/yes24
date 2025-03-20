@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-20T01:23:23.551Z</updated>
+    <updated>2025-03-20T02:57:30.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 어린이 서커스 마술쇼 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15797&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15797&amp;order=1"/>
+        <updated>2025-03-20T02:56:44.389Z</updated>
+        <content type="html"><![CDATA[2025-03-25(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2025 윤종신 전국투어 콘서트 [그때] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15794&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15786&amp;order=1"/>
         <updated>2025-03-18T08:24:25.019Z</updated>
         <content type="html"><![CDATA[2025-03-21(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 리사 오노 내한공연 2025 - Bossa Nova Breeze 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15785&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15785&amp;order=1"/>
-        <updated>2025-03-18T06:26:44.710Z</updated>
-        <content type="html"><![CDATA[2025-03-20(목) 12:00]]></content>
     </entry>
 </feed>
