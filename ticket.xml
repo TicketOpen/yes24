@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-21T02:59:12.765Z</updated>
+    <updated>2025-03-21T03:33:42.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매하성운 (HA SUNG WOON) 공식 팬클럽 HA:NEUL 4기 모집 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15802</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15802"/>
+        <updated>2025-03-21T03:32:38.496Z</updated>
+        <content type="html"><![CDATA[2025.03.31(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음악극 [노베첸토] 2차 티켓 오픈 공지]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15801</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15783"/>
         <updated>2025-03-18T08:24:15.537Z</updated>
         <content type="html"><![CDATA[2025.03.20(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [백작] 프리뷰 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15782</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15782"/>
-        <updated>2025-03-18T06:26:36.194Z</updated>
-        <content type="html"><![CDATA[2025.03.25(화) 14:00]]></content>
     </entry>
 </feed>
