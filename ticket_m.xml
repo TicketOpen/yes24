@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-21T05:18:52.280Z</updated>
+    <updated>2025-03-21T06:28:54.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 연극 [얼씨구 왕국의 삼총사] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15805&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15805&amp;order=1"/>
+        <updated>2025-03-21T06:28:01.167Z</updated>
+        <content type="html"><![CDATA[2025-03-28(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [나생문] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15803&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15803&amp;order=1"/>
+        <updated>2025-03-21T06:28:01.167Z</updated>
+        <content type="html"><![CDATA[2025-03-24(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하성운 (HA SUNG WOON) 공식 팬클럽 HA:NEUL 4기 모집 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15802&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15795&amp;order=1"/>
         <updated>2025-03-20T05:18:13.295Z</updated>
         <content type="html"><![CDATA[2025-03-25(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2025 윤종신 전국투어 콘서트 [그때] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15794&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15794&amp;order=1"/>
-        <updated>2025-03-19T05:18:07.968Z</updated>
-        <content type="html"><![CDATA[2025-03-25(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Road to BU-ROCK ~ SPYAIR ASIA TOUR 2025 -BUDDY- in Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15793&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15793&amp;order=1"/>
-        <updated>2025-03-19T02:57:23.838Z</updated>
-        <content type="html"><![CDATA[2025-04-04(금) 19:00]]></content>
     </entry>
 </feed>
