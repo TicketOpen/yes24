@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-21T01:24:47.285Z</updated>
+    <updated>2025-03-21T02:59:12.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[음악극 [노베첸토] 2차 티켓 오픈 공지]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15801&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15801&amp;order=1"/>
+        <updated>2025-03-21T02:58:21.033Z</updated>
+        <content type="html"><![CDATA[2025-03-26(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [니진스키] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15800&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15792&amp;order=1"/>
         <updated>2025-03-19T02:57:23.840Z</updated>
         <content type="html"><![CDATA[2025-04-02(수) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [구텐버그] 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15791&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15791&amp;order=1"/>
-        <updated>2025-03-19T01:23:17.733Z</updated>
-        <content type="html"><![CDATA[2025-03-26(수) 14:00]]></content>
     </entry>
 </feed>

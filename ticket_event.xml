@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 01:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 02:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시, 페스티벌의 계절]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3749</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3749</guid>
+            <pubDate>Fri, 21 Mar 2025 02:58:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21 ~ 2025.04.06]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250321/20250321-11a125dc-415c-4dfa-abf8-31d4aaa28281.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <매디슨 카운티의 다리> 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=53040&amp;Tab=3</link>
@@ -69,13 +77,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3113</guid>
             <pubDate>Tue, 18 Mar 2025 15:21:22 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202003/20200302/20200302-Ev_bn_newcheck.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 보호 캠페인]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
-            <pubDate>Thu, 20 Mar 2025 15:21:37 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
