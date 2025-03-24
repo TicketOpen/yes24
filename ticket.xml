@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-24T05:20:00.491Z</updated>
+    <updated>2025-03-24T06:28:12.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2025 창원문화재단 신인음악회 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15813</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15813"/>
+        <updated>2025-03-24T06:27:04.249Z</updated>
+        <content type="html"><![CDATA[2025.03.27(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <명성황후> 30주년 기념 공연 - 광주 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15812</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15794"/>
         <updated>2025-03-19T05:17:58.296Z</updated>
         <content type="html"><![CDATA[2025.03.25(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 Road to BU-ROCK ~ SPYAIR ASIA TOUR 2025 -BUDDY- in Seoul 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15793</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15793"/>
-        <updated>2025-03-19T02:57:12.256Z</updated>
-        <content type="html"><![CDATA[2025.04.04(금) 19:00<a class="noti-btn-pop" presaletit1="2회차 오픈" presaletit2="" presaletime1="2025.04.04(금) 19:30" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

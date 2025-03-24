@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-24T05:20:00.485Z</updated>
+    <updated>2025-03-24T06:28:12.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2025 창원문화재단 신인음악회 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15813&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15813&amp;order=1"/>
+        <updated>2025-03-24T06:27:15.833Z</updated>
+        <content type="html"><![CDATA[2025-03-27(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <명성황후> 30주년 기념 공연 - 광주 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15812&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15804&amp;order=1"/>
         <updated>2025-03-24T01:26:00.211Z</updated>
         <content type="html"><![CDATA[2025-03-27(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [나생문] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15803&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15803&amp;order=1"/>
-        <updated>2025-03-21T06:28:01.167Z</updated>
-        <content type="html"><![CDATA[2025-03-24(월) 11:00]]></content>
     </entry>
 </feed>
