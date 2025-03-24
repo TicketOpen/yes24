@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-24T04:23:11.436Z</updated>
+    <updated>2025-03-24T05:20:00.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <명성황후> 30주년 기념 공연 - 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15812&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15812&amp;order=1"/>
+        <updated>2025-03-24T05:19:06.934Z</updated>
+        <content type="html"><![CDATA[2025-03-26(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 영동세계국악엑스포 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15811&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15803&amp;order=1"/>
         <updated>2025-03-21T06:28:01.167Z</updated>
         <content type="html"><![CDATA[2025-03-24(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하성운 (HA SUNG WOON) 공식 팬클럽 HA:NEUL 4기 모집 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15802&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15802&amp;order=1"/>
-        <updated>2025-03-21T03:32:49.527Z</updated>
-        <content type="html"><![CDATA[2025-03-31(월) 12:00]]></content>
     </entry>
 </feed>
