@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-24T08:26:25.795Z</updated>
+    <updated>2025-03-24T09:21:59.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 JONGHYEONG BIRTHDAY FANMEETING 〈Happy JJONG's Day〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15814&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15814&amp;order=1"/>
+        <updated>2025-03-24T09:21:14.399Z</updated>
+        <content type="html"><![CDATA[2025-04-04(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 2025 창원문화재단 신인음악회 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15813&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15805&amp;order=1"/>
         <updated>2025-03-21T06:28:01.167Z</updated>
         <content type="html"><![CDATA[2025-03-28(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[구로] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15804&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15804&amp;order=1"/>
-        <updated>2025-03-24T01:26:00.211Z</updated>
-        <content type="html"><![CDATA[2025-03-27(목) 10:00]]></content>
     </entry>
 </feed>
