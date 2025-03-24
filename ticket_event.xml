@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Mar 2025 23:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 01:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 21 Mar 2025 02:58:44 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.21 ~ 2025.04.06]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250321/20250321-11a125dc-415c-4dfa-abf8-31d4aaa28281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <우리 노래방 가서… 얘기 좀 할까> 관람 후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=52866&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=52866&amp;Tab=2</guid>
+            <pubDate>Mon, 24 Mar 2025 01:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.22 ~ 2025.05.11 | 2025.05.12 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250324/20250324-3f07cc93-d445-4791-82cb-f92c94f6cf00.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <매디슨 카운티의 다리> 기대평 이벤트]]></title>
@@ -68,13 +76,6 @@
             <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3019</guid>
             <pubDate>Sun, 23 Mar 2025 15:18:56 GMT</pubDate>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예스24스테이지]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Sun, 23 Mar 2025 15:18:56 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Mar 2025 23:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 01:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 21 Mar 2025 02:58:54 GMT</pubDate>
             <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
             <enclosure url="https://tkfile.yes24.com/upload2/Event/202503/20250321/20250321-11a125dc-415c-4dfa-abf8-31d4aaa28281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2025.03.22 ~ 2025.05.11]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=52866</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=52866</guid>
+            <pubDate>Mon, 24 Mar 2025 01:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>전 배우 친필 사인 프로그램북]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202503/20250324/20250324-3f07cc93-d445-4791-82cb-f92c94f6cf00.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2025.03.07 ~ 2025.04.13]]></title>

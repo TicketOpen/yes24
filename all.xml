@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Mar 2025 23:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 01:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15805</guid>
             <pubDate>Fri, 21 Mar 2025 06:27:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.28(금) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[구로] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15804</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15804</guid>
+            <pubDate>Mon, 24 Mar 2025 01:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.27(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 [나생문] 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -141,13 +148,6 @@
             <content:encoded><![CDATA[2025.03.21(금) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [명성황후] 30주년 기념 공연 - 대전 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15786</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15786</guid>
-            <pubDate>Tue, 18 Mar 2025 08:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.21(금) 16:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2025 뮤지컬 <여신님이 보고 계셔> - 광주공연 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15806&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15806&amp;order=1</guid>
@@ -160,6 +160,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15805&amp;order=1</guid>
             <pubDate>Fri, 21 Mar 2025 06:28:01 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-28(금) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[구로] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15804&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15804&amp;order=1</guid>
+            <pubDate>Mon, 24 Mar 2025 01:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025-03-27(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 [나생문] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -211,11 +218,23 @@
             <content:encoded><![CDATA[2025-03-25(화) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [소란스러운 나의 서림에서] 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15796&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15796&amp;order=1</guid>
-            <pubDate>Thu, 20 Mar 2025 05:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-27(목) 11:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [라파치니의 정원] (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/52070</link>
+            <guid>http://ticket.yes24.com/Perf/52070</guid>
+            <pubDate>Mon, 24 Mar 2025 01:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>R석								</td>								<td class="price">									70,000원								</td>								<td class="dc_price">									<em>→</em>39,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202503/20250324/20250324-52070.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [라파치니의 정원] (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/52070</link>
+            <guid>http://m.ticket.yes24.com/Perf/52070</guid>
+            <pubDate>Mon, 24 Mar 2025 01:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 [라파치니의 정원]</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">70,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">39,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">3/25(화)~4/6(일)</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202503/20250324/20250324-52070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시, 페스티벌의 계절 (YES24 티켓 ─ 이벤트)]]></title>
@@ -224,6 +243,14 @@
             <pubDate>Fri, 21 Mar 2025 02:58:44 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.21 ~ 2025.04.06]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250321/20250321-11a125dc-415c-4dfa-abf8-31d4aaa28281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <우리 노래방 가서… 얘기 좀 할까> 관람 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=52866&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=52866&amp;Tab=2</guid>
+            <pubDate>Mon, 24 Mar 2025 01:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.22 ~ 2025.05.11 | 2025.05.12 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250324/20250324-3f07cc93-d445-4791-82cb-f92c94f6cf00.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <매디슨 카운티의 다리> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
@@ -280,19 +307,20 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_e1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[예스24스테이지 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=2966</guid>
-            <pubDate>Sun, 23 Mar 2025 15:18:56 GMT</pubDate>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202001/20200109/20200109-ev_list_stage.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[이벤트 기간2025.03.21 ~ 2025.04.06 (YES24 티켓 ─ 이벤트 모바일)]]></title>
             <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3749</link>
             <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3749</guid>
             <pubDate>Fri, 21 Mar 2025 02:58:54 GMT</pubDate>
             <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
             <enclosure url="https://tkfile.yes24.com/upload2/Event/202503/20250321/20250321-11a125dc-415c-4dfa-abf8-31d4aaa28281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이벤트 기간2025.03.22 ~ 2025.05.11 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=52866</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=52866</guid>
+            <pubDate>Mon, 24 Mar 2025 01:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>경품</em>전 배우 친필 사인 프로그램북]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202503/20250324/20250324-3f07cc93-d445-4791-82cb-f92c94f6cf00.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2025.03.07 ~ 2025.04.13 (YES24 티켓 ─ 이벤트 모바일)]]></title>
