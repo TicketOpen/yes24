@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-25T06:28:04.291Z</updated>
+    <updated>2025-03-25T07:21:06.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 여름방학특집 2025 라이브가족뮤지컬 [인어공주] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15819&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15819&amp;order=1"/>
+        <updated>2025-03-25T07:20:07.274Z</updated>
+        <content type="html"><![CDATA[2025-03-31(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 B1A4 CONCERT [Singularity] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15817&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15809&amp;order=1"/>
         <updated>2025-03-24T03:02:45.179Z</updated>
         <content type="html"><![CDATA[2025-03-27(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모스크바 라 클라시크 발레단 월드투어〈백조의 호수〉- 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15808&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15808&amp;order=1"/>
-        <updated>2025-03-24T03:02:45.179Z</updated>
-        <content type="html"><![CDATA[2025-03-31(월) 14:00]]></content>
     </entry>
 </feed>
