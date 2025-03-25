@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-25T03:36:56.128Z</updated>
+    <updated>2025-03-25T04:23:06.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [배니싱] 4차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15816</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15816"/>
+        <updated>2025-03-25T04:21:52.770Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15815</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15797"/>
         <updated>2025-03-20T02:56:35.584Z</updated>
         <content type="html"><![CDATA[2025.03.25(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [소란스러운 나의 서림에서] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15796</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15796"/>
-        <updated>2025-03-20T05:18:04.944Z</updated>
-        <content type="html"><![CDATA[2025.03.27(목) 11:00]]></content>
     </entry>
 </feed>
