@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-25T03:00:13.352Z</updated>
+    <updated>2025-03-25T03:36:56.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15815</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15815"/>
+        <updated>2025-03-25T03:35:44.009Z</updated>
+        <content type="html"><![CDATA[2025.03.31(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2025 JONGHYEONG BIRTHDAY FANMEETING 〈Happy JJONG's Day〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15814</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15796"/>
         <updated>2025-03-20T05:18:04.944Z</updated>
         <content type="html"><![CDATA[2025.03.27(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이솝이야기] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15795</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15795"/>
-        <updated>2025-03-20T05:18:04.945Z</updated>
-        <content type="html"><![CDATA[2025.03.25(화) 13:00]]></content>
     </entry>
 </feed>
