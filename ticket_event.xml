@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 14:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 15:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 [소란스러운 나의 서림에서] 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=53090&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=53090&amp;Tab=3</guid>
+            <pubDate>Wed, 26 Mar 2025 15:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.27 ~ 2025.04.07 | 2025.04.08 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250326/20250326-583cc0b0-fe9d-4419-9ddf-41b4106c30b9.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈조선 이야기꾼 전기수〉기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=53231&amp;Tab=3</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 24 Mar 2025 08:25:54 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.05 ~ 2025.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250305/20250305-5e85b675-1e7c-4e9e-b3bb-9437f1c6ac9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스페이로 예매 시 최대 3천원 할인!]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3738</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3738</guid>
-            <pubDate>Mon, 24 Feb 2025 06:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.01 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250304/20250304-5da5fe7e-e1e1-47f5-914c-64eecb21714e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
