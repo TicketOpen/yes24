@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-26T04:23:05.567Z</updated>
+    <updated>2025-03-26T05:19:12.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [콧구멍을 후비면] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15822</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15822"/>
+        <updated>2025-03-26T05:18:17.962Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[성남] 2025 라이브가족뮤지컬 [알라딘] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15821</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15821"/>
+        <updated>2025-03-26T05:18:17.981Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매EUNHYUK LIVE TOUR 2025 -Limitless: Time- Special in SEOUL 시야 제한석 추가 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15820</id>
@@ -18,6 +32,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15819"/>
         <updated>2025-03-25T07:19:55.225Z</updated>
         <content type="html"><![CDATA[2025.03.31(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[용산] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15818</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15818"/>
+        <updated>2025-03-26T05:18:17.983Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매2025 B1A4 CONCERT [Singularity] 티켓 오픈 안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15803"/>
         <updated>2025-03-21T06:27:50.416Z</updated>
         <content type="html"><![CDATA[2025.03.24(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매하성운 (HA SUNG WOON) 공식 팬클럽 HA:NEUL 4기 모집 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15802</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15802"/>
-        <updated>2025-03-21T03:32:38.496Z</updated>
-        <content type="html"><![CDATA[2025.03.31(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악극 [노베첸토] 2차 티켓 오픈 공지]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15801</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15801"/>
-        <updated>2025-03-21T02:58:10.390Z</updated>
-        <content type="html"><![CDATA[2025.03.26(수) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2025.03.26(수) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [니진스키] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15800</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15800"/>
-        <updated>2025-03-20T05:18:04.942Z</updated>
-        <content type="html"><![CDATA[2025.03.25(화) 15:00]]></content>
     </entry>
 </feed>
