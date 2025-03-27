@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 23:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 01:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 26 Mar 2025 15:21:30 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.27 ~ 2025.04.07 | 2025.04.08 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250326/20250326-583cc0b0-fe9d-4419-9ddf-41b4106c30b9.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[음악극 <노베첸토> 관람후기 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=52537&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=52537&amp;Tab=2</guid>
+            <pubDate>Thu, 27 Mar 2025 01:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.27 ~ 2025.06.08 | 2025.06.11 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250326/20250326-3b386138-1636-4b37-9fe9-f6679676dd72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈조선 이야기꾼 전기수〉기대평 이벤트]]></title>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 17 Mar 2025 05:19:09 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.06 ~ 2025.03.28 | 2025.03.31 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202502/20250213/20250213-7674444e-b8be-4c8d-b0bb-40bea80bd19b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 청년문화예술패스]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3740</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3740</guid>
-            <pubDate>Mon, 24 Mar 2025 08:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250305/20250305-5e85b675-1e7c-4e9e-b3bb-9437f1c6ac9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
