@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 01:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 02:59:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15826</guid>
             <pubDate>Thu, 27 Mar 2025 01:23:20 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.28(금) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 푸에르자 부르타 〈아벤〉 - 서울 3차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15825</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15825</guid>
+            <pubDate>Thu, 27 Mar 2025 02:58:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.01(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최태지 발레드림(Ballet Dream) 티켓 오픈일정 안내 (예스24 티켓)]]></title>
@@ -141,18 +148,18 @@
             <content:encoded><![CDATA[2025.03.31(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 뮤지컬 <여신님이 보고 계셔> - 광주공연 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15806</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15806</guid>
-            <pubDate>Fri, 21 Mar 2025 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.27(목) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[괴담 스페셜쇼 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15826&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15826&amp;order=1</guid>
             <pubDate>Thu, 27 Mar 2025 01:23:29 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-28(금) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 푸에르자 부르타 〈아벤〉 - 서울 3차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15825&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15825&amp;order=1</guid>
+            <pubDate>Thu, 27 Mar 2025 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-01(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최태지 발레드림(Ballet Dream) 티켓 오픈일정 안내 (예스24 티켓 모바일)]]></title>
@@ -209,13 +216,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15817&amp;order=1</guid>
             <pubDate>Tue, 25 Mar 2025 05:19:49 GMT</pubDate>
             <content:encoded><![CDATA[2025-04-07(월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [배니싱] 5차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15816&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15816&amp;order=1</guid>
-            <pubDate>Tue, 25 Mar 2025 04:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[2025-04-01(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [라파치니의 정원] (YES24 티켓 ─ 엔젤티켓)]]></title>
