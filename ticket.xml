@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-28T01:24:12.341Z</updated>
+    <updated>2025-03-28T03:01:35.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매제임스 블레이크 내한공연 James Blake Live in Seoul 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15829</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15829"/>
+        <updated>2025-03-28T03:00:24.640Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [라흐 헤스트] 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15828</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15810"/>
         <updated>2025-03-24T03:02:34.762Z</updated>
         <content type="html"><![CDATA[2025.03.25(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매[서울] 김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15809</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15809"/>
-        <updated>2025-03-24T03:02:34.764Z</updated>
-        <content type="html"><![CDATA[2025.03.27(목) 20:00]]></content>
     </entry>
 </feed>
