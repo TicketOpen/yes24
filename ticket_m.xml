@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-28T07:19:19.998Z</updated>
+    <updated>2025-03-28T08:26:02.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[LUCKY TAPES 내한공연(LUCKY TAPES Live in Seoul 2025) 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15833&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15833&amp;order=1"/>
+        <updated>2025-03-28T08:25:06.799Z</updated>
+        <content type="html"><![CDATA[2025-04-02(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제1266회 서초금요음악회 교향악 축제 Ⅰ [클래식 클라쎄 - Maestoso] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15832&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15832&amp;order=1"/>
+        <updated>2025-03-28T08:25:06.801Z</updated>
+        <content type="html"><![CDATA[2025-04-04(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현대차증권과 함께하는 클라우스 메켈레 & 파리 오케스트라] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15830&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15823&amp;order=1"/>
         <updated>2025-03-26T08:24:50.476Z</updated>
         <content type="html"><![CDATA[2025-03-31(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [콧구멍을 후비면] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15822&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15822&amp;order=1"/>
-        <updated>2025-03-26T05:18:26.724Z</updated>
-        <content type="html"><![CDATA[2025-04-01(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2025 라이브가족뮤지컬 [알라딘] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15821&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15821&amp;order=1"/>
-        <updated>2025-03-26T05:18:26.725Z</updated>
-        <content type="html"><![CDATA[2025-04-01(화) 10:00]]></content>
     </entry>
 </feed>

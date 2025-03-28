@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-28T07:19:19.990Z</updated>
+    <updated>2025-03-28T08:26:02.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매LUCKY TAPES 내한공연(LUCKY TAPES Live in Seoul 2025) 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15833</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15833"/>
+        <updated>2025-03-28T08:24:55.373Z</updated>
+        <content type="html"><![CDATA[2025.04.02(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매제1266회 서초금요음악회 교향악 축제 Ⅰ [클래식 클라쎄 - Maestoso] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15832</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15832"/>
+        <updated>2025-03-28T08:24:55.373Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현대차증권과 함께하는 클라우스 메켈레 & 파리 오케스트라] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15830</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15813"/>
         <updated>2025-03-24T06:27:04.249Z</updated>
         <content type="html"><![CDATA[2025.03.27(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <명성황후> 30주년 기념 공연 - 광주 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15812</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15812"/>
-        <updated>2025-03-24T05:18:57.965Z</updated>
-        <content type="html"><![CDATA[2025.03.26(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 영동세계국악엑스포 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15811</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15811"/>
-        <updated>2025-03-24T03:02:34.762Z</updated>
-        <content type="html"><![CDATA[2025.04.01(화) 09:00]]></content>
     </entry>
 </feed>
