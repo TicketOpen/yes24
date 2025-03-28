@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Discount/coupon.aspx</id>
     <title>YES24 티켓 ─ 쿠폰 </title>
-    <updated>2025-03-28T09:21:05.464Z</updated>
+    <updated>2025-03-28T10:21:01.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -25,5 +25,12 @@
         <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51026"/>
         <updated>2025-02-27T02:53:37.917Z</updated>
         <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[프라이드] 개막 기념 3천원 할인 쿠폰]]></title>
+        <id>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51449</id>
+        <link href="http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51449"/>
+        <updated>2025-03-28T10:21:00.825Z</updated>
+        <content type="html"><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content>
     </entry>
 </feed>

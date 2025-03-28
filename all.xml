@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 09:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 10:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -419,6 +419,13 @@
 				<dt>사용기간</dt><dd>발급일로부터 7일</dd>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[프라이드] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
+            <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
+            <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
+            <pubDate>Mon, 24 Feb 2025 06:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>발급기간</dt><dd>2025.03.28 ~ 2025.03.31</dd><dt>사용기간</dt><dd>2025.03.28 ~ 2025.03.31</dd>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[뮤지컬 돈 주앙] 1만원 할인 쿠폰 (YES24 티켓 ─ 쿠폰)]]></title>
             <link>http://ticket.yes24.com/New/Events/Main.aspx#</link>
             <guid>http://ticket.yes24.com/New/Events/Main.aspx#</guid>
@@ -459,6 +466,13 @@
             <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51026</guid>
             <pubDate>Thu, 27 Feb 2025 02:53:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 10,000원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[프라이드] 개막 기념 3천원 할인 쿠폰 (YES24 티켓 ─ 쿠폰 )]]></title>
+            <link>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51449</link>
+            <guid>http://m.ticket.yes24.com/Discount/CouponDetail.aspx?Id=51449</guid>
+            <pubDate>Fri, 28 Mar 2025 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="bl_rnd"></em>할인금액 3,000원]]></content:encoded>
         </item>
     </channel>
 </rss>
