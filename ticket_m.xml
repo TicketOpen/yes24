@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-28T04:23:31.698Z</updated>
+    <updated>2025-03-28T05:20:23.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[현대차증권과 함께하는 클라우스 메켈레 & 파리 오케스트라] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15830&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15830&amp;order=1"/>
+        <updated>2025-03-28T05:19:26.048Z</updated>
+        <content type="html"><![CDATA[2025-04-02(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제임스 블레이크 내한공연 James Blake Live in Seoul 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15829&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15821&amp;order=1"/>
         <updated>2025-03-26T05:18:26.725Z</updated>
         <content type="html"><![CDATA[2025-04-01(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EUNHYUK LIVE TOUR 2025 -Limitless: Time- Special in SEOUL 시야 제한석 추가 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15820&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15820&amp;order=1"/>
-        <updated>2025-03-26T03:33:29.577Z</updated>
-        <content type="html"><![CDATA[2025-03-27(목) 20:00]]></content>
     </entry>
 </feed>
