@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-31T07:20:30.983Z</updated>
+    <updated>2025-03-31T08:27:42.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DAY6 3RD WORLD TOUR〈FOREVER YOUNG〉FINALE in SEOUL 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15839&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15839&amp;order=1"/>
+        <updated>2025-03-31T08:26:34.224Z</updated>
+        <content type="html"><![CDATA[2025-04-14(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족오페라 [신콩쥐] - 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15837&amp;order=1</id>
@@ -67,11 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15828&amp;order=1"/>
         <updated>2025-03-27T05:18:17.336Z</updated>
         <content type="html"><![CDATA[2025-04-03(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 LOVESOME - 반 고흐, 영혼의 편지 최종 라인업 발표]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15827&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15827&amp;order=1"/>
-        <updated>2025-03-27T05:18:17.337Z</updated>
     </entry>
 </feed>
