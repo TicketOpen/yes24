@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-31T08:27:42.977Z</updated>
+    <updated>2025-03-31T09:22:19.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15839&amp;order=1"/>
         <updated>2025-03-31T08:26:34.224Z</updated>
         <content type="html"><![CDATA[2025-04-14(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노엘(NO:EL) 단독 콘서트 〈No.1 : El Arte〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15838&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15838&amp;order=1"/>
+        <updated>2025-03-31T09:21:17.426Z</updated>
+        <content type="html"><![CDATA[2025-04-17(목) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족오페라 [신콩쥐] - 부산 티켓오픈안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15829&amp;order=1"/>
         <updated>2025-03-28T03:00:34.753Z</updated>
         <content type="html"><![CDATA[2025-04-04(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [라흐 헤스트] 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15828&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15828&amp;order=1"/>
-        <updated>2025-03-27T05:18:17.336Z</updated>
-        <content type="html"><![CDATA[2025-04-03(목) 14:00]]></content>
     </entry>
 </feed>

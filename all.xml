@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 08:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 09:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15839</guid>
             <pubDate>Mon, 31 Mar 2025 08:26:25 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.14(월) 20:00<a class="noti-btn-pop" presaletit1="1차 팬클럽 선예매" presaletit2="2차 팬클럽 선예매" presaletime1="2025.04.10(목) 20:00" presaletime2="2025.04.11(금) 20:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노엘(NO:EL) 단독 콘서트 〈No.1 : El Arte〉 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15838</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15838</guid>
+            <pubDate>Mon, 31 Mar 2025 09:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.17(목) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족오페라 [신콩쥐] - 부산 티켓오픈안내 (예스24 티켓)]]></title>
@@ -140,18 +147,18 @@
             <content:encoded><![CDATA[2025.03.31(월) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[용산] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15818</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15818</guid>
-            <pubDate>Wed, 26 Mar 2025 05:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.01(화) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[DAY6 3RD WORLD TOUR〈FOREVER YOUNG〉FINALE in SEOUL 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15839&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15839&amp;order=1</guid>
             <pubDate>Mon, 31 Mar 2025 08:26:34 GMT</pubDate>
             <content:encoded><![CDATA[2025-04-14(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노엘(NO:EL) 단독 콘서트 〈No.1 : El Arte〉 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15838&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15838&amp;order=1</guid>
+            <pubDate>Mon, 31 Mar 2025 09:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-17(목) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족오페라 [신콩쥐] - 부산 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -210,21 +217,6 @@
             <content:encoded><![CDATA[2025-04-04(금) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [라흐 헤스트] 3차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15828&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15828&amp;order=1</guid>
-            <pubDate>Thu, 27 Mar 2025 05:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[2025-04-03(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[반쪼가리자작 (YES24 티켓 ─ 엔젤티켓)]]></title>
-            <link>http://ticket.yes24.com/Perf/53008</link>
-            <guid>http://ticket.yes24.com/Perf/53008</guid>
-            <pubDate>Mon, 31 Mar 2025 01:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202503/20250331/20250331-53008.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [배니싱] (YES24 티켓 ─ 엔젤티켓)]]></title>
             <link>http://ticket.yes24.com/Perf/52090</link>
             <guid>http://ticket.yes24.com/Perf/52090</guid>
@@ -233,15 +225,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202503/20250331/20250331-52090.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [배니싱] (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/52090</link>
-            <guid>http://m.ticket.yes24.com/Perf/52090</guid>
-            <pubDate>Mon, 31 Mar 2025 01:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 [배니싱]</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
-																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
-																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
-																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">4/1(화)-4/13(일) 회차</div>]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202503/20250331/20250331-52090.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[반쪼가리자작 (YES24 티켓 ─ 엔젤티켓)]]></title>
+            <link>http://ticket.yes24.com/Perf/53008</link>
+            <guid>http://ticket.yes24.com/Perf/53008</guid>
+            <pubDate>Mon, 31 Mar 2025 01:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="grade">									<em class="bl_rnd">&nbsp;</em>전석								</td>								<td class="price">									50,000원								</td>								<td class="dc_price">									<em>→</em>22,600원								</td>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202503/20250331/20250331-53008.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[반쪼가리자작 (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
@@ -253,6 +242,17 @@
 																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">22,600원</em></strong>
 																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">전 회차</div>]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202503/20250331/20250331-53008.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [배니싱] (YES24 티켓 ─ 엔젤티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/52090</link>
+            <guid>http://m.ticket.yes24.com/Perf/52090</guid>
+            <pubDate>Mon, 31 Mar 2025 01:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="goods_name">뮤지컬 [배니싱]</p><p class="goods_price"><span class="txt_sale yes_b"><em class="yes_b">40</em>%<em class="blind">할인</em></span><span class="txt_num">
+																			<strong class="priceO"><em class="blind">정가</em> <em class="yes_b">55,000원</em></strong>
+																			<strong class="priceS"><em class="blind">할인가</em> <em class="yes_b">30,600원</em></strong>
+																		  </span></p><div class="goods_benefit">장당 2,400원 YES포인트 적립</div><div class="goods_cmt">4/1(화)-4/13(일) 회차</div>]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/perfblog/202503/20250331/20250331-52090.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [소란스러운 나의 서림에서] 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
