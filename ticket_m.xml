@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-30T23:18:36.999Z</updated>
+    <updated>2025-03-31T01:29:07.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울바앤스피릿쇼 2025] 1차 얼리버드 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15835&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15835&amp;order=1"/>
+        <updated>2025-03-31T01:28:07.330Z</updated>
+        <content type="html"><![CDATA[2025-04-01(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ALI CASANOVA POSSE LIVE IN KOREA 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15834&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15825&amp;order=1"/>
         <updated>2025-03-27T02:58:46.288Z</updated>
         <content type="html"><![CDATA[2025-04-01(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최태지 발레드림(Ballet Dream) 티켓 오픈일정 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15824&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15824&amp;order=1"/>
-        <updated>2025-03-27T01:23:29.258Z</updated>
-        <content type="html"><![CDATA[2025-03-28(금) 14:00]]></content>
     </entry>
 </feed>
