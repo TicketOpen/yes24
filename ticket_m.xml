@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-31T03:07:26.882Z</updated>
+    <updated>2025-03-31T04:23:48.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가족오페라 [신콩쥐] - 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15837&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15837&amp;order=1"/>
+        <updated>2025-03-31T04:22:50.675Z</updated>
+        <content type="html"><![CDATA[2025-04-03(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디오스 피아졸라, 라이브 탱고 - 서울 티켓오픈 안내입니다.]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15836&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15836&amp;order=1"/>
+        <updated>2025-03-31T04:22:50.677Z</updated>
+        <content type="html"><![CDATA[2025-04-03(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울바앤스피릿쇼 2025] 1차 얼리버드 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15835&amp;order=1</id>
@@ -59,19 +73,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15827&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15827&amp;order=1"/>
         <updated>2025-03-27T05:18:17.337Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괴담 스페셜쇼 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15826&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15826&amp;order=1"/>
-        <updated>2025-03-27T01:23:29.257Z</updated>
-        <content type="html"><![CDATA[2025-03-28(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 푸에르자 부르타 〈아벤〉 - 서울 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15825&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15825&amp;order=1"/>
-        <updated>2025-03-27T02:58:46.288Z</updated>
-        <content type="html"><![CDATA[2025-04-01(화) 11:00]]></content>
     </entry>
 </feed>
