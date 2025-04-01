@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-04-01T06:29:10.388Z</updated>
+    <updated>2025-04-01T07:20:10.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 [더：매직서커스] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15848&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15848&amp;order=1"/>
+        <updated>2025-04-01T07:19:12.121Z</updated>
+        <content type="html"><![CDATA[2025-04-03(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [백작] 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15846&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15837&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15837&amp;order=1"/>
         <updated>2025-03-31T04:22:50.675Z</updated>
-        <content type="html"><![CDATA[2025-04-03(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아디오스 피아졸라, 라이브 탱고 - 서울 티켓오픈 안내입니다.]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15836&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15836&amp;order=1"/>
-        <updated>2025-03-31T04:22:50.677Z</updated>
         <content type="html"><![CDATA[2025-04-03(목) 14:00]]></content>
     </entry>
 </feed>
