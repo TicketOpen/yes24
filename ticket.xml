@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-04-01T04:23:37.024Z</updated>
+    <updated>2025-04-01T05:19:54.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매2025 LOVESOME - 반 고흐, 영혼의 편지 양일권 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15845</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15845"/>
+        <updated>2025-04-01T05:19:00.098Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [랭보] 앵콜 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15844</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15844"/>
+        <updated>2025-04-01T05:19:00.099Z</updated>
+        <content type="html"><![CDATA[2025.04.08(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Magic, 조수미 & 위너스 - 전주 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15842</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15842"/>
+        <updated>2025-04-01T05:19:00.101Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알라딘> 마지막 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15841</id>
@@ -122,26 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15824"/>
         <updated>2025-03-27T01:23:20.169Z</updated>
         <content type="html"><![CDATA[2025.03.28(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매DK FAN MEETING  티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15823</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15823"/>
-        <updated>2025-03-26T08:24:41.665Z</updated>
-        <content type="html"><![CDATA[2025.03.31(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [콧구멍을 후비면] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15822</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15822"/>
-        <updated>2025-03-26T05:18:17.962Z</updated>
-        <content type="html"><![CDATA[2025.04.01(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2025 라이브가족뮤지컬 [알라딘] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15821</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15821"/>
-        <updated>2025-03-26T05:18:17.981Z</updated>
-        <content type="html"><![CDATA[2025.04.01(화) 10:00]]></content>
     </entry>
 </feed>

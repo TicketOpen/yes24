@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-04-01T04:23:37.020Z</updated>
+    <updated>2025-04-01T05:19:54.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 LOVESOME - 반 고흐, 영혼의 편지 양일권 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15845&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15845&amp;order=1"/>
+        <updated>2025-04-01T05:19:09.345Z</updated>
+        <content type="html"><![CDATA[2025-04-04(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [랭보] 앵콜 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15844&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15844&amp;order=1"/>
+        <updated>2025-04-01T05:19:09.345Z</updated>
+        <content type="html"><![CDATA[2025-04-08(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Magic, 조수미 & 위너스 - 전주 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15842&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15842&amp;order=1"/>
+        <updated>2025-04-01T05:19:09.348Z</updated>
+        <content type="html"><![CDATA[2025-04-04(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알라딘> 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15841&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15835&amp;order=1"/>
         <updated>2025-03-31T01:28:07.330Z</updated>
         <content type="html"><![CDATA[2025-04-01(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALI CASANOVA POSSE LIVE IN KOREA 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15834&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15834&amp;order=1"/>
-        <updated>2025-03-29T10:19:32.429Z</updated>
-        <content type="html"><![CDATA[2025-04-03(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUCKY TAPES 내한공연(LUCKY TAPES Live in Seoul 2025) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15833&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15833&amp;order=1"/>
-        <updated>2025-03-28T08:25:06.799Z</updated>
-        <content type="html"><![CDATA[2025-04-02(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제1266회 서초금요음악회 교향악 축제 Ⅰ [클래식 클라쎄 - Maestoso] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15832&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15832&amp;order=1"/>
-        <updated>2025-03-28T08:25:06.801Z</updated>
-        <content type="html"><![CDATA[2025-04-04(금) 09:00]]></content>
     </entry>
 </feed>
