@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-04-01T08:26:25.807Z</updated>
+    <updated>2025-04-01T09:22:29.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15848"/>
         <updated>2025-04-01T07:19:00.954Z</updated>
         <content type="html"><![CDATA[2025.04.03(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2025 NCHIVE FANCON [NEVER GIVE UP] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15847</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15847"/>
+        <updated>2025-04-01T09:21:12.671Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [백작] 1차 티켓오픈 안내]]></title>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15827</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15827"/>
         <updated>2025-03-27T05:18:05.977Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매괴담 스페셜쇼 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15826</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15826"/>
-        <updated>2025-03-27T01:23:20.166Z</updated>
-        <content type="html"><![CDATA[2025.03.28(금) 17:00]]></content>
     </entry>
 </feed>
