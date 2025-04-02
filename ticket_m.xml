@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-04-02T06:28:32.256Z</updated>
+    <updated>2025-04-02T07:20:01.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2025 유키 구라모토 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15850&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15850&amp;order=1"/>
+        <updated>2025-04-02T07:18:54.287Z</updated>
+        <content type="html"><![CDATA[2025-04-10(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베어 더 뮤지컬 (bare the musical) 프리뷰 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15849&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15840&amp;order=1"/>
         <updated>2025-04-01T01:41:43.974Z</updated>
         <content type="html"><![CDATA[2025-04-03(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAY6 3RD WORLD TOUR〈FOREVER YOUNG〉FINALE in SEOUL 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15839&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15839&amp;order=1"/>
-        <updated>2025-03-31T08:26:34.224Z</updated>
-        <content type="html"><![CDATA[2025-04-14(월) 20:00]]></content>
     </entry>
 </feed>
