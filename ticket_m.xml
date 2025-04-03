@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-04-03T04:24:17.767Z</updated>
+    <updated>2025-04-03T05:19:39.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[보이스 오브 햄릿 (The Voice of Hamlet) 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15854&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15854&amp;order=1"/>
+        <updated>2025-04-03T05:18:40.837Z</updated>
+        <content type="html"><![CDATA[2025-04-09(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PINOCCHIOP ASIA TOUR 「COMET」 in Seoul 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15853&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15845&amp;order=1"/>
         <updated>2025-04-01T05:19:09.345Z</updated>
         <content type="html"><![CDATA[2025-04-04(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [랭보] 앵콜 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15844&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15844&amp;order=1"/>
-        <updated>2025-04-01T05:19:09.345Z</updated>
-        <content type="html"><![CDATA[2025-04-08(화) 14:00]]></content>
     </entry>
 </feed>
