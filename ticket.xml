@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-04-03T05:19:39.553Z</updated>
+    <updated>2025-04-03T06:28:26.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매ITZY 공식팬클럽 MIDZY 4기 추가 모집 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15855</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15855"/>
+        <updated>2025-04-03T06:27:17.883Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보이스 오브 햄릿 (The Voice of Hamlet) 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15854</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15835"/>
         <updated>2025-03-31T01:27:55.244Z</updated>
         <content type="html"><![CDATA[2025.04.01(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매ALI CASANOVA POSSE LIVE IN KOREA 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15834</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15834"/>
-        <updated>2025-03-29T10:19:20.656Z</updated>
-        <content type="html"><![CDATA[2025.04.03(목) 20:00]]></content>
     </entry>
 </feed>
