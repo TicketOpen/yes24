@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-04-04T07:19:21.141Z</updated>
+    <updated>2025-04-04T08:25:40.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[송승환의 가족뮤지컬 〈정글북〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15865</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15865"/>
+        <updated>2025-04-04T08:24:42.948Z</updated>
+        <content type="html"><![CDATA[2025.04.10(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매[창원] SUPER! 수요콘서트 6월 [유다빈밴드x한로로] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15864</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15864"/>
+        <updated>2025-04-04T08:24:42.948Z</updated>
+        <content type="html"><![CDATA[2025.04.10(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비지정석] 뮤지컬 헝키쇼 (HUNKY SHOW) 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15863</id>
@@ -129,20 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15846</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15846"/>
         <updated>2025-04-01T06:28:00.316Z</updated>
-        <content type="html"><![CDATA[2025.04.08(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매2025 LOVESOME - 반 고흐, 영혼의 편지 양일권 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15845</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15845"/>
-        <updated>2025-04-01T05:19:00.098Z</updated>
-        <content type="html"><![CDATA[2025.04.04(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [랭보] 앵콜 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15844</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15844"/>
-        <updated>2025-04-01T05:19:00.099Z</updated>
         <content type="html"><![CDATA[2025.04.08(화) 14:00]]></content>
     </entry>
 </feed>

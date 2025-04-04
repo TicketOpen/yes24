@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-04-04T07:19:21.147Z</updated>
+    <updated>2025-04-04T08:25:40.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[송승환의 가족뮤지컬 〈정글북〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15865&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15865&amp;order=1"/>
+        <updated>2025-04-04T08:24:51.647Z</updated>
+        <content type="html"><![CDATA[2025-04-10(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원] SUPER! 수요콘서트 6월 [유다빈밴드x한로로] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15864&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15864&amp;order=1"/>
+        <updated>2025-04-04T08:24:51.648Z</updated>
+        <content type="html"><![CDATA[2025-04-10(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비지정석] 뮤지컬 헝키쇼 (HUNKY SHOW) 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15863&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15856&amp;order=1"/>
         <updated>2025-04-04T03:36:01.106Z</updated>
         <content type="html"><![CDATA[2025-04-09(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY 공식팬클럽 MIDZY 4기 추가 모집 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15855&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15855&amp;order=1"/>
-        <updated>2025-04-04T03:36:01.107Z</updated>
-        <content type="html"><![CDATA[2025-04-04(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이스 오브 햄릿 (The Voice of Hamlet) 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15854&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15854&amp;order=1"/>
-        <updated>2025-04-04T03:36:01.109Z</updated>
-        <content type="html"><![CDATA[2025-04-09(수) 14:00]]></content>
     </entry>
 </feed>
