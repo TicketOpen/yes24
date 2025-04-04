@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-04-04T04:23:32.221Z</updated>
+    <updated>2025-04-04T05:20:26.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [소란스러운 나의 서림에서] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15861</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15861"/>
+        <updated>2025-04-04T05:19:12.264Z</updated>
+        <content type="html"><![CDATA[2025.04.11(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[용인] 가족뮤지컬 [고고다이노 - 해양구조대] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15859</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15859"/>
         <updated>2025-04-04T02:59:52.174Z</updated>
         <content type="html"><![CDATA[2025.04.08(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈조선 이야기꾼 전기수〉추가 티켓 오픈공지]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15858</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15858"/>
+        <updated>2025-04-04T05:19:12.274Z</updated>
+        <content type="html"><![CDATA[2025.04.09(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 가족뮤지컬 [꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동] 티켓오픈 안내]]></title>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15840"/>
         <updated>2025-04-01T01:41:32.477Z</updated>
         <content type="html"><![CDATA[2025.04.03(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매DAY6 3RD WORLD TOUR〈FOREVER YOUNG〉FINALE in SEOUL 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15839</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15839"/>
-        <updated>2025-03-31T08:26:25.608Z</updated>
-        <content type="html"><![CDATA[2025.04.14(월) 20:00<a class="noti-btn-pop" presaletit1="1차 팬클럽 선예매" presaletit2="2차 팬클럽 선예매" presaletime1="2025.04.10(목) 20:00" presaletime2="2025.04.11(금) 20:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노엘(NO:EL) 단독 콘서트 〈No.1 : El Arte〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15838</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15838"/>
-        <updated>2025-03-31T09:21:05.655Z</updated>
-        <content type="html"><![CDATA[2025.04.17(목) 18:00]]></content>
     </entry>
 </feed>

@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-04-04T04:23:32.246Z</updated>
+    <updated>2025-04-04T05:20:26.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [소란스러운 나의 서림에서] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15861&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15861&amp;order=1"/>
+        <updated>2025-04-04T05:19:23.581Z</updated>
+        <content type="html"><![CDATA[2025-04-11(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[용인] 가족뮤지컬 [고고다이노 - 해양구조대] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15859&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15859&amp;order=1"/>
         <updated>2025-04-04T03:36:01.097Z</updated>
         <content type="html"><![CDATA[2025-04-08(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈조선 이야기꾼 전기수〉추가 티켓 오픈공지]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15858&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15858&amp;order=1"/>
+        <updated>2025-04-04T05:19:23.586Z</updated>
+        <content type="html"><![CDATA[2025-04-09(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 가족뮤지컬 [꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동] 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15851&amp;order=1"/>
         <updated>2025-04-04T03:36:01.116Z</updated>
         <content type="html"><![CDATA[2025-04-07(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2025 유키 구라모토 콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15850&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15850&amp;order=1"/>
-        <updated>2025-04-04T03:36:01.118Z</updated>
-        <content type="html"><![CDATA[2025-04-10(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베어 더 뮤지컬 (bare the musical) 프리뷰 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15849&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15849&amp;order=1"/>
-        <updated>2025-04-04T03:36:01.119Z</updated>
-        <content type="html"><![CDATA[2025-04-09(수) 11:00]]></content>
     </entry>
 </feed>
