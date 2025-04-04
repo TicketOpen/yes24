@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-04-04T05:20:26.231Z</updated>
+    <updated>2025-04-04T06:27:54.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[비지정석] 뮤지컬 헝키쇼 (HUNKY SHOW) 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15863</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15863"/>
+        <updated>2025-04-04T06:26:42.946Z</updated>
+        <content type="html"><![CDATA[2025.04.07(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈프라이드〉 : 연극열전10_다섯 번째 작품 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15862</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15862"/>
+        <updated>2025-04-04T06:26:42.948Z</updated>
+        <content type="html"><![CDATA[2025.04.11(금) 16:00<a class="noti-btn-pop" presaletit1="연애인 프리미엄 선예매" presaletit2="" presaletime1="2025.04.11(금) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [소란스러운 나의 서림에서] 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15861</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15861"/>
         <updated>2025-04-04T05:19:12.264Z</updated>
         <content type="html"><![CDATA[2025.04.11(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매2025 YEON HEE FANMEETING [連] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15860</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15860"/>
+        <updated>2025-04-04T06:26:42.950Z</updated>
+        <content type="html"><![CDATA[2025.04.11(금) 19:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2025.04.09(수) 19:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[용인] 가족뮤지컬 [고고다이노 - 해양구조대] 티켓오픈 안내]]></title>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15844"/>
         <updated>2025-04-01T05:19:00.099Z</updated>
         <content type="html"><![CDATA[2025.04.08(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Magic, 조수미 & 위너스 - 전주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15842</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15842"/>
-        <updated>2025-04-01T05:19:00.101Z</updated>
-        <content type="html"><![CDATA[2025.04.04(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알라딘> 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15841</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15841"/>
-        <updated>2025-04-01T03:12:19.337Z</updated>
-        <content type="html"><![CDATA[2025.04.10(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬〈백설공주〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15840</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15840"/>
-        <updated>2025-04-01T01:41:32.477Z</updated>
-        <content type="html"><![CDATA[2025.04.03(목) 10:00]]></content>
     </entry>
 </feed>
