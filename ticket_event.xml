@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 14:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 15:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토스페이 2025]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3756</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3756</guid>
+            <pubDate>Sun, 06 Apr 2025 15:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.07 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202504/20250402/20250402-752c5d29-8fbc-49d5-8c7a-476ee877d121.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 [소란스러운 나의 서림에서] 기대평 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=53090&amp;Tab=3</link>
@@ -40,22 +48,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250324/20250324-5255ff16-9a62-465c-8f1e-555571572a55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [나의연애코치] 기대평 이벤트]]></title>
-            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=53256&amp;Tab=3</link>
-            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=53256&amp;Tab=3</guid>
-            <pubDate>Tue, 25 Mar 2025 01:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.25 ~ 2025.04.06 | 2025.04.07 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250324/20250324-c0f8b28c-ab59-4f3b-8203-e42f95114670.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시, 페스티벌의 계절]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3749</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3749</guid>
-            <pubDate>Fri, 21 Mar 2025 02:58:44 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.21 ~ 2025.04.06]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250321/20250321-11a125dc-415c-4dfa-abf8-31d4aaa28281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <우리 노래방 가서… 얘기 좀 할까> 관람 후기 이벤트]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=52866&amp;Tab=2</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=52866&amp;Tab=2</guid>
@@ -78,6 +70,14 @@
             <pubDate>Tue, 04 Mar 2025 02:54:58 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.04 ~ 2025.06.22 | 2025.06.23 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250304/20250304-640db936-ffae-4668-8be3-dc279fe8480e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 청년문화예술패스]]></title>
+            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3740</link>
+            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3740</guid>
+            <pubDate>Sun, 06 Apr 2025 15:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.05 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250305/20250305-5e85b675-1e7c-4e9e-b3bb-9437f1c6ac9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

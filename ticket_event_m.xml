@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 14:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 15:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트 기간2025.04.07 ~ 2025.12.31]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3756</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3756</guid>
+            <pubDate>Sun, 06 Apr 2025 15:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202504/20250402/20250402-752c5d29-8fbc-49d5-8c7a-476ee877d121.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이벤트 기간2025.03.27 ~ 2025.04.07]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=53090</link>
@@ -38,22 +46,6 @@
             <pubDate>Sun, 06 Apr 2025 01:37:11 GMT</pubDate>
             <content:encoded><![CDATA[<em>경품</em>전 배우 사인 프로그램북]]></content:encoded>
             <enclosure url="https://tkfile.yes24.com/upload2/Event/202503/20250324/20250324-5255ff16-9a62-465c-8f1e-555571572a55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2025.03.25 ~ 2025.04.06]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=53256</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/ExpectationList.aspx?IdPerf=53256</guid>
-            <pubDate>Sun, 06 Apr 2025 01:37:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>초대</em>2025년 4월11일 저녁 7시30분]]></content:encoded>
-            <enclosure url="https://tkfile.yes24.com/upload2/Event/202503/20250324/20250324-c0f8b28c-ab59-4f3b-8203-e42f95114670.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤트 기간2025.03.21 ~ 2025.04.06]]></title>
-            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3749</link>
-            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3749</guid>
-            <pubDate>Sun, 06 Apr 2025 01:37:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>당첨자 발표</em>]]></content:encoded>
-            <enclosure url="https://tkfile.yes24.com/upload2/Event/202503/20250321/20250321-11a125dc-415c-4dfa-abf8-31d4aaa28281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2025.03.22 ~ 2025.05.11]]></title>
