@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-04-07T03:04:56.676Z</updated>
+    <updated>2025-04-07T04:24:09.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 가족버블쇼 [매직키즈버블쇼] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15867&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15867&amp;order=1"/>
+        <updated>2025-04-07T04:23:08.517Z</updated>
+        <content type="html"><![CDATA[2025-04-10(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 PARK BO YOUNG FANMEETING - written BY. 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15866&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15866&amp;order=1"/>
+        <updated>2025-04-07T04:23:08.517Z</updated>
+        <content type="html"><![CDATA[2025-04-23(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송승환의 가족뮤지컬 〈정글북〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15865&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15858&amp;order=1"/>
         <updated>2025-04-04T05:19:23.586Z</updated>
         <content type="html"><![CDATA[2025-04-09(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 가족뮤지컬 [꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15857&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15857&amp;order=1"/>
-        <updated>2025-04-04T03:36:01.106Z</updated>
-        <content type="html"><![CDATA[2025-04-09(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 가족뮤지컬 [꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15856&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15856&amp;order=1"/>
-        <updated>2025-04-04T03:36:01.106Z</updated>
-        <content type="html"><![CDATA[2025-04-09(수) 10:00]]></content>
     </entry>
 </feed>
