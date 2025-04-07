@@ -4,9 +4,17 @@
         <title>YES24 티켓 ─ 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 01:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 03:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <보이스 오브 햄릿> 기대평 이벤트]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=53402&amp;Tab=3</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=53402&amp;Tab=3</guid>
+            <pubDate>Mon, 07 Apr 2025 03:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.07 ~ 2025.04.30 | 2025.05.02 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202504/20250407/20250407-e3c6e342-b2de-4296-8ba2-9e31eee835ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토스페이 2025]]></title>
             <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3756</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 04 Mar 2025 02:54:58 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.04 ~ 2025.06.22 | 2025.06.23 발표]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250304/20250304-640db936-ffae-4668-8be3-dc279fe8480e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 청년문화예술패스]]></title>
-            <link>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3740</link>
-            <guid>http://ticket.yes24.com/pages/events/HotEvent/PromotionInfo.aspx?id=3740</guid>
-            <pubDate>Sun, 06 Apr 2025 15:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250305/20250305-5e85b675-1e7c-4e9e-b3bb-9437f1c6ac9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
