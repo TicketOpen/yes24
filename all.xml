@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 08:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 09:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,14 @@
             <content:encoded><![CDATA[2025-04-11(금) 11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 [라흐 헤스트]의 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
+            <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=52551&amp;Tab=2</link>
+            <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=52551&amp;Tab=2</guid>
+            <pubDate>Mon, 07 Apr 2025 09:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.07 ~ 2025.04.20 | 2025.04.21 발표]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/Event/202504/20250407/20250407-6a5fd8e3-0533-4a2b-ab8f-9183de85549d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <보이스 오브 햄릿> 기대평 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
             <link>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=53402&amp;Tab=3</link>
             <guid>http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=53402&amp;Tab=3</guid>
@@ -282,12 +290,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250307/20250307-5aa65177-e71d-4315-badc-6d48c335126c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <알라딘> 한국 초연 서울 후기 이벤트 (YES24 티켓 ─ 이벤트)]]></title>
-            <link>http://ticket.yes24.com/Perf/50841</link>
-            <guid>http://ticket.yes24.com/Perf/50841</guid>
-            <pubDate>Tue, 04 Mar 2025 02:54:58 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.04 ~ 2025.06.22 | 2025.06.23 발표]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/Event/202503/20250304/20250304-640db936-ffae-4668-8be3-dc279fe8480e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이벤트 기간2025.04.07 ~ 2025.04.20 (YES24 티켓 ─ 이벤트 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=52551</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/ReviewList.aspx?IdPerf=52551</guid>
+            <pubDate>Mon, 07 Apr 2025 09:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>초대</em>2025년 4월 23일 (수) 4시 공연]]></content:encoded>
+            <enclosure url="https://tkfile.yes24.com/upload2/Event/202504/20250407/20250407-6a5fd8e3-0533-4a2b-ab8f-9183de85549d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이벤트 기간2025.04.07 ~ 2025.04.30 (YES24 티켓 ─ 이벤트 모바일)]]></title>
