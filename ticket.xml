@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-04-08T03:01:09.588Z</updated>
+    <updated>2025-04-08T03:38:13.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 무경계 컨템퍼러리 Sync Next 25 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15871</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15871"/>
+        <updated>2025-04-08T03:37:15.682Z</updated>
+        <content type="html"><![CDATA[2025.04.28(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 김창완밴드 콘서트 비지정석 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15870</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15852"/>
         <updated>2025-04-03T01:24:17.213Z</updated>
         <content type="html"><![CDATA[2025.04.09(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [라푼젤] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15851</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15851"/>
-        <updated>2025-04-03T01:24:17.215Z</updated>
-        <content type="html"><![CDATA[2025.04.07(월) 10:00]]></content>
     </entry>
 </feed>
