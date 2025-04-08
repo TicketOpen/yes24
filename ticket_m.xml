@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-04-08T01:25:40.485Z</updated>
+    <updated>2025-04-08T03:01:09.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 무경계 컨템퍼러리 Sync Next 25 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15871&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15871&amp;order=1"/>
+        <updated>2025-04-08T03:00:11.000Z</updated>
+        <content type="html"><![CDATA[2025-04-28(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 김창완밴드 콘서트 비지정석 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15870&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15862&amp;order=1"/>
         <updated>2025-04-04T06:26:54.742Z</updated>
         <content type="html"><![CDATA[2025-04-11(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [소란스러운 나의 서림에서] 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15861&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15861&amp;order=1"/>
-        <updated>2025-04-04T05:19:23.581Z</updated>
-        <content type="html"><![CDATA[2025-04-11(금) 11:00]]></content>
     </entry>
 </feed>
