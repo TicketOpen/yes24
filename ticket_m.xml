@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-04-08T23:18:49.588Z</updated>
+    <updated>2025-04-09T01:27:41.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[북에서 온 스타들 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15874&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15874&amp;order=1"/>
+        <updated>2025-04-09T01:26:44.430Z</updated>
+        <content type="html"><![CDATA[2025-04-10(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코믹 추리 락 뮤지컬 [탐정케이：수인마을 전설] 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15873&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15865&amp;order=1"/>
         <updated>2025-04-04T08:24:51.647Z</updated>
         <content type="html"><![CDATA[2025-04-10(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] SUPER! 수요콘서트 6월 [유다빈밴드x한로로] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15864&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15864&amp;order=1"/>
-        <updated>2025-04-04T08:24:51.648Z</updated>
-        <content type="html"><![CDATA[2025-04-10(목) 14:00]]></content>
     </entry>
 </feed>
