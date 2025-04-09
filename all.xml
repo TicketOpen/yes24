@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 05:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 06:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15876</guid>
             <pubDate>Wed, 09 Apr 2025 03:01:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.17(목) 12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [와일드 그레이] 1차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15875</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15875</guid>
+            <pubDate>Wed, 09 Apr 2025 06:28:20 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.15(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매북에서 온 스타들 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -141,18 +148,18 @@
             <content:encoded><![CDATA[2025.04.09(수) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[울산] 가족뮤지컬 [꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15856</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15856</guid>
-            <pubDate>Fri, 04 Apr 2025 02:59:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.09(수) 10:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[부천] 2025 빅3 ＂행복한만남＂ [강진,김용임,진성] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15876&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15876&amp;order=1</guid>
             <pubDate>Wed, 09 Apr 2025 03:01:45 GMT</pubDate>
             <content:encoded><![CDATA[2025-04-17(목) 12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [와일드 그레이] 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15875&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15875&amp;order=1</guid>
+            <pubDate>Wed, 09 Apr 2025 06:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-15(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북에서 온 스타들 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -209,13 +216,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15867&amp;order=1</guid>
             <pubDate>Mon, 07 Apr 2025 04:23:08 GMT</pubDate>
             <content:encoded><![CDATA[2025-04-10(목) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 PARK BO YOUNG FANMEETING - written BY. 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15866&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15866&amp;order=1</guid>
-            <pubDate>Mon, 07 Apr 2025 04:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025-04-23(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[넵프라이즈티켓 (YES24 티켓 ─ 이벤트)]]></title>
